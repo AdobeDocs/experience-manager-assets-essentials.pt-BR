@@ -2,10 +2,10 @@
 title: Comece a usar [!DNL Assets Essentials]
 description: Como acessar, fazer logon e casos de uso suportados e problemas conhecidos de [!DNL Assets Essentials].
 role: Business Practitioner, Leader
-source-git-commit: 825297959b19361260121949c99ede37dced9a9c
+source-git-commit: 4a7fe369485db5cae843694c68f84133c9118337
 workflow-type: tm+mt
-source-wordcount: '441'
-ht-degree: 2%
+source-wordcount: '451'
+ht-degree: 1%
 
 ---
 
@@ -23,7 +23,7 @@ Para usar [!DNL Assets Essentials], faça logon em [https://experience.adobe.com
 
 Além disso, mais informações de referência que podem ser úteis são [noções básicas da interface do usuário](/help/navigate-view.md), [lista de casos de uso](#use-cases), <!-- TBD: [supported file types](/help/supported-file-formats.md), --> e [problemas conhecidos](/help/release-notes.md#known-issues).
 
-## Receba acesso a [!DNL Assets Essentials] {#get-access}
+## Receber acesso a [!DNL Assets Essentials] {#get-access}
 
 O Adobe fornece a solução e adiciona a pessoa designada de sua organização como administrador. Os administradores podem fornecer acesso a vários usuários da organização usando [[!DNL Admin Console]](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/welcome.ug.html). Para solicitações relacionadas ao seu acesso, entre em contato com o administrador da organização.
 
@@ -49,7 +49,7 @@ When logging in, after providing the credentials, you can be prompted to select 
 ![Select an account to login](assets/do-not-localize/login-experience.gif)
 -->
 
-## [!DNL Assets Essentials] casos de uso  {#use-cases}
+## [!DNL Assets Essentials] casos de uso {#use-cases}
 
 As várias tarefas de gerenciamento de ativos digitais (DAM) que você pode realizar usando [!DNL Assets Essentials] estão abaixo.
 
@@ -69,13 +69,16 @@ As várias tarefas de gerenciamento de ativos digitais (DAM) que você pode real
 | How do I collaborate with others and get my assets reviewed | <ul> <li>Share for review</li> <li>Provide comments. Resolve and filter comments</li> <li>Annotations on images</li> <li>Assign tasks to specific users and prioritize</li> </ul> |
 -->
 
-## ![ícone ](assets/do-not-localize/feedback-icon.png) de feedbackFornecer feedback sobre o produto  {#provide-feedback}
+## ![ícone ](assets/do-not-localize/feedback-icon.png) de feedbackFornecer feedback sobre o produto {#provide-feedback}
 
 A Adobe agradece o feedback sobre a solução. Para fornecer feedback sem nem mesmo alternar seu aplicativo de trabalho, use a opção [!UICONTROL Feedback] na interface do usuário. Também permite anexar arquivos, como capturas de tela ou gravação de vídeo de um problema.
 
 ![opção de feedback na interface](assets/feedback-panel.png)
 
-Para fornecer feedback para a documentação, clique em Editar esta página ![editar a página](assets/do-not-localize/edit-page.png) ou Registrar um problema ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) a partir da margem direita. Faça as atualizações de conteúdo e envie uma solicitação de pull do GitHub ou crie um problema ou tíquete no GitHub.
+Para fornecer feedback para a documentação, clique em [!UICONTROL Edit this page] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Log an issue] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) na barra lateral direita. Você pode executar um dos seguintes procedimentos:
+
+* Faça as atualizações de conteúdo e envie uma solicitação de pull do GitHub.
+* Crie um problema ou tíquete no GitHub. Mantenha o nome do artigo preenchido automaticamente ao criar um problema.
 
 >[!MORELIKETHIS]
 >
