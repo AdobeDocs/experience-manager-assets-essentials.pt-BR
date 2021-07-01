@@ -2,9 +2,9 @@
 title: Fazer upload de ativos no repositório
 description: Faça upload de ativos para [!DNL Assets Essentials], exiba os status de upload e resolva os problemas de upload.
 role: Business Practitioner
-source-git-commit: 3389908e3ba085362b48a18cd3c106e658484a96
+source-git-commit: e54cdf9b8ecb5d9ddc5b90a3ca82549c61b35074
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,10 @@ Depois que todos os arquivos estiverem na fila, clique em **[!UICONTROL Upload]*
 
 *Figura: Antes de fazer upload dos ativos selecionados, é possível adicionar ou remover ativos da fila.*
 
+>[!CAUTION]
+>
+>Use ativos que não têm espaço em branco nos nomes de arquivos. As respostas aos comentários não funcionam para esses ativos.
+
 ## Exibir o progresso e o status do upload {#upload-progress}
 
 Ao fazer upload de muitos ativos ou pastas aninhadas para [!DNL Assets Essentials], alguns ativos podem falhar ao fazer upload por vários motivos, como problemas duplicados de ativos e de rede.
@@ -44,13 +48,13 @@ Para exibir um subconjunto de ativos com base no progresso ou status do upload, 
 
 *Figura: Filtre os ativos que você tentou fazer upload com base no status de upload ou no progresso do upload.*
 
-Imediatamente após o upload dos ativos, a Assets Essentials processa os ativos para gerar miniaturas e processar metadados. Para muitos ativos, o processamento leva algum tempo. Se não vir uma miniatura e vir uma mensagem de processamento na miniatura do espaço reservado, verifique a pasta novamente após alguns minutos.
+Imediatamente após o upload dos ativos, [!DNL Assets Essentials] processa os ativos para gerar miniaturas e processar metadados. Para muitos ativos, o processamento leva algum tempo. Se não vir uma miniatura e vir uma mensagem de processamento na miniatura do espaço reservado, verifique a pasta novamente após alguns minutos.
 
 ![Processamento ao carregar](assets/upload-processing.png)
 
 ## Representações de ativos {#renditions}
 
-O Assets Essentials processa os ativos carregados em tempo quase real e, para muitos tipos de arquivos compatíveis, gera representações. Criadas para imagens, as representações são versões redimensionadas da imagem carregada. Você pode baixar não apenas o ativo, mas também as representações para usar uma versão apropriada. Você pode exibir todas as representações de um ativo ao [visualizar um ativo](/help/navigate-view.md#preview-assets).
+[!DNL Assets Essentials] processa os ativos carregados em tempo quase real e, para muitos tipos de arquivos compatíveis, gera representações. Criadas para imagens, as representações são versões redimensionadas da imagem carregada. Você pode baixar não apenas o ativo, mas também as representações para usar uma versão apropriada. Você pode exibir todas as representações de um ativo ao [visualizar um ativo](/help/navigate-view.md#preview-assets).
 
 ![Representações](assets/renditions-view-download.png)
 
