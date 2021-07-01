@@ -3,7 +3,7 @@ title: Notas de versão
 description: Notas de versão e problemas conhecidos de [!DNL Assets Essentials]
 role: Business Practitioner,Leader,Administrator,Architect,Developer
 contentOwner: AG
-source-git-commit: a52db0574483d3c17643a2c35c95be67c6608602
+source-git-commit: e54cdf9b8ecb5d9ddc5b90a3ca82549c61b35074
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 2%
@@ -27,5 +27,9 @@ Para saber mais sobre a solução, consulte a [introdução a [!DNL Assets Essen
 ## Problemas conhecidos {#known-issues}
 
 No momento, não há problemas conhecidos com [!DNL Assets Essentials].
+
+<!--
+* Use assets that do not have whitespace in the file names. The replies to comments do not work for such assets.
+-->
 
 Se você encontrar problemas ou até mesmo solicitações de aprimoramento, [forneça feedback](#provide-feedback) para a equipe.
