@@ -2,9 +2,9 @@
 title: Implantar e gerenciar usuários
 description: Casos de uso da administração, como implantação e gerenciamento de usuários em [!DNL Assets Essentials].
 role: Administrator
-source-git-commit: 6e482854e7cec3d8bc2fed786a2c6a685b3f8eed
+source-git-commit: a9dfa9cc9e971faf24e5275c843fb1d0247d18c9
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '855'
 ht-degree: 2%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Implante [!DNL Assets Essentials] e adicione usuários {#administer}
 
-[!DNL Adobe Experience Manager Assets Essentials] é provisionada pela Adobe para seus clientes. Como parte do provisionamento, [!DNL Assets Essentials] é adicionado à organização de um cliente (Adobe Org). O cliente também tem acesso a [!DNL Experience Manager Cloud Manager] como uma ferramenta de implantação e a [!DNL Admin Console] como uma ferramenta de gerenciamento de usuários.
+[!DNL Adobe Experience Manager Assets Essentials] é provisionada pela Adobe para seus clientes. Como parte do provisionamento, [!DNL Assets Essentials] é adicionado à organização de um cliente em [!DNL Adobe Admin Console]. Os clientes também têm acesso a [!DNL Experience Manager Cloud Manager] como uma ferramenta de implantação e a [!DNL Admin Console] para gerenciar os direitos do usuário para a solução [!DNL Assets Essentials].
 
 Os administradores executam as seguintes tarefas:
 
@@ -22,9 +22,7 @@ Os administradores executam as seguintes tarefas:
 
 ## Implantar [!DNL Assets Essentials] {#deploy-essentials}
 
-Após o provisionamento, o direito [!DNL Assets Essentials] é adicionado à sua Organização do Adobe e o administrador de uma organização o implanta. Os administradores da organização fazem uma implantação única usando a interface do usuário [!DNL Cloud Manager]. Após a implantação inicial, o Adobe faz a manutenção e as atualizações do serviço. Para implantar, siga estas etapas:
-
-1. Certifique-se de que o administrador receba um email do Adobe. O email contém uma mensagem de boas-vindas e um link para começar.
+Após o provisionamento, o direito [!DNL Assets Essentials] é adicionado à organização em [!DNL Admin Console]. Antes que a solução esteja disponível para o usuário, um administrador da organização deve implantá-la. O administrador faz uma implantação única usando a interface do usuário [!DNL Cloud Manager]. Após a implantação inicial, o Adobe faz a manutenção e as atualizações do serviço. Depois que a solução for provisionada, o administrador receberá um email do Adobe. O email contém uma mensagem de boas-vindas e um link para começar. Para implantar, siga estas etapas:
 
 1. No link do email, acesse e faça logon em [Admin Console](https://adminconsole.adobe.com). Se você tiver acesso de administrador a mais de uma conta da organização, selecione a organização apropriada ou alterne para ela usando o alternador na barra superior. A placa de produto para [!DNL Assets Essentials] está visível no [!DNL Admin Console].
 
@@ -32,7 +30,7 @@ Após o provisionamento, o direito [!DNL Assets Essentials] é adicionado à sua
 
    *Figura:  [!DNL Assets Essentials] cartão em  [!DNL Admin Console].*
 
-1. Adicione-se como administrador ao produto `AEM Assets Essentials - Cloud Manager` no [!DNL Cloud Manager]. Você pode adicionar outro membro de sua organização ou adicionar mais de um administrador.
+1. Adicione-se como administrador ao perfil de produto `AEM Assets Essentials - Cloud Manager` no [!DNL Admin Console]. Você pode adicionar outro membro de sua organização ou adicionar mais de um administrador.
 
 1. Clique em ![adicionar ícone](assets/do-not-localize/add-icon.svg) a [!UICONTROL Select product profiles] e selecione [!UICONTROL Deployment Manager - Assets Essentials] como o **[!UICONTROL product profile]**. O usuário adicionado nesta etapa recebe um email do Adobe com acesso a [!DNL Cloud Manager] e pode fazer a implantação.
 
@@ -40,7 +38,7 @@ Após o provisionamento, o direito [!DNL Assets Essentials] é adicionado à sua
 
    *Figura: Adicione um administrador e selecione um perfil de produto em  [!DNL Admin Console].*
 
-1. Para acessar [!DNL Cloud Manager], clique no link no email com acesso a [!DNL Cloud Manager]. Como alternativa, acesse `https://experience.adobe.com/#/cloud-manager/` em seu navegador.
+1. Para acessar [!DNL Cloud Manager], clique no link no email com acesso a [!DNL Cloud Manager]. Como alternativa, acesse [https://experience.adobe.com/#/cloud-manager/](https://experience.adobe.com/#/cloud-manager/) em seu navegador.
 
 1. Na interface do usuário do Cloud Manager, clique em **[!UICONTROL Add Program]** no canto superior direito.
 
@@ -54,7 +52,7 @@ Após o provisionamento, o direito [!DNL Assets Essentials] é adicionado à sua
 
    *Figura: Adicione um ambiente em  [!DNL Cloud Manager] para começar a usar o  [!DNL Assets Essentials].*
 
-1. Quando o ambiente é criado com êxito, você pode acessar o [!DNL Admin Console] e adicionar os usuários de sua organização à solução [!DNL Assets Essentials]. Clique no ícone ![opções](assets/do-not-localize/options-ellipses-icon.png) e selecione a opção **[!UICONTROL Manage Access]**.
+1. Após vários minutos, quando o ambiente for criado com êxito, você poderá acessar o [!DNL Admin Console] e adicionar os usuários de sua organização à solução [!DNL Assets Essentials]. Clique no ícone ![opções](assets/do-not-localize/options-ellipses-icon.png) e selecione a opção **[!UICONTROL Manage Access]**.
 
    ![Ambiente pronto em  [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
 
