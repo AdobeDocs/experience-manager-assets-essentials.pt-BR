@@ -2,9 +2,9 @@
 title: Introdução à [!DNL Assets Essentials]
 description: Visão geral e resumo da solução da Assets Essentials
 role: Business Practitioner,Leader
-source-git-commit: e54cdf9b8ecb5d9ddc5b90a3ca82549c61b35074
+source-git-commit: a9dfa9cc9e971faf24e5275c843fb1d0247d18c9
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -17,16 +17,18 @@ ht-degree: 0%
 
 O Adobe oferece uma solução robusta de Gerenciamento de ativos digitais (DAM) para você aproveitar ao máximo seus ativos digitais. Como parte da linha de produtos Adobe Experience Manager, a Adobe está oferecendo uma nova solução SaaS para armazenar, gerenciar e descobrir ativos digitais, que também se integram nativamente a outras soluções de Adobe.
 
-[!DNL Experience Manager Assets Essentials] é uma edição nova e leve do  [!DNL Adobe Experience Manager Assets]. [!DNL Assets Essentials] forneça gerenciamento e colaboração unificados de ativos com uma interface do usuário simplificada e consistente. A facilidade de uso permite que equipes mais criativas e de marketing armazenem, descubram e distribuam ativos digitais.
+[!DNL Experience Manager Assets Essentials] é uma edição nova e leve do  [!DNL Adobe Experience Manager Assets]. [!DNL Assets Essentials] forneça gerenciamento e colaboração unificados de ativos com uma interface do usuário simplificada e consistente. A facilidade de uso permite que equipes mais criativas e de marketing armazenem, descubram e distribuam ativos digitais. Atualmente, [!DNL Assets Essentials] está disponível para [[!DNL Adobe Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) como parte da última solução.
 
-[!DNL Assets Essentials] foi lançado em Adobe Summit. Leia mais sobre o anúncio neste post do blog [apresentando [!DNL Assets Essentials]](https://blog.adobe.com/en/publish/2021/04/27/introducing-adobe-experience-manager-assets-essentials-to-simplify-collaboration-across-teams.html).
+[!DNL Assets Essentials] O se concentra em interface simples e pesquisa e detecção eficientes de ativos digitais, para garantir a utilização dos ativos, a governança e a consistência da marca em todas as equipes. A experiência do usuário final pode ser obtida por meio de uma interface de usuário da Web independente e uma experiência incorporada em outras soluções do Adobe.
 
-A solução se concentra na interface simples e na pesquisa e detecção eficientes de ativos digitais, para garantir a utilização dos ativos, o controle e a consistência da marca em todas as equipes. A experiência do usuário final pode ser obtida por meio de uma interface de usuário da Web independente e uma experiência incorporada em outras soluções do Adobe.
+Para administradores, ele oferece uma configuração e administração mais simples que levam a um tempo de implantação mais rápido. Os administradores obtêm acesso imediato à solução e podem trabalhar com funcionalidade familiar e direitos do usuário em [!DNL Adobe Admin Console]. Os administradores precisam realizar uma etapa de implantação única e fácil de usar para disponibilizar a solução aos usuários. Consulte [implantar e administrar](/help/deploy-administer.md).
 
-Para administração, requer uma configuração e administração mais simples, ou seja, tem um tempo alto para valorizar. Os administradores obtêm acesso imediato à solução e podem trabalhar com funcionalidade familiar e direitos do usuário em [!DNL Adobe Admin Console].
-
-O gerenciamento de ativos digitais com [!DNL Assets Essentials] é tão simples quanto as 3 etapas a seguir. Consulte [começar a usar [!DNL Assets Essentials]](/help/get-started.md).
+Para usuários, o gerenciamento de ativos digitais com [!DNL Assets Essentials] é tão simples quanto as 3 etapas a seguir. Consulte [começar a usar [!DNL Assets Essentials]](/help/get-started.md).
 
 * **Etapa 1**: Faça upload e exiba ativos.
 * **Etapa 2**: Pesquise e baixe os ativos necessários.
 * **Etapa 3**: Gerencie e organize os ativos.
+
+>[!MORELIKETHIS]
+>
+>* [[!DNL Assets Essentials] postagem do blogue de lançamento](https://blog.adobe.com/en/publish/2021/04/27/introducing-adobe-experience-manager-assets-essentials-to-simplify-collaboration-across-teams.html)
