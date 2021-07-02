@@ -2,9 +2,9 @@
 title: Fazer upload de ativos no repositório
 description: Faça upload de ativos para [!DNL Assets Essentials], exiba os status de upload e resolva os problemas de upload.
 role: Business Practitioner
-source-git-commit: e54cdf9b8ecb5d9ddc5b90a3ca82549c61b35074
+source-git-commit: 6e482854e7cec3d8bc2fed786a2c6a685b3f8eed
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '729'
 ht-degree: 0%
 
 ---
@@ -48,15 +48,19 @@ Para exibir um subconjunto de ativos com base no progresso ou status do upload, 
 
 *Figura: Filtre os ativos que você tentou fazer upload com base no status de upload ou no progresso do upload.*
 
-Imediatamente após o upload dos ativos, [!DNL Assets Essentials] processa os ativos para gerar miniaturas e processar metadados. Para muitos ativos, o processamento leva algum tempo. Se não vir uma miniatura e vir uma mensagem de processamento na miniatura do espaço reservado, verifique a pasta novamente após alguns minutos.
+Imediatamente após o upload dos ativos, [!DNL Assets Essentials] processa os ativos para gerar miniaturas e processar metadados. Para muitos ativos, o processamento leva algum tempo. Se não vir uma miniatura e vir uma mensagem de processamento na miniatura do espaço reservado, verifique a pasta novamente após alguns minutos. Durante o processamento, entre outras coisas, [!DNL Assets Essentials] gera as renderizações, adiciona tags inteligentes e indexa os detalhes do ativo para pesquisa.
 
-![Processamento ao carregar](assets/upload-processing.png)
+![Os ativos são processos após o upload e o bloco exibe o processamento](assets/upload-processing.png)
+
+*Figura: Os ativos carregados exibem o processamento no bloco que são processados.*
 
 ## Representações de ativos {#renditions}
 
 [!DNL Assets Essentials] processa os ativos carregados em tempo quase real e, para muitos tipos de arquivos compatíveis, gera representações. Criadas para imagens, as representações são versões redimensionadas da imagem carregada. Você pode baixar não apenas o ativo, mas também as representações para usar uma versão apropriada. Você pode exibir todas as representações de um ativo ao [visualizar um ativo](/help/navigate-view.md#preview-assets).
 
 ![Representações](assets/renditions-view-download.png)
+
+*Figura: Exiba e baixe as representações.*
 
 ## Gerenciar uploads com falha {#resolve-upload-fails}
 
@@ -87,5 +91,7 @@ Os usuários podem excluir ativos ou pastas individuais que não são mais neces
 * Use a opção disponível na miniatura de um ativo ou de uma pasta.
 
    ![Opções na miniatura de ativos para gerenciar um ativo](assets/options-on-thumbnail.png)
+
+   *Figura: As ações para arquivos e pastas estão disponíveis no ativo ou no bloco de pastas.*
 
 * Selecione um ativo ou uma pasta e clique em **[!UICONTROL Delete]** ![excluir ícone](assets/do-not-localize/delete-icon.png) na barra de ferramentas.
