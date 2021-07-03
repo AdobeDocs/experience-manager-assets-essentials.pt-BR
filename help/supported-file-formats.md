@@ -3,7 +3,7 @@ title: Formatos de arquivo não suportados
 description: Formatos de arquivo suportados para os vários casos de uso de [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: a1dc66213f602bce5b5a2ec0ba99084c7f7b1ee1
+source-git-commit: e791ef4ffdfdad907b5e868b3f3eab0c597ae4cd
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 26%
@@ -35,15 +35,15 @@ Os vários tipos de arquivos têm diferentes graus de suporte para os casos de u
 -->
 
 | Tipo de ativo | Procurar | Copiar | Imagem | Criar | Excluir | Detalhes | Zoom da imagem | Visualizado recentemente |
-|---------------|----------|------|----------|----------|----------|----------|------------|-----------------|
-| Imagens rasteiras | Instantâneo |  | Instantâneo | - | Instantâneo | Instantâneo | Instantâneo | Instantâneo |
-| Pastas | Instantâneo |  | Instantâneo | Instantâneo | Instantâneo | Instantâneo | - | - |
-| Vídeos | Instantâneo |  | Instantâneo | - | Instantâneo | * | - | Instantâneo |
-| Bibliotecas CC | Instantâneo |  | Instantâneo | Instantâneo | Instantâneo | Instantâneo | - | - |
-| PDF | Instantâneo |  | Instantâneo | - | Instantâneo | Instantâneo | - | Instantâneo |
-| PSD | Instantâneo |  | Instantâneo | - | Instantâneo | * | - | Instantâneo |
-| AI | Instantâneo |  | Instantâneo | - | Instantâneo | * | - | Instantâneo |
-| INDD | Instantâneo |  | Instantâneo | - | Instantâneo | * | - | Instantâneo |
+|---------------|----------|----------|----------|----------|----------|----------|------------|-----------------|
+| Imagens rasteiras | Instantâneo | Instantâneo | Instantâneo | - | Instantâneo | Instantâneo | Instantâneo | Instantâneo |
+| Pastas | Instantâneo | Instantâneo | Instantâneo | Instantâneo | Instantâneo | Instantâneo | - | - |
+| Vídeos | Instantâneo | Instantâneo | Instantâneo | - | Instantâneo | * | - | Instantâneo |
+| Bibliotecas CC | Instantâneo | - | Instantâneo | Instantâneo | Instantâneo | Instantâneo | - | - |
+| PDF | Instantâneo | Instantâneo | Instantâneo | - | Instantâneo | Instantâneo | - | Instantâneo |
+| PSD | Instantâneo | Instantâneo | Instantâneo | - | Instantâneo | * | - | Instantâneo |
+| AI | Instantâneo | Instantâneo | Instantâneo | - | Instantâneo | * | - | Instantâneo |
+| INDD | Instantâneo | Instantâneo | Instantâneo | - | Instantâneo | * | - | Instantâneo |
 
 ## Pesquisar, usar e editar ativos {#support-to-search-use-edit}
 
