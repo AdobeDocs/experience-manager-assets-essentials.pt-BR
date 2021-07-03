@@ -1,8 +1,8 @@
 ---
 title: Editar imagens
 description: Edite imagens usando as opções ativadas  [!DNL Adobe Photoshop Express] e salve as imagens atualizadas como versões.
-role: Business Practitioner
-source-git-commit: b3fea5209fb29409b3aae5970fa30505f8b5c22c
+role: User
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
