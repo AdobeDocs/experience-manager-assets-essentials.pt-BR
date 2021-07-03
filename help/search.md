@@ -1,8 +1,8 @@
 ---
 title: Pesquisar e descobrir ativos em [!DNL Assets Essentials]
 description: Pesquise e descubra ativos em [!DNL Assets Essentials].
-role: Business Practitioner
-source-git-commit: 3389908e3ba085362b48a18cd3c106e658484a96
+role: User
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '386'
 ht-degree: 1%
