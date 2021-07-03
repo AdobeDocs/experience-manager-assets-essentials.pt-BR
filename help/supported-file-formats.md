@@ -1,12 +1,12 @@
 ---
 title: Formatos de arquivo não suportados
 description: Formatos de arquivo suportados para os vários casos de uso de [!DNL Assets Essentials]
-role: Business Practitioner,Leader,Administrator,Architect,Developer
+role: User,Leader,Administrator,Architect,Developer
 contentOwner: AG
-source-git-commit: 42d85b0d1a1c2e1ac3c3dac4b0c151a7aa3af8b9
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 23%
+source-wordcount: '196'
+ht-degree: 26%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 23%
 Os vários tipos de arquivos têm diferentes graus de suporte para os casos de uso e recursos, conforme descrito abaixo. Use a legenda para entender o nível de suporte.
 
 | Nível de suporte | Descrição |
-| :-----------: | ------------------------------ |
+|---------------|-------------------------|
 | Instantâneo | Compatível |
 | * | Suportado condicionalmente |
 | - | Não aplicável |
@@ -31,67 +31,70 @@ Os vários tipos de arquivos têm diferentes graus de suporte para os casos de u
 
 ## Adicionar, carregar e exibir ativos {#support-to-upload-view}
 
+<!-- TBD: For AEM, AI files require the PDF option to be selected when saving the AI file.
+-->
+
 | Tipo de ativo | Procurar | Copiar | Imagem | Criar | Excluir | Detalhes | Zoom da imagem | Visualizado recentemente |
-|---|---|---|---|---|---|---|---|---|
-| Imagens rasteiras |  |  |  |  |  |  |  |  |
-| Pastas |  |  |  |  |  |  |  |  |
-| Vídeos |  |  |  |  |  |  |  |  |
-| Bibliotecas CC |  |  |  |  |  |  |  |  |
-| Arquivos PDF |  |  |  |  |  |  |  |  |
-| PSD |  |  |  |  |  |  |  |  |
-| AI |  |  |  |  |  |  |  |  |
-| INDD |  |  |  |  |  |  |  |  |
+|---------------|----------|------|----------|----------|----------|----------|------------|-----------------|
+| Imagens rasteiras | Instantâneo |  | Instantâneo | - | Instantâneo | Instantâneo | Instantâneo | Instantâneo |
+| Pastas | Instantâneo |  | Instantâneo | Instantâneo | Instantâneo | Instantâneo | - | - |
+| Vídeos | Instantâneo |  | Instantâneo | - | Instantâneo | * | - | Instantâneo |
+| Bibliotecas CC | Instantâneo |  | Instantâneo | Instantâneo | Instantâneo | Instantâneo | - | - |
+| PDF | Instantâneo |  | Instantâneo | - | Instantâneo | Instantâneo | - | Instantâneo |
+| PSD | Instantâneo |  | Instantâneo | - | Instantâneo | * | - | Instantâneo |
+| AI | Instantâneo |  | Instantâneo | - | Instantâneo | * | - | Instantâneo |
+| INDD | Instantâneo |  | Instantâneo | - | Instantâneo | * | - | Instantâneo |
 
 ## Pesquisar, usar e editar ativos {#support-to-search-use-edit}
 
 | Tipo de ativo | Download | Arrastar e soltar | Editor de imagens | Pesquisar   | Tags inteligentes | Renomeie | Versões |
-| --- | ---  | --- | --- | --- | --- | --- | --- |
-| Imagens rasteiras |  |  |  |  |  |  |  |
-| Pastas |  |  |  |  |  |  |  |
-| Vídeos |  |  |  |  |  |  |  |
-| Bibliotecas CC |  |  |  |  |  |  |  |
-| Arquivos PDF |  |  |  |  |  |  |  |
-| PSD |  |  |  |  |  |  |  |
-| AI |  |  |  |  |  |  |  |
-| INDD |  |  |  |  |  |  |  |
+|---------------|----------|---------------|--------------|----------|------------|----------|----------|
+| Imagens rasteiras | Instantâneo | Instantâneo | Instantâneo | Instantâneo | Instantâneo | Instantâneo | Instantâneo |
+| Pastas | Instantâneo | Instantâneo | - | Instantâneo | - | Instantâneo | - |
+| Vídeos | Instantâneo | Instantâneo | - | Instantâneo | Instantâneo | Instantâneo | - |
+| Bibliotecas CC | - | - | - | - | - | Instantâneo | - |
+| PDF | Instantâneo | Instantâneo | - | Instantâneo | Instantâneo | Instantâneo | - |
+| PSD | Instantâneo | Instantâneo | - | Instantâneo | Instantâneo | Instantâneo | - |
+| AI | Instantâneo | Instantâneo | - | Instantâneo | Instantâneo | Instantâneo | - |
+| INDD | Instantâneo | Instantâneo | - | Instantâneo | Instantâneo | Instantâneo | - |
 
 ## Revisar ativos e colaborar {#support-to-review-collaborate}
 
 | Tipo de ativo | Anotar | Comentário | Criar tarefas e revisar |
-| --- | --- | --- | --- |
-| Imagens rasteiras |  |  |  |
-| Pastas |  |  |  |  |
-| Vídeos |  |  |  |  |
-| Bibliotecas CC |  |  |  |  |
-| Arquivos PDF |  |  |  |  |
-| PSD |  |  |  |  |
-| AI |  |  |  |  |
-| INDD |  |  |  |  |
+|---------------|----------|----------|-------------------------|
+| Imagens rasteiras | Instantâneo | Instantâneo | Instantâneo |
+| Pastas | - | - | - |
+| Vídeos | - | Instantâneo | Instantâneo |
+| Bibliotecas CC | - | - | - |
+| PDF | - | Instantâneo | Instantâneo |
+| PSD | - | Instantâneo | Instantâneo |
+| AI | - | Instantâneo | Instantâneo |
+| INDD | - | Instantâneo | Instantâneo |
 
-## Outras tarefas de gerenciamento de ativos {#support-to-manage-assets}
+## Outras tarefas de gestão de ativos {#support-to-manage-assets}
 
-| Tipo de ativo | Metadados | Representações | Lixeira | Copiar | Mover |
-| --- | --- | --- | --- | --- | --- |
-| Imagens rasteiras |  |  |  |  |  |
-| Pastas |  |  |  |  |  |  |
-| Vídeos |  |  |  |  |  |  |
-| Bibliotecas CC |  |  |  |  |  |  |
-| Arquivos PDF |  |  |  |  |  |  |
-| PSD |  |  |  |  |  |  |
-| AI |  |  |  |  |  |  |
-| INDD |  |  |  |  |  |  |
+| Tipo de ativo | Metadados | Representações | Lixeira | Copiar | Mover | [!DNL Adobe Asset Link] check-in |
+|---------------|----------|------------|----------|----------|----------|----------------------------------|
+| Imagens rasteiras | * | Instantâneo | Instantâneo | Instantâneo | Instantâneo | Instantâneo |
+| Pastas | * | - | Instantâneo | Instantâneo | Instantâneo | - |
+| Vídeos | * | - | Instantâneo | Instantâneo | Instantâneo | - |
+| Bibliotecas CC | * | - | - | - | - | - |
+| PDF | * | - | Instantâneo | Instantâneo | Instantâneo | - |
+| PSD | * | - | Instantâneo | Instantâneo | Instantâneo | - |
+| AI | * | - | Instantâneo | Instantâneo | Instantâneo | - |
+| INDD | * | - | Instantâneo | Instantâneo | Instantâneo | - |
 
 <!-- TBD: Saving template table separately.
-| Asset type | Features |
-|---|---|
-| Raster images |  |
-| Folders | |
-| Videos | |
-| CC Libraries | |
-| PDF files | |
-| PSD | |
-| AI | |
-| INDD | |
+| Asset type    | Features |
+|---------------|----------|
+| Raster images |          |
+| Folders       |          |
+| Videos        |          |
+| CC Libraries  |          |
+| PDF files     |          |
+| PSD           |          |
+| AI            |          |
+| INDD          |          |
 
 >[!MORELIKETHIS]
 >
