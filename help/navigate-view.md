@@ -1,8 +1,8 @@
 ---
 title: '[!DNL Assets Essentials] interface do usuário'
 description: Entenda a interface do usuário de e navegação em [!DNL Assets Essentials].
-role: Business Practitioner
-source-git-commit: 3389908e3ba085362b48a18cd3c106e658484a96
+role: User
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '534'
 ht-degree: 0%
@@ -10,7 +10,7 @@ ht-degree: 0%
 ---
 
 
-# Navegue até arquivos e pastas e exiba ativos {#view-assets-and-details}
+# Navegar até arquivos e pastas e exibir ativos {#view-assets-and-details}
 
 <!-- TBD: Give screenshots of all views with many assets. Zoom out to showcase how the thumbnails/tiles flow on the UI in different views. -->
 
