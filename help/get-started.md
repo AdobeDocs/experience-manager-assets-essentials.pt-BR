@@ -1,8 +1,8 @@
 ---
 title: Comece a usar [!DNL Assets Essentials]
 description: Como acessar, fazer logon e casos de uso suportados e problemas conhecidos de [!DNL Assets Essentials].
-role: Business Practitioner, Leader
-source-git-commit: 4a7fe369485db5cae843694c68f84133c9118337
+role: User, Leader
+source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
 workflow-type: tm+mt
 source-wordcount: '451'
 ht-degree: 1%
