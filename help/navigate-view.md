@@ -2,9 +2,9 @@
 title: '[!DNL Assets Essentials] interface do usuário'
 description: Entenda a interface do usuário de e navegação em [!DNL Assets Essentials].
 role: User
-source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
+source-git-commit: 6c050d55aadeffa59c989f5b8ff6fe67da0d4d86
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '509'
 ht-degree: 0%
 
 ---
@@ -40,11 +40,15 @@ Ao fazer logon em [!DNL Assets Essentials], você verá a seguinte interface.
 
 ## Procurar e exibir ativos e pastas {#browse-repository}
 
-Você pode navegar até os arquivos ou pastas necessários da interface do usuário principal ou da barra lateral esquerda. Ao navegar, você pode usar a interface para exibir miniaturas de ativos para navegar visualmente pelo repositório ou exibir detalhes do ativo para encontrar rapidamente o ativo que deseja. As opções disponíveis na barra lateral esquerda são:
+Você pode navegar pelas pastas da interface do usuário principal ou da barra lateral esquerda. Ao navegar, você pode usar a interface para exibir miniaturas de ativos para navegar visualmente pelo repositório ou exibir detalhes do ativo para encontrar rapidamente o ativo que deseja. As opções disponíveis na barra lateral esquerda são:
 
-* **Ativos**: Lista de todas as pastas e ativos em uma visualização em árvore, às quais você tem acesso.
-* **Visualizados** recentemente: Lista de ativos que você visualizou recentemente. [!DNL Assets Essentials] exibe somente os ativos que você visualiza. Ela não exibe aqui os ativos que você percorre ao navegar pelos arquivos ou pastas do repositório.
-* **Bibliotecas**: Acesso à exibição Bibliotecas  [!DNL Adobe Creative Cloud Team] (CCT). Essa exibição é visível somente se o usuário tiver direito a Bibliotecas da CCT.
+* **Ativos**: Lista de todas as pastas em uma exibição em árvore, à qual você tem acesso.
+* **Visualizados** recentemente: Lista de ativos que você visualizou recentemente. [!DNL Assets Essentials] exibe somente os ativos que você visualiza. Ele não exibe os ativos que você percorre ao navegar pelos arquivos ou pastas do repositório.
+* **Lixeira**:
+
+<!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
+* **Libraries**: Access to [!DNL Adobe Creative Cloud Team] (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.
+-->
 
 <!-- TBD: My Work Space shows task inbox and it is not visible on AEM Cloud Demos as of now. It is the source of truth server hence not documenting My Work Space option for now.
 -->
