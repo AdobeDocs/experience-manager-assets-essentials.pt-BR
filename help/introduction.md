@@ -2,9 +2,9 @@
 title: Introdução à [!DNL Assets Essentials]
 description: Visão geral e resumo da solução da Assets Essentials
 role: User,Leader
-source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
+source-git-commit: 6c050d55aadeffa59c989f5b8ff6fe67da0d4d86
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Para administradores, ele oferece uma configuração e administração mais simp
 Para usuários, o gerenciamento de ativos digitais com [!DNL Assets Essentials] é tão simples quanto as 3 etapas a seguir. Consulte [começar a usar [!DNL Assets Essentials]](/help/get-started.md).
 
 * **Etapa 1**: Faça upload e exiba ativos.
-* **Etapa 2**: Pesquise e baixe os ativos necessários.
+* **Etapa 2**: Pesquisar e baixar ativos.
 * **Etapa 3**: Gerencie e organize os ativos.
 
 >[!MORELIKETHIS]
