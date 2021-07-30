@@ -3,10 +3,10 @@ title: Notas de versão
 description: Notas de versão e problemas conhecidos de [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: a1dc66213f602bce5b5a2ec0ba99084c7f7b1ee1
+source-git-commit: fd95cf87ae8e5449471cd580405b228c32ede264
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 2%
+source-wordcount: '275'
+ht-degree: 1%
 
 ---
 
@@ -24,9 +24,19 @@ Atualmente, [!DNL Assets Essentials] está disponível para [[!DNL Journey Optim
 
 Para saber mais sobre a solução, consulte a [introdução a [!DNL Assets Essentials]](introduction.md). Para começar a usar os recursos, consulte [começar](/help/get-started.md).
 
+## Versão atual {#release-notes-current}
+
+A versão atual do Assets Essentials é 2021.7.0, lançada em 29 de julho de 2021, com as seguintes atualizações:
+
+* Você pode criar e gerenciar formulários de metadados personalizados a serem usados para exibir propriedades de metadados aos usuários na tela de detalhes do ativo na opção [!UICONTROL Metadata Forms] em [!DNL Settings].
+* Várias correções de erros e aprimoramentos de produtos, incluindo melhor desempenho ao fazer upload de uma pasta aninhada com muitas subpastas.
+
 ## Problemas conhecidos {#known-issues}
 
-No momento, não há problemas conhecidos com [!DNL Assets Essentials].
+A lista de problemas conhecidos da oferta [!DNL Assets Essentials] é revisada e atualizada continuamente:
+
+* Para fazer upload de uma pasta ou ativos, ao arrastar os itens para uma pasta com subpastas no repositório, o upload vai para uma das subpastas automaticamente. A solução é clicar na opção [!DNL Upload assets] e arrastar para a caixa de diálogo. <!-- CQ-4327753 -->
+* Após o upload da pasta, novas pastas podem, às vezes, ser exibidas incorretamente no painel à esquerda, em vez de na visualização em árvore. A solução alternativa é atualizar o navegador. <!-- CQ-4323534 -->
 
 <!--
 * Use assets that do not have whitespace in the file names. The replies to comments do not work for such assets.
