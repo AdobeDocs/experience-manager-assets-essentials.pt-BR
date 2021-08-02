@@ -2,9 +2,9 @@
 title: Comece a usar [!DNL Assets Essentials]
 description: Como acessar, fazer logon e casos de uso suportados e problemas conhecidos de [!DNL Assets Essentials].
 role: User, Leader
-source-git-commit: 6c050d55aadeffa59c989f5b8ff6fe67da0d4d86
+source-git-commit: 135832e18bdf7ae66f29638cf548088a83daee8d
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '462'
 ht-degree: 1%
 
 ---
@@ -57,10 +57,11 @@ As várias tarefas de gerenciamento de ativos digitais (DAM) que você pode real
 |-----|------|
 | Como adiciono um ativo? | <ul> <li> [Fazer upload de ativos](/help/add-delete.md) </li> <li> [Representações](/help/add-delete.md#renditions) </li> </ul> |
 | Como faço para atualizar ativos ou informações relacionadas? | <ul> <li>Alterar um ativo existente</li> <li>[Criar ](/help/manage-organize.md#create-versions) versões e versões de  [visualização](/help/manage-organize.md#view-versions)</li> <li>[Editar imagens](/help/edit-images.md)</li> </ul> |
-| Como descobrir ativos? | <ul> <li>[Procurar repositório](/help/navigate-view.md#view-assets-and-details) </li> <li> [Visualizar ](/help/navigate-view.md#preview-assets) ativos e  [baixar ativos](/help/manage-organize.md#download) </li> <li>[Exibir metadados detalhados](/help/metadata.md) </li> <li>[Pesquisar ativos](/help/search.md)</li></ul> |
+| Como descobrir ativos? | <ul> <li>[Procurar repositório](/help/navigate-view.md#view-assets-and-details) </li> <li> [Visualizar ](/help/navigate-view.md#preview-assets) ativos e  [baixar ativos](/help/manage-organize.md#download) </li> <li>[Pesquisar ativos](/help/search.md)</li></ul> |
 | Como editar ativos no repositório? | <ul> <li>[Edições no navegador usando o Adobe Photoshop Express](/help/edit-images.md)</li> <li>[Recortar para um perfil de mídia social](/help/edit-images.md#crop-straighten-images)</li> <li>[Exibir e gerenciar versões](/help/manage-organize.md#view-versions)</li> <li>Use [Adobe Asset Link](/help/integration.md#integrations)</ul></ul> |
 | Como faço para procurar ativos no repositório? | <ul> <li>[Pesquisar em uma pasta específica](/help/search.md#refine-search-results)</li> <li>[Pesquisas salvas](/help/search.md#saved-search)</li> <li>[Pesquisar ativos exibidos recentemente](/help/search.md)</li> <li>[Pesquisa de texto completo](/help/search.md) |
 | Como adiciono novos ativos? | <ul> <li>[Fazer upload de novos ativos e pastas](/help/add-delete.md#add-assets)</li> <li>[Monitorar o progresso do upload e gerenciar uploads](/help/add-delete.md#upload-progress)</li> <li>[Resolver duplicatas](/help/add-delete.md#resolve-upload-fails)</li> </ul> |
+| Operações de metadados | <ul> <li>[Exibir metadados detalhados](/help/metadata.md) </li> <li> [Criar novo formulário de metadados](/help/metadata.md#metadata-forms) </li> </ul> |
 | O [!DNL Assets Essentials] pode se integrar a outras soluções? | <ul> <li>[Usar o Seletor de ativos em [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link] para [!DNL Creative Cloud]](/help/integration.md)</li> <li>Integração com [!DNL Creative Cloud Team] bibliotecas</li> </ul> |
 
 <!--TBD: Merge in above table when these use cases are documented/available.
