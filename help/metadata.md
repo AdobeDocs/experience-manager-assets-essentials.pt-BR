@@ -3,9 +3,9 @@ title: Gerenciar metadados
 description: Gerenciar metadados de ativos em [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: a1dc66213f602bce5b5a2ec0ba99084c7f7b1ee1
+source-git-commit: a176769247bcafcc0497f2480cdec86c5753f218
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '931'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,49 @@ Tags inteligentes também contêm uma pontuação de confiança como uma porcent
 Você pode adicionar mais tags aos seus ativos, além das Tags inteligentes que são adicionadas automaticamente usando o serviço inteligente [!DNL Adobe Sensei]. Abra um ativo para visualização, clique em [!UICONTROL Tags] e digite as palavras-chave desejadas no campo [!UICONTROL Keywords]. Para adicionar a tag , pressione Return. [!DNL Assets Essentials] indexa a palavra-chave em tempo quase real e sua equipe poderá pesquisar os ativos atualizados em breve usando as novas palavras-chave.
 
 Você também pode remover tags da seção [!UICONTROL Smart Tags] que são adicionadas automaticamente por [!DNL Assets Essentials] a todos os ativos carregados.
+
+## Formulários de metadados {#metadata-forms}
+
+O Assets Essentials fornece vários campos de metadados padrão por padrão. As organizações têm necessidades adicionais de metadados e precisam de mais campos de metadados para adicionar metadados específicos de negócios. Os formulários de metadados permitem que as empresas adicionem campos de metadados personalizados à página [!UICONTROL Details] de um ativo. Os metadados específicos de negócios melhoram a governança e a descoberta de seus ativos.
+
+Você pode configurar formulários de metadados para diferentes tipos de ativos (diferentes tipos MIME). Use o mesmo nome de formulário do tipo MIME do arquivo. O Essentials corresponde automaticamente os ativos carregados ao nome do formulário. Por exemplo, se um formulário de metadados pelo nome `PDF` ou `pdf` existir, os documentos PDF carregados conterão campos de metadados, conforme definido no formulário. É possível criar formulários do zero ou redefinir a finalidade de um formulário existente.
+
+>[!IMPORTANT]
+>
+>O novo formulário de metadados para um tipo de arquivo específico substitui completamente o formulário de metadados padrão fornecido por [!DNL Assets Essentials]. Se você excluir ou renomear um formulário de metadados, os campos de metadados padrão estarão disponíveis novamente para novos ativos.
+
+Para criar um formulário de metadados, siga estas etapas:
+
+1. No painel à esquerda, clique em **[!UICONTROL Settings]** > **[!UICONTROL Metadata Forms]**.
+
+   ![opção de formulários de metadados na barra lateral esquerda](assets/metadata-forms-sidebar.png)
+
+1. Clique em **[!UICONTROL Create]**, na área superior direita da interface do usuário.
+1. Forneça um nome para o formulário e clique em **[!UICONTROL Create]**.
+1. Forneça um nome para a guia em **[!UICONTROL Settings]** no painel direito.
+1. No **[!UICONTROL Components]** disponível no painel à esquerda, arraste os componentes necessários em uma guia do formulário. Arraste os componentes na sequência desejada.
+
+   ![opção de formulários de metadados na barra lateral esquerda](assets/metadata-form-new.png)
+
+   *Figura: A interface de criação do formulário de metadados com opções para adicionar componentes e opções para visualizar o formulário.*
+
+1. Para cada componente, no , forneça um nome no **[!UICONTROL Settings]** no painel direito, forneça um mapeamento com as propriedades compatíveis.
+1. Como opção, para um componente, selecione **[!UICONTROL Required]** para tornar o campo de metadados obrigatório e selecione **[!UICONTROL Read-Only]** para tornar o campo não editável na página de ativo [!UICONTROL Details].
+1. Como opção, clique em **[!UICONTROL Preview]** para visualizar o formulário que está sendo criado.
+1. Como opção, adicione mais guias e os componentes necessários em cada guia.
+1. Clique em **[!UICONTROL Save]** quando o formulário estiver concluído.
+
+Depois que um formulário é criado, ele é aplicado automaticamente quando os usuários carregam um ativo do tipo MIME correspondente.
+
+Para reutilizar um formulário existente para criar um novo formulário, selecione um formulário de metadados, clique em **[!UICONTROL Copy]** na barra de ferramentas, forneça um nome e clique em **[!UICONTROL Confirm]**. É possível editar um formulário de metadados para alterá-lo. Quando você altera um formulário, ele é usado para ativos carregados após a alteração. Não altera os ativos existentes.
+
+<!-- TBD: Cannot create a form using the second option. Documenting only the first option for now.
+To reuse an existing form to create a new form, do one of these:
+
+* Select a metadata form and click **[!UICONTROL Copy]** from the toolbar, provide a name, and click **[!UICONTROL Confirm]**.
+
+* Click **[!UICONTROL Create]**, select **[!UICONTROL Use existing form structure as template]** option, and select an existing form. 
+-->
 
 <!-- TBD: Queries for PM and engg.
 
