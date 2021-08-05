@@ -3,9 +3,9 @@ title: Gerenciar seus ativos digitais
 description: Mova, exclua, copie, renomeie, atualize e faça a versão de seus ativos em [!DNL Assets Essentials].
 role: User,Leader
 contentOwner: AG
-source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
+source-git-commit: 9bff6e8570ca05f60844cfd84ef3e695e07ae27b
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '598'
 ht-degree: 0%
 
 ---
@@ -25,14 +25,11 @@ Use [!DNL Assets Essentials] para realizar as seguintes tarefas de gerenciamento
 * ![ícone de detalhes ](assets/do-not-localize/edit-in-icon.png) Clique em para visualizar um ativo e visualizar os metadados detalhados. Ao visualizar, você pode exibir as versões e editar uma imagem.
 * ![ícone ](assets/do-not-localize/download-icon.png) de downloadBaixe o ativo selecionado no seu sistema de arquivos local.
 * ![ícone excluir ](assets/do-not-localize/delete-icon.png) Excluir o ativo ou a pasta selecionada.
-* 
-
-   <!-- ![checkout icon](assets/do-not-localize/checkout-icon.png) --> Checkout an asset.
+* Fazer check-out de um ativo. <!-- ![checkout icon](assets/do-not-localize/checkout-icon.png) -->
 * ![ícone copiar ](assets/do-not-localize/copy-icon.png) Copie o arquivo ou a pasta selecionada.
 * ![ícone mover ](assets/do-not-localize/move-icon.png) o ativo ou a pasta selecionada para um local diferente na hierarquia do repositório.
 * ![ícone ](assets/do-not-localize/rename-icon.png) renomearRenomeie o ativo ou a pasta selecionada. Use um nome exclusivo, caso contrário, a renomeação falhará com um aviso. Você pode tentar novamente com um novo nome.
-* 
-   <!-- ![assign task icon](assets/do-not-localize/assign-task-icon.png) --> Assign tasks to other users to collaborate on an asset.
+* Atribuir tarefas a outros usuários para colaborar em um ativo. <!-- ![assign task icon](assets/do-not-localize/assign-task-icon.png) -->
 
 É possível exibir as mesmas opções nas miniaturas de ativos.
 
