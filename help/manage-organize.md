@@ -3,7 +3,7 @@ title: Gerenciar seus ativos digitais
 description: Mova, exclua, copie, renomeie, atualize e faça a versão de seus ativos em [!DNL Assets Essentials].
 role: User,Leader
 contentOwner: AG
-source-git-commit: 3f8ba14c702fb3ee0df61aa503c9064c33f94794
+source-git-commit: eda2ba0d271310d0e87f904dc7622583a80d002e
 workflow-type: tm+mt
 source-wordcount: '604'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Use [!DNL Assets Essentials] para realizar as seguintes tarefas de gerenciamento
 
 ## Baixar e distribuir ativos {#download}
 
-Você pode selecionar um ou mais ativos ou pastas ou uma combinação dos dois e baixar a seleção para o sistema de arquivos local. Você pode editar os ativos e fazer upload novamente ou distribuir os ativos fora de [!DNL Assets Essentials]. Você também pode [baixar as representações](/help/add-delete.md#renditions) de um ativo.
+Você pode selecionar um ou mais ativos ou pastas ou uma combinação dos dois e baixar a seleção para o sistema de arquivos local. Você pode editar os ativos e fazer upload novamente ou distribuir os ativos fora de [!DNL Assets Essentials]. Além disso, você pode [baixar as representações](/help/add-delete.md#renditions) de um ativo.
 
 ## Controle de versão de ativos {#versions-of-assets}
 
