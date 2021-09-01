@@ -3,9 +3,9 @@ title: Notas de versão
 description: Notas de versão e problemas conhecidos de [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: eda2ba0d271310d0e87f904dc7622583a80d002e
+source-git-commit: 574ac781fc5c5dfdba0640b1032a50268947875d
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '301'
 ht-degree: 1%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Notas de versão de [!DNL Assets Essentials] {#release-notes}
 
-A versão atual de [!DNL Assets Essentials] foi lançada em 30 de agosto de 2021. Ele fornece integrações com [!DNL Adobe Workfront] que permite que [!DNL Workfront] os usuários gerenciem seus ativos digitais no contexto do gerenciamento de seu trabalho. Consulte [integrações com outras soluções Adobe](/help/integration.md).
+A versão atual de [!DNL Assets Essentials] foi lançada em 30 de agosto de 2021. Ele fornece integrações com [!DNL Adobe Workfront] que permite que [!DNL Workfront] os usuários gerenciem seus ativos digitais no contexto do gerenciamento de seu trabalho. Para obter mais informações, consulte [integrações com outras soluções do Adobe](/help/integration.md).
 
 Para saber mais sobre a solução, consulte a [introdução a [!DNL Assets Essentials]](introduction.md). Para começar a usar os recursos, consulte [começar](/help/get-started.md).
 
@@ -46,4 +46,4 @@ A primeira versão do [!DNL Assets Essentials], disponibilizada em 21 de junho d
 * Faça upload e adicione ativos, incluindo pastas aninhadas. Visualize os ativos e as versões.
 * Pesquisa de texto completo, filtros de pesquisa aprimorados e pesquisas salvas para detecção rápida de ativos.
 * Operações básicas de gerenciamento de ativos como atualizar, excluir, baixar e gerenciar metadados.
-* [!DNL Assets Essentials] está disponível para  [[!DNL Adobe Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html).
+* [!DNL Assets Essentials] O está disponível para  [!DNL Adobe Journey Optimizer] os usuários gerenciarem os ativos ao criar mensagens. Para obter mais informações, consulte [integrações com outras soluções do Adobe](/help/integration.md).

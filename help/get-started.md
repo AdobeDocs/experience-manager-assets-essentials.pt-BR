@@ -2,9 +2,9 @@
 title: Comece a usar [!DNL Assets Essentials]
 description: Como acessar, fazer logon e casos de uso suportados e problemas conhecidos de [!DNL Assets Essentials].
 role: User, Leader
-source-git-commit: eda2ba0d271310d0e87f904dc7622583a80d002e
+source-git-commit: 574ac781fc5c5dfdba0640b1032a50268947875d
 workflow-type: tm+mt
-source-wordcount: '447'
+source-wordcount: '448'
 ht-degree: 2%
 
 ---
@@ -74,7 +74,7 @@ As várias tarefas de gerenciamento de ativos digitais (DAM) que você pode real
 
 ## ![ícone ](assets/do-not-localize/feedback-icon.png) de feedbackFornecer feedback sobre o produto {#provide-feedback}
 
-A Adobe agradece o feedback sobre a solução. Para fornecer feedback sem nem mesmo alternar seu aplicativo de trabalho, use a opção [!UICONTROL Feedback] na interface do usuário. Também permite anexar arquivos, como capturas de tela ou gravação de vídeo de um problema.
+A Adobe agradece o feedback sobre a solução. Para fornecer feedback sem nem mesmo alternar seu aplicativo de trabalho, use a opção [!UICONTROL Feedback] na interface do usuário. Ele também permite anexar arquivos, como capturas de tela ou gravação de vídeo de um problema.
 
 ![opção de feedback na interface](assets/feedback-panel.png)
 
