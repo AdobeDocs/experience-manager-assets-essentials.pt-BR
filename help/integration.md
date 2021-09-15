@@ -2,13 +2,13 @@
 title: Integração com outras soluções do Adobe
 description: '[!DNL Assets Essentials] O integra-se com outras soluções do Adobe e fornece uma experiência incorporada do aplicativo nativo.'
 role: User
-source-git-commit: 574ac781fc5c5dfdba0640b1032a50268947875d
+exl-id: bc43a59e-f295-44d2-a14d-854174f91e41
+source-git-commit: f2c6ea9d31cc6eccf46216b52de254ca88ba1079
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 2%
+source-wordcount: '284'
+ht-degree: 3%
 
 ---
-
 
 # Integração com outras soluções do Adobe {#integrations}
 
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 A experiência [!DNL Assets Essentials] incorporada pode se integrar com as seguintes soluções:
 
-* **[!DNL Creative Cloud for Enterprise]**:  [Os ](https://www.adobe.com/br/creativecloud/business/enterprise/adobe-asset-link.html) panellets criativos do Adobe Asset Link no aplicativo se conectam ao  [!DNL Assets Essentials] repositório nos aplicativos de  [!DNL Adobe Creative Cloud] desktop compatíveis. O painel está disponível para [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign] e [!DNL Adobe XD]. Ele simplifica o acesso a ativos que, por sua vez, aumenta a velocidade do conteúdo. Consulte [gerenciar ativos usando [!DNL Adobe Asset Link]](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/manage-assets-using-adobe-asset-link.ug.html).
+* **[!DNL Creative Cloud for Enterprise]**:  [Os ](https://www.adobe.com/br/creativecloud/business/enterprise/adobe-asset-link.html) panellets criativos do Adobe Asset Link no aplicativo se conectam ao  [!DNL Assets Essentials] repositório nos aplicativos de  [!DNL Adobe Creative Cloud] desktop compatíveis. O painel está disponível para [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign] e [!DNL Adobe XD]. Ele simplifica o acesso a ativos que, por sua vez, aumenta a velocidade do conteúdo. Consulte [gerenciar ativos usando [!DNL Adobe Asset Link]](https://helpx.adobe.com/br/enterprise/using/manage-assets-using-adobe-asset-link.html).
 
 * **[!DNL Adobe Journey Optimizer]**:  [[!DNL Adobe Journey Optimizer]](https://business.adobe.com/products/journey-optimizer/adobe-journey-optimizer.html) O simplifica o gerenciamento de jornadas para que os clientes forneçam campanhas omnicanais com informações e decisões inteligentes. Ao projetar mensagens usando [!DNL Journey Optimizer], você pode acessar o repositório [!DNL Assets Essentials] diretamente da interface [!DNL Journey Optimizer]. Os usuários obtêm acesso aos ativos usando a interface de usuário incorporada de [!DNL Assets Essentials]. Consulte [usando [!DNL Assets Essentials] artigo de ajuda](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html) ou [tutorial em vídeo para criar conteúdo de email](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html).
 
