@@ -1,8 +1,8 @@
 ---
-source-git-commit: 0dd6f278a75668c3ceafa2ad8d9d232bcecd56ba
+source-git-commit: 15070ea99308741242b43206ed69cf1dbddca890
 workflow-type: tm+mt
 source-wordcount: '719'
-ht-degree: 53%
+ht-degree: 50%
 
 ---
 # Diretrizes para contribuir para a documentação de [!DNL Adobe Experience Manager]
@@ -37,9 +37,9 @@ As exceções a essa regra se aplicam às notas de versão, onde os problemas co
 
 Quaisquer ideias que você precisar melhorar a documentação [!DNL Experience Manager] são bem-vindas como contribuições. No entanto, comentários, problemas e pull requests destinam-se somente a *contribuições*, Eles não se destinam a ser usados para responder suas perguntas sobre como usar [!DNL Experience Manager], implementar seu projeto [!DNL Experience Manager] ou resolver problemas técnicos.
 
-Qualquer dúvida sobre o uso de [!DNL Experience Manager] ou erros técnicos que você possa ter deve ser relatada por meio do processo de suporte normal por meio do [[!DNL Experience Cloud] portal de suporte](https://experienceleague.adobe.com/?support-solution=Experience+Manager#support) ou discutida na [comunidade do Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
+Qualquer dúvida sobre o uso de [!DNL Experience Manager] ou erros técnicos que você possa ter deve ser relatada por meio do processo de suporte normal por meio do [[!DNL Experience Manager] portal de suporte](https://experienceleague.adobe.com/?support-solution=Experience+Manager#support) ou discutida na [comunidade do Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
 
-***[!DNL Experience Manager]As contribuições à documentação do não substituem o Atendimento ao cliente da Adobe***. Logo, quaisquer contribuições que buscarem respostas a perguntas relacionadas a suporte serão rejeitadas.
+***[!DNL Experience Manager]as contribuições de documentação não são uma substituição do*** Suporte ao cliente do Adobe, e quaisquer contribuições que buscam respostas para perguntas relacionadas ao suporte serão rejeitadas.
 
 ### As contribuições devem mencionar claramente as páginas pertinentes à documentação.
 
