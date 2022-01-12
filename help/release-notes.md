@@ -4,9 +4,9 @@ description: Notas de versão e problemas conhecidos de [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 0c849c92562f9102819aaea627f5945030b27a1e
+source-git-commit: 01814dace83fec64851d7ccf97a0f4bb22519ee3
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '364'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Para saber mais sobre a solução, consulte o [introdução ao [!DNL Assets Esse
 
 A lista de problemas conhecidos de [!DNL Assets Essentials] A oferta é revista e atualizada continuamente:
 
-* Os ativos individuais não podem ser carregados na pasta superior (Ativos), somente em qualquer subpasta no sistema. <!-- CQ-4337638 -->
+* Nenhum
 
 Se você encontrar problemas ou até solicitações de aprimoramento, [fornecer feedback](#provide-feedback) à equipe.
 
