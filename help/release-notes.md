@@ -4,22 +4,26 @@ description: Notas de versão e problemas conhecidos de [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 01814dace83fec64851d7ccf97a0f4bb22519ee3
+source-git-commit: 73d5e66cfb2315f730329b5db9e6e648c1fe017d
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '420'
 ht-degree: 1%
 
 ---
 
 # Notas de versão de [!DNL Assets Essentials] {#release-notes}
 
-A versão atual do [!DNL Assets Essentials] foi lançado em 16 de dezembro de 2021. Com esta versão:
+A versão atual do [!DNL Assets Essentials] foi lançado em 27 de janeiro de 2022. Com esta versão:
 
-* O Adobe implanta o Assets Essentials automaticamente após concluir o processo de provisionamento. Os administradores não precisam executar etapas adicionais para implantar o Assets Essentials usando [!DNL Cloud Manager] interface do usuário. Essa implantação automática estará disponível para ambientes provisionados após 6 de janeiro de 2022.
-* Novas versões de plug-ins do Creative Cloud que funcionam com o Assets Essentials estão disponíveis no Adobe Exchange - [Adobe Asset Link para Adobe XD v 2.1.0](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/61d229b9) e [Adobe Asset Link para Photoshop / InDesign / Illustrator v 3.1.65](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html).
-* Vários bugfixes e aprimoramentos de produtos, incluindo problemas conhecidos anteriores (as pastas agora são exibidas corretamente na árvore de navegação esquerda após o upload<!-- CQ-4337638 -->, arrastar e soltar upload permite que o usuário selecione a pasta atual ou qualquer subpasta ao soltar para upload<!-- CQ-4327753 -->).
+* [!DNL Assets Essentials] O agora permite gerar um link e compartilhar ativos com outras pessoas que não têm acesso ao [!DNL Assets Essentials] aplicativo. Você pode definir: <!-- CQ-4329575 -->
 
-Para saber mais sobre a solução, consulte o [introdução ao [!DNL Assets Essentials]](introduction.md). Para começar a usar os recursos, consulte [introdução](/help/get-started.md).
+   * Uma data de expiração para o link
+
+   * Se os recipients tiverem permissão para baixar o ativo depois de acessar o link.
+
+   Com base nessas configurações, o recipient do link pode optar por visualizar ou baixar os ativos.
+
+* Melhorias de desempenho para a [!UICONTROL Create Folder] operação. <!-- CQ-4338818 -->
 
 ## Problemas conhecidos {#known-issues}
 
@@ -30,6 +34,14 @@ A lista de problemas conhecidos de [!DNL Assets Essentials] A oferta é revista 
 Se você encontrar problemas ou até solicitações de aprimoramento, [fornecer feedback](#provide-feedback) à equipe.
 
 ## Versões anteriores {#past-release}
+
+### Versão 2021.11.0 {#november-2021}
+
+[!DNL Assets Essentials] O foi lançado em 16 de dezembro de 2021, com as seguintes atualizações:
+
+* O Adobe implanta o Assets Essentials automaticamente após concluir o processo de provisionamento. Os administradores não precisam executar etapas adicionais para implantar o Assets Essentials usando [!DNL Cloud Manager] interface do usuário. Essa implantação automática estará disponível para ambientes provisionados após 6 de janeiro de 2022.
+* Novas versões de plug-ins do Creative Cloud que funcionam com o Assets Essentials estão disponíveis no Adobe Exchange - [Adobe Asset Link para Adobe XD v 2.1.0](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/61d229b9) e [Adobe Asset Link para Photoshop / InDesign / Illustrator v 3.1.65](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html).
+* Vários bugfixes e aprimoramentos de produtos, incluindo problemas conhecidos anteriores (as pastas agora são exibidas corretamente na árvore de navegação esquerda após o upload<!-- CQ-4337638 -->, arrastar e soltar upload permite que o usuário selecione a pasta atual ou qualquer subpasta ao soltar para upload<!-- CQ-4327753 -->).
 
 ### Versão 2021.8.0 {#august2021}
 
