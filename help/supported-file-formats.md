@@ -1,30 +1,36 @@
 ---
 title: Formatos de arquivo não suportados
-description: Formatos de arquivo suportados para os vários casos de uso de [!DNL Assets Essentials]
+description: Formatos de arquivo compatíveis com os vários casos de uso de [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: c63e9ab1054398dc055643f0dca6631bae881047
+exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
+source-git-commit: b9d333a862cca6227ef386ae8dadf431c2fb6d71
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 24%
+source-wordcount: '308'
+ht-degree: 16%
 
 ---
-
 
 # Suporte para formatos de arquivos em [!DNL Assets Essentials] {#file-format-support}
 
 [!DNL Assets Essentials] O suporta uma grande variedade de formatos de arquivo e cada funcionalidade tem suporte variado para diferentes tipos de arquivo.
 
-* ![tipo de arquivo de imagem ](assets/do-not-localize/image-icon.png) iconImagens: GIF, JPG, PNG e TIFF
-* ![ícone do tipo de arquivo do documento ](assets/do-not-localize/document-icon.png) Documentos: DOCX, PDF, PPTX e XLSX
-* ![ícone de tipo de arquivo de vídeo ](assets/do-not-localize/video-icon.png) Vídeos: MP4
+* ![ícone de tipo de arquivo de imagem](assets/image-icon.svg) Imagens: JPG, PNG, GIF, TIFF e outros
+* ![ícone creative cloudtype](assets/creative-cloud-files.svg) Arquivos Creative Cloud: PSD, AI e INDD
+* ![ícone de tipo de câmera](assets/camera-icon.svg) Arquivos Camera Raw: CR2/CR3, NEF, SRW/SRF e outros
+* ![ícone de tipo de arquivo do documento](assets/document-icon.svg) Documentos: DOCX, PDF, PPTX e XLSX
+* ![ícone de tipo de arquivo de vídeo](assets/video-icon.svg) Vídeos: MP4
+
+[!DNL Assets Essentials] O suporta qualquer formato de arquivo binário com serviços básicos, como armazenamento, upload, cópia, movimentação, exclusão e adição de metadados.
+
+[!DNL Assets Essentials] também suporta arquivos RAW de câmera de uma grande variedade de principais fabricantes de câmeras, incluindo Canon (CR2/CR3), Nikon (NEF), Sony (SRW/SRF), FujiFilm (RAF), Olympus (ORF) e outros, fornecidos pela Adobe Camera Raw.
 
 Os vários tipos de arquivos têm diferentes graus de suporte para os casos de uso e recursos, conforme descrito abaixo. Use a legenda para entender o nível de suporte.
 
 | Nível de suporte | Descrição |
 |-------------------|-------------------------|
-| Instantâneo | Compatível |
-| ‡ | Suportado condicionalmente |
+| ✓ | Compatível |
+| ✓ ‡ | Suportado condicionalmente |
 | - | Não aplicável |
 
 ## Adicionar, carregar e exibir ativos {#support-to-upload-view}
@@ -34,11 +40,13 @@ Os vários tipos de arquivos têm diferentes graus de suporte para os casos de u
 
 | Tipo de ativo | [Navegar](/help/navigate-view.md) | Copiar | [Imagem](/help/add-delete.md) | Criar | [Excluir](/help/add-delete.md#delete-assets) | Detalhes | Zoom da imagem | [Visualizado recentemente](/help/navigate-view.md) |
 |-------------------|----------|----------|----------|----------|----------|-------------------|------------|-----------------|
-| Imagens rasteiras | Instantâneo | Instantâneo | Instantâneo | - | Instantâneo | Instantâneo | Instantâneo | Instantâneo |
-| Pastas | Instantâneo | Instantâneo | Instantâneo | Instantâneo | Instantâneo | Instantâneo | - | - |
-| Vídeos MP4 | Instantâneo | Instantâneo | Instantâneo | - | Instantâneo | ‡ | - | Instantâneo |
-| PDF | Instantâneo | Instantâneo | Instantâneo | - | Instantâneo | Instantâneo | - | Instantâneo |
-| PSD, AI e INDD | Instantâneo | Instantâneo | Instantâneo | - | Instantâneo | ‡ | - | Instantâneo |
+| Imagens rasteiras | ✓ | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| Arquivos RAW | ✓ | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| Pastas | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | - |
+| Vídeos MP4 | ✓ | ✓ | ✓ | - | ✓ | ✓ ‡ | - | ✓ |
+| PDF | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
+| PSD, AI e INDD | ✓ | ✓ | ✓ | - | ✓ | ✓ ‡ | - | ✓ |
+| Outros arquivos binários | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
 
 <!-- Hiding CC Libraries (considered beta) as per PM feedback.
 | CC Libraries  | &#10003; | &minus;  | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
@@ -48,42 +56,43 @@ Os vários tipos de arquivos têm diferentes graus de suporte para os casos de u
 
 | Tipo de ativo | [Download](/help/manage-organize.md#download) | Arrastar e soltar | [Editor de imagens](/help/edit-images.md) | [Pesquisar](/help/search.md) | [Tags inteligentes](/help/metadata.md#tags) | [Renomeie](/help/manage-organize.md) | [Versões](/help/manage-organize.md#versions-of-assets) |
 |---------------|----------|---------------|--------------|----------|------------|----------|----------|
-| Imagens rasteiras | Instantâneo | Instantâneo | Instantâneo | Instantâneo | Instantâneo | Instantâneo | Instantâneo |
-| Pastas | Instantâneo | Instantâneo | - | Instantâneo | - | Instantâneo | - |
-| Vídeos | Instantâneo | Instantâneo | - | Instantâneo | Instantâneo | Instantâneo | - |
-| Bibliotecas CC | - | - | - | - | - | Instantâneo | - |
-| PDF | Instantâneo | Instantâneo | - | Instantâneo | Instantâneo | Instantâneo | - |
-| PSD | Instantâneo | Instantâneo | - | Instantâneo | Instantâneo | Instantâneo | - |
-| AI | Instantâneo | Instantâneo | - | Instantâneo | Instantâneo | Instantâneo | - |
-| INDD | Instantâneo | Instantâneo | - | Instantâneo | Instantâneo | Instantâneo | - |
+| Imagens rasteiras | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Arquivos RAW | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pastas | ✓ | ✓ | - | ✓ | - | ✓ | ✓ |
+| Vídeos | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| Bibliotecas CC | - | - | - | - | - | ✓ | ✓ |
+| PDF | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| PSD, AI e INDD | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
+| Outros arquivos binários | ✓ | ✓ | - | ✓ | - | ✓ | ✓ |
+
 
 ## Revisar ativos e colaborar {#support-to-review-collaborate}
 
 | Tipo de ativo | Anotar | Comentário | Criar tarefas e revisar |
 |---------------|----------|----------|-------------------------|
-| Imagens rasteiras | Instantâneo | Instantâneo | Instantâneo |
+| Imagens rasteiras | ✓ | ✓ | ✓ |
+| Arquivos RAW | ✓ | ✓ | ✓ |
 | Pastas | - | - | - |
-| Vídeos | - | Instantâneo | Instantâneo |
+| Vídeos | - | ✓ | ✓ |
 | Bibliotecas CC | - | - | - |
-| PDF | - | Instantâneo | Instantâneo |
-| PSD | - | Instantâneo | Instantâneo |
-| AI | - | Instantâneo | Instantâneo |
-| INDD | - | Instantâneo | Instantâneo |
+| PDF | - | ✓ | ✓ |
+| PSD, AI e INDD | - | ✓ | ✓ |
+| Outros arquivos binários | - | ✓ | ✓ |
 
 ## Outras tarefas de gestão de ativos {#support-to-manage-assets}
 
 | Tipo de ativo | [Metadados](/help/metadata.md) | [Representações](/help/add-delete.md#renditions) | [Lixeira](/help/add-delete.md#delete-assets) | Copiar | Mover |
 |---------------|-------------------|------------|----------|----------|----------|
-| Imagens rasteiras | Instantâneo | Instantâneo | Instantâneo | Instantâneo | Instantâneo |
-| Pastas | Instantâneo | - | Instantâneo | Instantâneo | Instantâneo |
-| Vídeos | Instantâneo | - | Instantâneo | Instantâneo | Instantâneo |
-| Bibliotecas CC | Instantâneo | - | - | - | - |
-| PDF | Instantâneo | - | Instantâneo | Instantâneo | Instantâneo |
-| PSD | Instantâneo | - | Instantâneo | Instantâneo | Instantâneo |
-| AI | Instantâneo | - | Instantâneo | Instantâneo | Instantâneo |
-| INDD | Instantâneo | - | Instantâneo | Instantâneo | Instantâneo |
+| Imagens rasteiras | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Arquivos RAW | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pastas | ✓ | - | ✓ | ✓ | ✓ |
+| Vídeos | ✓ | - | ✓ | ✓ | ✓ |
+| Bibliotecas CC | ✓ | - | - | - | - |
+| PDF | ✓ | - | ✓ | ✓ | ✓ |
+| PSD, AI e INDD | ✓ | - | ✓ | ✓ | ✓ |
+| Outros arquivos binários | ✓ | - | ✓ | ✓ | ✓ |
 
-Os usuários de [!DNL Adobe Asset Link] podem fazer check-in das imagens raster no repositório [!DNL Assets Essentials] a partir dos aplicativos de desktop compatíveis [!DNL Adobe Creative Cloud].
+Usuários de [!DNL Adobe Asset Link] pode fazer upload e check-in (fazer upload de uma nova versão) de arquivos no [!DNL Assets Essentials] repositório do [!DNL Adobe Creative Cloud] aplicativos de desktop.
 
 <!-- TBD: Saving the template table separately for later use.
 | Asset type    | Features |
