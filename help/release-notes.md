@@ -6,7 +6,7 @@ contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: eb6822a1e813b6c7687ba3d797e4f43b3c1ef2a0
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '364'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 A versão atual do [!DNL Assets Essentials] foi lançado em 3 de fevereiro de 2022. Esta versão fornece:
 
-* Melhorias de desempenho para a [!UICONTROL Create Folder] operação. <!-- CQ-4338818 -->
+* Melhorias de desempenho para a [!UICONTROL Criar pasta] operação. <!-- CQ-4338818 -->
 
 ## Problemas conhecidos {#known-issues}
 
@@ -45,7 +45,7 @@ Se você encontrar problemas ou até solicitações de aprimoramento, [fornecer 
 
 [!DNL Assets Essentials] O 2021.7.0 foi lançado em 29 de julho de 2021, com as seguintes atualizações:
 
-* Você pode criar e gerenciar formulários de metadados personalizados a serem usados para exibir propriedades de metadados aos usuários na tela de detalhes do ativo em [!UICONTROL Metadata Forms] opção em [!DNL Settings]. Consulte [formulários de metadados](metadata.md#metadata-forms).
+* Você pode criar e gerenciar formulários de metadados personalizados a serem usados para exibir propriedades de metadados aos usuários na tela de detalhes do ativo em [!UICONTROL Forms de metadados] opção em [!DNL Settings]. Consulte [formulários de metadados](metadata.md#metadata-forms).
 * Várias correções de erros e aprimoramentos de produtos, incluindo melhor desempenho ao fazer upload de uma pasta aninhada com muitas subpastas.
 
 ### Versão 2021.6.0 {#june2021}

@@ -5,7 +5,7 @@ role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: 0a0f520b0c023120995b3af327661212604fac0d
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '539'
 ht-degree: 0%
 
 ---
@@ -57,10 +57,10 @@ Você pode navegar pelas pastas da interface do usuário principal ou da barra l
 
 Em [!DNL Assets Essentials], você pode exibir ativos, pastas e resultados de pesquisa em quatro tipos diferentes de layouts.
 
-* ![ícone de exibição de lista](assets/do-not-localize/list-view.png) [!UICONTROL List View]
-* ![ícone de exibição de grade](assets/do-not-localize/grid-view.png) [!UICONTROL Grid View]
-* ![ícone de exibição de galeria](assets/do-not-localize/gallery-view.png) [!UICONTROL Gallery View]
-* ![ícone de exibição em cascata](assets/do-not-localize/waterfall-view.png) [!UICONTROL Waterfall View]
+* ![ícone de exibição de lista](assets/do-not-localize/list-view.png) [!UICONTROL Exibição de lista]
+* ![ícone de exibição de grade](assets/do-not-localize/grid-view.png) [!UICONTROL Exibição de Grade]
+* ![ícone de exibição de galeria](assets/do-not-localize/gallery-view.png) [!UICONTROL Exibição da Galeria]
+* ![ícone de exibição em cascata](assets/do-not-localize/waterfall-view.png) [!UICONTROL Exibição de cascata]
 
 Para localizar um ativo, você pode classificar os ativos em ordem crescente ou decrescente de `Name`, `Relevancy`, `Size`, `Modified`e `Created`.
 
@@ -74,7 +74,7 @@ Para navegar em uma pasta, clique duas vezes nas miniaturas da pasta ou selecion
 
 Antes de usar, compartilhar ou baixar um ativo, é possível visualizá-lo mais detalhadamente. O recurso de visualização permite exibir não apenas as imagens, mas alguns outros tipos de ativos compatíveis.
 
-Para visualizar um ativo, selecione-o e clique em [!UICONTROL Details] ![ícone de detalhes](assets/do-not-localize/edit-in-icon.png) na barra de ferramentas na parte superior. Você pode não apenas visualizar o ativo, mas também visualizar seus metadados detalhados e realizar outras ações.
+Para visualizar um ativo, selecione-o e clique em [!UICONTROL Detalhes] ![ícone de detalhes](assets/do-not-localize/edit-in-icon.png) na barra de ferramentas na parte superior. Você pode não apenas visualizar o ativo, mas também visualizar seus metadados detalhados e realizar outras ações.
 
 ![Visualizar um ativo](assets/preview-asset.png)
 

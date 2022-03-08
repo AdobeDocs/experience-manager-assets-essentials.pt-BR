@@ -24,6 +24,6 @@ Link to versioning once an asset is updated.
 >[!MORELIKETHIS]
 >
 >* [Editar imagens](edit-images.md)
-* [Exibir versões de um ativo](navigate-view.md#view-versions)
-* [Excluir um ativo](manage-organize.md#delete-assets)
+>* [Exibir versões de um ativo](navigate-view.md#view-versions)
+>* [Excluir um ativo](manage-organize.md#delete-assets)
 

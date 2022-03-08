@@ -1,19 +1,19 @@
 ---
 title: Gerenciar seus ativos digitais
-description: Mova, exclua, copie, renomeie, atualize e faça a versão de seus ativos em [!DNL Assets Essentials].
+description: Mover, excluir, copiar, renomear, atualizar e atualizar seus ativos em [!DNL Assets Essentials].
 role: User,Leader
 contentOwner: AG
-source-git-commit: eda2ba0d271310d0e87f904dc7622583a80d002e
+exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
+source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '614'
 ht-degree: 0%
 
 ---
 
-
 # Gerenciar ativos {#manage-assets}
 
-Você pode realizar várias tarefas de gerenciamento de ativos digitais (DAM) facilmente usando a interface amigável de [!DNL Assets Essentials]. Após adicionar os ativos, você pode pesquisar, baixar, mover, copiar, renomear, excluir, atualizar e editar seus ativos.
+Você pode realizar várias tarefas de gerenciamento de ativos digitais (DAM) facilmente usando a interface simples de [!DNL Assets Essentials]. Após adicionar os ativos, você pode pesquisar, baixar, mover, copiar, renomear, excluir, atualizar e editar seus ativos.
 
 Use [!DNL Assets Essentials] para realizar as seguintes tarefas de gerenciamento de ativos. Quando você seleciona um ativo, as seguintes opções são exibidas na barra de ferramentas na parte superior.
 
@@ -21,15 +21,15 @@ Use [!DNL Assets Essentials] para realizar as seguintes tarefas de gerenciamento
 
 *Figura: Opções disponíveis na barra de ferramentas para uma imagem selecionada.*
 
-* ![desmarcar ](assets/do-not-localize/close-icon.png) íconeDesmarque a seleção.
-* ![ícone de detalhes ](assets/do-not-localize/edit-in-icon.png) Clique em para visualizar um ativo e visualizar os metadados detalhados. Ao visualizar, você pode exibir as versões e editar uma imagem.
-* ![ícone ](assets/do-not-localize/download-icon.png) de downloadBaixe o ativo selecionado no seu sistema de arquivos local.
-* ![ícone excluir ](assets/do-not-localize/delete-icon.png) Excluir o ativo ou a pasta selecionada.
-* ![ícone de check-out ](assets/do-not-localize/checkout-icon.png) do ativo selecionado.
-* ![ícone copiar ](assets/do-not-localize/copy-icon.png) Copie o arquivo ou a pasta selecionada.
-* ![ícone mover ](assets/do-not-localize/move-icon.png) o ativo ou a pasta selecionada para um local diferente na hierarquia do repositório.
-* ![ícone ](assets/do-not-localize/rename-icon.png) renomearRenomeie o ativo ou a pasta selecionada. Use um nome exclusivo, caso contrário, a renomeação falhará com um aviso. Você pode tentar novamente com um novo nome.
-* ![atribuir ](assets/do-not-localize/review-delegate-icon.png) ícone de tarefaAtribuir tarefas a outros usuários para colaborar em um ativo.
+* ![ícone desmarcar](assets/do-not-localize/close-icon.png) Desmarque a seleção.
+* ![ícone de detalhes](assets/do-not-localize/edit-in-icon.png) Clique em para visualizar um ativo e visualizar os metadados detalhados. Ao visualizar, você pode exibir as versões e editar uma imagem.
+* ![ícone de download](assets/do-not-localize/download-icon.png) Baixe o ativo selecionado no sistema de arquivos local.
+* ![ícone excluir](assets/do-not-localize/delete-icon.png) Excluir o ativo ou a pasta selecionada.
+* ![ícone de finalização](assets/do-not-localize/checkout-icon.png) Fazer check-out do ativo selecionado.
+* ![ícone copiar](assets/do-not-localize/copy-icon.png) Copie o arquivo ou pasta selecionado.
+* ![ícone mover](assets/do-not-localize/move-icon.png) Mova o ativo ou pasta selecionado para um local diferente na hierarquia do repositório.
+* ![ícone renomear](assets/do-not-localize/rename-icon.png) Renomeie o ativo ou a pasta selecionada. Use um nome exclusivo, caso contrário, a renomeação falhará com um aviso. Você pode tentar novamente com um novo nome.
+* ![ícone atribuir tarefa](assets/do-not-localize/review-delegate-icon.png) Atribuir tarefas a outros usuários para colaborar em um ativo.
 
 É possível exibir as mesmas opções nas miniaturas de ativos.
 
@@ -47,7 +47,7 @@ Use [!DNL Assets Essentials] para realizar as seguintes tarefas de gerenciamento
 
 ## Baixar e distribuir ativos {#download}
 
-Você pode selecionar um ou mais ativos ou pastas ou uma combinação dos dois e baixar a seleção para o sistema de arquivos local. Você pode editar os ativos e fazer upload novamente ou distribuir os ativos fora de [!DNL Assets Essentials]. Além disso, você pode [baixar as representações](/help/add-delete.md#renditions) de um ativo.
+Você pode selecionar um ou mais ativos ou pastas ou uma combinação dos dois e baixar a seleção para o sistema de arquivos local. Você pode editar os ativos e fazer upload novamente ou distribuir os ativos fora [!DNL Assets Essentials]. Além disso, você pode [baixar as representações](/help/add-delete.md#renditions) de um ativo.
 
 ## Controle de versão de ativos {#versions-of-assets}
 
@@ -62,13 +62,13 @@ TBD: query for engineering: How many versions are maintained. What happens when 
 
    *Figura: Ao fazer upload de um ativo chamado o mesmo que um ativo existente, você pode criar uma versão do ativo.*
 
-* Edite uma imagem e clique em **[!UICONTROL Save as Version]**. Consulte [editar imagens](/help/edit-images.md).
+* Editar uma imagem e clicar em **[!UICONTROL Salvar como versão]**. Consulte [editar imagens](/help/edit-images.md).
 
    ![Salvar imagem editada como versão](assets/edit-image2.png)
 
    *Figura: Salve a imagem editada como uma versão.*
 
-* Abra as versões de um ativo existente. Clique em **[!UICONTROL New Version]** e faça upload de uma versão mais recente do ativo no repositório.
+* Abra as versões de um ativo existente. Clique em **[!UICONTROL Nova versão]** e faça upload de uma versão mais recente do ativo no repositório.
 
    ![Opção para carregar uma nova versão de um ativo do histórico de versões](assets/view-asset-versions2.png)
 
@@ -76,9 +76,9 @@ TBD: query for engineering: How many versions are maintained. What happens when 
 
 Ao carregar uma cópia duplicada ou uma cópia modificada de um ativo, você pode criar suas versões. O controle de versão permite revisar ativos históricos e reverter para uma versão anterior, se necessário.
 
-Para exibir versões, abra a visualização de um ativo e clique no ícone **[!UICONTROL Versions]** ![Versões](assets/do-not-localize/versions-clock-icon.png) na barra lateral direita. Para visualizar uma versão específica, selecione-a. Para reverter para ele, clique em **[!UICONTROL Make Latest]**.
+Para exibir versões, abra a visualização de um ativo e clique em **[!UICONTROL Versões]** ![Ícone Versões](assets/do-not-localize/versions-clock-icon.png) na barra lateral direita. Para visualizar uma versão específica, selecione-a. Para reverter para ele, clique em **[!UICONTROL Tornar mais recente]**.
 
-Você também pode criar versões na linha do tempo das versões. Selecione a versão mais recente, clique em **[!UICONTROL New Version]** e faça upload de uma nova cópia do ativo de seu sistema de arquivos local.
+Você também pode criar versões na linha do tempo das versões. Selecione a versão mais recente e clique em **[!UICONTROL Nova versão]** e faça upload de uma nova cópia do ativo do sistema de arquivos local.
 
 ![Exibir versões de um ativo](assets/view-asset-versions1.png)
 

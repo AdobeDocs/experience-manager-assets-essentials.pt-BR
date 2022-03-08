@@ -5,7 +5,7 @@ role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 source-git-commit: cbf75aaf05a0f3d798edf4d508325b28d9ca0dcb
 workflow-type: tm+mt
-source-wordcount: '1030'
+source-wordcount: '1070'
 ht-degree: 1%
 
 ---
@@ -39,21 +39,21 @@ Um administrador gerencia a quais usuários tem acesso [!DNL Assets Essentials].
 * **[!DNL Assets Essentials]Usuários** têm acesso à interface do usuário completa. Esses usuários podem fazer upload, organizar, marcar e encontrar ativos digitais.
 * **[!DNL Assets Essentials]Usuários do consumidor**: têm acesso à experiência de seleção de ativos incorporados no [!DNL Adobe Journey Optimizer] editor de modelo de email. Para obter mais informações, consulte [Use [!DNL Assets Essentials] em [!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html).
 
-Em [!DNL Admin Console], esses dois tipos de acesso são representados por dois [!UICONTROL Product Profiles]. Para adicionar e remover membros de sua organização a qualquer um dos perfis, siga estas etapas:
+Em [!DNL Admin Console], esses dois tipos de acesso são representados por dois [!UICONTROL Perfis de produto]. Para adicionar e remover membros de sua organização a qualquer um dos perfis, siga estas etapas:
 
-1. Acesso [!DNL Admin Console] para sua organização, clique em **[!UICONTROL Products]** na barra superior, clique em **[!UICONTROL AEM Assets Essentials]** e, em seguida, clique em [!DNL Assets Essentials] ambiente. [!DNL Assets Essentials] O tem dois perfis de produto que representam o acesso de usuários regulares e de consumidores.
+1. Acesso [!DNL Admin Console] para sua organização, clique em **[!UICONTROL Produtos]** na barra superior, clique em **[!UICONTROL AEM Assets Essentials]** e, em seguida, clique em [!DNL Assets Essentials] ambiente. [!DNL Assets Essentials] O tem dois perfis de produto que representam o acesso de usuários regulares e de consumidores.
 
    ![Dois perfis para dois tipos de usuários](assets/adminconsole-user-types.png)
 
    *Figura: Dois perfis estão disponíveis para adicionar os dois tipos de usuários.*
 
-1. Para adicionar um usuário a um grupo, clique no grupo e selecione **[!UICONTROL Add User]**, forneça os detalhes do usuário e clique em **[!UICONTROL Save]**. Quando você adiciona um usuário, ele recebe um convite por email para começar. Você pode desativar os convites por email nas configurações do perfil de produto em [!DNL Admin Console].
+1. Para adicionar um usuário a um grupo, clique no grupo e selecione **[!UICONTROL Adicionar usuário]**, forneça os detalhes do usuário e clique em **[!UICONTROL Salvar]**. Quando você adiciona um usuário, ele recebe um convite por email para começar. Você pode desativar os convites por email nas configurações do perfil de produto em [!DNL Admin Console].
 
    ![Adicionar um usuário a [!DNL Assets Essentials]](assets/adminconsole-add-user.png)
 
    *Figura: Adicionar um usuário a [!DNL Assets Essentials] from [!DNL Admin Console].*
 
-1. Para remover um usuário de um grupo, clique no grupo, selecione um usuário existente e selecione **[!UICONTROL Remove User]**.
+1. Para remover um usuário de um grupo, clique no grupo, selecione um usuário existente e selecione **[!UICONTROL Remover usuário]**.
 
 >[!TIP]
 >
@@ -63,13 +63,13 @@ Em [!DNL Admin Console], esses dois tipos de acesso são representados por dois 
 
 Após o provisionamento, os administradores implantam [!DNL Assets Essentials] só uma vez. Após a implantação inicial, o Adobe faz a manutenção e as atualizações do serviço. Os administradores podem usar o [!DNL Cloud Manager] interface do usuário para verificar o status do serviço e baixar os logs de acesso recentes.
 
-1. Quando os usuários relatarem problemas, verifique o status do serviço de [!DNL Assets Essentials] no **[!UICONTROL Program Overview]** interface. Durante o funcionamento normal da solução, o estado é `Running`. If [!DNL Cloud Manager] exibe qualquer outro status, crie um tíquete de suporte no [!DNL Admin Console] seção de suporte.
+1. Quando os usuários relatarem problemas, verifique o status do serviço de [!DNL Assets Essentials] no **[!UICONTROL Visão geral do programa]** interface. Durante o funcionamento normal da solução, o estado é `Running`. If [!DNL Cloud Manager] exibe qualquer outro status, crie um tíquete de suporte no [!DNL Admin Console] seção de suporte.
 
    ![O status de [!DNL Assets Essentials] em [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
 
    *Figura: O status normal de [!DNL Assets Essentials] em [!DNL Cloud Manager] é `Running`.*
 
-1. Para baixar os logs de acesso recentes, clique em ![ícone opções](assets/do-not-localize/options-ellipses-icon.png), selecione **[!UICONTROL Download Logs]** e siga as instruções na tela. Você pode auditar as solicitações de acesso HTTPS usando os logs.
+1. Para baixar os logs de acesso recentes, clique em ![ícone opções](assets/do-not-localize/options-ellipses-icon.png), selecione **[!UICONTROL Baixar logs]** e siga as instruções na tela. Você pode auditar as solicitações de acesso HTTPS usando os logs.
 
    ![ Opção para baixar os logs de acesso](assets/cloudmanager-download-logs.png)
 
@@ -95,7 +95,7 @@ Após o provisionamento, [!DNL Assets Essentials] o direito é adicionado à org
 
 1. Adicione a si mesmo como administrador ao `AEM Assets Essentials - Cloud Manager` perfil de produto no [!DNL Admin Console]. Você pode adicionar outro membro de sua organização ou adicionar mais de um administrador.
 
-1. Clique em ![ícone adicionar](assets/do-not-localize/add-icon.svg) para [!UICONTROL Select product profiles]e selecione [!UICONTROL Deployment Manager - Assets Essentials] como **[!UICONTROL product profile]**. O usuário adicionado nesta etapa recebe um email do Adobe com acesso a [!DNL Cloud Manager] e podem fazer a implantação.
+1. Clique em ![ícone adicionar](assets/do-not-localize/add-icon.svg) para [!UICONTROL Selecionar perfis de produto]e selecione [!UICONTROL Gerenciador de implantação - Assets Essentials] como **[!UICONTROL perfil de produto]**. O usuário adicionado nesta etapa recebe um email do Adobe com acesso a [!DNL Cloud Manager] e podem fazer a implantação.
 
    ![Adicione um administrador e selecione um perfil de produto em [!DNL Admin Console]](assets/adminconsole-user1.png)
 
@@ -103,19 +103,19 @@ Após o provisionamento, [!DNL Assets Essentials] o direito é adicionado à org
 
 1. Para acessar [!DNL Cloud Manager], clique no link do email com acesso a [!DNL Cloud Manager]. Como alternativa, acesse [https://experience.adobe.com/#/cloud-manager/](https://experience.adobe.com/#/cloud-manager/) no seu navegador.
 
-1. Na interface do usuário do Cloud Manager, clique em **[!UICONTROL Add Program]** no canto superior direito.
+1. Na interface do usuário do Cloud Manager, clique em **[!UICONTROL Adicionar programa]** no canto superior direito.
 
-1. Forneça um nome de sua escolha e, opcionalmente, carregue uma imagem (ela representa o programa em [!DNL Cloud Manager]) e, em seguida, clique em **[!UICONTROL Create]**. [!DNL Cloud Manager] leva alguns minutos para configurar o programa.
+1. Forneça um nome de sua escolha e, opcionalmente, carregue uma imagem (ela representa o programa em [!DNL Cloud Manager]) e, em seguida, clique em **[!UICONTROL Criar]**. [!DNL Cloud Manager] leva alguns minutos para configurar o programa.
 
 1. Quando o programa estiver pronto, passe o ponteiro do mouse sobre o bloco e clique em ![ícone adicionar ambiente](assets/do-not-localize/add-environment-icon.png).
 
-1. Para adicionar [!DNL Assets Essentials] para sua organização, clique em **[!UICONTROL Add Environment]**, selecione um nome e uma região de implantação e clique em **[!UICONTROL Save]**. Não é possível alterar a região de implantação posteriormente. Tente corresponder à região de implantação de [!DNL Assets Essentials] com a região de implantação da outra solução com a qual você pretende usar [!DNL Assets Essentials]. A correspondência é garantir o acesso mais rápido possível à rede para ativos digitais e a menor latência possível.
+1. Para adicionar [!DNL Assets Essentials] para sua organização, clique em **[!UICONTROL Adicionar ambiente]**, selecione um nome e uma região de implantação e clique em **[!UICONTROL Salvar]**. Não é possível alterar a região de implantação posteriormente. Tente corresponder à região de implantação de [!DNL Assets Essentials] com a região de implantação da outra solução com a qual você pretende usar [!DNL Assets Essentials]. A correspondência é garantir o acesso mais rápido possível à rede para ativos digitais e a menor latência possível.
 
    ![Adicionar um ambiente em [!DNL Cloud Manager]](assets/cloudmanager-add-environment-for-essentials.png)
 
    *Figura: Adicionar um ambiente em [!DNL Cloud Manager] para começar a usar [!DNL Assets Essentials].*
 
-1. Após vários minutos, quando o ambiente for criado com êxito, você poderá acessar a variável [!DNL Admin Console] e adicionar os usuários da organização a [!DNL Assets Essentials] solução. Clique em ![ícone opções](assets/do-not-localize/options-ellipses-icon.png) e selecione o **[!UICONTROL Manage Access]** opção.
+1. Após vários minutos, quando o ambiente for criado com êxito, você poderá acessar a variável [!DNL Admin Console] e adicionar os usuários da organização a [!DNL Assets Essentials] solução. Clique em ![ícone opções](assets/do-not-localize/options-ellipses-icon.png) e selecione o **[!UICONTROL Gerenciar acesso]** opção.
 
    ![Ambiente pronto em [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
 

@@ -5,8 +5,8 @@ role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
 source-git-commit: fdfbe04b41c6b164007591855c4dd37b6fe3dfa7
 workflow-type: tm+mt
-source-wordcount: '465'
-ht-degree: 3%
+source-wordcount: '476'
+ht-degree: 4%
 
 ---
 
@@ -36,7 +36,7 @@ Para abrir as preferências, clique no avatar no canto superior direito da inter
 
 Se fizer parte de organizações diferentes, também poderá alterar a organização e acessar suas contas em várias organizações.
 
-Para alterar a [!UICONTROL Experience Cloud preferences], Clique em [!UICONTROL Preferences].
+Para alterar a [!UICONTROL preferências de Experience Cloud], Clique em [!UICONTROL Preferências].
 
 ![Preferência de alternar tema escuro e claro](assets/theme-change.png)
 
@@ -69,7 +69,7 @@ A Adobe agradece o feedback sobre a solução. Para fornecer feedback sem nem me
 
 ![opção de feedback na interface](assets/feedback-panel.png)
 
-Para fornecer feedback sobre a documentação, clique em [!UICONTROL Edit this page] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Log an issue] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) na barra lateral direita. Você pode executar um dos seguintes procedimentos:
+Para fornecer feedback sobre a documentação, clique em [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) na barra lateral direita. Você pode executar um dos seguintes procedimentos:
 
 * Faça as atualizações de conteúdo e envie uma solicitação de pull do GitHub.
 * Crie um problema ou tíquete no GitHub. Mantenha o nome do artigo preenchido automaticamente ao criar um problema.

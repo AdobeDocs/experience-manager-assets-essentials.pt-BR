@@ -1,15 +1,15 @@
 ---
 title: Gerenciar metadados
-description: Gerenciar metadados de ativos em [!DNL Assets Essentials]
+description: Gerenciar metadados de ativos no [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
-source-git-commit: a176769247bcafcc0497f2480cdec86c5753f218
+exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
+source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: '962'
 ht-degree: 0%
 
 ---
-
 
 # Metadados em [!DNL Assets Essentials] {#metadata}
 
@@ -27,70 +27,70 @@ Por esses motivos, o Assets fornece o meio certo de criar, gerenciar e trocar me
 
 ## Visualizar os metadados {#view-metadata}
 
-Para exibir os metadados de um ativo, navegue até o ativo ou pesquise o ativo, selecione o ativo e clique em **[!UICONTROL Details]** na barra de ferramentas.
+Para exibir os metadados de um ativo, navegue até o ativo ou pesquise o ativo, selecione o ativo e clique em **[!UICONTROL Detalhes]** na barra de ferramentas.
 
 ![Exibir metadados de um ativo](assets/metadata-view1.png)
 
-*Figura: Para exibir um ativo e seus metadados, clique em **[!UICONTROL Details]**na barra de ferramentas ou clique duas vezes no ativo.*
+*Figura: Para exibir um ativo e seus metadados, clique em **[!UICONTROL Detalhes]**na barra de ferramentas ou clique duas vezes no ativo.*
 
-Os metadados básicos, como título, descrição e data de upload, estão disponíveis na guia [!UICONTROL Basic]. A guia [!UICONTROL Advanced] contém metadados mais avançados, como modelo de câmera, detalhes da lente e geotags. A guia [!UICONTROL Tags] contém tags aplicadas automaticamente com base no conteúdo da imagem.
+Os metadados básicos, como título, descrição e data de upload, estão disponíveis na variável [!UICONTROL Básico] guia . O [!UICONTROL Avançado] A guia contém metadados mais avançados, como modelo de câmera, detalhes da lente e geotags. O [!UICONTROL Tags] contém tags aplicadas automaticamente com base no conteúdo da imagem.
 
 ## Atualizar metadados {#update-metadata}
 
-Você pode atualizar alguns campos de metadados manualmente. Os campos incluem [!UICONTROL Title], [!UICONTROL Description], [!UICONTROL Author] e [!UICONTROL Keywords].
+Você pode atualizar alguns campos de metadados manualmente. Os campos incluem [!UICONTROL Título], [!UICONTROL Descrição], [!UICONTROL Autor]e [!UICONTROL Palavras-chave].
 
 ## Tags {#tags}
 
-[!DNL Assets Essentials] O usa inteligência artificial fornecida pelo  [Adobe ](https://www.adobe.com/br/sensei.html) Senseito para aplicar automaticamente tags relevantes a todos os ativos carregados. Essas tags, devidamente chamadas de Tags inteligentes, aumentam a velocidade do conteúdo de seus projetos, ajudando você a encontrar ativos relevantes rapidamente. As tags inteligentes são um exemplo de metadados que não estão contidos na imagem.
+[!DNL Assets Essentials] usa inteligência artificial fornecida pelo [Adobe Sensei](https://www.adobe.com/br/sensei.html) para aplicar automaticamente tags relevantes a todos os ativos carregados. Essas tags, devidamente chamadas de Tags inteligentes, aumentam a velocidade do conteúdo de seus projetos, ajudando você a encontrar ativos relevantes rapidamente. As tags inteligentes são um exemplo de metadados que não estão contidos na imagem.
 
-As tags inteligentes são aplicadas em tempo quase real e geradas com base no conteúdo da imagem. Ao fazer upload de um ativo, a interface do usuário exibe [!UICONTROL Processing] na miniatura do ativo por algum tempo. Quando o processamento estiver concluído, você poderá [visualizar os metadados](#view-metadata) e as tags inteligentes.
+As tags inteligentes são aplicadas em tempo quase real e geradas com base no conteúdo da imagem. Ao fazer upload de um ativo, a interface do usuário é exibida [!UICONTROL Processamento] na miniatura do ativo por algum tempo. Após concluir o processamento, é possível [exibir os metadados](#view-metadata) e as tags inteligentes.
 
 ![Exibir tags inteligentes de um ativo](assets/metadata-view-tags.png)
 
-*Figura: Para exibir as Tags inteligentes de um ativo, clique em **[!UICONTROL Details]**na barra de ferramentas ou clique duas vezes no ativo.*
+*Figura: Para exibir as Tags inteligentes de um ativo, clique em **[!UICONTROL Detalhes]**na barra de ferramentas ou clique duas vezes no ativo.*
 
 Tags inteligentes também contêm uma pontuação de confiança como uma porcentagem. Indica a confiança associada à tag aplicada. Você pode moderar as tags inteligentes aplicadas automaticamente.
 
 ## Adicionar ou atualizar tags {#manually-tag}
 
-Você pode adicionar mais tags aos seus ativos, além das Tags inteligentes que são adicionadas automaticamente usando o serviço inteligente [!DNL Adobe Sensei]. Abra um ativo para visualização, clique em [!UICONTROL Tags] e digite as palavras-chave desejadas no campo [!UICONTROL Keywords]. Para adicionar a tag , pressione Return. [!DNL Assets Essentials] indexa a palavra-chave em tempo quase real e sua equipe poderá pesquisar os ativos atualizados em breve usando as novas palavras-chave.
+Você pode adicionar mais tags aos seus ativos, além das Tags inteligentes que são adicionadas automaticamente usando o [!DNL Adobe Sensei] serviço inteligente. Abra um ativo para visualização, clique em [!UICONTROL Tags]e digite as palavras-chave desejadas na [!UICONTROL Palavras-chave] campo. Para adicionar a tag , pressione Return. [!DNL Assets Essentials] indexa a palavra-chave em tempo quase real e sua equipe poderá pesquisar os ativos atualizados em breve usando as novas palavras-chave.
 
-Você também pode remover tags da seção [!UICONTROL Smart Tags] que são adicionadas automaticamente por [!DNL Assets Essentials] a todos os ativos carregados.
+Você também pode remover tags do [!UICONTROL Tags inteligentes] seção que é adicionada automaticamente por [!DNL Assets Essentials] para todos os ativos carregados.
 
 ## Formulários de metadados {#metadata-forms}
 
-O Assets Essentials fornece vários campos de metadados padrão por padrão. As organizações têm necessidades adicionais de metadados e precisam de mais campos de metadados para adicionar metadados específicos de negócios. Os formulários de metadados permitem que as empresas adicionem campos de metadados personalizados à página [!UICONTROL Details] de um ativo. Os metadados específicos de negócios melhoram a governança e a descoberta de seus ativos.
+O Assets Essentials fornece vários campos de metadados padrão por padrão. As organizações têm necessidades adicionais de metadados e precisam de mais campos de metadados para adicionar metadados específicos de negócios. Os formulários de metadados permitem que as empresas adicionem campos de metadados personalizados a um ativo [!UICONTROL Detalhes] página. Os metadados específicos de negócios melhoram a governança e a descoberta de seus ativos.
 
-Você pode configurar formulários de metadados para diferentes tipos de ativos (diferentes tipos MIME). Use o mesmo nome de formulário do tipo MIME do arquivo. O Essentials corresponde automaticamente os ativos carregados ao nome do formulário. Por exemplo, se um formulário de metadados pelo nome `PDF` ou `pdf` existir, os documentos PDF carregados conterão campos de metadados, conforme definido no formulário. É possível criar formulários do zero ou redefinir a finalidade de um formulário existente.
+Você pode configurar formulários de metadados para diferentes tipos de ativos (diferentes tipos MIME). Use o mesmo nome de formulário do tipo MIME do arquivo. O Essentials corresponde automaticamente os ativos carregados ao nome do formulário. Por exemplo, se um formulário de metadados for usado pelo nome `PDF` ou `pdf` existir, os documentos PDF carregados contêm campos de metadados, conforme definido no formulário. É possível criar formulários do zero ou redefinir a finalidade de um formulário existente.
 
 >[!IMPORTANT]
 >
->O novo formulário de metadados para um tipo de arquivo específico substitui completamente o formulário de metadados padrão fornecido por [!DNL Assets Essentials]. Se você excluir ou renomear um formulário de metadados, os campos de metadados padrão estarão disponíveis novamente para novos ativos.
+>O novo formulário de metadados para um tipo de arquivo específico substitui completamente o formulário de metadados padrão que [!DNL Assets Essentials] fornece. Se você excluir ou renomear um formulário de metadados, os campos de metadados padrão estarão disponíveis novamente para novos ativos.
 
 Para criar um formulário de metadados, siga estas etapas:
 
-1. No painel à esquerda, clique em **[!UICONTROL Settings]** > **[!UICONTROL Metadata Forms]**.
+1. No painel à esquerda, clique em **[!UICONTROL Configurações]** > **[!UICONTROL Forms de metadados]**.
 
    ![opção de formulários de metadados na barra lateral esquerda](assets/metadata-forms-sidebar.png)
 
-1. Clique em **[!UICONTROL Create]**, na área superior direita da interface do usuário.
-1. Forneça um nome para o formulário e clique em **[!UICONTROL Create]**.
-1. Forneça um nome para a guia em **[!UICONTROL Settings]** no painel direito.
-1. No **[!UICONTROL Components]** disponível no painel à esquerda, arraste os componentes necessários em uma guia do formulário. Arraste os componentes na sequência desejada.
+1. Clique em **[!UICONTROL Criar]**, na área superior direita da interface do usuário do .
+1. Forneça um nome para o formulário e clique em **[!UICONTROL Criar]**.
+1. Forneça um nome para a guia em **[!UICONTROL Configurações]** no painel direito.
+1. No **[!UICONTROL Componentes]** disponível no painel à esquerda, arraste os componentes necessários em uma guia do formulário. Arraste os componentes na sequência desejada.
 
    ![opção de formulários de metadados na barra lateral esquerda](assets/metadata-form-new.png)
 
    *Figura: A interface de criação do formulário de metadados com opções para adicionar componentes e opções para visualizar o formulário.*
 
-1. Para cada componente, no , forneça um nome no **[!UICONTROL Settings]** no painel direito, forneça um mapeamento com as propriedades compatíveis.
-1. Como opção, para um componente, selecione **[!UICONTROL Required]** para tornar o campo de metadados obrigatório e selecione **[!UICONTROL Read-Only]** para tornar o campo não editável na página de ativo [!UICONTROL Details].
-1. Como opção, clique em **[!UICONTROL Preview]** para visualizar o formulário que está sendo criado.
+1. Para cada componente, no , forneça um nome na função **[!UICONTROL Configurações]** no painel direito, forneça um mapeamento com as propriedades compatíveis.
+1. Opcionalmente, para um componente, selecione **[!UICONTROL Obrigatório]** para tornar o campo de metadados obrigatório e selecione **[!UICONTROL Somente leitura]** para tornar o campo ineditável no ativo [!UICONTROL Detalhes] página.
+1. Opcionalmente, clique em **[!UICONTROL Visualizar]** para visualizar o formulário que está sendo criado.
 1. Como opção, adicione mais guias e os componentes necessários em cada guia.
-1. Clique em **[!UICONTROL Save]** quando o formulário estiver concluído.
+1. Clique em **[!UICONTROL Salvar]** quando o formulário for preenchido.
 
 Depois que um formulário é criado, ele é aplicado automaticamente quando os usuários carregam um ativo do tipo MIME correspondente.
 
-Para reutilizar um formulário existente para criar um novo formulário, selecione um formulário de metadados, clique em **[!UICONTROL Copy]** na barra de ferramentas, forneça um nome e clique em **[!UICONTROL Confirm]**. É possível editar um formulário de metadados para alterá-lo. Quando você altera um formulário, ele é usado para ativos carregados após a alteração. Não altera os ativos existentes.
+Para reutilizar um formulário existente para criar um novo formulário, selecione um formulário de metadados, clique em **[!UICONTROL Copiar]** na barra de ferramentas, forneça um nome e clique em **[!UICONTROL Confirmar]**. É possível editar um formulário de metadados para alterá-lo. Quando você altera um formulário, ele é usado para ativos carregados após a alteração. Não altera os ativos existentes.
 
 <!-- TBD: Cannot create a form using the second option. Documenting only the first option for now.
 To reuse an existing form to create a new form, do one of these:

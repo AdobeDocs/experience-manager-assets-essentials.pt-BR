@@ -1,14 +1,14 @@
 ---
-title: Pesquisar e descobrir ativos em [!DNL Assets Essentials]
+title: Pesquise e descubra ativos em [!DNL Assets Essentials]
 description: Pesquise e descubra ativos em [!DNL Assets Essentials].
 role: User
-source-git-commit: 5bae37e18ac587aaacaa004e5ec02775888d7f9a
+exl-id: be9597a3-056c-436c-a09e-15a03567c85a
+source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '389'
 ht-degree: 1%
 
 ---
-
 
 # Pesquisar ativos em [!DNL Assets Essentials] {#search-assets}
 
@@ -32,21 +32,21 @@ Você pode filtrar os resultados da pesquisa com base nos seguintes parâmetros.
 
 *Figura: Filtre ativos pesquisados com base em vários parâmetros.*
 
-* Tipo de arquivo: Filtre os resultados da pesquisa pelos tipos de arquivos suportados, ou seja, `Images`, `Documents` e `Videos`.
+* Tipo de arquivo: Filtre os resultados da pesquisa pelos tipos de arquivos suportados, ou seja, `Images`, `Documents`e `Videos`.
 * Tipo MIME: Filtrar um ou mais formatos de arquivo compatíveis. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
 * Tamanho da imagem: Forneça uma ou mais das dimensões mínima e máxima para filtrar imagens. O tamanho é fornecido em dimensões em pixel e não é o tamanho do arquivo das imagens.
 * Criar data: A data de criação do ativo, conforme fornecido nos metadados. O formato de data padrão usado é `yyyy-mm-dd`.
 * Data de modificação: A data da última modificação dos ativos. O formato de data padrão usado é `yyyy-mm-dd`.
 
-Você pode classificar os ativos pesquisados em ordem crescente ou decrescente de `Name`, `Relevancy`, `Size`, `Modified` e `Created`.
+Você pode classificar os ativos pesquisados em ordem crescente ou decrescente de `Name`, `Relevancy`, `Size`, `Modified`e `Created`.
 
 ## Pesquisas salvas {#saved-search}
 
-A funcionalidade de pesquisa é bastante fácil de usar em [!DNL Assets Essentials]. Na caixa de pesquisa, você não pode apenas digitar uma palavra-chave e pressionar return para ver os resultados, você também pode pesquisar rapidamente novamente por palavras-chave pesquisadas recentemente em um único clique.
+A funcionalidade de pesquisa é bastante fácil de usar no [!DNL Assets Essentials]. Na caixa de pesquisa, você não pode apenas digitar uma palavra-chave e pressionar return para ver os resultados, você também pode pesquisar rapidamente novamente por palavras-chave pesquisadas recentemente em um único clique.
 
 Também é possível filtrar os resultados da pesquisa com base em critérios específicos sobre metadados e tipo de ativos. Para filtros usados com frequência, para melhorar a experiência de pesquisa, [!DNL Assets Essentials] permite salvar os parâmetros de pesquisa. Em seguida, você pode selecionar a pesquisa salva para pesquisar e aplicar o filtro com apenas um clique também.
 
-Para criar uma pesquisa salva, pesquise por algum ativo, aplique um ou mais filtros e clique em [!UICONTROL Save Search] no painel [!UICONTROL Filters].
+Para criar uma pesquisa salva, pesquise por algum ativo, aplique um ou mais filtros e clique em [!UICONTROL Salvar pesquisa] no [!UICONTROL Filtros] painel.
 
 ![Pesquisa salva do painel Filtros](assets/saved-search.png)
 
