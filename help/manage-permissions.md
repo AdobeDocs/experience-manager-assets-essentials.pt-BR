@@ -2,7 +2,7 @@
 title: Como gerenciar permissões para pastas no AEM Assets Essentials?
 description: O Assets Essentials permite que os administradores gerenciem os níveis de acesso para pastas disponíveis no repositório. Crie grupos de usuários e atribua permissões a esses grupos para gerenciar níveis de acesso. Como administrador, você também pode delegar os privilégios de gerenciamento de permissões a grupos de usuários no nível da pasta.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: 800ebc5040dcd4b6ed4178314b0627cbde7ddeaf
+source-git-commit: 68bfd7cb55b38e12ee0f5b8f12449c7137e02e90
 workflow-type: tm+mt
 source-wordcount: '1580'
 ht-degree: 0%
@@ -99,7 +99,7 @@ Se precisar fornecer permissões de edição ao `Marketing` somente para o depar
 
 O Assets Essentials usa a herança de permissão, que permite herdar as permissões definidas para a pasta pai na pasta filho. Por exemplo, se a pasta principal tiver `Can View` permissões para o `All Authenticated Users` e a pasta filho tiver `Can Edit` permissões para o `Marketing` grupo de usuários, permite que todos os usuários autenticados tenham permissões de exibição para a pasta filho e para o `Marketing` grupo de usuários para ter permissões de edição para a pasta filho. O `Marketing` o grupo de usuários tem permissões de edição para outros níveis de pastas na pasta filho (Marketing).
 
-![Atribuir permissões](assets/permissions-inheritance.png)
+![Atribuir permissões](assets/permissions-inheritance-updated.png)
 
 >[!NOTE]
 >
