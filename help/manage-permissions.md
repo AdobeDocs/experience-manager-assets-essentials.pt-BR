@@ -2,7 +2,7 @@
 title: Como gerenciar permissões para pastas no AEM Assets Essentials?
 description: O Assets Essentials permite que os administradores gerenciem os níveis de acesso para pastas disponíveis no repositório. Crie grupos de usuários e atribua permissões a esses grupos para gerenciar níveis de acesso. Como administrador, você também pode delegar os privilégios de gerenciamento de permissões a grupos de usuários no nível da pasta.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: 424517e7961bcc39cd3048ebc750fe1b4b06f659
+source-git-commit: 57aa6f4641deb8cc687a462a380404e8fc3b6844
 workflow-type: tm+mt
 source-wordcount: '1580'
 ht-degree: 0%
@@ -70,7 +70,7 @@ Você pode usar os seguintes métodos para criar uma estrutura de pastas no repo
 
 Crie uma estrutura de pastas que funcione bem com os objetivos de negócios da organização. Se estiver carregando uma estrutura de pastas existente no repositório do Assets Essentials, você deverá revisar a estrutura. Para obter mais informações, consulte [Práticas recomendadas para o gerenciamento eficaz de permissões](permission-management-best-practices.md).
 
-## Gerenciar permissões em pastas {#manage-permissions-folders}
+## Gerenciar permissões em pastas {#manage-permissions-on-folders}
 
 Você pode atribuir as seguintes permissões aos grupos de usuários ou usuários. O Adobe não recomenda atribuir permissões a usuários.
 
