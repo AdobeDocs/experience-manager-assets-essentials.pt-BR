@@ -2,7 +2,7 @@
 title: Como gerenciar permissões para pastas no AEM Assets Essentials?
 description: O Assets Essentials permite que os administradores gerenciem os níveis de acesso para pastas disponíveis no repositório. Crie grupos de usuários e atribua permissões a esses grupos para gerenciar níveis de acesso. Como administrador, você também pode delegar os privilégios de gerenciamento de permissões a grupos de usuários no nível da pasta.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: 68bfd7cb55b38e12ee0f5b8f12449c7137e02e90
+source-git-commit: 98879f59bd1bb5725f51f91bfa638f2de6759e9a
 workflow-type: tm+mt
 source-wordcount: '1580'
 ht-degree: 0%
@@ -15,7 +15,7 @@ O Assets Essentials permite que os administradores gerenciem os níveis de acess
 
 O diagrama de fluxo de dados a seguir ilustra a sequência de tarefas que você executa para configurar e gerenciar permissões em pastas disponíveis no repositório Assets Essentials:
 
-![Opções da barra de ferramentas ao selecionar um ativo](assets/permissions-management.png)
+![Opções da barra de ferramentas ao selecionar um ativo](assets/permissions-management-updated.png)
 
 ## Antes de gerenciar permissões para pastas {#before-managing-permissions}
 
@@ -93,7 +93,7 @@ Por exemplo, se você atribuir a variável `Can View` permissões de uma pasta p
 
 Se precisar fornecer permissões de edição ao `Marketing` somente para o departamento de marketing de sua organização e permissões de visualização para outras pessoas, atribua `Can View` permissões para super grupo `All Authenticated Users` e `Can Edit` permissões para seu subgrupo `Marketing`.
 
-![Atribuir permissões](assets/permissions-management-groups.png)
+![Atribuir permissões](assets/permissions-management-groups-updated.png)
 
 **Herança da permissão**
 
@@ -183,7 +183,7 @@ Crie os seguintes grupos de usuários no Admin Console:
 * Equipe Legal
 
 O diagrama a seguir ilustra a hierarquia de pastas e as permissões atribuídas a cada grupo de usuários:
-![Atribuir permissões](assets/use-case-permissions-mamagement.png)
+![Atribuir permissões](assets/use-case-permissions-management.png)
 
 A seguir estão os níveis de acesso para todos os grupos de usuários na hierarquia de pastas:
 
