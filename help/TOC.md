@@ -11,12 +11,12 @@ role: User,Leader
 source-git-commit: be84c4c7a5e2f3220cde54f1d01007e9dacf183a
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 42%
+ht-degree: 85%
 
 ---
 
 
-# [!DNL Assets Essentials] Guia {#help}
+# Guia do [!DNL Assets Essentials] {#help}
 
 + [Visão geral da solução](introduction.md)
 + [Notas de versão](release-notes.md)
@@ -24,8 +24,8 @@ ht-degree: 42%
 + Gerenciar acesso à pasta{#folder-access}
    + [Gerenciar permissões da pasta](manage-permissions.md)
    + [Práticas recomendadas para o gerenciamento de permissões](permission-management-best-practices.md)
-+ [Introdução ao uso [!DNL Assets Essentials]](get-started.md)
-+ [Tipos de arquivo suportados e casos de uso](supported-file-formats.md)
++ [Começar a usar o  [!DNL Assets Essentials]](get-started.md)
++ [Tipos de arquivos compatíveis e casos de uso](supported-file-formats.md)
 + [Exibir ativos](navigate-view.md)
 + [Fazer upload e adicionar ativos](add-delete.md)
 + [Pesquisar e descobrir ativos](search.md)

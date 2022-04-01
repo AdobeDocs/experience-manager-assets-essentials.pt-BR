@@ -6,14 +6,14 @@ contentOwner: AG
 source-git-commit: a1dc66213f602bce5b5a2ec0ba99084c7f7b1ee1
 workflow-type: tm+mt
 source-wordcount: '39'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Atualizar ativos em [!DNL Assets Essentials] {#update-assets}
+# Atualizar ativos no [!DNL Assets Essentials] {#update-assets}
 
-Você pode atualizar os ativos existentes carregando uma nova versão ou editando imagens em [!DNL Assets Essentials].
+Você pode atualizar os ativos existentes carregando uma nova versão ou editando imagens no [!DNL Assets Essentials].
 
 <!-- TBD: Discard this article if not too much unique content for it.
 Merge the update asset part in manage assets or upload assets.
