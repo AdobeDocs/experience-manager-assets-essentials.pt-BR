@@ -4,9 +4,9 @@ description: Editar imagens usando opções viabilizadas pelo [!DNL Adobe Photos
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '497'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 65%
 
 O [!DNL Assets Essentials] fornece opções de edição intuitivas viabilizadas pelo [!DNL Adobe Photoshop Express]. As ações de edição disponíveis são: Remover manchas, Cortar e endireitar, Redimensionar imagem e Ajustar imagem.
 
-Após editar uma imagem, você pode salvar a nova imagem como uma nova versão. O controle de versão ajuda você a reverter para o ativo original posteriormente, se necessário. Para editar uma imagem, [abrir sua visualização](/help/navigate-view.md#preview-assets) e clique em **[!UICONTROL Editar imagem]** ![ícone editar](assets/do-not-localize/edit-icon.png) do trilho à direita.
+Após editar uma imagem, você pode salvar a nova imagem como uma nova versão. O controle de versão ajuda você a reverter para o ativo original posteriormente, se necessário. Para editar uma imagem, [abra sua visualização](/help/navigate-view.md#preview-assets) e clique em **[!UICONTROL Editar imagem]** ![ícone de edição](assets/do-not-localize/edit-icon.png) no painel à direita.
 
 ![Opções para editar uma imagem](assets/edit-image2.png)
 
@@ -35,7 +35,7 @@ For more information about how Spot Healing works in Photoshop, see [retouching 
 
 Usando a opção cortar e endireitar, você pode fazer cortes básicos, girar a imagem, invertê-la na horizontal ou vertical e recortá-la em dimensões adequadas para sites de redes sociais conhecidos.
 
-Para salvar suas edições, clique em **[!UICONTROL Recortar imagem]**. Após a edição, você pode salvar a nova imagem como uma versão.
+Para salvar suas edições, clique em **[!UICONTROL Cortar imagem]**. Após a edição, você pode salvar a nova imagem como uma versão.
 
 ![Opção de cortar e endireitar](assets/edit-crop-straighten.png)
 
@@ -45,7 +45,7 @@ Muitas opções padrão permitem que você corte a imagem nas melhores proporç�
 
 Redimensionar uma imagem para um tamanho específico é um caso de uso comum. O [!DNL Assets Essentials] permite redimensionar rapidamente a imagem para ajustá-la aos tamanhos de foto comuns, fornecendo novas resoluções pré-calculadas para tamanhos de foto específicos. Você pode visualizar os tamanhos comuns de fotos em centímetros ou polegadas para conhecer as dimensões. Por padrão, o método de redimensionamento mantém a proporção. Para substituir manualmente a taxa de proporção, clique em ![](assets/do-not-localize/lock-closed-icon.png).
 
-Insira as dimensões e clique em **[!UICONTROL Redimensionar imagem]** para redimensionar a imagem. Antes de salvar as alterações como uma versão, você pode desfazer todas as alterações feitas antes de salvar clicando em [!UICONTROL Desfazer] ou você pode alterar a etapa específica do processo de edição clicando em [!UICONTROL Reverter].
+Insira as dimensões e clique em **[!UICONTROL Redimensionar imagem]** para redimensionar a imagem. Antes de salvar as alterações como uma versão, você pode desfazer todas as alterações feitas antes de salvar clicando em [!UICONTROL Desfazer] ou alterar a etapa específica do processo de edição clicando em [!UICONTROL Reverter].
 
 ![Opções ao redimensionar uma imagem](assets/resize-image.png)
 
@@ -53,11 +53,11 @@ Insira as dimensões e clique em **[!UICONTROL Redimensionar imagem]** para redi
 
 O [!DNL Assets Essentials] permite ajustar a cor, o tom, o contraste e muito mais, com apenas alguns cliques. Clique em **[!UICONTROL Ajustar imagem]** na janela de edição. As seguintes opções estão disponíveis na barra lateral direita:
 
-* **Popular**: [!UICONTROL Alto contraste e detalhes], [!UICONTROL Contraste Desaturado], [!UICONTROL Foto de idade], [!UICONTROL P&amp;W Suave]e [!UICONTROL Tom da sépia B&amp;W].
-* **Cor**: [!UICONTROL Natural], [!UICONTROL Brilho], [!UICONTROL Alto contraste], [!UICONTROL Alto contraste e detalhes], [!UICONTROL Vívido]e [!UICONTROL Matte].
-* **Criativo**: [!UICONTROL Contraste Desaturado], [!UICONTROL Luz fria], [!UICONTROL Turquesa e Vermelho], [!UICONTROL Cintura suave], [!UICONTROL Vintage Instant], [!UICONTROL Contraste Quente], [!UICONTROL Simples e Verde], [!UICONTROL Correspondência de aumento vermelho], [!UICONTROL Sombras quentes]e [!UICONTROL Foto de idade].
-* **B&amp;W**: [!UICONTROL &amp;Paisagem B&amp;W], [!UICONTROL B&amp;W Alto Contraste], [!UICONTROL &amp;Inicialização], [!UICONTROL &amp;Baixo Contraste], [!UICONTROL &amp;Plano B&amp;W], [!UICONTROL P&amp;W Suave], [!UICONTROL Infravermelho B&amp;W], [!UICONTROL B&amp;W Tone de selênio], [!UICONTROL Tom da sépia B&amp;W]e [!UICONTROL Tone Dividido em P&amp;W].
-* **Vinheta**: [!UICONTROL Nenhum], [!UICONTROL Luz], [!UICONTROL Médio]e [!UICONTROL Pesado].
+* **Popular**: [!UICONTROL Alto contraste e detalhe], [!UICONTROL Contraste dessaturado], [!UICONTROL Foto envelhecida], [!UICONTROL P&amp;B Suave] e [!UICONTROL P&amp;B em tom sépia].
+* **Cor**: [!UICONTROL Natural], [!UICONTROL Claro], [!UICONTROL Alto contraste], [!UICONTROL Alto contraste e detalhe], [!UICONTROL Vívido] e [!UICONTROL Fosco].
+* **Criativa**: [!UICONTROL Contraste dessaturado], [!UICONTROL Luz fria], [!UICONTROL Turquesa e vermelho], [!UICONTROL Névoa suave], [!UICONTROL Instantâneo vintage], [!UICONTROL Contraste quente], [!UICONTROL Plano e Verde], [!UICONTROL Aumento vermelho fosco], [!UICONTROL Sombras quentes] e [!UICONTROL Foto envelhecida].
+* **P&amp;B**: [!UICONTROL Paisagem P&amp;B], [!UICONTROL P&amp;B de alto contraste], [!UICONTROL P&amp;B Forte], [!UICONTROL P&amp;B de baixo contraste], [!UICONTROL P&amp;B plano], [!UICONTROL P&amp;B suave], [!UICONTROL P&amp;B infravermelho], [!UICONTROL P&amp;B em tom selênio], [!UICONTROL P&amp;B em tom sépia] e [!UICONTROL P&amp;B em tom dividido].
+* **Vinhetas**: [!UICONTROL Nenhum], [!UICONTROL Leve], [!UICONTROL Médio] e [!UICONTROL Pesado].
 
 ![Ajustar imagem por edição](assets/adjust-image.png)
 
