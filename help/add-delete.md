@@ -4,7 +4,7 @@ description: Faça upload de ativos para o [!DNL Assets Essentials], visualize o
 role: User
 exl-id: a85a4455-4456-48af-aee9-f05300677605
 source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '747'
 ht-degree: 100%
 
