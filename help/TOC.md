@@ -9,9 +9,9 @@ feature-set: Experience Manager Assets,Experience Manager
 feature: Asset Management
 role: User,Leader
 source-git-commit: be84c4c7a5e2f3220cde54f1d01007e9dacf183a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 85%
 + [Implantar e adicionar usuários](deploy-administer.md)
 + Gerenciar acesso à pasta{#folder-access}
    + [Gerenciar permissões da pasta](manage-permissions.md)
-   + [Práticas recomendadas para o gerenciamento de permissões](permission-management-best-practices.md)
+   + [Práticas recomendadas para gerenciamento de permissões](permission-management-best-practices.md)
 + [Começar a usar o  [!DNL Assets Essentials]](get-started.md)
 + [Tipos de arquivos compatíveis e casos de uso](supported-file-formats.md)
 + [Exibir ativos](navigate-view.md)
