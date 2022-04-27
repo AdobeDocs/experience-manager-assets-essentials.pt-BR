@@ -4,15 +4,15 @@ description: Casos de uso de administração, como implantação e gerenciamento
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 source-git-commit: fb4ca5b3ab85f77cc1013c2d4743530f5d48e96d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1129'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
-# Administrar [!DNL Assets Essentials] e adicionar usuários {#administer}
+# Administrar o [!DNL Assets Essentials] e adicionar usuários {#administer}
 
-O [!DNL Adobe Experience Manager Assets Essentials] é provisionado pela Adobe para seus clientes. Como parte do provisionamento, o [!DNL Assets Essentials] é adicionado à organização de um cliente no [!DNL Adobe Admin Console]. Os administradores usarão [!DNL Admin Console] para gerenciar direitos de usuário para [!DNL Assets Essentials] e atribuir administradores de aplicativos para configurar permissões e formulários de metadados no [!DNL Assets Essentials].
+O [!DNL Adobe Experience Manager Assets Essentials] é provisionado pela Adobe para seus clientes. Como parte do provisionamento, o [!DNL Assets Essentials] é adicionado à organização de um cliente no [!DNL Adobe Admin Console]. Os administradores usam o [!DNL Admin Console] para gerenciar direitos de usuário para a solução [!DNL Assets Essentials] e atribuir administradores de aplicativos para configurar permissões e formulários de metadados no [!DNL Assets Essentials].
 
 ## Implantação automática do Assets Essentials {#automatic-deployment-assets-essentials}
 
@@ -24,7 +24,7 @@ No link do email, acesse e faça logon no [Admin Console](https://adminconsole.a
 
 Após a implantação bem-sucedida da solução Assets Essentials, os administradores precisam executar as seguintes tarefas:
 
-* [Configurar grupos de usuários, estrutura de pastas e atribuir permissões](manage-permissions.md) para a solução. Seguir [práticas recomendadas](permission-management-best-practices.md) para garantir uma configuração de permissões simples e eficaz.
+* [Configurar grupos de usuários, estrutura de pastas e atribuir permissões](manage-permissions.md) para a solução. Siga as [práticas recomendadas](permission-management-best-practices.md) para garantir uma configuração de permissões simples e eficaz.
 * [Gerenciar o acesso de usuário](#add-users-to-essentials) ao [!DNL Assets Essentials] de membros da organização.
 * Ou, opcionalmente, [visualizar o status e os logs do serviço](#view-logs).
 
@@ -37,18 +37,18 @@ Após a implantação bem-sucedida da solução Assets Essentials, os administra
 
 Um administrador gerencia quais usuários tem acesso ao [!DNL Assets Essentials]. Os administradores usam o [!DNL Adobe Admin Console] para adicionar ou remover o acesso do usuário. O [!DNL Assets Essentials] tem dois tipos de acesso de usuário disponíveis, os quais são descritos a seguir.
 
-* **[!DNL Assets Essentials]Administradores** ter acesso administrativo ao aplicativo. Além de todos os recursos do usuário final, os administradores de aplicativos neste grupo podem gerenciar permissões para qualquer pasta e grupo/usuário em todo o repositório de aplicativos.
+* Administradores do **[!DNL Assets Essentials]** têm acesso administrativo ao aplicativo. Além de todos os recursos do usuário final, os administradores de aplicativos neste grupo podem gerenciar permissões para qualquer pasta e grupo/usuário em todo o repositório de aplicativos.
 * Usuários do **[!DNL Assets Essentials]** têm acesso à interface completa. Esses usuários podem fazer upload, organizar, marcar e encontrar ativos digitais.
 * Usuários consumidores do **[!DNL Assets Essentials]**: têm acesso à experiência de seleção de ativos incorporada no editor de modelo de email do [!DNL Adobe Journey Optimizer]. Para obter mais informações, consulte [Usar o [!DNL Assets Essentials] no [!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html?lang=pt-BR).
 
-Em [!DNL Admin Console], esses três tipos de acesso são representados por três [!UICONTROL Perfis de produto]. Para adicionar e remover membros de sua organização em qualquer um dos perfis, siga estas etapas:
+No [!DNL Admin Console], esses três tipos de acesso são representados por três [!UICONTROL Perfis de produto]. Para adicionar e remover membros de sua organização em qualquer um dos perfis, siga estas etapas:
 
-1. Acesse o [!DNL Admin Console] da sua organização, clique em **[!UICONTROL Produtos]** na barra superior, clique em **[!UICONTROL AEM Assets Essentials]** e, em seguida, clique no ambiente [!DNL Assets Essentials]. [!DNL Assets Essentials] O tem três perfis de produto que representam o acesso de usuários administradores, regulares e consumidores.
+1. Acesse o [!DNL Admin Console] da sua organização, clique em **[!UICONTROL Produtos]** na barra superior, clique em **[!UICONTROL AEM Assets Essentials]** e, em seguida, clique no ambiente [!DNL Assets Essentials]. O [!DNL Assets Essentials] tem três perfis de produto que representam o acesso para administradores, usuários comuns e consumidores.
 
    ![Três perfis para três tipos de usuários](assets/admin-console-admin-profile.png)
    <!-- Need to update screenshot to include 3 profiles -->
 
-   *Figura: Três perfis estão disponíveis para adicionar os três tipos de usuários.*
+   *Figura: três perfis estão disponíveis para adicionar os três tipos de usuários.*
 
 1. Para adicionar um usuário a um grupo, clique no grupo, selecione **[!UICONTROL Adicionar usuário]**, forneça os detalhes do usuário e clique em **[!UICONTROL Salvar]**. Ao adicionar um usuário, ele recebe um convite por email para começar. Você pode desativar os convites por email nas configurações do perfil de produto no [!DNL Admin Console].
 
