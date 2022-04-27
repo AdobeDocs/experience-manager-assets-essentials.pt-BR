@@ -4,9 +4,9 @@ description: Como acessar, experiência de logon, casos de uso com suporte e pro
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
 source-git-commit: fdfbe04b41c6b164007591855c4dd37b6fe3dfa7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '476'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ Para abrir as preferências, clique no avatar no canto superior direito da inter
 
 Se fizer parte de organizações diferentes, também poderá alterar a organização e acessar suas contas em várias organizações.
 
-Para alterar a [!UICONTROL preferências de Experience Cloud], Clique em [!UICONTROL Preferências].
+Para alterar as [!UICONTROL Preferências da Experience Cloud], clique em [!UICONTROL Preferências].
 
 ![Preferência para alternar entre temas escuro e claro](assets/theme-change.png)
 
@@ -65,7 +65,7 @@ As várias tarefas de gerenciamento de ativos digitais (DAM) que você pode real
 
 ## ![ícone de feedback](assets/do-not-localize/feedback-icon.png) Fornecer feedback do produto {#provide-feedback}
 
-A Adobe agradece o feedback sobre a solução. Para fornecer feedback sem nem mesmo alternar o aplicativo de trabalho, use o [!UICONTROL Feedback] na interface do usuário. Ela também permite anexar arquivos, como capturas de tela ou gravações de vídeo feitas para mostrar um problema.
+A Adobe agradece o feedback sobre a solução. Para fornecer feedback sem nem mesmo alternar o aplicativo de trabalho, use a opção de [!UICONTROL Feedback] na interface. Ela também permite anexar arquivos, como capturas de tela ou gravações de vídeo feitas para mostrar um problema.
 
 ![opção de feedback na interface](assets/feedback-panel.png)
 
