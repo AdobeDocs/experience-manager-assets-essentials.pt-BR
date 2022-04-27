@@ -5,25 +5,25 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 4cced7aba92fd0f041842e5ef78d02f0a4f7ffe0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '549'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
 # Notas de versão do [!DNL Assets Essentials] {#release-notes}
 
-A versão atual do [!DNL Assets Essentials] foi lançado em 9 de março de 2022. Esta versão fornece:
+A versão atual do [!DNL Assets Essentials] foi lançada em 9 de março de 2022. Esta versão fornece:
 
-* [!DNL Assets Essentials] O agora permite [gerar um link e compartilhar ativos com os participantes externos](share-links-for-assets.md), que não têm acesso ao [!DNL Assets Essentials] aplicativo. Você pode definir uma data de expiração para o link e, em seguida, compartilhá-la com outras pessoas usando o método de comunicação preferido, como email ou serviços de mensagens. Os recipients do link podem visualizar ativos e baixá-los.
+* O [!DNL Assets Essentials] agora permite [gerar um link e compartilhar ativos com os participantes externos](share-links-for-assets.md), que não têm acesso ao aplicativo do [!DNL Assets Essentials]. Você pode definir uma data de expiração para o link e, em seguida, compartilhá-la com outras pessoas usando o método de comunicação preferido, como email ou serviços de mensagens. Os recipients do link podem visualizar ativos e baixá-los.
 
-* O [!DNL Assets Essentials] agora inclui [um perfil de produto de administrador](deploy-administer.md#add-users-to-essentials) no Admin Console, além dos perfis de produtos do usuário regulares e do consumidor existentes. Um administrador agora pode atribuir outros usuários ao perfil de produto do administrador.
+* O [!DNL Assets Essentials] agora inclui [um perfil de administrador de produto](deploy-administer.md#add-users-to-essentials) no Admin Console, além dos perfis de produtos do usuário regular e do consumidor existentes. Agora, um administrador pode atribuir outros usuários ao perfil de administrador de produto.
 
-* O Assets Essentials agora permite que os administradores [gerenciar os níveis de acesso para pastas disponíveis no repositório](manage-permissions.md). Como administrador, você pode criar grupos de usuários e atribuir permissões a esses grupos para gerenciar níveis de acesso. Você também pode delegar os privilégios de gerenciamento de permissões a grupos de usuários no nível da pasta.
+* O Assets Essentials agora permite que os administradores [gerenciem os níveis de acesso para pastas disponíveis no repositório](manage-permissions.md). Como administrador, você pode criar grupos de usuários e atribuir permissões a esses grupos para gerenciar níveis de acesso. Você também pode delegar os privilégios de gerenciamento de permissões a grupos de usuários no nível da pasta.
 
 * Aprimoramentos e correções de erros com base no feedback do cliente.
 
-Além disso, [!DNL Adobe Asset Link] extensão para Creative Cloud (Photoshop, Illustrator e InDesign) lançada como [nova versão 3.2](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html), com melhorias de desempenho no tempo de inicialização do painel e na velocidade de download.
+Além disso, a extensão [!DNL Adobe Asset Link] para Creative Cloud (Photoshop, Illustrator e InDesign), recebeu uma [nova versão (3.2)](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html), com melhorias de desempenho no tempo de inicialização do painel e na velocidade de download.
 
 
 ## Problemas conhecidos {#known-issues}
@@ -38,9 +38,9 @@ Se você encontrar problemas ou quiser fazer solicitações de aprimoramento, [f
 
 ### Versão 2022.1.0 {#january-2022}
 
-[!DNL Assets Essentials] O foi lançado em 30 de fevereiro de 2022 com as seguintes atualizações:
+O [!DNL Assets Essentials] foi lançado em 03 de fevereiro de 2022 com as seguintes atualizações:
 
-* Melhorias de desempenho para a [!UICONTROL Criar pasta] operação. <!-- CQ-4338818 -->
+* Melhorias de desempenho para a operação [!UICONTROL Criar pasta]. <!-- CQ-4338818 -->
 
 ### Versão 2021.11.0 {#november-2021}
 
@@ -60,7 +60,7 @@ O [!DNL Assets Essentials] 2021.8.0 foi lançado em 30 de agosto de 2021, com as
 
 O [!DNL Assets Essentials] 2021.7.0 foi lançado em 29 de julho de 2021, com as seguintes atualizações:
 
-* Você pode criar e gerenciar formulários de metadados personalizados a serem usados para exibir propriedades de metadados aos usuários na tela de detalhes do ativo em [!UICONTROL Forms de metadados] opção em [!DNL Settings]. Consulte [formulários de metadados](metadata.md#metadata-forms).
+* Você pode criar e gerenciar formulários de metadados personalizados que serão usados para exibir propriedades de metadados aos usuários na tela de detalhes do ativo, por meio da opção [!UICONTROL Formulários de metadados] em [!DNL Settings]. Consulte [formulários de metadados](metadata.md#metadata-forms).
 * Várias correções de erros e aprimoramentos de produtos, incluindo melhor desempenho ao fazer upload de uma pasta aninhada com muitas subpastas.
 
 ### Versão 2021.6.0 {#june2021}
