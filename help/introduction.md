@@ -4,9 +4,9 @@ description: Visão geral e resumo da solução do Assets Essentials
 role: User,Leader
 exl-id: 43ddf11c-36d3-4643-80c9-b7dd5d199450
 source-git-commit: c95717e9898ade023d785b9d0191f4bc20f10a39
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '243'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 90%
 
 A Adobe oferece uma solução robusta de gerenciamento de ativos digitais (DAM) para você aproveitar ao máximo seus ativos digitais. Como parte da linha de produtos do Adobe Experience Manager, a Adobe está oferecendo uma nova solução SaaS para armazenar, gerenciar e descobrir ativos digitais, que também se integra nativamente com outras soluções da Adobe.
 
-O [!DNL Experience Manager Assets Essentials] é uma edição nova e mais leve do [!DNL Adobe Experience Manager Assets]. O [!DNL Assets Essentials] fornece gerenciamento e colaboração unificados de ativos com uma interface simplificada e consistente. A facilidade de uso permite que mais equipes de criação e marketing armazenem, descubram e distribuam ativos digitais. Atualmente, o [!DNL Assets Essentials] a experiência pode se integrar com as seguintes soluções:
+O [!DNL Experience Manager Assets Essentials] é uma edição nova e mais leve do [!DNL Adobe Experience Manager Assets]. O [!DNL Assets Essentials] fornece gerenciamento e colaboração unificados de ativos com uma interface simplificada e consistente. A facilidade de uso permite que mais equipes de criação e marketing armazenem, descubram e distribuam ativos digitais. Atualmente, a experiência do [!DNL Assets Essentials] incorporado pode se integrar com as seguintes soluções:
 
 * Creative Cloud para empresas
 
@@ -26,7 +26,7 @@ O [!DNL Experience Manager Assets Essentials] é uma edição nova e mais leve d
 
 * Adobe Workfront
 
-Para obter mais informações, consulte [Integração com outras soluções do Adobe](integration.md).
+Para obter mais informações, consulte [Integrações com outras soluções da Adobe](integration.md).
 
 O [!DNL Assets Essentials] se concentra em oferecer uma interface simples e um mecanismo de pesquisa e descoberta de ativos digitais eficiente, para garantir a utilização dos ativos, a governança e a consistência da marca em todas as equipes. A experiência do usuário final pode ser obtida por meio de uma interface web independente e uma experiência incorporada em outras soluções da Adobe.
 
