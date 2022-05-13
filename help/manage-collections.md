@@ -1,9 +1,9 @@
 ---
 title: Gerenciar coleções
 description: Uma coleção é um conjunto de ativos no Experience Manager Assets Essentials. Use coleções para compartilhar ativos entre usuários.
-source-git-commit: 3496f7dea36c47b1fb41d39282ad6028def74499
+source-git-commit: 6e86dc11e953423c156c3c06cb20c1700afdd59b
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '473'
 ht-degree: 8%
 
 ---
@@ -28,13 +28,9 @@ Você pode executar as seguintes tarefas para gerenciar e usar coleções:
 
 * [Remover ativos para uma coleção](#remove-assets-from-collection)
 
-* [Gerenciar acesso a uma coleção](#manage-collection-access)
-
-* [Pesquisar uma coleção](#search-collections)
-
 * [Exibir e editar metadados da coleção](#view-edit-collection-metadata)
 
-* [Baixar uma coleção](#download-collection)
+* [Baixar elementos de coleção](#download-collection-elements)
 
 * [Excluir uma coleção](#delete-collection)
 
