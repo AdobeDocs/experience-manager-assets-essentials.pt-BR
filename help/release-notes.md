@@ -4,10 +4,10 @@ description: Notas de versão e problemas conhecidos do [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 7c4bc88e2110ff1dd7442af303bdd2c586ba5a6f
+source-git-commit: 4fcac20c15ebabcafe851ce207bd937c8a7f6b03
 workflow-type: tm+mt
-source-wordcount: '786'
-ht-degree: 69%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -36,8 +36,6 @@ Com esta versão, estamos otimizando o desempenho do delivery da interface do us
 A lista de problemas conhecidos do [!DNL Assets Essentials] é revisada e atualizada continuamente:
 
 * Não é possível filtrar ativos usando a variável `No Status` status do ativo.
-
-* Não é possível procurar ou procurar um ativo com uma `Expired` status. Você só pode acessar o ativo usando um deep link ou URL.
 
 * O Assets Essentials não oferece suporte à criação de coleções privadas.
 
