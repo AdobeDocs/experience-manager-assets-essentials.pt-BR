@@ -3,16 +3,18 @@ title: Administrar e gerenciar usuários
 description: Casos de uso de administração, como implantação e gerenciamento de usuários no [!DNL Assets Essentials].
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: fb4ca5b3ab85f77cc1013c2d4743530f5d48e96d
-workflow-type: ht
-source-wordcount: '1129'
-ht-degree: 100%
+source-git-commit: 552dcf43677ac2a95864666faab9938534f70d40
+workflow-type: tm+mt
+source-wordcount: '1139'
+ht-degree: 99%
 
 ---
 
 # Administrar o [!DNL Assets Essentials] e adicionar usuários {#administer}
 
 O [!DNL Adobe Experience Manager Assets Essentials] é provisionado pela Adobe para seus clientes. Como parte do provisionamento, o [!DNL Assets Essentials] é adicionado à organização de um cliente no [!DNL Adobe Admin Console]. Os administradores usam o [!DNL Admin Console] para gerenciar direitos de usuário para a solução [!DNL Assets Essentials] e atribuir administradores de aplicativos para configurar permissões e formulários de metadados no [!DNL Assets Essentials].
+
+Para que a experiência baseada em jornadas gerencie o Assets Essentials, clique aqui [link](adminster-aem-assets-essentials.md).
 
 ## Implantação automática do Assets Essentials {#automatic-deployment-assets-essentials}
 

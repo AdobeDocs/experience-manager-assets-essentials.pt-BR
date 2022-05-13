@@ -3,8 +3,8 @@ title: Editar imagens
 description: Editar imagens usando opções viabilizadas pelo [!DNL Adobe Photoshop Express] e salvar imagens atualizadas como versões.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: ht
+source-git-commit: 4d684d59faf0d01d42320b495fcffd06391010ef
+workflow-type: tm+mt
 source-wordcount: '497'
 ht-degree: 100%
 
@@ -28,8 +28,10 @@ O pincel seleciona a área retocada e faz com que os pixels reparados se misture
 
 ![Opção de edição de recuperação de manchas](assets/edit-spot-healing.png)
 
-<!-- TBD: See if we should give backlinks to PS docs for these concepts.
-For more information about how Spot Healing works in Photoshop, see [retouching and repairing photos](https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html). -->
+<!-- 
+TBD: See if we should give backlinks to PS docs for these concepts.
+For more information about how Spot Healing works in Photoshop, see [retouching and repairing photos](https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html). 
+-->
 
 ## Recortar e endireitar imagens {#crop-straighten-images}
 
