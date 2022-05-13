@@ -4,10 +4,10 @@ description: Mover, excluir, copiar, renomear, atualizar e criar versões de seu
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: ht
-source-wordcount: '614'
-ht-degree: 100%
+source-git-commit: e8bae7cb2b424fe6956247398398e86f559db67f
+workflow-type: tm+mt
+source-wordcount: '838'
+ht-degree: 79%
 
 ---
 
@@ -83,3 +83,65 @@ Você também pode criar versões na linha do tempo de versões. Selecione a ver
 ![Visualizar versões de um ativo](assets/view-asset-versions1.png)
 
 *Figura: visualizar versões de um ativo, reverter para uma versão anterior ou fazer upload de outra nova versão.*
+
+## Gerenciar o status do ativo {#manage-asset-status}
+
+**Permissões necessárias:**  `Can Edit`, `Owner`ou permissões de administrador em um ativo.
+
+O Assets Essentials permite definir o status em ativos disponíveis no repositório. Defina um status de ativo para melhor administrar e gerenciar o consumo downstream de ativos digitais.
+
+Você pode definir o seguinte status em ativos:
+
+* Aprovado
+
+* Rejeitado
+
+* Sem Status
+
+### Definir status do ativo {#set-asset-status}
+
+Para definir o status do ativo:
+
+1. Selecione o ativo e clique em **[!UICONTROL Detalhes]** na barra de ferramentas.
+
+1. No **[!UICONTROL Básico]** selecione o status do ativo na guia **[!UICONTROL Status]** lista suspensa. Os valores possíveis incluem Approved, Rejected e No Status (padrão).
+
+   >[!VIDEO](https://video.tv.adobe.com/v/342495)
+
+<!--
+
+### Set asset expiration date {#set-asset-expiration-date}
+
+To set asset expiration date:
+
+1. Select the asset, and click **[!UICONTROL Details]** in the toolbar.
+
+1. In the **[!UICONTROL Basic]** tab, set the expiration date for the asset using the  **[!UICONTROL Expiration date]** field.
+
+The `Expired` asset card indicator overrides the `Approved` or `Rejected` indicator set for an asset.
+
+-->
+
+Também é possível filtrar ativos com base em um status de ativo. Para obter mais informações, consulte [Pesquisar ativos no Assets Essentials](search.md).
+
+## Personalizar formulários de metadados para incluir o campo de status do ativo {#customize-asset-status-metadata-form}
+
+**Permissões necessárias:** Administrador
+
+Por padrão, o Assets Essentials fornece vários campos de metadados padrão. As organizações têm necessidades adicionais de metadados e precisam de mais campos para adicionar metadados específicos de negócios. Os formulários de metadados permitem que as empresas adicionem campos de metadados personalizados à página [!UICONTROL Detalhes] de um ativo. Os metadados específicos de negócios melhoram a governança e a descoberta de ativos.
+
+Para obter mais informações sobre como adicionar campos de metadados adicionais ao formulário de metadados, consulte [Forms de metadados](metadata.md##metadata-forms).
+
+**Adicionar o campo de metadados Status do ativo ao formulário**
+
+Para adicionar o campo de metadados Status do ativo ao formulário, arraste **[!UICONTROL Status do ativo]** componente do painel à esquerda para o formulário. A propriedade mapping é preenchida automaticamente como pré-preenchimento. Salve o formulário para confirmar as alterações.
+
+<!--
+
+**Add Expiration Date metadata field to the form**
+
+To add Expiration Date metadata field to the form,  drag **[!UICONTROL Date]** component from the left rail to the form. Specify **Expiration Date** as the label and `pur:expirationDate` as the mapping property. Save the form to confirm the changes.
+
+-->
+
+

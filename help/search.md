@@ -3,10 +3,10 @@ title: Pesquisar e descobrir ativos no [!DNL Assets Essentials]
 description: Pesquisar e descobrir ativos no [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: ht
-source-wordcount: '389'
-ht-degree: 100%
+source-git-commit: 0420b0836affe453cced6789ea4a7c56660e9f0a
+workflow-type: tm+mt
+source-wordcount: '686'
+ht-degree: 57%
 
 ---
 
@@ -32,6 +32,8 @@ Você pode filtrar os resultados da pesquisa com base nos seguintes parâmetros.
 
 *Figura: filtre ativos pesquisados com base em vários parâmetros.*
 
+* Status do ativo: Filtre os resultados da pesquisa usando um `Approved` ou `Rejected` status do ativo.
+
 * Tipo de arquivo: filtre os resultados da pesquisa pelos tipos de arquivos compatíveis, ou seja, `Images`, `Documents` e `Videos`.
 * Tipo MIME: filtrar um ou mais formatos de arquivo compatíveis. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
 * Tamanho da imagem: forneça um ou mais valores máximos e mínimos de dimensão para filtrar imagens. O tamanho é fornecido em valores de dimensão de pixel e não é o tamanho do arquivo das imagens.
@@ -39,6 +41,66 @@ Você pode filtrar os resultados da pesquisa com base nos seguintes parâmetros.
 * Data de modificação: a data da última modificação dos ativos. O formato de data padrão usado é `yyyy-mm-dd`.
 
 Você pode classificar os ativos pesquisados em ordem crescente ou decrescente de `Name`, `Relevancy`, `Size`, `Modified` e `Created`.
+
+## Gerenciar filtros personalizados {#custom-filters}
+
+**Permissões necessárias:**  `Can Edit`, `Owner`ou Administrador.
+
+O Assets Essentials também permite adicionar filtros personalizados à interface do usuário. Você pode aplicar esses filtros personalizados além do [filtros padrão](#refine-search-results) para refinar os resultados da pesquisa.
+
+O Assets Essentials fornece os seguintes filtros personalizados:
+
+<table>
+    <tbody>
+     <tr>
+      <th><strong>Nome do filtro personalizado</strong></th>
+      <th><strong>Descrição</strong></th>
+     </tr>
+     <tr>
+      <td>Título</td>
+      <td>Filtrar ativos usando o título do ativo. O título especificado nos critérios de pesquisa que diferenciam maiúsculas e minúsculas deve corresponder ao título exato do ativo a ser exibido nos resultados.</td>
+     </tr>
+     <tr>
+      <td>Nome</td>
+      <td>Filtre ativos usando o nome do arquivo de ativo. O nome especificado nos critérios de pesquisa que diferenciam maiúsculas e minúsculas deve corresponder ao nome exato do arquivo do ativo a ser exibido nos resultados.</td>
+     </tr>
+     <tr>
+      <td>Tamanho do ativo</td>
+      <td>Filtre ativos definindo um intervalo de tamanho, em bytes, nos critérios de pesquisa para um ativo ser exibido nos resultados.</td>
+     </tr>
+     <tr>
+      <td>Tags previstas</td>
+      <td>Filtrar ativos usando a tag inteligente de ativo. O nome da tag inteligente especificada nos critérios de pesquisa que diferenciam maiúsculas e minúsculas deve corresponder ao nome exato da tag inteligente do ativo a ser exibido nos resultados. Não é possível especificar várias tags inteligentes em critérios de pesquisa.</td>
+     </tr>    
+    </tbody>
+   </table>
+
+### Adicionar filtros personalizados {#add-custom-filters}
+
+Para adicionar filtros personalizados:
+
+1. Clique em **[!UICONTROL Filtros]**.
+
+1. No **[!UICONTROL Filtros personalizados]** seção , clique em **[!UICONTROL Editar]** ou **[!UICONTROL Adicionar filtros]**.
+
+   ![Adicionar filtros personalizados](assets/add-custom-filters.png)
+
+1. No **[!UICONTROL Gerenciamento de filtros personalizados]** , selecione os filtros que precisam ser adicionados à lista de filtros existente. Selecionar **[!UICONTROL Filtros personalizados]** para selecionar todos os filtros.
+
+1. Clique em **[!UICONTROL Confirmar]** para adicionar os filtros à interface do usuário.
+
+### Remover filtros personalizados {#remove-custom-filters}
+
+Para remover filtros personalizados:
+
+1. Clique em **[!UICONTROL Filtros]**.
+
+1. No **[!UICONTROL Filtros personalizados]** seção , clique em **[!UICONTROL Editar]**.
+
+1. No **[!UICONTROL Gerenciamento de filtros personalizados]** , desmarque os filtros que precisam ser removidos da lista de filtros existente.
+
+1. Clique em **[!UICONTROL Confirmar]** para remover os filtros da interface do usuário.
+
 
 ## Pesquisas salvas {#saved-search}
 
