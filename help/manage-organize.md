@@ -4,10 +4,10 @@ description: Mover, excluir, copiar, renomear, atualizar e criar versões de seu
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: e8bae7cb2b424fe6956247398398e86f559db67f
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
 workflow-type: tm+mt
-source-wordcount: '838'
-ht-degree: 79%
+source-wordcount: '901'
+ht-degree: 73%
 
 ---
 
@@ -143,5 +143,17 @@ Para adicionar o campo de metadados Status do ativo ao formulário, arraste **[!
 To add Expiration Date metadata field to the form,  drag **[!UICONTROL Date]** component from the left rail to the form. Specify **Expiration Date** as the label and `pur:expirationDate` as the mapping property. Save the form to confirm the changes.
 
 -->
+
+## Próximas etapas {#next-steps}
+
+* [Assista a um vídeo para gerenciar ativos no Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/managing.html)
+
+* Fornecer feedback do produto usando o [!UICONTROL Feedback] opção disponível na interface do usuário do Assets Essentials
+
+* Forneça feedback de documentação usando [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponível na barra lateral direita
+
+* Contato [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General#support)
+
+
 
 

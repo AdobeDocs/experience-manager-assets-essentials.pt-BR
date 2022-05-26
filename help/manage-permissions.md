@@ -2,10 +2,10 @@
 title: Como gerenciar permissões para pastas no AEM Assets Essentials?
 description: O Assets Essentials permite que os administradores gerenciem os níveis de acesso para pastas disponíveis no repositório. Crie grupos de usuários e atribua permissões a esses grupos para gerenciar os níveis de acesso. Como administrador, você também pode delegar os privilégios de gerenciamento de permissões a grupos de usuários no nível da pasta.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: c5cb27f3f660935487bb214088b4300475ef5fce
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
 workflow-type: tm+mt
-source-wordcount: '1580'
-ht-degree: 100%
+source-wordcount: '1643'
+ht-degree: 96%
 
 ---
 
@@ -202,3 +202,13 @@ A seguir estão os níveis de acesso para todos os grupos de usuários na hierar
 * /projetos/projeto-x: todos os usuários podem visualizar as pastas e suas subpastas. O grupo de usuários Equipe de gerentes de projeto tem permissões de edição e pode gerenciar permissões em uma pasta e suas subpastas (permissões de proprietário). O grupo de usuários Equipe do projeto X tem permissões de edição.
 
 * /legal: nenhum dos usuários pode acessar a pasta com base nas permissões `Deny Access` para o grupo `All Authenticated Users`. O grupo de usuários Equipe Jurídica tem permissões de edição.
+
+## Próximas etapas {#next-steps}
+
+* [Assista a um vídeo para gerenciar permissões no Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html)
+
+* Fornecer feedback do produto usando o [!UICONTROL Feedback] opção disponível na interface do usuário do Assets Essentials
+
+* Forneça feedback de documentação usando [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponível na barra lateral direita
+
+* Contato [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General#support)

@@ -3,10 +3,10 @@ title: Administrar e gerenciar usuários
 description: Casos de uso de administração, como implantação e gerenciamento de usuários no [!DNL Assets Essentials].
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: 552dcf43677ac2a95864666faab9938534f70d40
+source-git-commit: 59f6165fd7576736ff75369c2805c15ce3ae9af0
 workflow-type: tm+mt
-source-wordcount: '1139'
-ht-degree: 99%
+source-wordcount: '1201'
+ht-degree: 94%
 
 ---
 
@@ -125,6 +125,18 @@ Após o provisionamento, o direito ao [!DNL Assets Essentials] é adicionado à 
    ![Ambiente pronto no [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
 
    *Figura: Um ambiente no [!DNL Cloud Manager] pronto para uso.*
+
+## Próximas etapas {#next-steps}
+
+* [Assistir a um vídeo para implantar o Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=en)
+
+* Fornecer feedback do produto usando o [!UICONTROL Feedback] opção disponível na interface do usuário do Assets Essentials
+
+* Forneça feedback de documentação usando [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponível na barra lateral direita
+
+* Contato [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General#support)
+
+
 
 >[!MORELIKETHIS]
 >

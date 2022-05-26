@@ -3,10 +3,10 @@ title: Introdução ao uso do [!DNL Assets Essentials]
 description: Como acessar, experiência de logon, casos de uso com suporte e problemas conhecidos do [!DNL Assets Essentials].
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
-source-git-commit: fdfbe04b41c6b164007591855c4dd37b6fe3dfa7
-workflow-type: ht
-source-wordcount: '476'
-ht-degree: 100%
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+workflow-type: tm+mt
+source-wordcount: '432'
+ht-degree: 86%
 
 ---
 
@@ -55,6 +55,17 @@ As várias tarefas de gerenciamento de ativos digitais (DAM) que você pode real
 | Operações de metadados | <ul> <li>[Visualizar metadados detalhados](/help/metadata.md) </li> <li> [Atualizar metadados](/help/metadata.md#update-metadata)</li> <li> [Criar novo formulário de metadados](/help/metadata.md#metadata-forms) </li> </ul> |
 | Integração com outras soluções | <ul> <li>[Usar o Seletor de ativos no  [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link]  para  [!DNL Creative Cloud]](/help/integration.md)</li> <li>[Integração com o  [!DNL Adobe Workfront]](/help/integration.md)</li> </ul> |
 
+## Próximas etapas {#next-steps}
+
+* [Assista a um vídeo para começar a usar o Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html)
+
+* Fornecer feedback do produto usando o [!UICONTROL Feedback] opção disponível na interface do usuário do Assets Essentials
+
+* Forneça feedback de documentação usando [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponível na barra lateral direita
+
+* Contato [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General#support)
+
+
 <!--TBD: Merge the below rows in the table when the use cases are documented/available.
 
 | How do I delete assets? | <ul> <li>[Delete assets](/help/manage-organize.md)</li> <li>Recover deleted assets</li> <li>Permanently delete assets</li> </ul> |
@@ -63,16 +74,20 @@ As várias tarefas de gerenciamento de ativos digitais (DAM) que você pode real
 
 -->
 
-## ![ícone de feedback](assets/do-not-localize/feedback-icon.png) Fornecer feedback do produto {#provide-feedback}
+<!-- 
 
-A Adobe agradece o feedback sobre a solução. Para fornecer feedback sem nem mesmo alternar o aplicativo de trabalho, use a opção de [!UICONTROL Feedback] na interface. Ela também permite anexar arquivos, como capturas de tela ou gravações de vídeo feitas para mostrar um problema.
+## ![feedback icon](assets/do-not-localize/feedback-icon.png) Provide product feedback {#provide-feedback}
 
-![opção de feedback na interface](assets/feedback-panel.png)
+Adobe welcomes feedback about the solution. To provide feedback without even switching your working application, use the [!UICONTROL Feedback] option in the user interface. It also lets you attach files such as screenshots or video recording of an issue.
 
-Para fornecer feedback sobre a documentação, clique em [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) na barra lateral direita. Você pode executar um dos seguintes procedimentos:
+  ![feedback option in the interface](assets/feedback-panel.png)
 
-* Faça as atualizações de conteúdo e envie uma solicitação de pull do GitHub.
-* Crie um problema ou tíquete no GitHub. Mantenha o nome do artigo preenchido automaticamente ao criar um problema.
+To provide feedback for documentation, click [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) from the right sidebar. You can do one of the following: 
+
+* Make the content updates and submit a GitHub pull request.
+* Create an issue or ticket in GitHub. Retain the automatically populated article name when creating an issue.
+
+-->
 
 >[!MORELIKETHIS]
 >

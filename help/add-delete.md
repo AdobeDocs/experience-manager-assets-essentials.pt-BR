@@ -3,10 +3,10 @@ title: Fazer upload de ativos para o repositório
 description: Faça upload de ativos para o [!DNL Assets Essentials], visualize o status dos uploads e resolva problemas de upload.
 role: User
 exl-id: a85a4455-4456-48af-aee9-f05300677605
-source-git-commit: cd7af0c946a042430e62528fa6aa19bdab139f67
-workflow-type: ht
-source-wordcount: '747'
-ht-degree: 100%
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+workflow-type: tm+mt
+source-wordcount: '810'
+ht-degree: 92%
 
 ---
 
@@ -95,3 +95,13 @@ Os usuários podem excluir ativos ou pastas individuais que não são mais neces
    *Figura: as ações para arquivos e pastas estão disponíveis no ativo ou no bloco de pastas.*
 
 * Selecione um ativo ou uma pasta e clique em **[!UICONTROL Excluir]** ![ícone excluir](assets/do-not-localize/delete-icon.png) na barra de ferramentas.
+
+## Próximas etapas {#next-steps}
+
+* [Assista a um vídeo para fazer upload de ativos no Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/creating.html)
+
+* Fornecer feedback do produto usando o [!UICONTROL Feedback] opção disponível na interface do usuário do Assets Essentials
+
+* Forneça feedback de documentação usando [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponível na barra lateral direita
+
+* Contato [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General#support)

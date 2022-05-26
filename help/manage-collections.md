@@ -1,9 +1,10 @@
 ---
 title: Gerenciar coleções
 description: Uma coleção é um conjunto de ativos no Experience Manager Assets Essentials. Use coleções para compartilhar ativos entre usuários.
-source-git-commit: 6e86dc11e953423c156c3c06cb20c1700afdd59b
+exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '520'
 ht-degree: 8%
 
 ---
@@ -125,3 +126,11 @@ Para excluir uma coleção:
 1. Selecione a coleção que deve ser excluída.
 
 1. Clique em **[!UICONTROL Excluir]**.
+
+## Próximas etapas {#next-steps}
+
+* Fornecer feedback do produto usando o [!UICONTROL Feedback] opção disponível na interface do usuário do Assets Essentials
+
+* Forneça feedback de documentação usando [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponível na barra lateral direita
+
+* Contato [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General#support)

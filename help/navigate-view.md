@@ -3,10 +3,10 @@ title: '"Interface do [!DNL Assets Essentials] "'
 description: Entenda a interface e a navegação no [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 0a0f520b0c023120995b3af327661212604fac0d
-workflow-type: ht
-source-wordcount: '539'
-ht-degree: 100%
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+workflow-type: tm+mt
+source-wordcount: '586'
+ht-degree: 92%
 
 ---
 
@@ -102,6 +102,14 @@ Se você visualizar explicitamente um ativo, o [!DNL Assets Essentials] o mostra
 Explicitly previewed assets are displayed as recently viewed assets. Give screenshot of this.
 Other use cases after previewing.
 -->
+
+## Próximas etapas {#next-steps}
+
+* Fornecer feedback do produto usando o [!UICONTROL Feedback] opção disponível na interface do usuário do Assets Essentials
+
+* Forneça feedback de documentação usando [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponível na barra lateral direita
+
+* Contato [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General#support)
 
 >[!MORELIKETHIS]
 >

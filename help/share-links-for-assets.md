@@ -2,10 +2,10 @@
 title: Como compartilhar links com ativos?
 description: Gere um link e compartilhe ativos com outras pessoas que não têm acesso ao aplicativo  [!DNL Assets Essentials] .
 exl-id: 6e05b06c-7436-40e3-acee-c8b1ed218f9e
-source-git-commit: 98dafd932fb31dea06225f256f0e6bfe205e4d7b
-workflow-type: ht
-source-wordcount: '355'
-ht-degree: 100%
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+workflow-type: tm+mt
+source-wordcount: '420'
+ht-degree: 85%
 
 ---
 
@@ -42,3 +42,13 @@ Você também pode selecionar vários ativos e clicar em **[!UICONTROL Download]
 Para baixar todos os ativos de uma só vez, alterne para a **[!UICONTROL Exibição de lista]**, clique em **[!UICONTROL Selecionar tudo]** e, em seguida, clique em **[!UICONTROL Download]**.
 
 ![Visualizar ativos compartilhados](assets/preview-shared-assets.png)
+
+## Próximas etapas {#next-steps}
+
+* [Assista a um vídeo para compartilhar links de ativos no Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html)
+
+* Fornecer feedback do produto usando o [!UICONTROL Feedback] opção disponível na interface do usuário do Assets Essentials
+
+* Forneça feedback de documentação usando [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponível na barra lateral direita
+
+* Contato [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General#support)

@@ -2,10 +2,10 @@
 title: Como gerenciar com eficácia as permissões de pastas?
 description: Práticas recomendadas para o gerenciamento eficaz de permissões
 exl-id: 06b06f0b-3806-44ce-abc4-c1449a93dd29
-source-git-commit: 98dafd932fb31dea06225f256f0e6bfe205e4d7b
-workflow-type: ht
-source-wordcount: '398'
-ht-degree: 100%
+source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+workflow-type: tm+mt
+source-wordcount: '445'
+ht-degree: 89%
 
 ---
 
@@ -63,3 +63,11 @@ Depois de criar grupos de usuários para sua organização, adicionar usuários 
 * Use as proibições de acesso com cuidado e prefira aplicar permissões positivas (Pode editar, Pode visualizar, Proprietário) à estrutura de pastas.
 
 Para obter exemplos sobre como criar uma estrutura de pastas simples e eficiente, consulte [Gerenciar permissões em pastas](manage-permissions.md##manage-permissions-folders).
+
+## Próximas etapas {#next-steps}
+
+* Fornecer feedback do produto usando o [!UICONTROL Feedback] opção disponível na interface do usuário do Assets Essentials
+
+* Forneça feedback de documentação usando [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponível na barra lateral direita
+
+* Contato [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General#support)
