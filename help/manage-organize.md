@@ -7,7 +7,7 @@ exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
 workflow-type: tm+mt
 source-wordcount: '901'
-ht-degree: 73%
+ht-degree: 93%
 
 ---
 
@@ -80,13 +80,13 @@ Para exibir as versões, abra a pré-visualização de um ativo e clique em **[!
 
 Você também pode criar versões na linha do tempo de versões. Selecione a versão mais recente, clique em **[!UICONTROL Nova versão]** e faça upload de uma nova cópia do ativo a partir do sistema de arquivos local.
 
-![Visualizar versões de um ativo](assets/view-asset-versions1.png)
+![Exibir versões de um ativo](assets/view-asset-versions1.png)
 
 *Figura: visualizar versões de um ativo, reverter para uma versão anterior ou fazer upload de outra nova versão.*
 
 ## Gerenciar o status do ativo {#manage-asset-status}
 
-**Permissões necessárias:**  `Can Edit`, `Owner`ou permissões de administrador em um ativo.
+**Permissões necessárias:** `Can Edit`, `Owner` ou permissões de administrador em um ativo.
 
 O Assets Essentials permite definir o status em ativos disponíveis no repositório. Defina um status de ativo para melhor administrar e gerenciar o consumo downstream de ativos digitais.
 
@@ -96,7 +96,7 @@ Você pode definir o seguinte status em ativos:
 
 * Rejeitado
 
-* Sem Status
+* Sem status
 
 ### Definir status do ativo {#set-asset-status}
 
@@ -104,7 +104,7 @@ Para definir o status do ativo:
 
 1. Selecione o ativo e clique em **[!UICONTROL Detalhes]** na barra de ferramentas.
 
-1. No **[!UICONTROL Básico]** selecione o status do ativo na guia **[!UICONTROL Status]** lista suspensa. Os valores possíveis incluem Approved, Rejected e No Status (padrão).
+1. Na guia **[!UICONTROL Básico]** selecione o status do ativo na lista suspensa de **[!UICONTROL Status]**. Os valores possíveis incluem Aprovado, Rejeitado e Sem status (padrão).
 
    >[!VIDEO](https://video.tv.adobe.com/v/342495)
 
@@ -122,7 +122,7 @@ The `Expired` asset card indicator overrides the `Approved` or `Rejected` indica
 
 -->
 
-Também é possível filtrar ativos com base em um status de ativo. Para obter mais informações, consulte [Pesquisar ativos no Assets Essentials](search.md).
+Também é possível filtrar ativos com base em um status de ativo. Para mais informações, consulte [Pesquisar ativos no Assets Essentials](search.md).
 
 ## Personalizar formulários de metadados para incluir o campo de status do ativo {#customize-asset-status-metadata-form}
 
@@ -130,11 +130,11 @@ Também é possível filtrar ativos com base em um status de ativo. Para obter m
 
 Por padrão, o Assets Essentials fornece vários campos de metadados padrão. As organizações têm necessidades adicionais de metadados e precisam de mais campos para adicionar metadados específicos de negócios. Os formulários de metadados permitem que as empresas adicionem campos de metadados personalizados à página [!UICONTROL Detalhes] de um ativo. Os metadados específicos de negócios melhoram a governança e a descoberta de ativos.
 
-Para obter mais informações sobre como adicionar campos de metadados adicionais ao formulário de metadados, consulte [Forms de metadados](metadata.md##metadata-forms).
+Para mais informações sobre como adicionar campos de metadados adicionais ao formulário de metadados, consulte [Formulários de metadados](metadata.md##metadata-forms).
 
 **Adicionar o campo de metadados Status do ativo ao formulário**
 
-Para adicionar o campo de metadados Status do ativo ao formulário, arraste **[!UICONTROL Status do ativo]** componente do painel à esquerda para o formulário. A propriedade mapping é preenchida automaticamente como pré-preenchimento. Salve o formulário para confirmar as alterações.
+Para adicionar o campo de metadados Status do ativo ao formulário, arraste o componente **[!UICONTROL Status do ativo]** do painel à esquerda para o formulário. A propriedade de mapeamento é preenchida automaticamente. Salve o formulário para confirmar as alterações.
 
 <!--
 

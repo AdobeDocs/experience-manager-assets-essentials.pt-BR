@@ -6,18 +6,18 @@ contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 4fcac20c15ebabcafe851ce207bd937c8a7f6b03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '761'
+ht-degree: 100%
 
 ---
 
 # Notas de versão do [!DNL Assets Essentials] {#release-notes}
 
-A versão atual do [!DNL Assets Essentials] foi lançado em 12 de maio de 2022. Esta versão fornece:
+A versão atual do [!DNL Assets Essentials] foi lançada em 12 de maio de 2022. Esta versão fornece:
 
-* [!DNL Assets Essentials] agora suporta [criação de coleções](manage-collections.md). Uma coleção é um conjunto de ativos no Experience Manager Assets Essentials. Use coleções para compartilhar ativos entre usuários. Diferente de pastas, uma coleção pode incluir ativos de locais diferentes.
+* O [!DNL Assets Essentials] agora permite a [criação de coleções](manage-collections.md). Uma coleção é um conjunto de ativos no Experience Manager Assets Essentials. Use coleções para compartilhar ativos entre usuários. Diferente de pastas, uma coleção pode incluir ativos de locais diferentes.
 
-* O Assets Essentials agora também permite [adicionar filtros personalizados](search.md#custom-filters) à interface do usuário. Em seguida, você pode aplicar esses filtros personalizados, além dos filtros padrão para refinar seus resultados de pesquisa.
+* O Assets Essentials agora também permite [adicionar filtros personalizados](search.md#custom-filters) à interface. É possível aplicar esses filtros personalizados além dos filtros padrão para refinar os resultados da pesquisa.
 
 * O Assets Essentials agora permite [definir status](manage-organize.md#set-asset-status) em ativos disponíveis no repositório. Defina um status de ativo para melhor administrar e gerenciar o consumo downstream de ativos digitais.
 
@@ -25,17 +25,17 @@ A versão atual do [!DNL Assets Essentials] foi lançado em 12 de maio de 2022. 
 
 ## Modo incógnito no Chrome {#incognito-mode}
 
-Com esta versão, estamos otimizando o desempenho do delivery da interface do usuário e os recursos específicos no Assets Essentials - comentários em ativos e edição de imagens - dependem do armazenamento local do navegador e da ativação de cookies de terceiros. O modo incógnito no navegador da Web Chrome bloqueia cookies de terceiros por padrão - os usuários têm várias opções para continuar a acessar todos os recursos:
+Com esta versão, estamos otimizando o desempenho do delivery da interface. Recursos específicos no Assets Essentials - comentários em ativos e edição de imagens - dependem do armazenamento local do navegador e da ativação de cookies de terceiros. O modo incógnito no navegador Chrome bloqueia cookies de terceiros por padrão. Os usuários têm várias opções para continuar a acessar todos os recursos:
 
-* Use os perfis do Chrome em vez do modo Incógnito, quando o usuário precisar separar as sessões do navegador
+* Uso dos perfis do Chrome em vez do modo Incógnito, quando o usuário precisar separar as sessões do navegador
 
-* Desligue o `Block third-party cookies` na tela do modo Incógnito no Chrome
+* Desativação de `Block third-party cookies` na tela do modo Incógnito no Chrome
 
 ## Problemas conhecidos {#known-issues}
 
 A lista de problemas conhecidos do [!DNL Assets Essentials] é revisada e atualizada continuamente:
 
-* Não é possível filtrar ativos usando a variável `No Status` status do ativo.
+* Não é possível filtrar ativos usando o status do ativo `No Status`.
 
 * O Assets Essentials não oferece suporte à criação de coleções privadas.
 
@@ -45,7 +45,7 @@ Se você encontrar problemas ou quiser fazer solicitações de aprimoramento, [f
 
 ### 2022.2.0 {#march-2022}
 
-[!DNL Assets Essentials] O foi lançado em 9 de março de 2022, com as seguintes atualizações:
+O [!DNL Assets Essentials] foi lançado em 9 de março de 2022 com as seguintes atualizações:
 
 * O [!DNL Assets Essentials] agora permite [gerar um link e compartilhar ativos com os participantes externos](share-links-for-assets.md), que não têm acesso ao aplicativo do [!DNL Assets Essentials]. Você pode definir uma data de expiração para o link e, em seguida, compartilhá-la com outras pessoas usando o método de comunicação preferido, como email ou serviços de mensagens. Os recipients do link podem visualizar ativos e baixá-los.
 

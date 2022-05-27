@@ -5,7 +5,7 @@ exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
 workflow-type: tm+mt
 source-wordcount: '520'
-ht-degree: 8%
+ht-degree: 91%
 
 ---
 
@@ -39,7 +39,7 @@ Você pode executar as seguintes tarefas para gerenciar e usar coleções:
 
 Para criar uma coleção:
 
-1. Clique em **[!UICONTROL Coleções]** no painel à esquerda e clique em **[!UICONTROL Criar coleção]**.
+1. Clique em **[!UICONTROL Coleções]** no painel à esquerda, e clique em **[!UICONTROL Criar coleção]**.
 
 1. Especifique um título e uma descrição opcional para a coleção.
 
@@ -49,15 +49,15 @@ Para criar uma coleção:
 
 Para adicionar ativos a uma coleção:
 
-1. Clique em **[!UICONTROL Ativos]** no painel à esquerda e selecione os ativos.
+1. Clique em **[!UICONTROL Ativos]** no painel à esquerda e selecione o(s) ativo(s).
 
 1. Clique em **[!UICONTROL Adicionar à coleção]**.
 
-1. No [!UICONTROL Coleções] , selecione as coleções para adicionar os ativos selecionados.
+1. Na caixa de diálogos [!UICONTROL Coleções], selecione as coleções às quais adicionar os ativos selecionados.
 
 1. Clique em **[!UICONTROL Adicionar]** para adicionar o ativo às coleções selecionadas.
 
-Para adicionar ativos à coleção, você também pode clicar em **[!UICONTROL Coleções]** no painel à esquerda, clique na coleção à qual adicionar ativos e clique em **[!UICONTROL Adicionar à coleção]**, selecione o(s) ativo(s) e clique em **[!UICONTROL Selecionar]**.
+Para adicionar ativos à coleção, você também pode clicar em **[!UICONTROL Coleções]** no painel à esquerda. Depois clique na coleção à qual adicionar ativos, clique em **[!UICONTROL Adicionar à coleção]**, selecione o(s) ativo(s) e clique em **[!UICONTROL Selecionar]**.
 
 ## Remover ativos de uma coleção {#remove-assets-from-collection}
 
@@ -65,7 +65,7 @@ Para remover ativos de uma coleção:
 
 1. Clique em **[!UICONTROL Coleções]** no painel à esquerda para exibir a lista de coleções.
 
-1. Clique na coleção e selecione os ativos que precisam ser removidos da coleção.
+1. Clique na coleção e selecione o(s) ativo(s) que precisa(m) ser removido(s) da coleção.
 
 1. Clique em **[!UICONTROL Remover]**.
 
@@ -94,36 +94,36 @@ Os metadados da coleção incluem dados sobre a coleção, como título e descri
 Para exibir e editar metadados da coleção:
 
 1. Clique em **[!UICONTROL Coleções]** no painel à esquerda, selecione uma coleção e clique em **[!UICONTROL Detalhes]**.
-1. Visualize os metadados da coleção usando o **[!UICONTROL Básico]** guia .
-1. Modifique os campos de metadados, conforme necessário. Você pode modificar o [!UICONTROL Título], [!UICONTROL Descrição]e [!UICONTROL Autor] campos.
+1. Visualize os metadados da coleção usando a guia **[!UICONTROL Básico]**.
+1. Modifique os campos de metadados, conforme necessário. Você pode modificar o [!UICONTROL Título], a [!UICONTROL Descrição] e os campos do [!UICONTROL Autor].
 
 ## Compartilhar links para coleções {#share-collection-links}
 
-[!DNL Assets Essentials] permite gerar um link e compartilhar coleções e ativos nas coleções com participantes externos, que não têm acesso ao [!DNL Assets Essentials] aplicativo. Você pode definir uma data de expiração para o link e, em seguida, compartilhá-la com outras pessoas usando o método de comunicação preferido, como email ou serviços de mensagens. Os recipients do link podem visualizar ativos e baixá-los.
+O [!DNL Assets Essentials] permite gerar um link e compartilhar coleções e ativos dentro de coleções com participantes externos, que não têm acesso ao aplicativo [!DNL Assets Essentials]. Você pode definir uma data de expiração para o link e, em seguida, compartilhá-la com outras pessoas usando o método de comunicação preferido, como email ou serviços de mensagens. Os recipients do link podem visualizar ativos e baixá-los.
 
-Para obter mais informações sobre como compartilhar links de coleção com participantes externos, consulte [Compartilhar links para ativos](share-links-for-assets.md).
+Para mais informações sobre como compartilhar links de coleção com participantes externos, consulte [Compartilhar links para ativos](share-links-for-assets.md).
 
 ## Baixar elementos de coleção {#download-collection-elements}
 
-Para baixar elementos de coleção:
+Para baixar elementos de coleções:
 
-1. Clique em **[!UICONTROL Coleções]** no painel esquerdo.
+1. Clique em **[!UICONTROL Coleções]** no painel à esquerda.
 
-1. Clique na coleção e selecione os elementos que precisam ser baixados.
+1. Clique na coleção e selecione o(s) elemento(s) que precisa(m) ser baixado(s).
 
 1. Clique em **[!UICONTROL Baixar]**.
 
-1. No [!UICONTROL Baixar ativo] , clique em **[!UICONTROL OK]**.
+1. Na caixa de diálogo [!UICONTROL Baixar ativo], clique em **[!UICONTROL OK]**.
 
-Os elementos de coleção selecionados são baixados como um arquivo .ZIP em sua máquina local.
+Os elementos de coleção selecionada são baixados como um arquivo .ZIP em seu computador.
 
 ## Excluir uma coleção {#delete-collection}
 
 Para excluir uma coleção:
 
-1. Clique em **[!UICONTROL Coleções]** no painel esquerdo.
+1. Clique em **[!UICONTROL Coleções]** no painel à esquerda.
 
-1. Selecione a coleção que deve ser excluída.
+1. Selecione a coleção que precisa ser excluída.
 
 1. Clique em **[!UICONTROL Excluir]**.
 
