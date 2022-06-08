@@ -3,10 +3,10 @@ title: Pesquisar e descobrir ativos no [!DNL Assets Essentials]
 description: Pesquisar e descobrir ativos no [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+source-git-commit: 378aa0ee62ad814bdf598dfcf21f8b2775c83b84
 workflow-type: tm+mt
 source-wordcount: '749'
-ht-degree: 91%
+ht-degree: 90%
 
 ---
 
@@ -32,7 +32,7 @@ Você pode filtrar os resultados da pesquisa com base nos seguintes parâmetros.
 
 *Figura: filtre ativos pesquisados com base em vários parâmetros.*
 
-* Status do ativo: filtre os resultados da pesquisa usando um status do ativo `Approved` ou `Rejected`.
+* Status do ativo: Filtre os resultados da pesquisa usando um `Approved`, `Rejected`ou `No Status` status do ativo.
 
 * Tipo de arquivo: filtre os resultados da pesquisa pelos tipos de arquivos compatíveis, ou seja, `Images`, `Documents` e `Videos`.
 * Tipo MIME: filtrar um ou mais formatos de arquivo compatíveis. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
