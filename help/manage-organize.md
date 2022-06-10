@@ -4,10 +4,10 @@ description: Mover, excluir, copiar, renomear, atualizar e criar versões de seu
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
+source-git-commit: 05c9903d1225cd7875cc42ffe9ed7bd98aa1b757
 workflow-type: tm+mt
-source-wordcount: '901'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -108,19 +108,16 @@ Para definir o status do ativo:
 
    >[!VIDEO](https://video.tv.adobe.com/v/342495)
 
-<!--
 
-### Set asset expiration date {#set-asset-expiration-date}
+### Definir data de expiração do ativo {#set-asset-expiration-date}
 
-To set asset expiration date:
+Para definir a data de expiração do ativo:
 
-1. Select the asset, and click **[!UICONTROL Details]** in the toolbar.
+1. Selecione o ativo e clique em **[!UICONTROL Detalhes]** na barra de ferramentas.
 
-1. In the **[!UICONTROL Basic]** tab, set the expiration date for the asset using the  **[!UICONTROL Expiration date]** field.
+1. No **[!UICONTROL Básico]** , defina a data de expiração do ativo usando o  **[!UICONTROL Data de expiração]** campo.
 
-The `Expired` asset card indicator overrides the `Approved` or `Rejected` indicator set for an asset.
-
--->
+O `Expired` o indicador do cartão de ativos substitui o `Approved` ou `Rejected` Indicador definido para um ativo.
 
 Também é possível filtrar ativos com base em um status de ativo. Para mais informações, consulte [Pesquisar ativos no Assets Essentials](search.md).
 
@@ -136,13 +133,9 @@ Para mais informações sobre como adicionar campos de metadados adicionais ao f
 
 Para adicionar o campo de metadados Status do ativo ao formulário, arraste o componente **[!UICONTROL Status do ativo]** do painel à esquerda para o formulário. A propriedade de mapeamento é preenchida automaticamente. Salve o formulário para confirmar as alterações.
 
-<!--
+**Adicionar o campo de metadados da Data de expiração ao formulário**
 
-**Add Expiration Date metadata field to the form**
-
-To add Expiration Date metadata field to the form,  drag **[!UICONTROL Date]** component from the left rail to the form. Specify **Expiration Date** as the label and `pur:expirationDate` as the mapping property. Save the form to confirm the changes.
-
--->
+Para adicionar o campo de metadados Data de expiração ao formulário, arraste **[!UICONTROL Data]** componente do painel à esquerda para o formulário. Especificar **Data de expiração** como o rótulo e `pur:expirationDate` como a propriedade mapping. Salve o formulário para confirmar as alterações.
 
 ## Próximas etapas {#next-steps}
 

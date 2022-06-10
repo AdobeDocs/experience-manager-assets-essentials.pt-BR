@@ -3,10 +3,10 @@ title: Pesquisar e descobrir ativos no [!DNL Assets Essentials]
 description: Pesquisar e descobrir ativos no [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 378aa0ee62ad814bdf598dfcf21f8b2775c83b84
+source-git-commit: 8fe62d7073b313da9a5ca4c365636933d44d24c4
 workflow-type: tm+mt
-source-wordcount: '749'
-ht-degree: 90%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -58,11 +58,11 @@ O Assets Essentials fornece os seguintes filtros personalizados:
      </tr>
      <tr>
       <td>Título</td>
-      <td>Filtrar ativos usando o título do ativo. O título especificado nos critérios de pesquisa que diferenciam maiúsculas e minúsculas deve corresponder ao título exato do ativo a ser exibido nos resultados.</td>
+      <td>Filtrar ativos usando o título do ativo. Você pode usar um operador curinga (*) para permitir que o Assets Essentials exiba ativos nos resultados que correspondem parcialmente aos critérios de pesquisa. Por exemplo, se você definir <b>ma*</b> como critério de pesquisa, o Assets Essentials exibe ativos com título, como mercado, marketing, homem, manchester e assim por diante nos resultados.</td>
      </tr>
      <tr>
       <td>Nome</td>
-      <td>Filtre ativos usando o nome do arquivo de ativo. O nome especificado nos critérios de pesquisa que diferenciam maiúsculas e minúsculas deve corresponder ao nome exato do arquivo do ativo a ser exibido nos resultados.</td>
+      <td>Filtre ativos usando o nome do arquivo de ativo. Você pode usar um operador curinga (*) para permitir que o Assets Essentials exiba ativos nos resultados que correspondem parcialmente aos critérios de pesquisa.</td>
      </tr>
      <tr>
       <td>Tamanho do ativo</td>
@@ -70,7 +70,7 @@ O Assets Essentials fornece os seguintes filtros personalizados:
      </tr>
      <tr>
       <td>Tags previstas</td>
-      <td>Filtrar ativos usando a tag inteligente de ativos. O nome da tag inteligente especificada nos critérios de pesquisa que diferenciam maiúsculas e minúsculas deve corresponder ao nome exato da tag inteligente do ativo a ser exibido nos resultados. Não é possível especificar várias tags inteligentes nos critérios de pesquisa.</td>
+      <td>Filtrar ativos usando a tag inteligente de ativos. Você pode usar um operador curinga (*) para permitir que o Assets Essentials exiba ativos nos resultados que correspondem parcialmente aos critérios de pesquisa. Você pode especificar várias tags inteligentes separadas por vírgula nos critérios de pesquisa.</td>
      </tr>    
     </tbody>
    </table>
