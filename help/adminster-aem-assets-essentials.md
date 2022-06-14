@@ -1,13 +1,13 @@
 ---
 title: Administrar o Experience Manager Assets Essentials
-description: Configure o acesso ao aplicativo do Assets Essentials usando o Admin Console e gerencie as tarefas que podem ser executadas após fazer logon no aplicativo Assets Essentials.
-source-git-commit: 1f01dd340f79d1c2d9748232c2b1a589ae7f8545
-workflow-type: tm+mt
+description: Configure o acesso ao aplicativo do Assets Essentials usando o Admin Console e gerencie as tarefas que podem ser executadas após fazer logon no aplicativo do Assets Essentials.
+exl-id: ffd65741-21b7-47cd-9779-63a7903879e6
+source-git-commit: a40b608ec72691c10dfbf7dff518a2cfc87d6552
+workflow-type: ht
 source-wordcount: '1399'
-ht-degree: 53%
+ht-degree: 100%
 
 ---
-
 
 # Administrar o Experience Manager Assets Essentials {#administer-assets-essentials}
 
@@ -15,24 +15,24 @@ ht-degree: 53%
 
 ## Objetivo
 
-* **Público**: Administradores do Assets Essentials
+* **Público-alvo**: administradores do Assets Essentials
 
-* **Objetivo**: Configure o acesso ao aplicativo do Assets Essentials usando o Admin Console e gerencie as tarefas que podem ser executadas após fazer logon no aplicativo Assets Essentials.
+* **Objetivo**: configurar o acesso ao aplicativo do Assets Essentials usando o Admin Console e gerenciar as tarefas que podem ser executadas após fazer logon no aplicativo do Assets Essentials.
 
 ## Visão geral {#overview}
 
 
-O [!DNL Adobe Experience Manager Assets Essentials] é provisionado pela Adobe para seus clientes. Como parte do provisionamento, o [!DNL Assets Essentials] é adicionado à organização de um cliente no [!DNL Adobe Admin Console]. Os administradores usam [!DNL Admin Console] para gerenciar direitos de usuário para [!DNL Assets Essentials] e atribuir administradores de aplicativos para configurar permissões e formulários de metadados no [!DNL Assets Essentials].
+O [!DNL Adobe Experience Manager Assets Essentials] é provisionado pela Adobe para seus clientes. Como parte do provisionamento, o [!DNL Assets Essentials] é adicionado à organização de um cliente no [!DNL Adobe Admin Console]. Os administradores usam o [!DNL Admin Console] para gerenciar direitos de usuário para a solução do [!DNL Assets Essentials] e atribuir administradores de aplicativos para configurar permissões e formulários de metadados no [!DNL Assets Essentials].
 
-O diagrama do fluxo de dados a seguir ilustra a sequência de tarefas que um administrador deve executar para configurar e gerenciar o Assets Essentials:
+O diagrama de fluxo de dados a seguir ilustra a sequência de tarefas que um administrador deve executar para configurar e gerenciar o Assets Essentials:
 
 ![Fluxo de administração do Assets Essentials](assets/permissions-management-cce-next.svg)
 
-## Acesse o Admin Console {#access-admin-console}
+## Acessar o Admin Console {#access-admin-console}
 
 Depois que a solução Assets Essentials é provisionada, o administrador recebe um email da Adobe. O email contém uma mensagem de boas-vindas e um link para começar a trabalhar. Além disso, a Adobe inicia o processo de implantação do Assets Essentials automaticamente. Esse processo leva uma hora para ser concluído.
 
-No link do email, acesse e faça logon no [Admin Console](https://adminconsole.adobe.com). Se você tiver acesso de administrador a mais de uma conta da organização, selecione a organização apropriada ou alterne para ela usando a [seletor de organização](https://helpx.adobe.com/br/enterprise/using/admin-console.html). Quando o processo de implantação automática é concluído, o cartão de produto do [!DNL AEM Assets Essentials] fica visível no [!DNL Admin Console].
+No link do email, acesse e faça logon no [Admin Console](https://adminconsole.adobe.com). Se você tiver acesso de administrador a mais de uma conta de organização, selecione a organização apropriada ou alterne para ela usando o [seletor de organização](https://helpx.adobe.com/br/enterprise/using/admin-console.html). Quando o processo de implantação automática é concluído, o cartão de produto do [!DNL AEM Assets Essentials] fica visível no [!DNL Admin Console].
 
 ![Implantação do Assets Essentials](assets/admin-console-cards.png)
 
@@ -52,10 +52,10 @@ Adicione usuários aos perfis de produtos para que eles tenham acesso ao aplicat
 
 Para adicionar usuários aos perfis de produtos:
 
-1. Acesso [Admin Console](https://adminconsole.adobe.com) para sua organização, clique em **[!UICONTROL Produtos]** na barra superior, clique em **[!UICONTROL AEM Assets Essentials]** e, em seguida, clique na instância para [!DNL Assets Essentials]. O nome da instância pode ser diferente do da captura de tela abaixo.
+1. Acesse o [Admin Console](https://adminconsole.adobe.com) da sua organização, clique em **[!UICONTROL Produtos]** na barra superior, selecione **[!UICONTROL AEM Assets Essentials]** e, em seguida, clique na instância do [!DNL Assets Essentials]. O nome da instância pode ser diferente do que o da captura de tela abaixo.
    >[!NOTE]
    >
-   >[!DNL Cloud Manager] A instância é para uso administrativo especial, como verificar o status do serviço e obter acesso aos logs de serviço, e não pode ser usada para adicionar usuários ao produto. Para obter mais informações, consulte [guia de administração](deploy-administer.md#view-service-status-and-access-logs-view-logs).
+   >A instância do [!DNL Cloud Manager] é apenas para fins administrativos especiais, como verificar o status do serviço e obter acesso aos logs de serviço, e não pode ser usada para adicionar usuários ao produto. Para obter mais informações, consulte o [guia de administração](deploy-administer.md#view-service-status-and-access-logs-view-logs).
 
    ![Perfil de administrador do Admin Console](assets/assets-essentials-instance.png)
 
@@ -73,11 +73,11 @@ Para adicionar usuários aos perfis de produtos:
 
    >[!NOTE]
    >
-   >Você deve adicionar um usuário ao perfil de produto Administrador do Assets Essentials no Admin Console para que ele execute tarefas administrativas no aplicativo Assets Essentials. Essas tarefas incluem [Criar estrutura de pastas](#create-folder-structure), [Gerenciar permissões para pastas](#manage-permissions-for-folders)e [Configurar o Forms de metadados](#metadata-forms).
+   >É necessário adicionar um usuário ao perfil de produto do administrador do Assets Essentials no Admin Console para que ele execute tarefas administrativas no aplicativo do Assets Essentials. Essas tarefas incluem: [criar estrutura de pastas](#create-folder-structure), [gerenciar permissões de pastas](#manage-permissions-for-folders) e [configurar formulários de metadados](#metadata-forms).
 
 ### Adicionar grupos de usuários {#add-user-groups}
 
-Crie grupos de usuários e atribua seus usuários aos grupos de usuários. Esses grupos de usuários estarão disponíveis no aplicativo Assets Essentials para definir permissões em pastas.
+Crie grupos de usuários e atribua os usuários a eles. Esses grupos de usuários estarão disponíveis no aplicativo do Assets Essentials para que se possa definir as permissões de pastas.
 
 Você pode adicionar usuários a grupos de usuários (1) e adicionar [usuários a Perfis de produto do Assets Essentials (2)](#add-admin-users). No entanto, não é possível adicionar grupos de usuários diretamente aos Perfis de produto do Assets Essentials (3).
 
@@ -98,17 +98,17 @@ Para obter informações sobre como gerenciar a adição de usuários a grupos d
 
 ## Gerenciar tarefas de administração do Assets Essentials {#manage-assets-essentials-tasks}
 
-Depois de executar as tarefas do Admin Console, você pode executar as seguintes tarefas de administração no aplicativo Assets Essentials:
+Depois de executar as tarefas do Admin Console, você pode executar as seguintes tarefas de administração no aplicativo do Assets Essentials:
 
 * [Criar estrutura de pastas](#create-folder-structure)
 
 * [Gerenciar permissões para pastas](#manage-permissions-for-folders)
 
-* [Configurar o Forms de metadados](#metadata-forms)
+* [Configurar formulários de metadados](#metadata-forms)
 
 >[!NOTE]
 >
->Para gerenciar essas tarefas, especialmente o gerenciamento de permissões, o usuário deve ter direitos de administração de aplicativos; ele precisa ser adicionado ao [Perfil de produto do Administrador Assets Essentials](#add-users-to-product-profiles).
+>Para gerenciar essas tarefas, especialmente o gerenciamento de permissões, o usuário deve ter direitos de administração no aplicativo; ele precisa ser adicionado ao [perfil de produto do Administrador do Assets Essentials](#add-users-to-product-profiles).
 
 
 ### Criar estrutura de pastas {#create-folder-structure}
@@ -143,19 +143,19 @@ O Assets Essentials permite que os administradores gerenciem os níveis de acess
 
 Para obter mais informações, consulte [Gerenciar permissões para pastas](manage-permissions.md).
 
-### Configurar o Forms de metadados {#metadata-forms}
+### Configurar formulários de metadados {#metadata-forms}
 
 Por padrão, o Assets Essentials fornece vários campos de metadados padrão. As organizações têm necessidades adicionais de metadados e precisam de mais campos para adicionar metadados específicos de negócios. Os formulários de metadados permitem que as empresas adicionem campos de metadados personalizados à página [!UICONTROL Detalhes] de um ativo. Os metadados específicos de negócios melhoram a governança e a descoberta de ativos. É possível criar formulários do zero ou redefinir a finalidade de um formulário existente.
 
 É possível configurar formulários de metadados para diferentes tipos de ativos (diferentes tipos de MIME). Use o mesmo nome de formulário como o tipo de MIME do arquivo. O Essentials corresponde automaticamente os ativos carregados do tipo MIME ao nome do formulário e atualiza os metadados dos ativos carregados com base nos campos de formulário.
 
-Por exemplo, se um formulário de metadados for usado pelo nome `PDF` ou `pdf` existir, os documentos PDF carregados contêm campos de metadados, conforme definido no formulário.
+Por exemplo, se um formulário de metadados chamado `PDF` ou `pdf` existir, os documentos PDF carregados conterão campos de metadados conforme definidos no formulário.
 
-O Assets Essentials usa a seguinte sequência para procurar nomes de formulário de metadados existentes para aplicar os campos de metadados aos ativos carregados de um tipo específico:
+O Assets Essentials usa a seguinte sequência ao pesquisar nomes de formulário de metadados existentes para aplicar os campos de metadados aos ativos carregados de um tipo específico:
 
-Subtipo MIME > tipo MIME > `default` formulário > Formulário pronto para uso
+Subtipo MIME > Tipo MIME > Formulário `default` > Formulário pronto para uso
 
-Por exemplo, se um formulário de metadados chamado `PDF` ou `pdf` existir, os documentos PDF carregados contêm campos de metadados conforme definidos no formulário. Se um formulário de metadados for usado pelo nome `PDF` ou `pdf` não existe, o Assets Essentials corresponde se houver um formulário de metadados pelo nome `application`. Se houver um formulário de metadados pelo nome `application`, os documentos PDF carregados contêm campos de metadados, conforme definido no formulário. Se o Assets Essentials ainda não encontrar um formulário de metadados correspondente, ele pesquisará a variável `default` formulário de metadados para aplicar campos de metadados definidos no formulário aos documentos PDF carregados. Se nenhuma dessas etapas funcionar, o Assets Essentials aplica campos de metadados definidos no formulário pronto para uso a todos os documentos PDF carregados.
+Por exemplo, se um formulário de metadados chamado `PDF` ou `pdf` existir, os documentos PDF carregados contêm campos de metadados conforme definidos no formulário. Se não existir um formulário de metadados chamado `PDF` ou `pdf`, o Assets Essentials corresponderá se houver um formulário de metadados chamado `application`. Se houver um formulário de metadados chamado `application`, os documentos PDF carregados contêm campos de metadados conforme definidos no formulário. Se o Assets Essentials ainda não encontrar um formulário de metadados correspondente, ele pesquisará pelo formulário de metadados `default` para aplicar campos de metadados definidos no formulário aos documentos PDF carregados. Se nenhuma dessas etapas funcionar, o Assets Essentials aplicará os campos de metadados definidos no formulário pronto para uso a todos os documentos PDF carregados.
 
 >[!IMPORTANT]
 >
@@ -163,9 +163,8 @@ Por exemplo, se um formulário de metadados chamado `PDF` ou `pdf` existir, os d
 
 >[!VIDEO](https://video.tv.adobe.com/v/341275)
 
-Para obter mais informações sobre o Forms de metadados, consulte [Forms de metadados no Assets Essentials](metadata.md#metadata-forms).
+Para obter mais informações sobre formulários de metadados, consulte [Formulários de metadados no Assets Essentials](metadata.md#metadata-forms).
 
 ## O que vem a seguir
 
-Agora que você configurou e gerenciou o aplicativo Assets Essentials, [integrar aplicativos Creative Cloud com o aplicativo Experience Manager Assets Essentials](integrate-assets-essentials-creative-cloud.md).
-
+Agora que você configurou e gerenciou o aplicativo do Assets Essentials, [integre os aplicativos da Creative Cloud ao aplicativo do Experience Manager Assets Essentials](integrate-assets-essentials-creative-cloud.md).
