@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
 source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '355'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -40,13 +40,13 @@ Esses vários tipos de arquivos têm diferentes graus de compatibilidade com os 
 
 | Tipo de ativo | [Navegar](/help/navigate-view.md) | Copiar | [Upload](/help/add-delete.md) | Criar | [Excluir](/help/add-delete.md#delete-assets) | Detalhes | Zoom da imagem | [Visualizado recentemente](/help/navigate-view.md) |
 |-------------------|----------|----------|----------|----------|----------|-------------------|------------|-----------------|
-| Imagens raster | ✓ | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
-| Arquivos RAW | ✓ | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
-| Pastas | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | - |
-| Vídeos MP4 | ✓ | ✓ | ✓ | - | ✓ | ✓ ‡ | - | ✓ |
-| PDF | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
-| PSD, AI e INDD | ✓ | ✓ | ✓ | - | ✓ | ✓ ‡ | - | ✓ |
-| Outros arquivos binários | ✓ | ✓ | ✓ | - | ✓ | ✓ | - | ✓ |
+| Imagens raster | ✓ | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
+| Arquivos RAW | ✓ | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
+| Pastas | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | − | − |
+| Vídeos MP4 | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
+| PDF | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
+| PSD, AI e INDD | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
+| Outros arquivos binários | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
 
 <!-- Hiding CC Libraries (considered beta) as per PM feedback.
 | CC Libraries  | &#10003; | &minus;  | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
@@ -57,13 +57,13 @@ Esses vários tipos de arquivos têm diferentes graus de compatibilidade com os 
 | Tipo de ativo | [Download](/help/manage-organize.md#download) | Arrastar e soltar | [Editor de imagem](/help/edit-images.md) | [Pesquisar](/help/search.md) | [Tags inteligentes](/help/metadata.md#tags) | [Renomear](/help/manage-organize.md) | [Versões](/help/manage-organize.md#versions-of-assets) |
 |---------------|----------|---------------|--------------|----------|------------|----------|----------|
 | Imagens raster | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Arquivos RAW | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pastas | ✓ | ✓ | - | ✓ | - | ✓ | ✓ |
-| Vídeos | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
-| Bibliotecas da CC | - | - | - | - | - | ✓ | ✓ |
-| PDF | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
-| PSD, AI e INDD | ✓ | ✓ | - | ✓ | ✓ | ✓ | ✓ |
-| Outros arquivos binários | ✓ | ✓ | - | ✓ | - | ✓ | ✓ |
+| Arquivos RAW | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Pastas | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
+| Vídeos | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
+| Bibliotecas da CC | − | − | − | − | − | ✓ | ✓ |
+| PDF | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
+| PSD, AI e INDD | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
+| Outros arquivos binários | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
 
 
 ## Revisar ativos e colaborar {#support-to-review-collaborate}
@@ -72,12 +72,12 @@ Esses vários tipos de arquivos têm diferentes graus de compatibilidade com os 
 |---------------|----------|----------|-------------------------|
 | Imagens raster | ✓ | ✓ | ✓ |
 | Arquivos RAW | ✓ | ✓ | ✓ |
-| Pastas | - | - | - |
-| Vídeos | - | ✓ | ✓ |
-| Bibliotecas da CC | - | - | - |
-| PDF | - | ✓ | ✓ |
-| PSD, AI e INDD | - | ✓ | ✓ |
-| Outros arquivos binários | - | ✓ | ✓ |
+| Pastas | − | − | − |
+| Vídeos | − | ✓ | ✓ |
+| Bibliotecas da CC | − | − | − |
+| PDF | − | ✓ | ✓ |
+| PSD, AI e INDD | − | ✓ | ✓ |
+| Outros arquivos binários | − | ✓ | ✓ |
 
 ## Outras tarefas de gerenciamento de ativos {#support-to-manage-assets}
 
@@ -85,12 +85,12 @@ Esses vários tipos de arquivos têm diferentes graus de compatibilidade com os 
 |---------------|-------------------|------------|----------|----------|----------|
 | Imagens raster | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Arquivos RAW | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Pastas | ✓ | - | ✓ | ✓ | ✓ |
-| Vídeos | ✓ | - | ✓ | ✓ | ✓ |
-| Bibliotecas da CC | ✓ | - | - | - | - |
-| PDF | ✓ | - | ✓ | ✓ | ✓ |
-| PSD, AI e INDD | ✓ | - | ✓ | ✓ | ✓ |
-| Outros arquivos binários | ✓ | - | ✓ | ✓ | ✓ |
+| Pastas | ✓ | − | ✓ | ✓ | ✓ |
+| Vídeos | ✓ | − | ✓ | ✓ | ✓ |
+| Bibliotecas da CC | ✓ | − | − | − | − |
+| PDF | ✓ | − | ✓ | ✓ | ✓ |
+| PSD, AI e INDD | ✓ | − | ✓ | ✓ | ✓ |
+| Outros arquivos binários | ✓ | − | ✓ | ✓ | ✓ |
 
 Usuários do [!DNL Adobe Asset Link] podem fazer upload e check-in (fazer upload de uma nova versão) de arquivos para o repositório do [!DNL Assets Essentials] em aplicativos de desktop compatíveis da [!DNL Adobe Creative Cloud].
 
@@ -113,8 +113,8 @@ Usuários do [!DNL Adobe Asset Link] podem fazer upload e check-in (fazer upload
 
 ## Próximas etapas {#next-steps}
 
-* Fornecer feedback do produto usando o [!UICONTROL Feedback] opção disponível na interface do usuário do Assets Essentials
+* Forneça feedback sobre o produto usando a opção de [!UICONTROL Feedback] disponível na interface do Assets Essentials
 
-* Forneça feedback de documentação usando [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponível na barra lateral direita
+* Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
-* Contato [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General#support)
+* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support)
