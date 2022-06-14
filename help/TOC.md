@@ -10,9 +10,9 @@ feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
 source-git-commit: 59f6165fd7576736ff75369c2805c15ce3ae9af0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '127'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -26,10 +26,10 @@ ht-degree: 62%
    + Gerenciar acesso à pasta{#folder-access}
       + [Gerenciar permissões da pasta](manage-permissions.md)
       + [Práticas recomendadas para gerenciamento de permissões](permission-management-best-practices.md)
-   + Jornada do administrador para Assets Essentials for Creative Cloud Pro com soluções de gerenciamento de trabalho{#admin-journey}
+   + Jornada de administrador do Assets Essentials para Creative Cloud Pro com soluções de gerenciamento de trabalho{#admin-journey}
       + [Visão geral da jornada do administrador](assets-essentials-cc-pro-work-management-admin-journey.md)
       + [Administrar o Experience Manager Assets Essentials](adminster-aem-assets-essentials.md)
-      + [Integre o Assets Essentials aos aplicativos do Creative Cloud](integrate-assets-essentials-creative-cloud.md)
+      + [Integrar o Assets Essentials aos aplicativos da Creative Cloud](integrate-assets-essentials-creative-cloud.md)
       + [Integrar o Assets Essentials ao Adobe Workfront](integrate-assets-essentials-workfront.md)
 + [Começar a usar o  [!DNL Assets Essentials]](get-started.md)
 + [Tipos de arquivos compatíveis e casos de uso](supported-file-formats.md)
@@ -42,4 +42,4 @@ ht-degree: 62%
 + [Compartilhar ativos](share-links-for-assets.md)
 + [Gerenciar coleções](manage-collections.md)
 + [Integração com outras soluções](integration.md)
-+ [Vídeos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html)
++ [Vídeos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html?lang=pt-BR)
