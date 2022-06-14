@@ -4,9 +4,9 @@ description: Como acessar, experiência de logon, casos de uso com suporte e pro
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
 source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '432'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -57,13 +57,13 @@ As várias tarefas de gerenciamento de ativos digitais (DAM) que você pode real
 
 ## Próximas etapas {#next-steps}
 
-* [Assista a um vídeo para começar a usar o Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html)
+* [Assista a um vídeo de introdução ao Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html?lang=pt-BR)
 
-* Fornecer feedback do produto usando o [!UICONTROL Feedback] opção disponível na interface do usuário do Assets Essentials
+* Forneça feedback sobre o produto usando a opção de [!UICONTROL Feedback] disponível na interface do Assets Essentials
 
-* Forneça feedback de documentação usando [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponível na barra lateral direita
+* Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
-* Contato [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General#support)
+* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support)
 
 
 <!--TBD: Merge the below rows in the table when the use cases are documented/available.
