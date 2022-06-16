@@ -2,10 +2,10 @@
 title: Gerenciar coleções
 description: Uma coleção é um conjunto de ativos no Experience Manager Assets Essentials. Use coleções para compartilhar ativos entre usuários.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
-source-wordcount: '520'
-ht-degree: 100%
+source-git-commit: 88dd604492ffd5be305fe2f54edae1f158247e26
+workflow-type: tm+mt
+source-wordcount: '524'
+ht-degree: 91%
 
 ---
 
@@ -21,13 +21,15 @@ You can share collections with various users that are assigned different levels 
 
 Você pode compartilhar várias coleções com um usuário. Cada coleção contém referências a ativos. A integridade referencial dos ativos é mantida entre as coleções.
 
+![Coleções](assets/collections.png)
+
 Você pode executar as seguintes tarefas para gerenciar e usar coleções:
 
 * [Criar uma coleção](#create-collection)
 
 * [Adicionar ativos a uma coleção](#add-assets-to-collection)
 
-* [Remover ativos para uma coleção](#remove-assets-from-collection)
+* [Remover ativos de uma coleção](#remove-assets-from-collection)
 
 * [Exibir e editar metadados da coleção](#view-edit-collection-metadata)
 
@@ -44,6 +46,16 @@ Para criar uma coleção:
 1. Especifique um título e uma descrição opcional para a coleção.
 
 1. Clique em **[!UICONTROL Salvar]** para criar a coleção.
+
+![Criar coleção](assets/create-collection.png)
+
+<!--
+
+1. Select if you need to a create a Private collection or a Public collection.
+
+   A Public collection is available for viewing and editing to all users. However, if you are a non-administrator user, a Private collection is available for viewing and editing only to users with the appropriate [permissions](#manage-collection-access). 
+
+-->
 
 ## Adicionar ativos a uma coleção {#add-assets-to-collection}
 
@@ -71,11 +83,15 @@ Para remover ativos de uma coleção:
 
 <!--
 
-## Manage access to a collection {#manage-collection-access}
+## Manage access to a Private collection {#manage-collection-access}
 
 The permission management for collections function in the same manner as folders in [!DNL Assets Essentials]. Administrators can manage the access levels for collections available in the repository. As an administrator, you can create user groups and assign permissions to those groups to manage access levels. You can also delegate the permission management privileges to user groups at the collection-level.
 
 For more information, see [Manage permissions for folders and collections](manage-permissions.md).
+
+-->
+
+<!--
 
 ## Search a collection {#search-collections}
 
@@ -97,25 +113,27 @@ Para exibir e editar metadados da coleção:
 1. Visualize os metadados da coleção usando a guia **[!UICONTROL Básico]**.
 1. Modifique os campos de metadados, conforme necessário. Você pode modificar o [!UICONTROL Título], a [!UICONTROL Descrição] e os campos do [!UICONTROL Autor].
 
+![Metadados de coleção](assets/collection-metadata.png)
+
 ## Compartilhar links para coleções {#share-collection-links}
 
 O [!DNL Assets Essentials] permite gerar um link e compartilhar coleções e ativos dentro de coleções com participantes externos, que não têm acesso ao aplicativo [!DNL Assets Essentials]. Você pode definir uma data de expiração para o link e, em seguida, compartilhá-la com outras pessoas usando o método de comunicação preferido, como email ou serviços de mensagens. Os recipients do link podem visualizar ativos e baixá-los.
 
+![Compartilhar link para ativos](assets/share-link-collections.png)
+
 Para mais informações sobre como compartilhar links de coleção com participantes externos, consulte [Compartilhar links para ativos](share-links-for-assets.md).
 
-## Baixar elementos de coleção {#download-collection-elements}
+## Baixar uma coleção {#download-collection}
 
-Para baixar elementos de coleções:
+Para baixar uma coleção:
 
 1. Clique em **[!UICONTROL Coleções]** no painel à esquerda.
 
-1. Clique na coleção e selecione o(s) elemento(s) que precisa(m) ser baixado(s).
+1. Selecione a coleção que você precisa baixar e clique em **[!UICONTROL Baixar]**.
 
-1. Clique em **[!UICONTROL Baixar]**.
+1. No [!UICONTROL Baixar ativo] , clique em **[!UICONTROL OK]**.
 
-1. Na caixa de diálogo [!UICONTROL Baixar ativo], clique em **[!UICONTROL OK]**.
-
-Os elementos de coleção selecionada são baixados como um arquivo .ZIP em seu computador.
+A coleção é baixada como um arquivo .ZIP na máquina local.
 
 ## Excluir uma coleção {#delete-collection}
 

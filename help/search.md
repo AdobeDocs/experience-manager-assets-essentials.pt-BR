@@ -3,10 +3,10 @@ title: Pesquisar e descobrir ativos no [!DNL Assets Essentials]
 description: Pesquisar e descobrir ativos no [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 8fe62d7073b313da9a5ca4c365636933d44d24c4
+source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
 workflow-type: tm+mt
-source-wordcount: '774'
-ht-degree: 84%
+source-wordcount: '802'
+ht-degree: 90%
 
 ---
 
@@ -37,8 +37,12 @@ Você pode filtrar os resultados da pesquisa com base nos seguintes parâmetros.
 * Tipo de arquivo: filtre os resultados da pesquisa pelos tipos de arquivos compatíveis, ou seja, `Images`, `Documents` e `Videos`.
 * Tipo MIME: filtrar um ou mais formatos de arquivo compatíveis. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
 * Tamanho da imagem: forneça um ou mais valores máximos e mínimos de dimensão para filtrar imagens. O tamanho é fornecido em valores de dimensão de pixel e não é o tamanho do arquivo das imagens.
-* Data de criação: a data de criação do ativo fornecida pelos metadados. O formato de data padrão usado é `yyyy-mm-dd`.
+* Data de criação: A data de criação do ativo, conforme fornecido nos metadados. O formato de data padrão usado é `yyyy-mm-dd`.
 * Data de modificação: a data da última modificação dos ativos. O formato de data padrão usado é `yyyy-mm-dd`.
+
+* Data de validade: Filtre os resultados da pesquisa com base em um `Expired` status do ativo. Além disso, é possível especificar um intervalo de datas de expiração para os ativos filtrarem ainda mais os resultados da pesquisa.
+
+* Filtros personalizados: [Adicionar filtros personalizados](#custom-filters) para a interface do usuário do Assets Essentials. Aplique os filtros personalizados, além dos filtros padrão para refinar seus resultados de pesquisa.
 
 Você pode classificar os ativos pesquisados em ordem crescente ou decrescente de `Name`, `Relevancy`, `Size`, `Modified` e `Created`.
 
@@ -58,11 +62,11 @@ O Assets Essentials fornece os seguintes filtros personalizados:
      </tr>
      <tr>
       <td>Título</td>
-      <td>Filtrar ativos usando o título do ativo. Você pode usar um operador curinga (*) para permitir que o Assets Essentials exiba ativos nos resultados que correspondem parcialmente aos critérios de pesquisa. Por exemplo, se você definir <b>ma*</b> como critério de pesquisa, o Assets Essentials exibe ativos com título, como mercado, marketing, homem, manchester e assim por diante nos resultados.</td>
+      <td>Filtrar ativos usando o título do ativo. O título especificado nos critérios de pesquisa que diferenciam maiúsculas e minúsculas deve corresponder ao título exato do ativo a ser exibido nos resultados.</td>
      </tr>
      <tr>
       <td>Nome</td>
-      <td>Filtre ativos usando o nome do arquivo de ativo. Você pode usar um operador curinga (*) para permitir que o Assets Essentials exiba ativos nos resultados que correspondem parcialmente aos critérios de pesquisa.</td>
+      <td>Filtre ativos usando o nome do arquivo de ativo. O nome especificado nos critérios de pesquisa que diferenciam maiúsculas e minúsculas deve corresponder ao nome exato do arquivo do ativo a ser exibido nos resultados.</td>
      </tr>
      <tr>
       <td>Tamanho do ativo</td>
@@ -70,10 +74,19 @@ O Assets Essentials fornece os seguintes filtros personalizados:
      </tr>
      <tr>
       <td>Tags previstas</td>
-      <td>Filtrar ativos usando a tag inteligente de ativos. Você pode usar um operador curinga (*) para permitir que o Assets Essentials exiba ativos nos resultados que correspondem parcialmente aos critérios de pesquisa. Você pode especificar várias tags inteligentes separadas por vírgula nos critérios de pesquisa.</td>
+      <td>Filtrar ativos usando a tag inteligente de ativos. O nome da tag inteligente especificada nos critérios de pesquisa que diferenciam maiúsculas e minúsculas deve corresponder ao nome exato da tag inteligente do ativo a ser exibido nos resultados. Não é possível especificar várias tags inteligentes nos critérios de pesquisa.</td>
      </tr>    
     </tbody>
    </table>
+
+<!--
+   You can use a wildcard operator (*) to enable Assets Essentials to display assets in the results that partially match the search criteria. For example, if you define <b>ma*</b> as the search criteria, Assets Essentials displays assets with title, such as, market, marketing, man, manchester, and so on in the results.
+
+   You can use a wildcard operator (*) to enable Assets Essentials to display assets in the results that partially match the search criteria.
+
+   You can use a wildcard operator (*) to enable Assets Essentials to display assets in the results that partially match the search criteria. You can specify multiple smart tags separated by a comma in the search criteria.
+
+   -->
 
 ### Adicionar filtros personalizados {#add-custom-filters}
 
