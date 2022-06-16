@@ -4,14 +4,67 @@ description: Notas de versão e problemas conhecidos do [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 4fcac20c15ebabcafe851ce207bd937c8a7f6b03
-workflow-type: ht
-source-wordcount: '761'
-ht-degree: 100%
+source-git-commit: 7c6293bb99d5be8084e6998da966bb89be9c714e
+workflow-type: tm+mt
+source-wordcount: '889'
+ht-degree: 86%
 
 ---
 
 # Notas de versão do [!DNL Assets Essentials] {#release-notes}
+
+A versão atual do [!DNL Assets Essentials] foi lançado em 16 de junho de 2022.
+
+Esta versão fornece:
+
+**Aprimoramentos no status do ativo**
+
+* O Assets Essentials agora permite [definir uma data de expiração para um ativo](manage-organize.md#set-asset-status). Além disso, você pode [filtrar ativos](search.md#refine-search-results) com base no `Expired` status do ativo e um intervalo de datas de expiração.
+
+* Agora é possível exibir o indicador de status do ativo para todos os ativos disponíveis na Lixeira. Como resultado, você pode tomar uma decisão para restaurar um ativo com base em seu status.
+
+**Aprimoramentos nos filtros de pesquisa**
+
+* O Assets Essentials agora permite [filtrar ativos](search.md#refine-search-results) usando o `No Status` status do ativo.
+
+<!--
+
+* Assets Essentials now supports [using a wildcard operator (*) while using custom filters](search.md#custom-filters) to enable Assets Essentials to display assets in the results that partially match the search criteria.
+
+-->
+
+**Melhorias nas coleções**
+
+<!--
+
+* Assets Essentials now enables you to [create Private collections](manage-collections.md#create-collection).
+
+-->
+
+* O Assets Essentials agora é compatível [download de uma coleção](manage-collections.md).
+
+* Agora é possível editar o campo Descrição de metadados para uma coleção.
+
+**Aprimoramentos de documentação**
+
+* Uma nova versão do [Documentação de visão geral do Assets Essentials](introduction.md) agora está disponível.
+
+**Melhorias com base no feedback dos clientes**
+
+* Aprimoramentos e correções de erros com base no feedback do cliente.
+
+
+## Problemas conhecidos {#known-issues}
+
+A lista de problemas conhecidos do [!DNL Assets Essentials] é revisada e atualizada continuamente:
+
+* O Assets Essentials não oferece suporte à criação de coleções privadas.
+
+Se você encontrar problemas ou quiser fazer solicitações de aprimoramento, [forneça feedback](#provide-feedback) à equipe.
+
+## Versões anteriores {#past-release}
+
+### 2022.4.0 {#april-2022}
 
 A versão atual do [!DNL Assets Essentials] foi lançada em 12 de maio de 2022. Esta versão fornece:
 
@@ -23,25 +76,13 @@ A versão atual do [!DNL Assets Essentials] foi lançada em 12 de maio de 2022. 
 
 * Aprimoramentos e correções de erros com base no feedback do cliente.
 
-## Modo incógnito no Chrome {#incognito-mode}
+#### Modo incógnito no Chrome {#incognito-mode}
 
 Com esta versão, estamos otimizando o desempenho do delivery da interface. Recursos específicos no Assets Essentials - comentários em ativos e edição de imagens - dependem do armazenamento local do navegador e da ativação de cookies de terceiros. O modo incógnito no navegador Chrome bloqueia cookies de terceiros por padrão. Os usuários têm várias opções para continuar a acessar todos os recursos:
 
 * Uso dos perfis do Chrome em vez do modo Incógnito, quando o usuário precisar separar as sessões do navegador
 
 * Desativação de `Block third-party cookies` na tela do modo Incógnito no Chrome
-
-## Problemas conhecidos {#known-issues}
-
-A lista de problemas conhecidos do [!DNL Assets Essentials] é revisada e atualizada continuamente:
-
-* Não é possível filtrar ativos usando o status do ativo `No Status`.
-
-* O Assets Essentials não oferece suporte à criação de coleções privadas.
-
-Se você encontrar problemas ou quiser fazer solicitações de aprimoramento, [forneça feedback](#provide-feedback) à equipe.
-
-## Versões anteriores {#past-release}
 
 ### 2022.2.0 {#march-2022}
 
