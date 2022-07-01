@@ -6,7 +6,7 @@ exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
 workflow-type: tm+mt
 source-wordcount: '802'
-ht-degree: 90%
+ht-degree: 91%
 
 ---
 
@@ -32,7 +32,7 @@ Você pode filtrar os resultados da pesquisa com base nos seguintes parâmetros.
 
 *Figura: filtre ativos pesquisados com base em vários parâmetros.*
 
-* Status do ativo: Filtre os resultados da pesquisa usando um `Approved`, `Rejected`ou `No Status` status do ativo.
+* Status do ativo: filtre os resultados da pesquisa usando um status de ativo `Approved`, `Rejected` ou `No Status`.
 
 * Tipo de arquivo: filtre os resultados da pesquisa pelos tipos de arquivos compatíveis, ou seja, `Images`, `Documents` e `Videos`.
 * Tipo MIME: filtrar um ou mais formatos de arquivo compatíveis. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->

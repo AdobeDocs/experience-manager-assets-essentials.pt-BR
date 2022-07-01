@@ -7,7 +7,7 @@ exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
 workflow-type: tm+mt
 source-wordcount: '1036'
-ht-degree: 88%
+ht-degree: 95%
 
 ---
 
@@ -117,9 +117,9 @@ Para definir a data de expiração do ativo:
 
 1. Selecione o ativo e clique em **[!UICONTROL Detalhes]** na barra de ferramentas.
 
-1. No **[!UICONTROL Básico]** , defina a data de expiração do ativo usando o  **[!UICONTROL Data de expiração]** campo.
+1. Na guia **[!UICONTROL Básico]**, defina a data de expiração do ativo usando o campo **[!UICONTROL Data de expiração]**.
 
-O `Expired` o indicador do cartão de ativos substitui o `Approved` ou `Rejected` Indicador definido para um ativo.
+O indicador `Expired` do cartão de ativos substitui o indicador `Approved` ou `Rejected` definido para um ativo.
 
 Também é possível filtrar ativos com base em um status de ativo. Para mais informações, consulte [Pesquisar ativos no Assets Essentials](search.md).
 
@@ -135,9 +135,9 @@ Para mais informações sobre como adicionar campos de metadados adicionais ao f
 
 Para adicionar o campo de metadados Status do ativo ao formulário, arraste o componente **[!UICONTROL Status do ativo]** do painel à esquerda para o formulário. A propriedade de mapeamento é preenchida automaticamente. Salve o formulário para confirmar as alterações.
 
-**Adicionar o campo de metadados da Data de expiração ao formulário**
+**Adicionar o campo de metadados Data de expiração ao formulário**
 
-Para adicionar o campo de metadados Data de expiração ao formulário, arraste **[!UICONTROL Data]** componente do painel à esquerda para o formulário. Especificar **Data de expiração** como o rótulo e `pur:expirationDate` como a propriedade mapping. Salve o formulário para confirmar as alterações.
+Para adicionar o campo de metadados Data de expiração ao formulário, arraste o componente **[!UICONTROL Data]** do painel à esquerda para o formulário. Especifique **Data de expiração** como o rótulo e `pur:expirationDate` como a propriedade de mapeamento. Salve o formulário para confirmar as alterações.
 
 ## Próximas etapas {#next-steps}
 
