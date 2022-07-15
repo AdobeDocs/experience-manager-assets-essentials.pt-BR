@@ -5,27 +5,27 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 7c6293bb99d5be8084e6998da966bb89be9c714e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '889'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
 # Notas de versão do [!DNL Assets Essentials] {#release-notes}
 
-A versão atual do [!DNL Assets Essentials] foi lançado em 16 de junho de 2022.
+A versão atual do [!DNL Assets Essentials] foi lançada em 16 de junho de 2022.
 
 Esta versão fornece:
 
 **Aprimoramentos no status do ativo**
 
-* O Assets Essentials agora permite [definir uma data de expiração para um ativo](manage-organize.md#set-asset-status). Além disso, você pode [filtrar ativos](search.md#refine-search-results) com base no `Expired` status do ativo e um intervalo de datas de expiração.
+* O Assets Essentials agora permite [definir uma data de expiração para um ativo](manage-organize.md#set-asset-status). Além disso, você pode [filtrar ativos](search.md#refine-search-results) com base no status `Expired` do ativo e em um intervalo de datas de expiração.
 
-* Agora é possível exibir o indicador de status do ativo para todos os ativos disponíveis na Lixeira. Como resultado, você pode tomar uma decisão para restaurar um ativo com base em seu status.
+* Agora é possível visualizar o indicador de status do ativo de todos os ativos disponíveis na Lixeira. Assim, você pode decidir se deve restaurar um ativo com base em seu status.
 
 **Aprimoramentos nos filtros de pesquisa**
 
-* O Assets Essentials agora permite [filtrar ativos](search.md#refine-search-results) usando o `No Status` status do ativo.
+* O Assets Essentials agora permite [filtrar ativos](search.md#refine-search-results) usando o status `No Status` do ativo.
 
 <!--
 
@@ -33,7 +33,7 @@ Esta versão fornece:
 
 -->
 
-**Melhorias nas coleções**
+**Aprimoramentos nas coleções**
 
 <!--
 
@@ -41,15 +41,15 @@ Esta versão fornece:
 
 -->
 
-* O Assets Essentials agora é compatível [download de uma coleção](manage-collections.md).
+* O Assets Essentials agora permite fazer o [download de uma coleção](manage-collections.md).
 
-* Agora é possível editar o campo Descrição de metadados para uma coleção.
+* Agora é possível editar o campo de metadados Descrição de uma coleção.
 
-**Aprimoramentos de documentação**
+**Aprimoramentos na documentação**
 
-* Uma nova versão do [Documentação de visão geral do Assets Essentials](introduction.md) agora está disponível.
+* Uma nova versão da [documentação de visão geral do Assets Essentials](introduction.md) agora está disponível.
 
-**Melhorias com base no feedback dos clientes**
+**Aprimoramentos com base no feedback dos clientes**
 
 * Aprimoramentos e correções de erros com base no feedback do cliente.
 
