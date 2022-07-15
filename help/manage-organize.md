@@ -5,9 +5,9 @@ role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1036'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -111,7 +111,7 @@ Para definir o status do ativo:
 
 ### Definir data de expiração do ativo {#set-asset-expiration-date}
 
-O Assets Essentials também permite definir a data de expiração em ativos disponíveis no repositório. Você pode [filtrar os resultados da pesquisa](search.md#refine-search-results) com base em um `Expired` status do ativo. Além disso, é possível especificar um intervalo de datas de expiração para os ativos filtrarem ainda mais os resultados da pesquisa.
+O Assets Essentials também permite definir a data de expiração dos ativos disponíveis no repositório. Você pode [filtrar os resultados da pesquisa](search.md#refine-search-results) com base no status `Expired` de um ativo. Além disso, é possível especificar um intervalo de datas para a expiração dos ativos, permitindo filtrar ainda mais os resultados da pesquisa.
 
 Para definir a data de expiração do ativo:
 
