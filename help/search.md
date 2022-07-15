@@ -4,9 +4,9 @@ description: Pesquisar e descobrir ativos no [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: cfe72bb73493c84dc57a0438817e3868d8a1ed14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '802'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -37,12 +37,12 @@ Você pode filtrar os resultados da pesquisa com base nos seguintes parâmetros.
 * Tipo de arquivo: filtre os resultados da pesquisa pelos tipos de arquivos compatíveis, ou seja, `Images`, `Documents` e `Videos`.
 * Tipo MIME: filtrar um ou mais formatos de arquivo compatíveis. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
 * Tamanho da imagem: forneça um ou mais valores máximos e mínimos de dimensão para filtrar imagens. O tamanho é fornecido em valores de dimensão de pixel e não é o tamanho do arquivo das imagens.
-* Data de criação: A data de criação do ativo, conforme fornecido nos metadados. O formato de data padrão usado é `yyyy-mm-dd`.
+* Data de criação: a data de criação do ativo fornecida pelos metadados. O formato de data padrão usado é `yyyy-mm-dd`.
 * Data de modificação: a data da última modificação dos ativos. O formato de data padrão usado é `yyyy-mm-dd`.
 
-* Data de validade: Filtre os resultados da pesquisa com base em um `Expired` status do ativo. Além disso, é possível especificar um intervalo de datas de expiração para os ativos filtrarem ainda mais os resultados da pesquisa.
+* Data de expiração: filtre os resultados da pesquisa com base no status `Expired` de um ativo. Além disso, é possível especificar um intervalo de datas para a expiração dos ativos, permitindo filtrar ainda mais os resultados da pesquisa.
 
-* Filtros personalizados: [Adicionar filtros personalizados](#custom-filters) para a interface do usuário do Assets Essentials. Aplique os filtros personalizados, além dos filtros padrão para refinar seus resultados de pesquisa.
+* Filtros personalizados: [adicione filtros personalizados](#custom-filters) à interface do Assets Essentials. Aplique filtros personalizados além dos filtros padrão para refinar os resultados da pesquisa.
 
 Você pode classificar os ativos pesquisados em ordem crescente ou decrescente de `Name`, `Relevancy`, `Size`, `Modified` e `Created`.
 
