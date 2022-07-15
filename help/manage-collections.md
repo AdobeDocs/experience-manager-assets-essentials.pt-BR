@@ -3,9 +3,9 @@ title: Gerenciar coleções
 description: Uma coleção é um conjunto de ativos no Experience Manager Assets Essentials. Use coleções para compartilhar ativos entre usuários.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 source-git-commit: 466f64018a37f553c0ad0cfaa2dc98b1e84b9be1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '524'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -131,9 +131,9 @@ Para baixar uma coleção:
 
 1. Selecione a coleção que você precisa baixar e clique em **[!UICONTROL Baixar]**.
 
-1. No [!UICONTROL Baixar ativo] , clique em **[!UICONTROL OK]**.
+1. Na caixa de diálogo [!UICONTROL Baixar ativo], clique em **[!UICONTROL OK]**.
 
-A coleção é baixada como um arquivo .ZIP na máquina local.
+A coleção é baixada como um arquivo .ZIP no computador local.
 
 ## Excluir uma coleção {#delete-collection}
 
