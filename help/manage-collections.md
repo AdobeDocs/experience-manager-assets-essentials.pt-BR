@@ -2,10 +2,10 @@
 title: Gerenciar coleções
 description: Uma coleção é um conjunto de ativos no Experience Manager Assets Essentials. Use coleções para compartilhar ativos entre usuários.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: f273e1e3c8a290e0beee0423da00c63013062c43
+source-git-commit: 096906eded35dc0a8c231534204bfc672c2430b7
 workflow-type: tm+mt
 source-wordcount: '686'
-ht-degree: 76%
+ht-degree: 75%
 
 ---
 
@@ -47,7 +47,7 @@ Para criar uma coleção:
 
 1. Selecione se precisar criar uma coleção Privada ou uma coleção Pública. Uma coleção Pública está disponível para exibição e edição para todos os usuários. No entanto, uma coleção Privada está disponível para o criador e os usuários com privilégios de administrador.
 
-1. Clique em **[!UICONTROL Salvar]** para criar a coleção.
+1. Clique em **[!UICONTROL Criar]** para criar a coleção.
 
 ![Criar coleção](assets/create-collection.png)
 
