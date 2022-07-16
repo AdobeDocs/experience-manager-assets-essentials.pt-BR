@@ -2,10 +2,10 @@
 title: Gerenciar coleções
 description: Uma coleção é um conjunto de ativos no Experience Manager Assets Essentials. Use coleções para compartilhar ativos entre usuários.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 466f64018a37f553c0ad0cfaa2dc98b1e84b9be1
-workflow-type: ht
-source-wordcount: '524'
-ht-degree: 100%
+source-git-commit: f273e1e3c8a290e0beee0423da00c63013062c43
+workflow-type: tm+mt
+source-wordcount: '686'
+ht-degree: 76%
 
 ---
 
@@ -45,15 +45,15 @@ Para criar uma coleção:
 
 1. Especifique um título e uma descrição opcional para a coleção.
 
+1. Selecione se precisar criar uma coleção Privada ou uma coleção Pública. Uma coleção Pública está disponível para exibição e edição para todos os usuários. No entanto, uma coleção Privada está disponível para o criador e os usuários com privilégios de administrador.
+
 1. Clique em **[!UICONTROL Salvar]** para criar a coleção.
 
 ![Criar coleção](assets/create-collection.png)
 
 <!--
-
-1. Select if you need to a create a Private collection or a Public collection.
-
-   A Public collection is available for viewing and editing to all users. However, if you are a non-administrator user, a Private collection is available for viewing and editing only to users with the appropriate [permissions](#manage-collection-access). 
+   
+   for viewing and editing only to users with the appropriate [permissions](#manage-collection-access).
 
 -->
 
@@ -70,6 +70,25 @@ Para adicionar ativos a uma coleção:
 1. Clique em **[!UICONTROL Adicionar]** para adicionar o ativo às coleções selecionadas.
 
 Para adicionar ativos à coleção, você também pode clicar em **[!UICONTROL Coleções]** no painel à esquerda. Depois clique na coleção à qual adicionar ativos, clique em **[!UICONTROL Adicionar à coleção]**, selecione o(s) ativo(s) e clique em **[!UICONTROL Selecionar]**.
+
+## Criar uma coleção inteligente {#create-smart-collection}
+
+Salve os resultados da pesquisa como uma coleção inteligente para atualizar dinamicamente o conteúdo da coleção. Se houver ativos adicionados ao repositório do Assets Essentials que se encaixem nos critérios de pesquisa definidos ao criar a coleção inteligente, o conteúdo da coleção inteligente será atualizado automaticamente.
+
+Para criar uma coleção inteligente:
+
+1. Clique em **[!UICONTROL Filtro]** e [definir os critérios de pesquisa](search.md##refine-search-results).
+
+1. Clique em **[!UICONTROL Salvar como]** e depois selecione **[!UICONTROL Coleção inteligente]**.
+
+1. No [!UICONTROL Criar coleção inteligente] , especifique um título e uma descrição para a coleção inteligente.
+
+1. Selecionar **[!UICONTROL Coleção pública]** se você precisar que todos os usuários acessem a coleção. Selecionar **[!UICONTROL Coleção privada]** se você precisar de um grupo limitado de usuários para acessar a coleção.
+
+1. Clique em **[!UICONTROL Criar]** para criar a coleção inteligente.
+
+![Criar coleção inteligente](assets/create-smart-collection.png)
+
 
 ## Remover ativos de uma coleção {#remove-assets-from-collection}
 

@@ -4,14 +4,58 @@ description: Notas de versão e problemas conhecidos do [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 7c6293bb99d5be8084e6998da966bb89be9c714e
-workflow-type: ht
-source-wordcount: '889'
-ht-degree: 100%
+source-git-commit: f273e1e3c8a290e0beee0423da00c63013062c43
+workflow-type: tm+mt
+source-wordcount: '1117'
+ht-degree: 80%
 
 ---
 
 # Notas de versão do [!DNL Assets Essentials] {#release-notes}
+
+A versão atual do [!DNL Assets Essentials] foi lançado em 14 de julho de 2022.
+
+Esta versão fornece:
+
+**Coleções inteligentes**
+
+Salve os resultados da pesquisa como uma coleção inteligente para atualizar dinamicamente o conteúdo da coleção. Se houver ativos adicionados ao repositório do Assets Essentials que se encaixem nos critérios de pesquisa definidos ao [criação da coleção inteligente](manage-collections.md#create-smart-collection), o conteúdo da coleção inteligente é atualizado automaticamente.
+
+**Notificações**
+
+As notificações do Assets Essentials permitem [monitorar as operações executadas nos ativos ou pastas disponíveis no repositório](manage-notifications.md). É necessário selecionar e assinar o conteúdo para o qual as notificações são enviadas. Também é possível configurar as categorias para as quais as notificações são enviadas.
+
+**Relatório**
+
+Os relatórios de ativos permitem que os administradores avaliem a atividade do usuário no Adobe Experience Manager Assets Essentials. Os relatórios e o painel de estatísticas ao vivo fornecem informações úteis sobre como os usuários interagem com ativos disponíveis na implantação. [Use as informações nos relatórios](manage-reports.md) derivar métricas de sucesso importantes para medir a adoção de Ativos na empresa e por clientes.
+
+Visualize relatórios de download de ativos e o módulo do painel de estatísticas ao vivo para ver quais ativos estão sendo baixados e a frequência de downloads.
+
+**Aprimoramentos com base no feedback dos clientes**
+
+Aprimoramentos e correções de erros com base no feedback do cliente.
+
+
+## Problemas conhecidos {#known-issues}
+
+A lista de problemas conhecidos do [!DNL Assets Essentials] é revisada e atualizada continuamente:
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* O Assets Essentials não oferece suporte à edição de uma coleção inteligente.
+
+* As coleções privadas estão disponíveis para o criador e para os usuários com privilégios de administrador. Como administrador, não é possível delegar as permissões para acessar a coleção a outros usuários.
+
+Se você encontrar problemas ou quiser fazer solicitações de aprimoramento, [forneça feedback](#provide-feedback) à equipe.
+
+## Versões anteriores {#past-release}
+
+### 2022.5.0 {#may-2022}
 
 A versão atual do [!DNL Assets Essentials] foi lançada em 16 de junho de 2022.
 
@@ -52,17 +96,6 @@ Esta versão fornece:
 **Aprimoramentos com base no feedback dos clientes**
 
 * Aprimoramentos e correções de erros com base no feedback do cliente.
-
-
-## Problemas conhecidos {#known-issues}
-
-A lista de problemas conhecidos do [!DNL Assets Essentials] é revisada e atualizada continuamente:
-
-* O Assets Essentials não oferece suporte à criação de coleções privadas.
-
-Se você encontrar problemas ou quiser fazer solicitações de aprimoramento, [forneça feedback](#provide-feedback) à equipe.
-
-## Versões anteriores {#past-release}
 
 ### 2022.4.0 {#april-2022}
 
