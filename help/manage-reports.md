@@ -5,7 +5,7 @@ exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: e445cd77c6d57281cbf2442a849b249f3da1a4ee
 workflow-type: tm+mt
 source-wordcount: '491'
-ht-degree: 4%
+ht-degree: 71%
 
 ---
 
@@ -13,31 +13,31 @@ ht-degree: 4%
 
 Os relatórios de ativos fornecem aos administradores visibilidade sobre a atividade do ambiente Adobe Experience Manager Assets Essentials. Esses dados fornecem informações úteis sobre como os usuários interagem com o conteúdo e o produto.
 
-## Relatórios de acesso {#access-reports}
+## Acessar relatórios {#access-reports}
 
 Todos os usuários atribuídos à variável [Perfil de produto Administradores do Assets Essentials](deploy-administer.md) O pode acessar o painel Estatísticas ao vivo e criar relatórios definidos pelo usuário no Assets Essentials.
 
-## Exibir estatísticas ao vivo {#view-live-statistics}
+## Visualizar estatísticas em tempo real {#view-live-statistics}
 
 O Assets Essentials permite que você visualize dados em tempo real para seu ambiente Assets Essentials com o painel Estatísticas em tempo real . Você pode visualizar métricas de evento em tempo real durante os últimos 30 dias ou nos últimos 12 meses.
 
 ![Opções da barra de ferramentas ao selecionar um ativo](assets/asset-reports-live-statistics.png)
 
-Navegar para **[!UICONTROL Configurações]** > **[!UICONTROL Estatísticas ao vivo]** para exibir os dados de download gerados automaticamente.
+Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Estatísticas em tempo real]** para visualizar os dados de download gerados automaticamente.
 
 ## Criar um relatório {#create-report}
 
 Para criar um relatório:
 
-1. Navegar para **[!UICONTROL Configurações]** > **[!UICONTROL Relatórios]** e clique em **[!UICONTROL Criar relatório]**.
+1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Relatórios]** e clique em **[!UICONTROL Criar relatório]**.
 
-1. No [!UICONTROL Configuração] , especifique um título e uma descrição opcional para o relatório.
+1. Na guia [!UICONTROL Configuração], especifique um título e uma descrição opcional para o relatório.
 
-1. Selecione o caminho da pasta, que compreende os ativos nos quais o relatório será executado, usando o **[!UICONTROL Selecionar caminho da pasta]** campo.
+1. Selecione o caminho da pasta que compreende os ativos para os quais o relatório será criado, usando o campo **[!UICONTROL Selecionar caminho da pasta]**.
 
 1. Selecione o intervalo de datas do relatório.
 
-1. No [!UICONTROL Colunas] selecione os nomes das colunas que devem ser exibidas no relatório.
+1. Na guia [!UICONTROL Colunas], selecione os nomes das colunas que devem ser exibidas no relatório.
 
 1. Clique em **[!UICONTROL Criar]**.
 
@@ -73,7 +73,7 @@ A tabela a seguir explica o uso de todas as colunas que você pode adicionar ao 
      </tr>
      <tr>
       <td>Data de download</td>
-      <td>A data em que a ação de download de ativo é executada.</td>
+      <td>A data em que a ação de download do ativo foi executada.</td>
      </tr>
      <tr>
       <td>Autor</td>
@@ -81,7 +81,7 @@ A tabela a seguir explica o uso de todas as colunas que você pode adicionar ao 
      </tr>
      <tr>
       <td>Data de criação</td>
-      <td>A data em que o ativo é carregado no Assets Essentials.</td>
+      <td>A data em que o ativo foi carregado para o Assets Essentials.</td>
      </tr>
      <tr>
       <td>Data da modificação</td>
@@ -92,7 +92,7 @@ A tabela a seguir explica o uso de todas as colunas que você pode adicionar ao 
       <td>O status de expiração do ativo.</td>
      </tr>
      <tr>
-      <td>Baixado por nome de usuário</td>
+      <td>Baixado por Nome de usuário</td>
       <td>O nome do usuário que baixou o ativo.</td>
      </tr>           
     </tbody>
@@ -102,29 +102,29 @@ A tabela a seguir explica o uso de todas as colunas que você pode adicionar ao 
 
 Depois [criação do relatório](#create-report), é possível exibir a lista de relatórios existentes e selecionar as opções para baixá-los em um formato CSV ou excluí-los.
 
-Para exibir a lista de relatórios, navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Relatórios]**.
+Para visualizar a lista de relatórios, navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Relatórios]**.
 
-Para cada relatório, é possível visualizar o título do relatório, o tipo do relatório, a descrição especificada durante a criação do relatório, o status do relatório, a ID de email do autor que criou o relatório e a data de criação do relatório.
+É possível visualizar o título, o tipo, a descrição especificada durante a criação, o status, a ID de email do autor e a data de criação de cada relatório.
 
-`Completed ` o status do relatório representa que o relatório está pronto para download.
+O status `Completed ` do relatório significa que ele está pronto para download.
 
 ![Lista de relatórios](assets/list-of-reports.png)
 
 
-## Baixar um relatório CSV {#download-csv-report}
+## Baixar um relatório em formato CSV {#download-csv-report}
 
 Para baixar um relatório no formato CSV:
 
-1. Navegar para **[!UICONTROL Configurações]** > **[!UICONTROL Relatórios]**.
+1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Relatórios]**.
 
 1. Selecione um relatório e clique em **[!UICONTROL Baixar CSV]**.
 
-O relatório selecionado é baixado no formato CSV. As colunas exibidas no relatório CSV dependem das colunas selecionadas ao [criação do relatório](#create-report).
+O relatório selecionado é baixado no formato CSV. As colunas exibidas no relatório CSV dependem das colunas selecionadas ao [criar o relatório](#create-report).
 
 ## Excluir um relatório {#delete-report}
 
 Para excluir um relatório:
 
-1. Navegar para **[!UICONTROL Configurações]** > **[!UICONTROL Relatórios]**.
+1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Relatórios]**.
 
 1. Selecione um relatório e clique em **[!UICONTROL Excluir]**.
