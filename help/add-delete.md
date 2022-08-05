@@ -3,10 +3,10 @@ title: Fazer upload de ativos para o repositório
 description: Faça upload de ativos para o [!DNL Assets Essentials], visualize o status dos uploads e resolva problemas de upload.
 role: User
 exl-id: a85a4455-4456-48af-aee9-f05300677605
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
-source-wordcount: '810'
-ht-degree: 100%
+source-git-commit: 80cb4ba5bc56658a4ae8d162f4ae5f2ae3d822a0
+workflow-type: tm+mt
+source-wordcount: '839'
+ht-degree: 94%
 
 ---
 
@@ -32,9 +32,9 @@ Depois que todos os arquivos forem enfileirados, clique em **[!UICONTROL Fazer u
 
 *Figura: antes de fazer upload dos ativos selecionados, é possível adicionar ou remover ativos da fila.*
 
->[!CAUTION]
+>[!TIP]
 >
->Use ativos que não contenham espaço em branco em seus nomes de arquivos. As respostas aos comentários não funcionam para esses ativos.
+>Caso faça upload de uma estrutura de pastas para o Assets Essentials, não será necessário criar um arquivo .ZIP com a estrutura de pastas, você poderá fazer upload das estruturas de pastas diretamente. Um arquivo .ZIP carregado no Assets Essentials é armazenado como um ativo ZIP e não é extraído automaticamente após o upload.
 
 ## Visualizar o progresso e o status do upload {#upload-progress}
 
