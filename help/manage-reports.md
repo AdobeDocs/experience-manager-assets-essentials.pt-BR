@@ -1,25 +1,25 @@
 ---
 title: Gerenciar relatórios no Assets Essentials
-description: Acesse os dados na seção de relatórios do Assets Essentials para avaliar o uso de produtos e recursos e obter insights sobre as métricas principais de sucesso.
+description: Acesse os dados na seção de relatórios do Assets Essentials para avaliar o uso de produtos e recursos e obter insights sobre as principais métricas de sucesso.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: e445cd77c6d57281cbf2442a849b249f3da1a4ee
 workflow-type: tm+mt
 source-wordcount: '491'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
 # Gerenciar relatórios {#manage-reports}
 
-Os relatórios de ativos fornecem aos administradores visibilidade sobre a atividade do ambiente Adobe Experience Manager Assets Essentials. Esses dados fornecem informações úteis sobre como os usuários interagem com o conteúdo e o produto.
+Os relatórios de ativos fornecem aos administradores visibilidade sobre as atividades do ambiente do Adobe Experience Manager Assets Essentials. Esses dados fornecem informações úteis sobre como os usuários interagem com o conteúdo e o produto.
 
 ## Acessar relatórios {#access-reports}
 
-Todos os usuários atribuídos à variável [Perfil de produto Administradores do Assets Essentials](deploy-administer.md) O pode acessar o painel Estatísticas ao vivo e criar relatórios definidos pelo usuário no Assets Essentials.
+Todos os usuários atribuídos ao [perfil de produto de administradores do Assets Essentials](deploy-administer.md) podem acessar o painel Estatísticas em tempo real e criar relatórios definidos pelo usuário no Assets Essentials.
 
 ## Visualizar estatísticas em tempo real {#view-live-statistics}
 
-O Assets Essentials permite que você visualize dados em tempo real para seu ambiente Assets Essentials com o painel Estatísticas em tempo real . Você pode visualizar métricas de evento em tempo real durante os últimos 30 dias ou nos últimos 12 meses.
+O Assets Essentials permite que você visualize dados do seu ambiente em tempo real, por meio do painel Estatísticas em tempo real. Você pode visualizar métricas de evento em tempo real dos últimos 30 dias ou dos últimos 12 meses.
 
 ![Opções da barra de ferramentas ao selecionar um ativo](assets/asset-reports-live-statistics.png)
 
@@ -56,7 +56,7 @@ A tabela a seguir explica o uso de todas as colunas que você pode adicionar ao 
       <td>O título do ativo.</td>
      </tr>
      <tr>
-      <td>Caminho</td>
+      <td>Caminho </td>
       <td>O caminho da pasta onde o ativo está disponível no Assets Essentials.</td>
      </tr>
      <tr>
@@ -98,9 +98,9 @@ A tabela a seguir explica o uso de todas as colunas que você pode adicionar ao 
     </tbody>
    </table>
 
-## Exibir relatórios existentes {#view-report-list}
+## Visualizar relatórios existentes {#view-report-list}
 
-Depois [criação do relatório](#create-report), é possível exibir a lista de relatórios existentes e selecionar as opções para baixá-los em um formato CSV ou excluí-los.
+Depois de [criar o relatório](#create-report), é possível visualizar a lista de relatórios existentes e baixá-los em formato CSV ou excluí-los.
 
 Para visualizar a lista de relatórios, navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Relatórios]**.
 
