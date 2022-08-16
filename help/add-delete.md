@@ -4,9 +4,9 @@ description: Faça upload de ativos para o [!DNL Assets Essentials], visualize o
 role: User
 exl-id: a85a4455-4456-48af-aee9-f05300677605
 source-git-commit: 80cb4ba5bc56658a4ae8d162f4ae5f2ae3d822a0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '839'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ Depois que todos os arquivos forem enfileirados, clique em **[!UICONTROL Fazer u
 
 >[!TIP]
 >
->Caso faça upload de uma estrutura de pastas para o Assets Essentials, não será necessário criar um arquivo .ZIP com a estrutura de pastas, você poderá fazer upload das estruturas de pastas diretamente. Um arquivo .ZIP carregado no Assets Essentials é armazenado como um ativo ZIP e não é extraído automaticamente após o upload.
+>Caso faça upload de uma estrutura de pastas para o Assets Essentials, não será necessário criar um arquivo .ZIP com a estrutura de pastas. Você poderá fazer upload das estruturas de pastas diretamente. Um arquivo .ZIP carregado no Assets Essentials é armazenado como um ativo ZIP e não é extraído automaticamente após o upload.
 
 ## Visualizar o progresso e o status do upload {#upload-progress}
 
