@@ -2,10 +2,10 @@
 title: Gerenciar relatórios no Assets Essentials
 description: Acesse os dados na seção de relatórios do Assets Essentials para avaliar o uso de produtos e recursos e obter insights sobre as principais métricas de sucesso.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: e445cd77c6d57281cbf2442a849b249f3da1a4ee
+source-git-commit: cd57eda1f15ea349f810b3ce0086d3e3b92ddb19
 workflow-type: tm+mt
-source-wordcount: '491'
-ht-degree: 100%
+source-wordcount: '712'
+ht-degree: 83%
 
 ---
 
@@ -21,17 +21,29 @@ Todos os usuários atribuídos ao [perfil de produto de administradores do Asset
 
 O Assets Essentials permite que você visualize dados do seu ambiente em tempo real, por meio do painel Estatísticas em tempo real. Você pode visualizar métricas de evento em tempo real dos últimos 30 dias ou dos últimos 12 meses.
 
-![Opções da barra de ferramentas ao selecionar um ativo](assets/asset-reports-live-statistics.png)
+![Opções da barra de ferramentas ao selecionar um ativo](assets/assets-essentials-live-statistics.png)
 
-Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Estatísticas em tempo real]** para visualizar os dados de download gerados automaticamente.
+Navegar para **[!UICONTROL Configurações]** > **[!UICONTROL Estatísticas ao vivo]** para exibir os seguintes gráficos gerados automaticamente:
 
-## Criar um relatório {#create-report}
+* **Downloads**: O número de ativos baixados do ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados usando um gráfico de linhas.
 
-Para criar um relatório:
+* **Uploads**: O número de ativos carregados no ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados por meio de um gráfico de linhas.
+
+<!--
+
+* **Storage usage**: The storage usage, in gigabytes (GB), for the Assets Essentials environment, for the last 30 days or 12 months represented using a bar chart.
+
+-->
+
+## Criar um relatório de download {#create-download-report}
+
+Para criar um relatório de download:
 
 1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Relatórios]** e clique em **[!UICONTROL Criar relatório]**.
 
-1. Na guia [!UICONTROL Configuração], especifique um título e uma descrição opcional para o relatório.
+1. No [!UICONTROL Configuração] , especifique o tipo de relatório como **[!UICONTROL Baixar]**.
+
+1. Especifique um título e uma descrição opcional para o relatório.
 
 1. Selecione o caminho da pasta que compreende os ativos para os quais o relatório será criado, usando o campo **[!UICONTROL Selecionar caminho da pasta]**.
 
@@ -60,7 +72,7 @@ A tabela a seguir explica o uso de todas as colunas que você pode adicionar ao 
       <td>O caminho da pasta onde o ativo está disponível no Assets Essentials.</td>
      </tr>
      <tr>
-      <td>Tipo</td>
+      <td>Tipo MIME</td>
       <td>O tipo MIME do ativo.</td>
      </tr>
      <tr>
@@ -95,6 +107,69 @@ A tabela a seguir explica o uso de todas as colunas que você pode adicionar ao 
       <td>Baixado por Nome de usuário</td>
       <td>O nome do usuário que baixou o ativo.</td>
      </tr>           
+    </tbody>
+   </table>
+
+## Criar um relatório de upload {#create-upload-report}
+
+Para criar um relatório de Upload:
+
+1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Relatórios]** e clique em **[!UICONTROL Criar relatório]**.
+
+1. No [!UICONTROL Configuração] , especifique o tipo de relatório como **[!UICONTROL Upload]**.
+
+1. Especifique um título e uma descrição opcional para o relatório.
+
+1. Selecione o caminho da pasta que compreende os ativos para os quais o relatório será criado, usando o campo **[!UICONTROL Selecionar caminho da pasta]**.
+
+1. Selecione o intervalo de datas do relatório.
+
+1. Na guia [!UICONTROL Colunas], selecione os nomes das colunas que devem ser exibidas no relatório.
+
+1. Clique em **[!UICONTROL Criar]**.
+
+   ![Fazer upload de relatório](assets/upload-reports-config.png)
+
+A tabela a seguir explica o uso de todas as colunas que você pode adicionar ao relatório:
+
+<table>
+    <tbody>
+     <tr>
+      <th><strong>Nome da coluna</strong></th>
+      <th><strong>Descrição</strong></th>
+     </tr>
+     <tr>
+      <td>Título</td>
+      <td>O título do ativo.</td>
+     </tr>
+     <tr>
+      <td>Caminho </td>
+      <td>O caminho da pasta onde o ativo está disponível no Assets Essentials.</td>
+     </tr>
+     <tr>
+      <td>Tipo MIME</td>
+      <td>O tipo MIME do ativo.</td>
+     </tr>
+     <tr>
+      <td>Tamanho</td>
+      <td>O tamanho do ativo.</td>
+     </tr>
+     <tr>
+      <td>Autor</td>
+      <td>O autor do ativo.</td>
+     </tr>
+     <tr>
+      <td>Data de criação</td>
+      <td>A data em que o ativo foi carregado para o Assets Essentials.</td>
+     </tr>
+     <tr>
+      <td>Data da modificação</td>
+      <td>A data em que o ativo foi modificado pela última vez.</td>
+     </tr>
+     <tr>
+      <td>Expirado</td>
+      <td>O status de expiração do ativo.</td>
+     </tr>              
     </tbody>
    </table>
 

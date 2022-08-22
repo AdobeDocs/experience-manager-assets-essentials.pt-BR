@@ -4,32 +4,38 @@ description: Notas de versão e problemas conhecidos do [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: f273e1e3c8a290e0beee0423da00c63013062c43
-workflow-type: ht
-source-wordcount: '1117'
-ht-degree: 100%
+source-git-commit: b44ded8b1678e9b7c1c5eda3f350072e51b52f32
+workflow-type: tm+mt
+source-wordcount: '1269'
+ht-degree: 87%
 
 ---
 
 # Notas de versão do [!DNL Assets Essentials] {#release-notes}
 
-A versão atual do [!DNL Assets Essentials] foi lançada em 14 de julho de 2022.
+A versão atual do Assets Essentials foi lançada em 16 de agosto de 2022.
 
 Esta versão fornece:
 
-**Coleções inteligentes**
+**Notificações para coleções**
 
-Salve os resultados da pesquisa como uma coleção inteligente para atualizar dinamicamente o conteúdo da coleção. Se houver ativos adicionados ao repositório do Assets Essentials que se encaixem nos critérios de pesquisa definidos na [criação da coleção inteligente](manage-collections.md#create-smart-collection), o conteúdo da coleção inteligente será atualizado automaticamente.
+As notificações do Assets Essentials agora permitem monitorar as operações executadas nas coleções disponíveis no repositório. É necessário selecionar e assinar as coleções para as quais as notificações são enviadas a você. Você também pode configurar as operações para as quais as notificações são enviadas, como excluir, compartilhar link, mover, renomear e atualizar as operações realizadas nas coleções.
 
-**Notificações**
+**Editar coleções inteligentes**
 
-As notificações do Assets Essentials permitem [monitorar as operações realizadas nos ativos ou pastas disponíveis no repositório](manage-notifications.md). Você precisa selecionar e assinar o conteúdo sobre o qual deseja receber notificações. Você também pode configurar as categorias para as quais receberá notificações.
+O Assets Essentials agora também oferece a capacidade de editar os critérios de pesquisa usados ao criar uma coleção inteligente.  Salve os novos critérios de pesquisa para atualizar dinamicamente o conteúdo da coleção.
 
-**Relatório**
+<!--
 
-Os relatórios de ativos permitem que os administradores avaliem a atividade do usuário no Adobe Experience Manager Assets Essentials. Os relatórios e o painel Estatísticas em tempo real fornecem informações úteis sobre como os usuários interagem com os ativos disponíveis na implantação. [Use as informações nos relatórios](manage-reports.md) para obter as principais métricas de sucesso e medir a adoção de ativos na sua empresa e por clientes.
+**View live statistics for storage account**
 
-Visualize os relatórios de download de ativos e o módulo do painel Estatísticas em tempo real para ver quais ativos estão sendo baixados e a frequência dos downloads.
+Assets Essentials now also enables you to view real-time storage account data for your Assets Essentials environment with the Live Statistics dashboard. You can view real-time event metrics for the last 30 days or for the last 12 months.
+
+-->
+
+**Exibir relatórios de upload**
+
+O relatório de ativos agora oferece aos administradores visibilidade sobre ativos carregados na implantação do Adobe Experience Manager Assets Essentials. Os administradores já têm a capacidade de gerar relatórios para os ativos baixados da implantação do Assets Essentials. Esses dados fornecem informações úteis sobre como os usuários interagem com o conteúdo e o produto.
 
 **Aprimoramentos com base no feedback dos clientes**
 
@@ -47,17 +53,35 @@ A lista de problemas conhecidos do [!DNL Assets Essentials] é revisada e atuali
 -->
 
 
-* O Assets Essentials não permite editar uma coleção inteligente.
-
 * As coleções privadas estão disponíveis para o criador e usuários com privilégios de administrador. Como administrador, não é possível delegar a outros usuários as permissões para acessar a coleção.
 
 Se você encontrar problemas ou quiser fazer solicitações de aprimoramento, [forneça feedback](#provide-feedback) à equipe.
 
 ## Versões anteriores {#past-release}
 
+### 2022.6.0 {#june-2022}
+
+A versão de junho do [!DNL Assets Essentials] foi lançado em 14 de julho de 2022.
+
+Esta versão fornece:
+
+**Coleções inteligentes**
+
+Salve os resultados da pesquisa como uma coleção inteligente para atualizar dinamicamente o conteúdo da coleção. Se houver ativos adicionados ao repositório do Assets Essentials que se encaixem nos critérios de pesquisa definidos na [criação da coleção inteligente](manage-collections.md#create-smart-collection), o conteúdo da coleção inteligente será atualizado automaticamente.
+
+**Notificações**
+
+As notificações do Assets Essentials permitem [monitorar as operações realizadas nos ativos ou pastas disponíveis no repositório](manage-notifications.md). Você precisa selecionar e assinar o conteúdo sobre o qual deseja receber notificações. Você também pode configurar as categorias para as quais receberá notificações.
+
+**Relatório**
+
+Os relatórios de ativos permitem que os administradores avaliem a atividade do usuário no Adobe Experience Manager Assets Essentials. Os relatórios e o painel Estatísticas em tempo real fornecem informações úteis sobre como os usuários interagem com os ativos disponíveis na implantação. [Use as informações nos relatórios](manage-reports.md) para obter as principais métricas de sucesso e medir a adoção de ativos na sua empresa e por clientes.
+
+Visualize os relatórios de download de ativos e o módulo do painel Estatísticas em tempo real para ver quais ativos estão sendo baixados e a frequência dos downloads.
+
 ### 2022.5.0 {#may-2022}
 
-A versão atual do [!DNL Assets Essentials] foi lançada em 16 de junho de 2022.
+A versão de maio do [!DNL Assets Essentials] foi lançado em 16 de junho de 2022.
 
 Esta versão fornece:
 

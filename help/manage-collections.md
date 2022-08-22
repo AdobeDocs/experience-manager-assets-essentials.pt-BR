@@ -2,10 +2,10 @@
 title: Gerenciar coleções
 description: Uma coleção é um conjunto de ativos no Experience Manager Assets Essentials. Use coleções para compartilhar ativos entre usuários.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 096906eded35dc0a8c231534204bfc672c2430b7
-workflow-type: ht
-source-wordcount: '686'
-ht-degree: 100%
+source-git-commit: cd57eda1f15ea349f810b3ce0086d3e3b92ddb19
+workflow-type: tm+mt
+source-wordcount: '752'
+ht-degree: 92%
 
 ---
 
@@ -29,9 +29,15 @@ Você pode executar as seguintes tarefas para gerenciar e usar coleções:
 
 * [Adicionar ativos a uma coleção](#add-assets-to-collection)
 
+* [Criar uma coleção inteligente](#create-smart-collection)
+
+* [Editar uma coleção inteligente](#edit-smart-collection)
+
 * [Remover ativos de uma coleção](#remove-assets-from-collection)
 
 * [Exibir e editar metadados da coleção](#view-edit-collection-metadata)
+
+* [Compartilhar links para coleções](#share-collection-links)
 
 * [Baixar uma coleção](#download-collection)
 
@@ -71,9 +77,11 @@ Para adicionar ativos a uma coleção:
 
 Para adicionar ativos à coleção, você também pode clicar em **[!UICONTROL Coleções]** no painel à esquerda. Depois clique na coleção à qual adicionar ativos, clique em **[!UICONTROL Adicionar à coleção]**, selecione o(s) ativo(s) e clique em **[!UICONTROL Selecionar]**.
 
-## Criar uma coleção inteligente {#create-smart-collection}
+## Gerenciar uma coleção inteligente {#manage-smart-collection}
 
 Salve os resultados da pesquisa como uma coleção inteligente para atualizar dinamicamente o conteúdo da coleção. Se houver ativos adicionados ao repositório do Assets Essentials que se encaixem nos critérios de pesquisa definidos ao criar a coleção inteligente, o conteúdo da coleção inteligente será atualizado automaticamente.
+
+### Criar uma coleção inteligente {#create-smart-collection}
 
 Para criar uma coleção inteligente:
 
@@ -81,14 +89,25 @@ Para criar uma coleção inteligente:
 
 1. Clique em **[!UICONTROL Salvar como]** e, em seguida, selecione **[!UICONTROL Coleção inteligente]**.
 
+   ![Criar coleção inteligente](assets/create-smart-collection.png)
+
 1. Na caixa de diálogo [!UICONTROL Criar coleção inteligente], especifique um título e uma descrição para a coleção inteligente.
 
 1. Selecione **[!UICONTROL Coleção pública]** se você precisa que todos os usuários acessem a coleção. Selecione **[!UICONTROL Coleção privada]** se precisa que um grupo limitado de usuários acesse a coleção.
 
 1. Clique em **[!UICONTROL Criar]** para criar a coleção inteligente.
 
-![Criar coleção inteligente](assets/create-smart-collection.png)
+### Editar uma coleção inteligente {#edit-smart-collection}
 
+Para editar uma coleção inteligente:
+
+1. Clique em **[!UICONTROL Coleções]** no painel à esquerda e clique duas vezes no nome da coleção que você precisa editar.
+
+1. Clique em **[!UICONTROL Editar coleção inteligente]**.
+
+1. No [!UICONTROL Editar filtros de coleção inteligente] caixa de diálogo, [atualizar os critérios de pesquisa](search.md##refine-search-results) para a coleção inteligente.
+
+1. Clique em **[!UICONTROL Salvar]**.
 
 ## Remover ativos de uma coleção {#remove-assets-from-collection}
 
