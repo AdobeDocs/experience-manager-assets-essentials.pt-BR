@@ -7,7 +7,7 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: b118b841cbca05edc5b67d86ea87abfd09dcd452
 workflow-type: tm+mt
 source-wordcount: '1269'
-ht-degree: 86%
+ht-degree: 98%
 
 ---
 
@@ -19,7 +19,7 @@ Esta versão fornece:
 
 **Notificações para coleções**
 
-As notificações do Assets Essentials agora permitem monitorar as operações executadas nas coleções disponíveis no repositório. É necessário selecionar e assinar as coleções para as quais as notificações são enviadas a você. Você também pode configurar as operações para as quais as notificações são enviadas, como excluir, compartilhar link, mover, renomear e atualizar as operações realizadas nas coleções.
+As notificações do Assets Essentials agora permitem monitorar as operações realizadas nas coleções disponíveis no repositório. Você precisa selecionar e assinar as coleções sobre as quais deseja receber notificações. Você também pode configurar as operações para as quais as notificações são enviadas, como as operações excluir, compartilhar link, mover, renomear e atualizar realizadas nas coleções.
 
 **Editar coleções inteligentes**
 
@@ -61,7 +61,7 @@ Se você encontrar problemas ou quiser fazer solicitações de aprimoramento, [f
 
 ### 2022.6.0 {#june-2022}
 
-A versão de junho do [!DNL Assets Essentials] foi lançado em 14 de julho de 2022.
+A versão de junho do [!DNL Assets Essentials] foi lançada em 14 de julho de 2022.
 
 Esta versão fornece:
 
@@ -81,7 +81,7 @@ Visualize os relatórios de download de ativos e o módulo do painel Estatístic
 
 ### 2022.5.0 {#may-2022}
 
-A versão de maio do [!DNL Assets Essentials] foi lançado em 16 de junho de 2022.
+A versão de maio do [!DNL Assets Essentials] foi lançada em 16 de junho de 2022.
 
 Esta versão fornece:
 
