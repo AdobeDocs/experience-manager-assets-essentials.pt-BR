@@ -3,9 +3,9 @@ title: Gerenciar coleções
 description: Uma coleção é um conjunto de ativos no Experience Manager Assets Essentials. Use coleções para compartilhar ativos entre usuários.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 source-git-commit: cd57eda1f15ea349f810b3ce0086d3e3b92ddb19
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '752'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -105,7 +105,7 @@ Para editar uma coleção inteligente:
 
 1. Clique em **[!UICONTROL Editar coleção inteligente]**.
 
-1. No [!UICONTROL Editar filtros de coleção inteligente] caixa de diálogo, [atualizar os critérios de pesquisa](search.md##refine-search-results) para a coleção inteligente.
+1. Na caixa de diálogo [!UICONTROL Editar filtros de coleção inteligente], [atualize os critérios de pesquisa](search.md##refine-search-results) para a coleção inteligente.
 
 1. Clique em **[!UICONTROL Salvar]**.
 
