@@ -3,9 +3,9 @@ title: Gerenciar notificações
 description: Monitore as operações realizadas nos ativos ou pastas disponíveis no repositório usando as notificações do Assets Essentials.
 exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
 source-git-commit: 2a8899c333e08c50e4cf8b49399188f50a0d3a46
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '585'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ Você pode assinar e escolher dentre uma lista de categorias para as quais receb
      </tr>
      <tr>
       <td>Exclusão do conteúdo assinado</td>
-      <td>Você recebe uma notificação quando um usuário exclui seu ativo, pasta ou coleção assinado.</td>
+      <td>Você recebe uma notificação quando um usuário exclui o ativo, pasta ou coleção que você assinou.</td>
      </tr>
      <tr>
       <td>Compartilhamento externo do conteúdo assinado</td>
@@ -53,7 +53,7 @@ Você pode assinar e escolher dentre uma lista de categorias para as quais receb
      </tr>
      <tr>
       <td>Atualizações em pastas e coleções assinadas</td>
-      <td>Você recebe uma notificação quando um usuário adiciona ou remove um ativo de uma pasta ou coleção subscrita.</td>
+      <td>Você recebe uma notificação quando um usuário adiciona ou remove um ativo de uma pasta ou coleção que você assinou.</td>
      </tr>    
     </tbody>
    </table>
@@ -75,7 +75,7 @@ Para assinar as categorias de notificação:
 
 1. Selecione as categorias de notificação sobre as quais você precisa ser notificado.
 
-## Assista e desmarque pastas, ativos ou coleções {#watch-unwatch-assets}
+## Observar e deixar de observar pastas, ativos ou coleções {#watch-unwatch-assets}
 
 Depois de [assinar as categorias de notificação](#subscribe-to-notification-categories), você deve assinar o conteúdo para começar a receber notificações.
 
@@ -83,7 +83,7 @@ Depois de [assinar as categorias de notificação](#subscribe-to-notification-ca
 >
 >Para as categorias de notificação **[!UICONTROL Solicitações]** e **[!UICONTROL Atribuído a mim]**, não é necessário assinar o conteúdo após ter assinado as categorias de notificação. Você recebe notificações automaticamente sobre solicitações que criou e quando uma tarefa é atribuída a você.
 
-Para se inscrever no conteúdo, selecione a pasta, o ativo ou a coleção que você precisa assinar e clique em **[!UICONTROL Observar]**.
+Para assinar o conteúdo, selecione a pasta, ativo ou coleção que você precisa assinar e clique em **[!UICONTROL Observar]**.
 
 O Assets Essentials exibe uma mensagem de sucesso. Você pode clicar em **[!UICONTROL Ir para as preferências de notificação]** disponível na mensagem de sucesso para editar a [assinatura de categorias de notificação](#subscribe-to-notification-categories).
 
@@ -91,7 +91,7 @@ O Assets Essentials exibe uma mensagem de sucesso. Você pode clicar em **[!UICO
 
 O Assets Essentials agora envia notificações sobre as categorias que você assina. Você também pode selecionar vários ativos, pastas ou coleções e clicar em **[!UICONTROL Observar]** para economizar tempo. No entanto, se você selecionar várias entidades, dentre as quais algumas você já assinou algumas, a opção **[!UICONTROL Observar]** não é exibida.
 
-Da mesma forma, para cancelar a assinatura, selecione o ativo, a pasta ou a coleção para o qual você se inscreveu e clique em **[!UICONTROL Desassistir]**.
+De maneira similar, para cancelar a assinatura, selecione o ativo, pasta ou coleção que você assinou e clique em **[!UICONTROL Deixar de observar]**.
 
 ## Visualizar notificações {#view-notifications}
 
