@@ -3,9 +3,9 @@ title: Gerenciar relatórios no Assets Essentials
 description: Acesse os dados na seção de relatórios do Assets Essentials para avaliar o uso de produtos e recursos e obter insights sobre as principais métricas de sucesso.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: cd57eda1f15ea349f810b3ce0086d3e3b92ddb19
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '712'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -23,11 +23,11 @@ O Assets Essentials permite que você visualize dados do seu ambiente em tempo r
 
 ![Opções da barra de ferramentas ao selecionar um ativo](assets/assets-essentials-live-statistics.png)
 
-Navegar para **[!UICONTROL Configurações]** > **[!UICONTROL Estatísticas ao vivo]** para exibir os seguintes gráficos gerados automaticamente:
+Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Estatísticas em tempo real]** para visualizar os gráficos gerados automaticamente:
 
-* **Downloads**: O número de ativos baixados do ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados usando um gráfico de linhas.
+* **Downloads**: o número de ativos baixados do ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados usando um gráfico de linhas.
 
-* **Uploads**: O número de ativos carregados no ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados por meio de um gráfico de linhas.
+* **Carregamentos**: o número de ativos carregados para o ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados por meio de um gráfico de linhas.
 
 <!--
 
@@ -35,13 +35,13 @@ Navegar para **[!UICONTROL Configurações]** > **[!UICONTROL Estatísticas ao v
 
 -->
 
-## Criar um relatório de download {#create-download-report}
+## Criar um relatório de downloads {#create-download-report}
 
-Para criar um relatório de download:
+Para criar um relatório de downloads:
 
 1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Relatórios]** e clique em **[!UICONTROL Criar relatório]**.
 
-1. No [!UICONTROL Configuração] , especifique o tipo de relatório como **[!UICONTROL Baixar]**.
+1. Na guia [!UICONTROL Configuração], especifique o tipo de relatório como **[!UICONTROL Baixar]**.
 
 1. Especifique um título e uma descrição opcional para o relatório.
 
@@ -110,13 +110,13 @@ A tabela a seguir explica o uso de todas as colunas que você pode adicionar ao 
     </tbody>
    </table>
 
-## Criar um relatório de upload {#create-upload-report}
+## Criar um relatório de uploads {#create-upload-report}
 
-Para criar um relatório de Upload:
+Para criar um relatório de uploads:
 
 1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Relatórios]** e clique em **[!UICONTROL Criar relatório]**.
 
-1. No [!UICONTROL Configuração] , especifique o tipo de relatório como **[!UICONTROL Upload]**.
+1. Na guia [!UICONTROL Configuração], especifique o tipo de relatório como **[!UICONTROL Fazer upload]**.
 
 1. Especifique um título e uma descrição opcional para o relatório.
 
@@ -128,7 +128,7 @@ Para criar um relatório de Upload:
 
 1. Clique em **[!UICONTROL Criar]**.
 
-   ![Fazer upload de relatório](assets/upload-reports-config.png)
+   ![Relatório de uploads](assets/upload-reports-config.png)
 
 A tabela a seguir explica o uso de todas as colunas que você pode adicionar ao relatório:
 
