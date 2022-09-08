@@ -7,7 +7,7 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 9879dd2fd28c949727e85c3a54e07ea7c1a50c82
 workflow-type: tm+mt
 source-wordcount: '1312'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -181,7 +181,7 @@ O [!DNL Assets Essentials] 2021.7.0 foi lançado em 29 de julho de 2021, com as 
 
 ### Versão 2021.6.0 {#june2021}
 
-A primeira versão do [!DNL Assets Essentials], disponibilizada em 21 de junho de 2021, oferece recursos leves de gerenciamento de ativos. Ele suporta os seguintes principais recursos e operações de CRUD (Criar, Ler, Atualizar e Excluir):
+A primeira versão do [!DNL Assets Essentials], disponibilizada em 21 de junho de 2021, oferece recursos leves de gerenciamento de ativos. Ela é compatível com os seguintes recursos principais e operações de CRUD (criar, ler, atualizar e excluir):
 
 * Faça upload e adicione ativos, inclusive pastas aninhadas. Visualize os ativos e as versões.
 * Pesquisa de texto completo, filtros de pesquisa aprimorados e pesquisas salvas para detecção rápida de ativos.
