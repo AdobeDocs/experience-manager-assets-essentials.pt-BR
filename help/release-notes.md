@@ -7,7 +7,7 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 9879dd2fd28c949727e85c3a54e07ea7c1a50c82
 workflow-type: tm+mt
 source-wordcount: '1312'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,9 +25,9 @@ As notificações do Assets Essentials agora permitem monitorar as operações r
 
 O Assets Essentials agora também oferece a capacidade de editar os critérios de pesquisa usados ao criar uma coleção inteligente.  Salve os novos critérios de pesquisa para atualizar dinamicamente o conteúdo da coleção.
 
-**Exibir estatísticas dinâmicas para a conta de armazenamento**
+**Exibir estatísticas em tempo real da conta de armazenamento**
 
-O Assets Essentials agora também permite que você visualize dados de conta de armazenamento em tempo real para seu ambiente Assets Essentials com o painel Estatísticas em tempo real . Você pode visualizar métricas de evento em tempo real dos últimos 30 dias ou dos últimos 12 meses.
+O Assets Essentials agora permite visualizar os dados da conta de armazenamento em tempo real para o ambiente do Assets Essentials, por meio do painel Estatísticas em tempo real. Você pode visualizar métricas de evento em tempo real dos últimos 30 dias ou dos últimos 12 meses.
 
 **Exibir relatórios de upload**
 
