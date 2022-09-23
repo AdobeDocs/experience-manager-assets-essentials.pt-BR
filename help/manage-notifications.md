@@ -2,10 +2,10 @@
 title: Gerenciar notificações
 description: Monitore as operações realizadas nos ativos ou pastas disponíveis no repositório usando as notificações do Assets Essentials.
 exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
-source-git-commit: 2a8899c333e08c50e4cf8b49399188f50a0d3a46
-workflow-type: ht
-source-wordcount: '585'
-ht-degree: 100%
+source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -81,7 +81,9 @@ Depois de [assinar as categorias de notificação](#subscribe-to-notification-ca
 
 >[!NOTE]
 >
->Para as categorias de notificação **[!UICONTROL Solicitações]** e **[!UICONTROL Atribuído a mim]**, não é necessário assinar o conteúdo após ter assinado as categorias de notificação. Você recebe notificações automaticamente sobre solicitações que criou e quando uma tarefa é atribuída a você.
+>* Para as categorias de notificação **[!UICONTROL Solicitações]** e **[!UICONTROL Atribuído a mim]**, não é necessário assinar o conteúdo após ter assinado as categorias de notificação. Você recebe notificações automaticamente sobre solicitações que criou e quando uma tarefa é atribuída a você.
+>* O Assets Essentials envia notificações somente quando outros usuários executam ações no conteúdo assinado. Você não recebe notificações das ações executadas no conteúdo assinado.
+
 
 Para assinar o conteúdo, selecione a pasta, ativo ou coleção que você precisa assinar e clique em **[!UICONTROL Observar]**.
 
