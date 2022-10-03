@@ -10,7 +10,7 @@ feature: Assets Essentials
 role: User,Leader
 solution: Experience Manager
 source-git-commit: 1d7055f95e051dd0dd8790a0e655344d99f8f24d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 + [Visão geral da solução](introduction.md)
 + [Notas de versão](release-notes.md)
 + Introdução ao Assets Essentials para administradores {#get-started-admins}
-   + [Administrar o  e adicionar usuários](deploy-administer.md)
+   + [Administrar e adicionar usuários](deploy-administer.md)
    + Gerenciar acesso à pasta{#folder-access}
       + [Gerenciar permissões da pasta](manage-permissions.md)
       + [Práticas recomendadas para gerenciamento de permissões](permission-management-best-practices.md)
