@@ -4,9 +4,9 @@ description: Casos de uso de administração, como implantação e gerenciamento
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 source-git-commit: 9818d06d8da806190c61aadeecd50a7c65b31cbe
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1331'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ Execute as seguintes tarefas de direito do usuário usando o Admin Console:
 
 ### Criar administrador de aplicativos do Assets Essentials {#create-assets-essentials-administrator}
 
-Um administrador do Admin Console deve adicionar um administrador de aplicativo do Assets Essentials para gerenciar tarefas, como criar uma estrutura de pastas, carregar ativos, configurar permissões, configurar formulários de metadados e criar coleções públicas. Para obter informações sobre como atribuir um usuário ou grupo de usuários a um perfil de administrador de aplicativos do Assets Essentials, consulte [adicionar usuários aos perfis de produtos](#add-users-to-product-profiles).
+Um administrador do Admin Console deve adicionar um administrador de aplicativo do Assets Essentials para gerenciar tarefas, como criar uma estrutura de pastas, fazer upload de ativos, configurar permissões e formulários de metadados e criar coleções públicas. Para obter informações sobre como atribuir um usuário ou grupo de usuários a um perfil de administrador de aplicativos do Assets Essentials, consulte [adicionar usuários aos perfis de produtos](#add-users-to-product-profiles).
 
 ### Adicionar grupos de usuários {#add-user-groups}
 
@@ -53,7 +53,7 @@ Para obter informações sobre como gerenciar a adição de usuários a grupos d
 
 ### Adicionar grupos de usuários aos perfis de produtos {#add-users-to-product-profiles}
 
-Adicione grupos de usuários a perfis de produtos para que eles tenham acesso ao aplicativo do Assets Essentials.
+Adicione grupos de usuários aos perfis de produtos para que eles tenham acesso ao aplicativo do Assets Essentials.
 
 Para adicionar grupos de usuários aos perfis de produtos:
 
@@ -66,15 +66,15 @@ Para adicionar grupos de usuários aos perfis de produtos:
 
    O [!DNL Assets Essentials] tem três perfis de produto que representam o acesso para administradores, usuários comuns e consumidores.
 
-   * Administradores do **[!DNL Assets Essentials]** têm acesso administrativo ao aplicativo. Além de todos os recursos do usuário final, os administradores de aplicativos neste grupo podem gerenciar permissões para qualquer pasta e grupo/usuário em todo o repositório de aplicativos.
+   * Administradores do **[!DNL Assets Essentials]**: têm acesso administrativo ao aplicativo. Além de todos os recursos do usuário final, os administradores de aplicativos neste grupo podem gerenciar permissões para qualquer pasta e grupo/usuário em todo o repositório de aplicativos.
 
-   * Usuários do **[!DNL Assets Essentials]** têm acesso à interface completa. Esses usuários podem fazer upload, organizar, marcar e encontrar ativos digitais.
+   * Usuários do **[!DNL Assets Essentials]**: têm acesso à interface completa. Esses usuários podem fazer upload, organizar, marcar e encontrar ativos digitais.
 
    * Usuários consumidores do **[!DNL Assets Essentials]**: têm acesso à experiência de seleção de ativos incorporada no editor de modelo de email do [!DNL Adobe Journey Optimizer]. Para obter mais informações, consulte [Usar o [!DNL Assets Essentials] no [!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html?lang=pt-BR).
 
    ![Perfil de administrador do Admin Console](assets/admin-console-admin-profile.png)
 
-1. Para adicionar um grupo de usuários ao produto, clique em um dos três perfis de produto do Assets Essentials e selecione **[!UICONTROL Adicionar usuário]**, forneça os detalhes do grupo de usuários e clique em **[!UICONTROL Salvar]**.
+1. Para adicionar um grupo de usuários ao produto, clique em um dos três perfis de produtos do Assets Essentials, selecione **[!UICONTROL Adicionar usuário]**, forneça os detalhes do grupo de usuários e clique em **[!UICONTROL Salvar]**.
 
    ![Adicionar perfil de administrador de usuários](assets/add-users-admin-profile.png)
 
@@ -86,7 +86,7 @@ Para adicionar grupos de usuários aos perfis de produtos:
 
 ## Acessar o aplicativo Assets Essentials {#access-assets-essentials-application}
 
-Depois de executar os direitos do usuário no Admin Console, você pode acessar o aplicativo Assets Essentials para executar as seguintes tarefas:
+Depois de definir os direitos de usuário no Admin Console, você pode acessar o aplicativo Assets Essentials para executar as seguintes tarefas:
 
 * [Criar estrutura de pastas](#create-folder-structure)
 
@@ -106,7 +106,7 @@ Você pode usar os seguintes métodos para criar uma estrutura de pastas no repo
 
 * Clique na opção **[!UICONTROL Adicionar ativos]**, disponível na barra de ferramentas, para [fazer upload de uma estrutura de pastas disponível em seu computador local](add-delete.md).
 
-Crie uma estrutura de pastas que funcione bem com os objetivos de negócio da organização. Se estiver carregando uma estrutura de pastas existente no repositório do Assets Essentials, você deverá revisar a estrutura. Para obter mais informações, consulte [Práticas recomendadas de estrutura de pastas para um gerenciamento eficaz de permissões](permission-management-best-practices.md##folder-structure-assets-essentials).
+Crie uma estrutura de pastas que funcione bem com os objetivos de negócio da organização. Se estiver carregando uma estrutura de pastas existente no repositório do Assets Essentials, você deverá revisar a estrutura. Para obter mais informações, consulte [Práticas recomendadas de estrutura de pastas para o gerenciamento eficaz de permissões](permission-management-best-practices.md##folder-structure-assets-essentials).
 
 Há vários tipos possíveis de estruturas de pastas que podem ser usados na sua organização. Veja a seguir alguns exemplos de estruturas de pastas típicas:
 
@@ -118,7 +118,7 @@ Há vários tipos possíveis de estruturas de pastas que podem ser usados na sua
 
 ### Fazer upload de ativos {#upload-assets}
 
-Para adicionar novos ativos para trabalhar, faça upload de alguns ativos do seu sistema de arquivos local. Você pode arrastar ativos ou pastas na interface do usuário e seguir as instruções na tela ou clicar em **[!UICONTROL Adicionar ativos]** na barra de ferramentas e adicione alguns arquivos à caixa de diálogo de upload. O [!DNL Assets Essentials] oferece uma eficiente funcionalidade de pesquisa de texto completo, mas você também pode usar pastas para organizar melhor seus ativos. Para obter mais informações, consulte [Fazer upload de ativos](add-delete.md).
+Para adicionar novos ativos para trabalhar, faça upload de alguns ativos do seu sistema de arquivos local. Você pode arrastar ativos ou pastas para a interface e seguir as instruções na tela ou clicar em **[!UICONTROL Adicionar ativos]** na barra de ferramentas e adicionar alguns arquivos à caixa de diálogo de upload. O [!DNL Assets Essentials] oferece uma eficiente funcionalidade de pesquisa de texto completo, mas você também pode usar pastas para organizar melhor seus ativos. Para obter mais informações, consulte [Fazer upload de ativos](add-delete.md).
 
 ![Fazer upload de arquivos e pastas](assets/upload-assets.png)
 
@@ -144,7 +144,7 @@ Para obter mais informações, consulte [Formulários de metadados](metadata.md#
 
 Para obter mais informações sobre formulários de metadados, consulte [Formulários de metadados no Assets Essentials](metadata.md#metadata-forms).
 
-### Criar coleções públicas (Opcional) {#create-public-collections}
+### Criar coleções públicas (opcional) {#create-public-collections}
 
 Uma coleção é um conjunto de ativos no Experience Manager Assets Essentials. Use coleções para compartilhar ativos entre usuários.
 
@@ -166,7 +166,7 @@ Diferente de pastas, uma coleção pode incluir ativos de locais diferentes. Voc
 
 >[!MORELIKETHIS]
 >
->* Ajuda com o [[!DNL Admin Console] ](https://helpx.adobe.com/enterprise/using/admin-console.html)
+>* Ajuda com o [[!DNL Admin Console] ](https://helpx.adobe.com/br/enterprise/using/admin-console.html)
 >* Ajuda com o [[!DNL Cloud Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=pt-BR)
 >* [Documentação do Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR)
 >* [Notas de versão](release-notes.md)
