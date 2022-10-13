@@ -3,9 +3,9 @@ title: Gerenciar coleções
 description: Uma coleção é um conjunto de ativos no Experience Manager Assets Essentials. Use coleções para compartilhar ativos entre usuários.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '769'
+ht-degree: 100%
 
 ---
 
@@ -83,13 +83,13 @@ Para remover ativos de uma coleção:
 
 1. Clique em **[!UICONTROL Coleções]** no painel à esquerda para exibir a lista de coleções.
 
-1. Clique na coleção e selecione os itens que você precisa remover da coleção.
+1. Clique na coleção e selecione os ativos que precisam ser removidos dela.
 
 1. Clique em **[!UICONTROL Remover]**.
 
 ## Gerenciar uma coleção inteligente {#manage-smart-collection}
 
-Salve os resultados da pesquisa como uma coleção inteligente para atualizar dinamicamente o conteúdo da coleção. Se houver ativos adicionados ao repositório do Assets Essentials que se encaixem nos critérios de pesquisa definidos ao criar a Coleção inteligente, o conteúdo da Coleção inteligente será atualizado automaticamente ao abrir uma Coleção inteligente.
+Salve os resultados da pesquisa como uma coleção inteligente para atualizar dinamicamente o conteúdo da coleção. Se houver ativos adicionados ao repositório do Assets Essentials que se encaixem nos critérios de pesquisa definidos na criação da coleção inteligente, o conteúdo da coleção inteligente será atualizado automaticamente ao abri-la.
 
 ### Criar uma coleção inteligente {#create-smart-collection}
 
@@ -149,7 +149,7 @@ Para exibir e editar metadados da coleção:
 
 1. Clique em **[!UICONTROL Coleções]** no painel à esquerda, selecione uma coleção e clique em **[!UICONTROL Detalhes]**.
 1. Visualize os metadados da coleção usando a guia **[!UICONTROL Básico]**.
-1. Modifique os campos de metadados, conforme necessário. Você pode modificar o [!UICONTROL Título] e [!UICONTROL Descrição] campos.
+1. Modifique os campos de metadados, conforme necessário. Você pode modificar os campos [!UICONTROL Título] e [!UICONTROL Descrição].
 
 ![Metadados de coleção](assets/collection-metadata.png)
 
