@@ -3,9 +3,9 @@ title: Gerenciar relatórios no Assets Essentials
 description: Acesse os dados na seção de relatórios do Assets Essentials para avaliar o uso de produtos e recursos e obter insights sobre as principais métricas de sucesso.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 95001cb7b1d37807fcd1fed0e26333cca15bbfbd
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '755'
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ Os relatórios de ativos fornecem aos administradores visibilidade sobre as ativ
 
 ## Acessar relatórios {#access-reports}
 
-Todos os usuários atribuídos à variável [Perfil de produto Administradores do Assets Essentials](deploy-administer.md) pode acessar o painel Estatísticas ao vivo ou criar relatórios definidos pelo usuário no Assets Essentials.
+Todos os usuários atribuídos ao [perfil de produto de administradores do Assets Essentials](deploy-administer.md) podem acessar o painel Estatísticas em tempo real e criar relatórios definidos pelo usuário no Assets Essentials.
 
 ## Visualizar estatísticas em tempo real {#view-live-statistics}
 
@@ -46,7 +46,7 @@ Para criar um relatório de downloads:
 1. Selecione o intervalo de datas do relatório.
    >[!NOTE]
    >
-   > O Assets Essentials converte todos os fusos horários locais em Horário universal coordenado (UTC).
+   > O Assets Essentials converte todos os fusos horários locais para o Tempo universal coordenado (UTC).
 
 1. Na guia [!UICONTROL Colunas], selecione os nomes das colunas que devem ser exibidas no relatório.
 
