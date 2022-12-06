@@ -3,9 +3,9 @@ title: Integração com outras soluções da Adobe
 description: “O [!DNL Assets Essentials] integra-se com outras soluções da Adobe e fornece uma experiência incorporada no aplicativo nativo.”
 role: User
 exl-id: bc43a59e-f295-44d2-a14d-854174f91e41
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
-source-wordcount: '387'
+source-git-commit: 268b7eb82b15b658207f24750eeae085ce5bb3d4
+workflow-type: tm+mt
+source-wordcount: '369'
 ht-degree: 100%
 
 ---
@@ -21,8 +21,6 @@ A experiência do [!DNL Assets Essentials] incorporado pode se integrar com as s
    [Assista a um vídeo sobre a integração do Assets Essentials às bibliotecas da Adobe Creative Cloud](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html?lang=pt-BR)
 
 * **[!DNL Adobe Journey Optimizer]**: o [[!DNL Adobe Journey Optimizer]](https://business.adobe.com/br/products/journey-optimizer/adobe-journey-optimizer.html) simplifica o gerenciamento de jornadas para que os clientes forneçam campanhas omnicanais com insights e decisões inteligentes. Ao criar mensagens usando o [!DNL Journey Optimizer], você pode acessar o repositório do [!DNL Assets Essentials] diretamente de dentro da interface do [!DNL Journey Optimizer]. Os usuários obtêm acesso aos ativos usando a interface incorporada do [!DNL Assets Essentials]. Consulte o artigo de ajuda [Usar o  [!DNL Assets Essentials] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html?lang=pt-BR) ou o [tutorial em vídeo para a criação de conteúdo de email](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=pt-BR).
-
-   [Assista a um vídeo sobre criação de conteúdo de email com o editor de mensagens](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=pt-BR)
 
 * **[!DNL Adobe Workfront]**: o [[!DNL Adobe Workfront]](https://www.workfront.com/) é um aplicativo de gerenciamento de trabalho que ajuda você a gerenciar todo o ciclo de vida do trabalho em um único local. A integração nativa entre o [!DNL Adobe Workfront] e o [!DNL Assets Essentials] permite que as organizações melhorem a velocidade do conteúdo e o prazo para comercialização, conectando intrinsecamente o trabalho e o gerenciamento de ativos. No contexto do gerenciamento de trabalho, os usuários têm acesso aos documentos e imagens necessários na mesma solução. O [!DNL Assets Essentials] está disponível como um complemento que novos clientes do [!DNL Workfront] podem adquirir separadamente. Consulte [Configurar e usar a integração do [!DNL Workfront] e [!DNL Essentials] ](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm).
 
