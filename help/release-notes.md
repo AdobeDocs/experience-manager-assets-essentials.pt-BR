@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: fbbd982e36f2b0d126c01f71afed8da984320523
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '1401'
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ A versão atual do Assets Essentials foi lançada em 17 de novembro de 2022.
 
 Esta versão fornece:
 
-**Visualizar documentos usando o Visualizador de Document Cloud**
+**Visualização de documentos usando o visualizador da Document Cloud**
 
-O Assets Essentials agora permite carregar documentos em outros tipos de formato compatíveis e visualizá-los usando o visualizador de Document Cloud incluído. Os tipos de formato compatíveis incluem TXT, RTF, DOC, DOCX, PPT, PPTX, XLS e XLSX.
+O Assets Essentials agora permite fazer upload de documentos em outros tipos de formato compatíveis e visualizá-los usando o visualizador da Document Cloud incluído. Os tipos de formato compatíveis incluem: TXT, RTF, DOC, DOCX, PPT, PPTX, XLS e XLSX.
 
 <!--
 
@@ -38,9 +38,9 @@ You can easily synchronize the user groups available on the external identity ma
 -->
 
 
-**Nova opção Salvar metadados**
+**Nova opção para Salvar metadados**
 
-Uma nova opção Salvar metadados está disponível na interface do usuário do Assets Essentials para melhorar o controle de metadados.
+Uma nova opção para Salvar metadados já está disponível na interface do Assets Essentials para melhorar o controle de metadados.
 
 **Aprimoramentos com base no feedback dos clientes**
 
@@ -65,7 +65,7 @@ Se você encontrar problemas ou quiser fazer solicitações de aprimoramento, [f
 
 ### 2022.8.0 {#august-2022}
 
-A versão de agosto de [!DNL Assets Essentials] foi lançado em 22 de agosto de 2022.
+A versão de agosto do [!DNL Assets Essentials] foi lançada em 22 de agosto de 2022.
 
 Esta versão fornece:
 
