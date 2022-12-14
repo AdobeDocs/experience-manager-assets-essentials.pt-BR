@@ -4,10 +4,10 @@ description: Notas de versão e problemas conhecidos do [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: fbbd982e36f2b0d126c01f71afed8da984320523
-workflow-type: ht
-source-wordcount: '1401'
-ht-degree: 100%
+source-git-commit: 2a19ab3dd9c3d15916cfb93083a23569005a86b6
+workflow-type: tm+mt
+source-wordcount: '1471'
+ht-degree: 95%
 
 ---
 
@@ -45,6 +45,16 @@ Uma nova opção para Salvar metadados já está disponível na interface do Ass
 **Aprimoramentos com base no feedback dos clientes**
 
 Aprimoramentos e correções de erros com base no feedback do cliente.
+
+**Adobe Asset Link versão 3.3**
+
+[Adobe Asset Link](https://helpx.adobe.com/br/enterprise/using/adobe-asset-link.html) A versão 3.3 foi lançada em 13 de dezembro de 2022, com os seguintes recursos:
+
+* Suporte para [Creative Cloud para equipes](https://www.adobe.com/creativecloud/business/teams.html) além do apoio [Creative Cloud para empresas](https://www.adobe.com/creativecloud/business/enterprise.html) antes.
+
+* Suporte para os aplicativos mais recentes do Adobe InDesign, Photoshop e Illustrator 2023.
+
+* Suporte para usar o Adobe Asset Link CEP Plugin em ambientes com servidores proxy.
 
 ## Problemas conhecidos {#known-issues}
 
