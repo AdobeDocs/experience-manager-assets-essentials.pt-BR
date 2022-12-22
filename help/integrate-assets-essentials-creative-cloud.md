@@ -3,9 +3,9 @@ title: Integrar o Assets Essentials aos aplicativos da Creative Cloud
 description: Integre o Assets Essentials aos aplicativos da Creative Cloud para que você possa usar o painel no aplicativo do Adobe Asset Link para se conectar ao repositório do  [!DNL Assets Essentials]  de dentro dos aplicativos de desktop compatíveis da  [!DNL Adobe Creative Cloud] .
 exl-id: 611fd958-3fd3-4c46-bee9-8b866b7dc208
 source-git-commit: 268b7eb82b15b658207f24750eeae085ce5bb3d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '854'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ Execute as seguintes tarefas para integrar o Assets Essentials aos aplicativos d
 
 ## Criar confiabilidade de diretório entre o Admin Console da Creative Cloud e o Admin Console da Experience Cloud {#directory-trusting-cc-assets-essentials-consoles}
 
-Se o Creative Cloud for implantado em uma Adobe Admin Console separada da com o Assets Essentials (solução Experience Cloud), será necessário adicionar uma relação de confiança entre os dois consoles.
+Se a Creative Cloud for implantada em uma instância do Adobe Admin Console diferente da utilizada com o Assets Essentials (solução da Experience Cloud), será necessário adicionar um relacionamento de confiança entre os dois consoles.
 
 Para integrar aplicativos da Creative Cloud e do Assets Essentials, os usuários disponíveis no Admin Console da Creative Cloud devem ser disponibilizados no Admin Console da Experience Cloud. Se a Creative Cloud e o Assets Essentials forem implantados em diferentes instâncias do Admin Console, será necessário criar uma relação de confiança entre elas.
 
