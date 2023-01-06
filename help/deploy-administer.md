@@ -3,10 +3,10 @@ title: Administrar e gerenciar usuários
 description: Casos de uso de administração, como implantação e gerenciamento de usuários no [!DNL Assets Essentials].
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
-source-git-commit: 9818d06d8da806190c61aadeecd50a7c65b31cbe
-workflow-type: ht
-source-wordcount: '1331'
-ht-degree: 100%
+source-git-commit: 6d36813bff1dd99f9185935605a10012c7865a50
+workflow-type: tm+mt
+source-wordcount: '1342'
+ht-degree: 94%
 
 ---
 
@@ -37,7 +37,7 @@ Execute as seguintes tarefas de direito do usuário usando o Admin Console:
 
 ### Criar administrador de aplicativos do Assets Essentials {#create-assets-essentials-administrator}
 
-Um administrador do Admin Console deve adicionar um administrador de aplicativo do Assets Essentials para gerenciar tarefas, como criar uma estrutura de pastas, fazer upload de ativos, configurar permissões e formulários de metadados e criar coleções públicas. Para obter informações sobre como atribuir um usuário ou grupo de usuários a um perfil de administrador de aplicativos do Assets Essentials, consulte [adicionar usuários aos perfis de produtos](#add-users-to-product-profiles).
+Um administrador do Admin Console deve adicionar um usuário, e não um grupo de usuários, ao perfil de produto do administrador do Assets Essentials. O administrador do aplicativo Assets Essentials pode gerenciar tarefas como criar uma estrutura de pastas, fazer upload de ativos, configurar permissões, configurar formulários de metadados e criar coleções públicas. Para obter informações sobre como atribuir um usuário a um perfil de administrador de aplicativo do Assets Essentials, consulte [adicionar usuários aos perfis de produtos](#add-users-to-product-profiles).
 
 ### Adicionar grupos de usuários {#add-user-groups}
 
