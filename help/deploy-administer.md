@@ -4,9 +4,9 @@ description: Casos de uso de administração, como implantação e gerenciamento
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 source-git-commit: c7b863aa81337293454199e72f705e53f05a5130
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1344'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ Execute as seguintes tarefas de direito do usuário usando o Admin Console:
 
 ### Criar administrador de aplicativos do Assets Essentials {#create-assets-essentials-administrator}
 
-Um administrador do Admin Console deve adicionar o perfil de produto do administrador do Assets Essentials a um usuário e não a um grupo de usuários. O administrador do aplicativo Assets Essentials pode gerenciar tarefas como criar uma estrutura de pastas, fazer upload de ativos, configurar permissões, configurar formulários de metadados e criar coleções públicas. Para obter informações sobre como atribuir um perfil de administrador de aplicativo do Assets Essentials a um usuário, consulte [adicionar perfis de produto a grupos de usuários](#add-product-profiles-to-user-groups).
+O administrador do Admin Console deve adicionar o perfil de produto do administrador do Assets Essentials a um usuário e não a um grupo de usuários. O administrador do aplicativo do Assets Essentials poderá então gerenciar tarefas como criar uma estrutura de pastas, fazer upload de arquivos, configurar permissões, configurar formulários de metadados e criar coleções públicas. Para obter informações sobre como atribuir um perfil de administrador de aplicativo do Assets Essentials a um usuário, consulte [Adicionar perfis de produto a grupos de usuários](#add-product-profiles-to-user-groups).
 
 ### Adicionar grupos de usuários {#add-user-groups}
 
@@ -53,7 +53,7 @@ Para obter informações sobre como gerenciar a adição de usuários a grupos d
 
 ### Adicionar perfis de produto a grupos de usuários {#add-product-profiles-to-user-groups}
 
-Adicione perfis de produto a grupos de usuários para que eles tenham acesso ao aplicativo do Assets Essentials.
+Adicione perfis de produtos a grupos de usuários para que eles tenham acesso ao aplicativo do Assets Essentials.
 
 Para adicionar perfis de produto a grupos de usuários:
 
