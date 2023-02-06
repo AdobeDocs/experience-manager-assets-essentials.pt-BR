@@ -2,10 +2,10 @@
 title: Como compartilhar links com ativos?
 description: Gere um link e compartilhe ativos com outras pessoas que não têm acesso ao aplicativo  [!DNL Assets Essentials] .
 exl-id: 6e05b06c-7436-40e3-acee-c8b1ed218f9e
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
-source-wordcount: '420'
-ht-degree: 100%
+source-git-commit: 79039f96a4aa44bb81923ec909766969f81e1a3f
+workflow-type: tm+mt
+source-wordcount: '407'
+ht-degree: 98%
 
 ---
 
@@ -21,9 +21,7 @@ Para gerar um link para um ativo ou uma pasta contendo ativos:
 
 1. Se desejar ajustá-lo, clique no ícone Calendário para definir uma data de expiração para o link usando o campo **[!UICONTROL Data de vencimento]**. Também é possível especificar uma data diretamente no formato `yyyy-mm-dd`. Por padrão, a data de expiração de um link é definida como 2 semanas a partir da data de compartilhamento.
 
-1. Clique em **[!UICONTROL Gerar link]**.
-
-1. Clique em **[!UICONTROL Copiar link]** para copiar o link. Também é possível copiar o link do campo **[!UICONTROL Compartilhar link]**.
+1. Copie o link do **[!UICONTROL Compartilhar link]** campo.
 
    ![Opção de cortar e endireitar](assets/share-asset-link.png)
 
