@@ -4,10 +4,10 @@ description: Gerenciar metadados de ativos no  [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 9a29e1a9403a9790a3e6aa50b222fa7a6bfd66ec
+source-git-commit: b264c9cdff39f75dce31976add8621a33bc72e4b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1262'
+ht-degree: 97%
 
 ---
 
@@ -57,7 +57,13 @@ As Tags inteligentes também contêm uma pontuação de confiança como uma porc
 
 Também é possível remover tags da seção [!UICONTROL Tags inteligentes] que são adicionadas automaticamente pelo [!DNL Assets Essentials] em todos os ativos carregados.
 
-## Formulários de metadados {#metadata-forms}
+## Forms de metadados {#metadata-forms}
+
+>[!CONTEXTUALHELP]
+>id="assets_metadata_forms"
+>title="Forms de metadados"
+>abstract="O Experience Manager Assets fornece vários campos de metadados padrão por padrão. As organizações têm necessidades adicionais de metadados e precisam de mais campos para adicionar metadados específicos de negócios. Os formulários de metadados permitem que as empresas adicionem campos de metadados personalizados à página Detalhes de um ativo. Os metadados específicos de negócios melhoram a governança e a descoberta de ativos."
+>additional-url="https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html#metadata-forms" text="Saiba mais"
 
 Por padrão, o Assets Essentials fornece vários campos de metadados padrão. As organizações têm necessidades adicionais de metadados e precisam de mais campos para adicionar metadados específicos de negócios. Os formulários de metadados permitem que as empresas adicionem campos de metadados personalizados à página [!UICONTROL Detalhes] de um ativo. Os metadados específicos de negócios melhoram a governança e a descoberta de ativos. É possível criar formulários do zero ou redefinir a finalidade de um formulário existente.
 
