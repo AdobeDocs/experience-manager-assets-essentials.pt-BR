@@ -4,9 +4,9 @@ description: Gerenciar metadados de ativos no  [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 274028a1fb224b045c047e63539a9b96b1cc4357
+source-git-commit: 260eb904240652d174cc29bacfe92b03699305d0
 workflow-type: tm+mt
-source-wordcount: '1251'
+source-wordcount: '1252'
 ht-degree: 95%
 
 ---
@@ -57,7 +57,7 @@ As Tags inteligentes também contêm uma pontuação de confiança como uma porc
 
 Também é possível remover tags da seção [!UICONTROL Tags inteligentes] que são adicionadas automaticamente pelo [!DNL Assets Essentials] em todos os ativos carregados.
 
-## Forms de metadados {#metadata-forms}
+## Configurar formulários de metadados {#metadata-forms}
 
 >[!CONTEXTUALHELP]
 >id="assets_metadata_forms"
