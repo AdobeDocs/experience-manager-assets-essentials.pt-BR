@@ -4,7 +4,7 @@ description: Gerenciar metadados de ativos no  [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 260eb904240652d174cc29bacfe92b03699305d0
+source-git-commit: fecbd1b05cc91148f41c576f4569f1799df6095e
 workflow-type: tm+mt
 source-wordcount: '1252'
 ht-degree: 95%
@@ -62,7 +62,7 @@ Também é possível remover tags da seção [!UICONTROL Tags inteligentes] que 
 >[!CONTEXTUALHELP]
 >id="assets_metadata_forms"
 >title="Forms de metadados"
->abstract="[!DNL Experience Manager Assets] O fornece vários campos de metadados padrão por padrão. As organizações têm requisitos de metadados adicionais e precisam de mais campos de metadados para adicionar metadados específicos de negócios. Os formulários de metadados permitem que as empresas adicionem campos de metadados personalizados à página Detalhes de um ativo. Os metadados específicos de negócios melhoram a governança e a descoberta de ativos."
+>abstract="[!DNL Experience Manager Assets] O fornece vários campos de metadados padrão por padrão. As organizações têm necessidades adicionais de metadados e exigem mais campos de metadados para adicionar metadados específicos da empresa. Os formulários de metadados permitem que as empresas adicionem campos de metadados personalizados à página Detalhes de um ativo. Os metadados específicos de negócios melhoram a governança e a descoberta de ativos."
 
 Por padrão, o Assets Essentials fornece vários campos de metadados padrão. As organizações têm necessidades adicionais de metadados e precisam de mais campos para adicionar metadados específicos de negócios. Os formulários de metadados permitem que as empresas adicionem campos de metadados personalizados à página [!UICONTROL Detalhes] de um ativo. Os metadados específicos de negócios melhoram a governança e a descoberta de ativos. É possível criar formulários do zero ou redefinir a finalidade de um formulário existente.
 
