@@ -7,7 +7,7 @@ exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: fecbd1b05cc91148f41c576f4569f1799df6095e
 workflow-type: tm+mt
 source-wordcount: '1252'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -101,7 +101,7 @@ Para criar um formulário de metadados, siga estas etapas:
 1. Como opção, adicione mais guias e os componentes necessários em cada guia.
 1. Clique em **[!UICONTROL Salvar]** quando o formulário estiver finalizado.
 
-Assista a este vídeo para exibir a sequência de etapas:
+Assista a este vídeo para ver a sequência de etapas:
 
 >[!VIDEO](https://video.tv.adobe.com/v/341275)
 
