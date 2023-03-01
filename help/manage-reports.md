@@ -3,9 +3,9 @@ title: Gerenciar relatórios no Assets Essentials
 description: Acesse os dados na seção de relatórios do Assets Essentials para avaliar o uso de produtos e recursos e obter insights sobre as principais métricas de sucesso.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: ec9cdf0d206aa59d67b8ac96504b590a2db19663
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '731'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -15,15 +15,15 @@ Os relatórios de ativos fornecem aos administradores visibilidade sobre as ativ
 
 ## Acessar relatórios {#access-reports}
 
-Todos os usuários atribuídos à variável [Perfil de produto Administradores do Assets Essentials](deploy-administer.md) O pode acessar o painel do Insights ou criar relatórios definidos pelo usuário no Assets Essentials.
+Todos os usuários atribuídos ao [Perfil de produto de administradores do Assets Essentials](deploy-administer.md) podem acessar o painel Insights e criar relatórios definidos pelo usuário no Assets Essentials.
 
-## Exibir insights {#view-live-statistics}
+## Exibir o Insights {#view-live-statistics}
 
-O Assets Essentials permite que você visualize dados em tempo real para seu ambiente Assets Essentials com o painel do Insights . Você pode visualizar métricas de evento em tempo real dos últimos 30 dias ou dos últimos 12 meses.
+O Assets Essentials permite que você visualize dados do seu ambiente Assets Essentials em tempo real, por meio do painel Insights. Você pode visualizar métricas de evento em tempo real dos últimos 30 dias ou dos últimos 12 meses.
 
 ![Opções da barra de ferramentas ao selecionar um ativo](assets/assets-essentials-live-statistics.png)
 
-Clique em **[!UICONTROL Insights]** disponível no painel de navegação esquerdo para exibir os seguintes gráficos gerados automaticamente:
+Clique na opção **[!UICONTROL Insights]**, disponível no painel de navegação esquerdo, para exibir os seguintes gráficos gerados automaticamente:
 
 * **Downloads**: o número de ativos baixados do ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados usando um gráfico de linhas.
 
