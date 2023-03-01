@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: a085ac1c5bdd4ff6d83b8d80b334f55b3995fc96
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1690'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -19,21 +19,21 @@ Esta versão fornece:
 
 **Meu espaço de trabalho com widgets configuráveis**
 
-Os ativos agora fornecem um espaço de trabalho personalizado para você, que serve como uma solução única para fornecer acesso conveniente às principais áreas da interface do usuário do Assets e às informações mais relevantes para você. O acesso mais rápido a essas opções aumenta a velocidade e a eficiência do conteúdo de seus projetos.
+O Assets agora fornece um espaço de trabalho personalizado para você, que serve como uma solução única para fornecer acesso conveniente às principais áreas da interface do Assets e às informações mais relevantes para você. O acesso mais rápido a essas opções aumenta a velocidade e a eficiência do conteúdo de seus projetos.
 
-Meu espaço de trabalho inclui widgets para novos recursos, insights, tarefas e conteúdo futuros. É possível configurar como esses widgets são exibidos no Workspace com base em suas preferências.
+Meu espaço de trabalho inclui widgets para Novos recursos, Insights, Tarefas e Conteúdo futuros. É possível configurar como esses widgets são exibidos em seu espaço de trabalho, com base em suas preferências.
 
-**Interface do usuário dedicada do gerenciamento de tarefas**
+**Interface dedicada ao gerenciamento de tarefas**
 
-O Assets Essentials agora permite gerenciar a lista de tarefas atribuídas a você, criadas por você e já concluídas por você em um local centralizado, usando o novo **[!UICONTROL Tarefas]** disponível no painel de navegação esquerdo. Você também pode tomar as ações apropriadas selecionando uma tarefa para aprová-la ou rejeitá-la, ou abrindo os detalhes da tarefa para aprová-la, rejeitá-la, editá-la ou excluí-la.
+O Assets Essentials agora permite gerenciar a lista de tarefas atribuídas a você, criadas por você e já concluídas por você em um local centralizado, usando a nova opção **[!UICONTROL Tarefas]** disponível no painel de navegação esquerdo. Você também pode tomar as ações apropriadas selecionando uma tarefa para aprová-la ou rejeitá-la, ou abrindo os detalhes da tarefa para aprová-la, rejeitá-la, editá-la ou excluí-la.
 
-![Tarefas no Workspace](assets/tasks-workspace.png)
+![Tarefas no espaço de trabalho](assets/tasks-workspace.png)
 
 **Links gerados automaticamente para compartilhar ativos**
 
-O Assets Essentials agora gera um link automaticamente assim que você opta por compartilhar um ativo usando a interface do usuário do Assets Essentials. O link gerado permanece válido mesmo se você alterar a data de expiração.
+O Assets Essentials agora gera um link automaticamente assim que você opta por compartilhar um ativo usando a interface do Assets Essentials. O link gerado permanece válido mesmo que você alterar a data de expiração.
 
-![Tarefas no Workspace](assets/share-asset.png)
+![Tarefas no espaço de trabalho](assets/share-asset.png)
 
 
 **Aprimoramentos com base no feedback dos clientes**
@@ -59,7 +59,7 @@ Se você encontrar problemas ou quiser fazer solicitações de aprimoramento, [f
 
 ### 2022.11.0 {#november-2022}
 
-A versão de novembro do [!DNL Assets Essentials] foi lançado em 17 de novembro de 2022.
+A versão de novembro do [!DNL Assets Essentials] foi lançada em 17 de novembro de 2022.
 
 Esta versão fornece:
 
