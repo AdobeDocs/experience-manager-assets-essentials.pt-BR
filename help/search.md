@@ -127,7 +127,7 @@ A funcionalidade de pesquisa é bastante fácil de usar no [!DNL Assets Essentia
 
 Também é possível filtrar os resultados da pesquisa com base em critérios específicos relacionados aos metadados e tipos de ativos. O [!DNL Assets Essentials] também permite salvar os parâmetros de uma pesquisa para melhorar a experiência de busca de filtros usados com frequência. Em seguida, você pode selecionar a pesquisa salva para pesquisar e aplicar o filtro com apenas um clique.
 
-Para criar uma pesquisa salva, procure algum ativo, aplique um ou mais filtros e clique em **[!UICONTROL Salvar como]** > **[!UICONTROL Pesquisa salva]** no [!UICONTROL Filtros] painel. Você também pode clicar em **[!UICONTROL Salvar como]** e selecione **[!UICONTROL Conjunto inteligente]** para salvar os resultados como uma coleção inteligente. Consulte [Criar uma coleção inteligente](manage-collections.md#create-a-smart-collection) para obter mais detalhes.
+Para criar uma pesquisa salva, pesquise por algum ativo, aplique um ou mais filtros e clique em **[!UICONTROL Salvar como]** > **[!UICONTROL Pesquisa salva]** no [!UICONTROL Filtros] painel. Você também pode clicar em **[!UICONTROL Salvar como]** e selecione **[!UICONTROL Coleção inteligente]** para salvar os resultados como uma coleção inteligente. Consulte [Criar uma coleção inteligente](manage-collections.md#create-a-smart-collection) para obter mais detalhes.
 
 ![Criar coleção inteligente](assets/create-smart-collection.png)
 

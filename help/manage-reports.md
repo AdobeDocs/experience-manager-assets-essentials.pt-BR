@@ -14,7 +14,7 @@ ht-degree: 97%
 >[!CONTEXTUALHELP]
 >id="assets_reports"
 >title="Relatórios"
->abstract="Os relatórios de ativos fornecem aos administradores visibilidade sobre as atividades do ambiente do Adobe Experience Manager Assets Essentials. Esses dados fornecem informações úteis sobre como os usuários interagem com o conteúdo e o produto. Todos os usuários atribuídos ao perfil de produto Administradores podem acessar o painel de Insights ou criar relatórios definidos pelo usuário."
+>abstract="Os relatórios de ativos fornecem aos administradores visibilidade sobre as atividades do ambiente do Adobe Experience Manager Assets Essentials. Esses dados fornecem informações úteis sobre como os usuários interagem com o conteúdo e o produto. Todos os usuários atribuídos ao perfil de produto Administradores podem acessar o painel do Insights ou criar relatórios definidos pelo usuário."
 
 Os relatórios de ativos fornecem aos administradores visibilidade sobre as atividades do ambiente do Adobe Experience Manager Assets Essentials. Esses dados fornecem informações úteis sobre como os usuários interagem com o conteúdo e o produto.
 

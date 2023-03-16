@@ -3,7 +3,7 @@ title: Como gerenciar permissões para pastas no AEM Assets Essentials?
 description: O Assets Essentials permite que os administradores gerenciem os níveis de acesso para pastas disponíveis no repositório. Crie grupos de usuários e atribua permissões a esses grupos para gerenciar os níveis de acesso. Como administrador, você também pode delegar os privilégios de gerenciamento de permissões a grupos de usuários no nível da pasta.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
 source-git-commit: 999d5106469d002deed3eccd689a802396dd42d4
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1691'
 ht-degree: 100%
 
