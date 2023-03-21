@@ -1,10 +1,10 @@
 ---
 title: Meu espaço de trabalho para o Assets
 description: Meu espaço de trabalho é uma página que fornece módulos visuais personalizáveis para um acesso conveniente às áreas-chave da interface do Assets e informações mais relevantes para o usuário.
-source-git-commit: a085ac1c5bdd4ff6d83b8d80b334f55b3995fc96
-workflow-type: ht
-source-wordcount: '477'
-ht-degree: 100%
+source-git-commit: 184e80c88fb8e13ca24049d95146b5305b2008dc
+workflow-type: tm+mt
+source-wordcount: '458'
+ht-degree: 96%
 
 ---
 
@@ -12,17 +12,21 @@ ht-degree: 100%
 
 O Assets agora inclui um espaço de trabalho personalizável, que fornece widgets para acesso conveniente às áreas-chave da interface do Assets e informações mais relevantes para você. Esta página serve como uma solução única para fornecer uma visão geral dos itens de trabalho e fornecer acesso rápido aos principais fluxos de trabalho. Um acesso mais conveniente a essas opções aumenta a eficiência e a velocidade do conteúdo.
 
-Você pode acessar Meu espaço de trabalho clicando em **[!UICONTROL Meu espaço de trabalho]** nos itens disponíveis no painel de navegação esquerdo. Meu espaço de trabalho inclui uma variedade de widgets que mostram Novos recursos que chegarão em breve, Insights, Tarefas e widgets de Conteúdo. É possível configurar como esses widgets são exibidos em seu espaço de trabalho, com base em suas preferências.
+Você pode acessar Meu espaço de trabalho clicando em **[!UICONTROL Meu espaço de trabalho]** nos itens disponíveis no painel de navegação esquerdo. Meu espaço de trabalho inclui uma variedade de widgets que mostram insights, tarefas e widgets de conteúdo. É possível configurar como esses widgets são exibidos em seu espaço de trabalho, com base em suas preferências.
 
 >[!NOTE]
 >
 >O widget de Insights é visível somente para administradores.
 
-**Novos recursos chegando em breve**
+<!--
 
-Destaca os recursos futuros do Assets.
+**New features coming soon**
 
-![Novos recursos chegando em breve no Espaço de trabalho](assets/new-features.png)
+Highlights upcoming features for Assets.
+
+![New features coming soon in Workspace](assets/new-features.png)
+
+-->
 
 **Insights**
 

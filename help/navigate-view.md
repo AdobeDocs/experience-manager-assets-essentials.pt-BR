@@ -1,12 +1,12 @@
 ---
-title: '"Interface do [!DNL Assets Essentials] "'
+title: "Interface do [!DNL Assets Essentials] "
 description: Entenda a interface e a navegação no [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
-source-wordcount: '586'
-ht-degree: 100%
+source-git-commit: b627c20ee9be9be79bb0325b55543ae9e2935b9a
+workflow-type: tm+mt
+source-wordcount: '616'
+ht-degree: 95%
 
 ---
 
@@ -44,7 +44,7 @@ Você pode navegar pelas pastas da interface do usuário principal ou da barra l
 
 * **Ativos**: lista de todas as pastas em uma exibição em árvore, à qual você tem acesso.
 * **Visualizados recentemente**: lista de ativos que você visualizou recentemente. [!DNL Assets Essentials] exibe somente os ativos que você visualiza. Ele não exibe os ativos que você percorre ao navegar pelos arquivos ou pastas do repositório.
-* **Lixeira**:
+* **Lixeira**: Listar os ativos excluídos da raiz **[!UICONTROL Ativos]** pasta. Você pode selecionar um ativo na pasta Lixeira para restaurá-lo no local original ou excluí-lo permanentemente.
 
 <!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
 * **Libraries**: Access to [!DNL Adobe Creative Cloud Team] (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.
