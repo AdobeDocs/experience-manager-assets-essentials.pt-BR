@@ -2,9 +2,9 @@
 title: Meu espaço de trabalho para o Assets
 description: Meu espaço de trabalho é uma página que fornece módulos visuais personalizáveis para um acesso conveniente às áreas-chave da interface do Assets e informações mais relevantes para o usuário.
 source-git-commit: 184e80c88fb8e13ca24049d95146b5305b2008dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '458'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
