@@ -4,9 +4,9 @@ description: Entenda a interface e a navegação no [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: b627c20ee9be9be79bb0325b55543ae9e2935b9a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '616'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Ao fazer logon no [!DNL Assets Essentials], você verá a seguinte interface.
 
 <!-- TBD: Update this screenshot. Remove top bar. Remove 2 labels from top bar. -->
 
-Interface do ![[!DNL Assets Essentials] no ](assets/essentials-interface1.png)
+![[!DNL Assets Essentials]Interface](assets/essentials-interface1.png)
 
 *Figura: primeira tela após o logon e a localização dos recursos principais.*
     *A: Barra lateral esquerda para navegar pelo repositório e fornecer acesso a algumas outras opções.*
@@ -44,7 +44,7 @@ Você pode navegar pelas pastas da interface do usuário principal ou da barra l
 
 * **Ativos**: lista de todas as pastas em uma exibição em árvore, à qual você tem acesso.
 * **Visualizados recentemente**: lista de ativos que você visualizou recentemente. [!DNL Assets Essentials] exibe somente os ativos que você visualiza. Ele não exibe os ativos que você percorre ao navegar pelos arquivos ou pastas do repositório.
-* **Lixeira**: Listar os ativos excluídos da raiz **[!UICONTROL Ativos]** pasta. Você pode selecionar um ativo na pasta Lixeira para restaurá-lo no local original ou excluí-lo permanentemente.
+* **Lixeira**: Lista os ativos excluídos da pasta raiz **[!UICONTROL Ativos]**. Você pode selecionar um ativo na pasta Lixeira e restaurá-lo ao seu local de origem ou excluí-lo permanentemente.
 
 <!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
 * **Libraries**: Access to [!DNL Adobe Creative Cloud Team] (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.
