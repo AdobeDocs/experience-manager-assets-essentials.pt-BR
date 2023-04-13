@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: aefa3e0c76a4b92b00ff069655297387cfe733b0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1734'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 96%
 
 A versão atual do Assets Essentials foi lançada em 30 de março de 2023.
 
-A lista de recursos adicionados recentemente inclui:
+A lista de recursos recentemente adicionados inclui:
 
 **Atualizações em massa para metadados de ativos**
 
