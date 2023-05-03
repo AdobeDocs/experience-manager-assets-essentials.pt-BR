@@ -2,14 +2,19 @@
 title: Gerenciar coleções
 description: Uma coleção é um conjunto de ativos no Experience Manager Assets Essentials. Use coleções para compartilhar ativos entre usuários.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
-source-git-commit: 368b27c4f1f14ff6209c4e45ff288be192809c0e
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: 14048cd4c40c4d942d43a2ed955d09c71d72b684
+workflow-type: tm+mt
+source-wordcount: '793'
 ht-degree: 100%
 
 ---
 
 # Gerenciar coleções {#manage-collections}
+
+>[!CONTEXTUALHELP]
+>id="assets_collections"
+>title="Gerenciar coleções"
+>abstract="Uma coleção é um conjunto de ativos, pastas ou outras coleções no Assets Essentials. Use coleções para compartilhar ativos entre usuários. Diferente de pastas, uma coleção pode incluir ativos de locais diferentes. Você pode compartilhar várias coleções com um usuário. Cada coleção contém referências a ativos. A integridade referencial dos ativos é mantida entre as coleções."
 
 Uma coleção é um conjunto de ativos, pastas ou outras coleções no Adobe Experience Manager Assets Essentials. Use coleções para compartilhar ativos entre usuários.
 
