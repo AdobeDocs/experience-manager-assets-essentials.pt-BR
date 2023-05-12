@@ -3,13 +3,13 @@ title: Gerenciar notificações
 description: Monitore as operações realizadas nos ativos ou pastas disponíveis no repositório usando as notificações do Assets Essentials.
 exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
 source-git-commit: c48ec7f5bfa1e449f461e73c5f3b725d52d9b1d1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '617'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# Assistir a ativos, pastas e coleções {#watch-assets-folders}
+# Monitorar ativos, pastas e coleções {#watch-assets-folders}
 
 As notificações do Assets Essentials permitem monitorar as operações realizadas nos ativos, pastas ou coleções disponíveis no repositório. Você precisa selecionar e assinar o conteúdo sobre o qual deseja receber notificações. Você também pode configurar as categorias para as quais receberá notificações.
 
