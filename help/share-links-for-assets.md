@@ -3,7 +3,7 @@ title: Como compartilhar links com ativos?
 description: Gere um link e compartilhe ativos com outras pessoas que não têm acesso ao aplicativo  [!DNL Assets Essentials] .
 exl-id: 6e05b06c-7436-40e3-acee-c8b1ed218f9e
 source-git-commit: 79039f96a4aa44bb81923ec909766969f81e1a3f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 100%
 

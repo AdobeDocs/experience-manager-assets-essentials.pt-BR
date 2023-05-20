@@ -3,7 +3,7 @@ title: Integrar o Assets Essentials ao Adobe Workfront
 description: Integre o Assets Essentials ao aplicativo do Adobe Workfront para poder acessar o repositório do Assets Essentials no aplicativo do Workfront.
 exl-id: 9605fa3a-d454-48b5-9f84-b384eb1ad493
 source-git-commit: 6194a778133842d40c4ef2bc257eec8a34b0a481
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 100%
 
@@ -11,7 +11,7 @@ ht-degree: 100%
 
 # Integrar o Assets Essentials ao Adobe Workfront {#integrate-assets-essentials-workfront}
 
-[[!DNL Adobe Workfront]O ](https://www.workfront.com/) é um aplicativo de gerenciamento de trabalho que ajuda você a gerenciar todo o ciclo de vida do trabalho em um único local. A integração nativa entre o [!DNL Adobe Workfront] e o [!DNL Assets Essentials] permite que as organizações melhorem a velocidade do conteúdo e o prazo para comercialização, conectando intrinsecamente o gerenciamento de trabalho e de ativos. No contexto do gerenciamento de trabalho, os usuários têm acesso aos documentos e imagens necessários na mesma solução.
+O [[!DNL Adobe Workfront]](https://www.workfront.com/) é um aplicativo de gerenciamento de trabalho que ajuda você a gerenciar todo o ciclo de vida do trabalho em um único local. A integração nativa entre o [!DNL Adobe Workfront] e o [!DNL Assets Essentials] permite que as organizações melhorem a velocidade do conteúdo e o prazo para comercialização, conectando intrinsecamente o gerenciamento de trabalho e de ativos. No contexto do gerenciamento de trabalho, os usuários têm acesso aos documentos e imagens necessários na mesma solução.
 
 Execute as seguintes tarefas para integrar o Workfront ao Experience Manager Assets Essentials:
 

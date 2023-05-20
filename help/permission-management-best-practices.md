@@ -3,7 +3,7 @@ title: Como gerenciar com eficácia as permissões de pastas?
 description: Práticas recomendadas para o gerenciamento eficaz de permissões
 exl-id: 06b06f0b-3806-44ce-abc4-c1449a93dd29
 source-git-commit: 02f28c00b387fbcac4cd917fab7763124fdd5d70
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 100%
 
