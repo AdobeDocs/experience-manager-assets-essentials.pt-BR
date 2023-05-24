@@ -14,7 +14,7 @@ ht-degree: 100%
 >[!CONTEXTUALHELP]
 >id="assets_my_workspace"
 >title="Meu espaço de trabalho"
->abstract="O Assets agora inclui um espaço de trabalho personalizável, que fornece widgets para acesso conveniente às áreas-chave da interface do Assets e informações mais relevantes para você. Esta página serve como uma solução única para fornecer uma visão geral dos itens de trabalho e fornecer acesso rápido aos principais fluxos de trabalho."
+>abstract="O Assets agora inclui um espaço de trabalho personalizável, que fornece widgets para acesso conveniente às principais áreas da interface do Assets e às informações mais relevantes para você. Esta página serve como uma solução única para fornecer uma visão geral dos itens de trabalho e conceder acesso rápido aos principais fluxos de trabalho."
 
 O Assets agora inclui um espaço de trabalho personalizável, que fornece widgets para acesso conveniente às áreas-chave da interface do Assets e informações mais relevantes para você. Esta página serve como uma solução única para fornecer uma visão geral dos itens de trabalho e fornecer acesso rápido aos principais fluxos de trabalho. Um acesso mais conveniente a essas opções aumenta a eficiência e a velocidade do conteúdo.
 
