@@ -3,9 +3,9 @@ title: Meu espaço de trabalho para o Assets
 description: Meu espaço de trabalho é uma página que fornece módulos visuais personalizáveis para um acesso conveniente às áreas-chave da interface do Assets e informações mais relevantes para o usuário.
 exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
 source-git-commit: e6c6a7ee20fca5e87f521708fb7ddec453131e40
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '568'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -54,7 +54,7 @@ Exibe a lista de tarefas atribuídas a você na guia **[!UICONTROL Minhas Tarefa
 
 Exibe exibições variadas de ativos, incluindo a lista de ativos que você visualizou recentemente. Você pode optar por exibir ativos no widget em uma Exibição de lista, Exibição de grade, Exibição de galeria ou Exibição de cascata e classificar os ativos por nome, tamanho e data de modificação. Você também pode selecionar um ativo para exibir os detalhes do ativo ou removê-lo da lista de ativos visualizados recentemente.
 
-A variável **[!UICONTROL Principais downloads]** A guia exibe os dez ativos mais baixados disponíveis no ambiente do Assets Essentials. É possível optar por exibir ativos na Exibição em lista ou na Exibição em grade. Ambas as exibições exibem o tipo de formato e o número de downloads para cada ativo. Você também pode selecionar um ativo e clicar em **[!UICONTROL Detalhes]** para exibir suas propriedades.
+A guia **[!UICONTROL Principais downloads]** exibe os dez ativos mais baixados disponíveis no ambiente do Assets Essentials. É possível optar por exibir os ativos no formato de exibição de lista ou de grade. Ambas as exibições mostram o tipo de formato e o número de downloads para cada ativo. Também é possível selecionar um ativo e clicar em **[!UICONTROL Detalhes]** para exibir suas propriedades.
 
 ![Widget de Conteúdo no Espaço de trabalho](assets/workspace-content.png)
 
