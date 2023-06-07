@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: de0a8e4f31a378f79c5b94414886c8ec9d3d7891
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1783'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -19,17 +19,17 @@ A lista de recursos recentemente adicionados inclui:
 
 **Principais ativos baixados**
 
-Meu espaço de trabalho agora exibe os dez ativos mais baixados para o seu ambiente do Assets Essentials na [!UICONTROL Conteúdo] seção. Você também pode visualizar o tipo de formato e o número de downloads para cada ativo listado.
+O meu espaço de trabalho agora exibe os dez ativos mais baixados para o seu ambiente do Assets Essentials na seção [!UICONTROL Conteúdo]. Também é possível visualizar o tipo de formato e o número de downloads para cada ativo listado.
 
 **Atualizações em massa para metadados de ativos**
 
-As atualizações de metadados em massa permitem executar atualizações de metadados comuns em vários ativos simultaneamente. Não é necessário atualizar registros individualmente e você pode aplicar rapidamente as propriedades aos ativos ou pastas acessados por meio de pesquisa.
+As atualizações de metadados em massa permitem executar atualizações de metadados comuns em vários ativos simultaneamente. Não é necessário atualizar registros individualmente e é possível aplicar propriedades rapidamente a ativos ou pastas acessados por meio da pesquisa.
 
 **Meu espaço de trabalho com widgets configuráveis**
 
 O Assets agora fornece um espaço de trabalho personalizado para você, que serve como uma solução única para fornecer acesso conveniente às principais áreas da interface do Assets e às informações mais relevantes para você. O acesso mais rápido a essas opções aumenta a velocidade e a eficiência do conteúdo de seus projetos.
 
-Meu espaço de trabalho inclui widgets para Insights, Tarefas e Conteúdo. É possível configurar como esses widgets são exibidos em seu espaço de trabalho, com base em suas preferências.
+O meu espaço de trabalho inclui dispositivos para Insights, Tarefas e Conteúdo. É possível configurar como esses widgets são exibidos em seu espaço de trabalho, com base em suas preferências.
 
 **Interface dedicada ao gerenciamento de tarefas**
 
