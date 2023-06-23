@@ -2,10 +2,10 @@
 title: Gerenciar relatórios no Assets Essentials
 description: Acesse os dados na seção de relatórios do Assets Essentials para avaliar o uso de produtos e recursos e obter insights sobre as principais métricas de sucesso.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: 22786c182ac959739396f694f0a63d84efa28ae5
 workflow-type: tm+mt
-source-wordcount: '781'
-ht-degree: 100%
+source-wordcount: '814'
+ht-degree: 93%
 
 ---
 
@@ -32,7 +32,9 @@ Clique na opção **[!UICONTROL Insights]**, disponível no painel de navegaçã
 
 * **Downloads**: o número de ativos baixados do ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados usando um gráfico de linhas.
 
-* **Carregamentos**: o número de ativos carregados para o ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados por meio de um gráfico de linhas.
+* **Uploads**: o número de ativos carregados para o ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados usando um gráfico de linhas.
+
+* **Principais Pesquisas**: visualize os principais termos pesquisados junto com o número de vezes que esses termos foram pesquisados em seu ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados em formato de tabela.
 
 <!--
 

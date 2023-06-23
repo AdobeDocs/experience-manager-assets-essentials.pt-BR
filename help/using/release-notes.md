@@ -4,16 +4,77 @@ description: Notas de versão e problemas conhecidos do [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
-source-wordcount: '1783'
-ht-degree: 100%
+source-git-commit: d6737d903b8010e2a3b7434584a7aae0d7bc68bd
+workflow-type: tm+mt
+source-wordcount: '2040'
+ht-degree: 87%
 
 ---
 
 # Notas de versão do [!DNL Assets Essentials] {#release-notes}
 
-A versão atual do Assets Essentials foi lançada em 24 de maio de 2023.
+A versão atual do Assets Essentials foi lançada em 8 de junho de 2023.
+
+A lista de recursos inclui:
+
+
+**Marcação hierárquica de ativos para obter uma experiência de pesquisa mais rápida**
+
+Listas planas de vocabulários controlados tornam-se incontroláveis com o tempo. O Assets Essentials agora é compatível com a estrutura hierárquica de marcação, que facilita a aplicação de metadados relevantes, a categorização de ativos, o suporte a pesquisas, a reutilização de tags, a melhoria da descoberta e assim por diante.
+
+![Gerenciamento de tags](assets/tags-hierarchy.png)
+
+**Fixar arquivos, pastas e coleções para acesso rápido**
+
+Agora é possível fixar arquivos, pastas e coleções para agilizar o acesso a esses itens quando for necessário. Os itens fixados são exibidos na variável **Acesso rápido** seção do Meu espaço de trabalho. Você pode acessá-las usando Meu espaço de trabalho em vez de navegar até o local em que são salvas no repositório.
+
+![Tarefas no Espaço de trabalho](assets/quick-access.png)
+
+**Filtrar ativos na pasta Lixeira**
+
+O Assets Essentials agora permite filtrar ativos disponíveis na pasta Lixeira. Você pode aplicar filtros padrão ou personalizados para pesquisar ativos apropriados na pasta Lixeira para restaurá-los ou excluí-los permanentemente.
+
+**Visualizações de miniaturas para ativos 3D**
+
+O Assets Essentials agora gera visualizações de miniaturas para formatos de arquivo 3D comuns, incluindo gLB, USDz, FBX, 3DS, OBJ e SBSAR. Quando esses arquivos são carregados para o Assets Essentials, as miniaturas são geradas automaticamente pelo sistema, por padrão.
+
+![Tarefas no Espaço de trabalho](assets/3d-preview.png)
+
+**Exibir os principais termos pesquisados**
+
+O Assets Essentials agora oferece suporte à exibição dos principais termos pesquisados na implantação do Assets Essentials usando o **Insights** seção do Meu espaço de trabalho. Você também pode navegar até os Insights detalhados para exibir as principais pesquisas durante os últimos 30 dias ou 12 meses.
+
+![Tarefas no Espaço de trabalho](assets/insights-top-searches.png)
+
+**Aprimoramentos no formulário de metadados**
+
+O Assets Essentials agora permite adicionar componentes de propriedade de texto de vários valores e listas suspensas aos formulários de metadados.
+
+
+**Aprimoramentos com base no feedback dos clientes**
+
+Aprimoramentos e correções de erros com base no feedback do cliente.
+
+## Problemas conhecidos {#known-issues}
+
+A lista de problemas conhecidos do [!DNL Assets Essentials] é revisada e atualizada continuamente:
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* As coleções privadas estão disponíveis para o criador e usuários com privilégios de administrador. Como administrador, não é possível delegar a outros usuários as permissões para acessar a coleção.
+
+* Como administrador, não é possível delegar a outros usuários as permissões para acessar a coleção.
+
+Se você encontrar problemas ou quiser fazer solicitações de aprimoramento, [forneça feedback](#provide-feedback) à equipe.
+
+## Versões anteriores {#past-releases}
+
+### Várias versões em 2023 {#multiple-releases-2023}
 
 A lista de recursos recentemente adicionados inclui:
 
@@ -47,25 +108,6 @@ O Assets Essentials agora gera um link automaticamente assim que você opta por 
 **Aprimoramentos com base no feedback dos clientes**
 
 Aprimoramentos e correções de erros com base no feedback do cliente.
-
-## Problemas conhecidos {#known-issues}
-
-A lista de problemas conhecidos do [!DNL Assets Essentials] é revisada e atualizada continuamente:
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* As coleções privadas estão disponíveis para o criador e usuários com privilégios de administrador. Como administrador, não é possível delegar a outros usuários as permissões para acessar a coleção.
-
-* Como administrador, não é possível delegar a outros usuários as permissões para acessar a coleção.
-
-Se você encontrar problemas ou quiser fazer solicitações de aprimoramento, [forneça feedback](#provide-feedback) à equipe.
-
-## Versões anteriores {#past-releases}
 
 ### 2022.11.0 {#november-2022}
 
@@ -253,7 +295,7 @@ O [!DNL Assets Essentials] foi lançado em 16 de dezembro de 2021 com as seguint
 
 O [!DNL Assets Essentials] 2021.8.0 foi lançado em 30 de agosto de 2021, com as seguintes atualizações:
 
-* Integrações com o [!DNL Adobe Workfront] que permite que usuários do [!DNL Workfront] gerenciam os ativos digitais no contexto do gerenciamento do próprio trabalho. Para obter mais informações, consulte [integrações com outras soluções da Adobe](/help/using/integration.md).
+* Integrações com o [!DNL Adobe Workfront] que permite que usuários do [!DNL Workfront] gerenciam os ativos digitais no contexto do gerenciamento do próprio trabalho.
 
 ### Versão 2021.7.0 {#july2021}
 
@@ -269,4 +311,4 @@ A primeira versão do [!DNL Assets Essentials], disponibilizada em 21 de junho d
 * Faça upload e adicione ativos, inclusive pastas aninhadas. Visualize os ativos e as versões.
 * Pesquisa de texto completo, filtros de pesquisa aprimorados e pesquisas salvas para detecção rápida de ativos.
 * Operações básicas de gerenciamento de ativos, como atualizar, excluir, baixar e gerenciar metadados.
-* O [!DNL Assets Essentials] está disponível a usuários do [!DNL Adobe Journey Optimizer] para gerenciar os ativos ao criar mensagens. Para obter mais informações, consulte [integrações com outras soluções da Adobe](/help/using/integration.md).
+* O [!DNL Assets Essentials] está disponível a usuários do [!DNL Adobe Journey Optimizer] para gerenciar os ativos ao criar mensagens. 
