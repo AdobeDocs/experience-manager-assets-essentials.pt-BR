@@ -1,7 +1,7 @@
 ---
 title: Introdução à exibição de ativos
 description: Novidades na exibição do Assets
-source-git-commit: 9d14827d10d2bae34b19a318aac1cc0820e81f35
+source-git-commit: faa88352204ffa607f669e90fce0fb25320f3de8
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 6%
@@ -39,7 +39,7 @@ Repita essas etapas para alternar de volta para a exibição de Administração.
 
 Dê as boas-vindas a uma solução de gerenciamento de ativos digitais que compreenda as diversas necessidades das diferentes funções organizacionais. A nova e elegante visualização de ativos prioriza a facilidade de uso e a velocidade, atendendo à preferência dos profissionais de marketing por apelo visual e espaços de trabalho desorganizados. Com um painel personalizável específico do usuário do Meu espaço de trabalho, os profissionais de marketing podem encontrar, visualizar, editar, gerenciar e fornecer ativos com eficiência notável. Despeça-se das horas infinitas gastas procurando ativos específicos e receba com prazer uma experiência simplificada que coloque tudo o que você precisa ao seu alcance.
 
-![Implantar o Assets Essentials](assets/workspace.gif)
+![Implantar o Assets Essentials](assets/experiment.gif)
 
 [![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](my-workspace.md)
 
