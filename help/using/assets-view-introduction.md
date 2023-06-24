@@ -1,14 +1,17 @@
 ---
 title: Introdução à exibição de ativos
 description: Novidades na exibição do Assets
-source-git-commit: faa88352204ffa607f669e90fce0fb25320f3de8
+source-git-commit: d725a3525c7f451b6dd3377ff267adb50df72280
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 6%
+source-wordcount: '305'
+ht-degree: 7%
 
 ---
 
+
 # Introdução à visualização de ativos {#assets-view}
+
+![Implantar o Assets Essentials](assets/banner-image.jpg)
 
 No cenário atual de lançamento digital acelerado, onde a criação e a entrega de conteúdo em tempo real são essenciais, é fundamental ter uma experiência de Gerenciamento de ativos digitais (DAM) projetada para a velocidade de marketing de downstream. O Adobe, aproveitando sua experiência em capacitar profissionais de marketing e criação, introduz uma nova experiência revolucionária para o usuário da Visualização de ativos. Essa abordagem de primeiro fluxo de trabalho revoluciona como as empresas lidam com seus ativos digitais dinâmicos, capacitando os profissionais de marketing para maximizar a eficiência na localização, colaboração, personalização e entrega de ativos. Esses fluxos de trabalho simplificados aceleram a velocidade do conteúdo e impulsionam seus esforços de marketing para novos patamares.
 
