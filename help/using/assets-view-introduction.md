@@ -1,10 +1,10 @@
 ---
 title: Introdução à exibição de ativos
 description: Novidades na exibição do Assets
-source-git-commit: d725a3525c7f451b6dd3377ff267adb50df72280
+source-git-commit: 839c85efa1ba91db5644c7463ff269b6b06f69a1
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 7%
+source-wordcount: '412'
+ht-degree: 6%
 
 ---
 
@@ -46,5 +46,10 @@ Dê as boas-vindas a uma solução de gerenciamento de ativos digitais que compr
 
 [![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](my-workspace.md)
 
+## Abordagem de pesquisa para aumentar a eficiência
+
+Libere o potencial da biblioteca de ativos digitais da sua organização com o poder da pesquisa com funcionalidade de última geração. Você pode se despedir do incômodo de examinar manualmente inúmeros arquivos e pastas. Qualquer usuário pode localizar instantaneamente a imagem, o vídeo ou o documento perfeito de que você precisa para criar campanhas de marketing impressionantes, apresentações cativantes e conteúdo envolvente. Nosso primeiro mecanismo de pesquisa permite navegar facilmente por tipos de ativos, metadados, tags inteligentes e até mesmo pelo conteúdo em si, sem saber a palavra-chave exata. Adote o futuro do DAM com nosso Search-First e libere todo o potencial de sua biblioteca de ativos digitais.
+
+![Implantar o Assets Essentials](assets/search-first.gif)
 
 
