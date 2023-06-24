@@ -1,7 +1,9 @@
 ---
 title: Introdução à exibição de ativos
 description: Novidades na exibição do Assets
-source-git-commit: 839c85efa1ba91db5644c7463ff269b6b06f69a1
+hidefromtoc: true
+hide: true
+source-git-commit: b26a7698152998cc6353924eb7d2698315c9da16
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 6%
