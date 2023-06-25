@@ -3,10 +3,10 @@ title: Introdução à exibição de ativos
 description: Novidades na exibição do Assets
 hidefromtoc: true
 hide: true
-source-git-commit: 2378e09a21dfa3c87964058bca38a3d6d2ead98f
+source-git-commit: 836f4524bde739614cca0595e7aace5f7674a954
 workflow-type: tm+mt
-source-wordcount: '505'
-ht-degree: 9%
+source-wordcount: '566'
+ht-degree: 8%
 
 ---
 
@@ -14,8 +14,6 @@ ht-degree: 9%
 # Introdução à visualização de ativos {#assets-view}
 
 ![Implantar o Assets Essentials](assets/banner-image.jpg)
-
-![Implantar o Assets Essentials](assets/banner-image1.png)
 
 No cenário atual de lançamento digital acelerado, onde a criação e a entrega de conteúdo em tempo real são essenciais, é fundamental ter uma experiência de Gerenciamento de ativos digitais (DAM) projetada para a velocidade de marketing de downstream. O Adobe, aproveitando sua experiência em capacitar profissionais de marketing e criação, introduz uma nova experiência revolucionária para o usuário da Visualização de ativos. Essa abordagem de primeiro fluxo de trabalho revoluciona como as empresas lidam com seus ativos digitais dinâmicos, capacitando os profissionais de marketing para maximizar a eficiência na localização, colaboração, personalização e entrega de ativos. Esses fluxos de trabalho simplificados aceleram a velocidade do conteúdo e impulsionam seus esforços de marketing para novos patamares.
 
@@ -46,7 +44,7 @@ Repita essas etapas para alternar de volta para a exibição de Administração.
 
 Dê as boas-vindas a uma solução de gerenciamento de ativos digitais que compreenda as diversas necessidades das diferentes funções organizacionais. A nova e elegante visualização de ativos prioriza a facilidade de uso e a velocidade, atendendo à preferência dos profissionais de marketing por apelo visual e espaços de trabalho desorganizados. Com um painel personalizável específico do usuário do Meu espaço de trabalho, os profissionais de marketing podem encontrar, visualizar, editar, gerenciar e fornecer ativos com eficiência notável. Despeça-se das horas infinitas gastas procurando ativos específicos e receba com prazer uma experiência simplificada que coloque tudo o que você precisa ao seu alcance.
 
-![Implantar o Assets Essentials](assets/experiment.gif)
+![Implantar o Assets Essentials](assets/my-workspace-demo.gif)
 
 [![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](my-workspace.md)
 
@@ -63,5 +61,11 @@ Para acompanhar a velocidade do conteúdo, insights acionáveis são essenciais.
 ![Implantar o Assets Essentials](assets/insights-overview.gif)
 
 [![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-reports.md#view-live-statistics)
+
+## Acelere a colaboração {#accelerate-collaboration}
+
+A nova experiência oferece um conjunto robusto de recursos de colaboração, incluindo edição em tempo real com recursos incorporados do Adobe Photoshop, controles de versão e ferramentas de anotação. Isso permite uma colaboração contínua entre equipes de design, criação, marca e marketing, permitindo que superem gargalos e agilizem o processo de operações de marketing. Os profissionais de marketing agora têm ferramentas eficientes à disposição para acelerar a entrega de projetos e aumentar sua produtividade geral.
+
+
 
 
