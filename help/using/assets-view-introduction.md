@@ -3,10 +3,10 @@ title: Introdução à exibição de ativos
 description: Novidades na exibição do Assets
 hidefromtoc: true
 hide: true
-source-git-commit: b26a7698152998cc6353924eb7d2698315c9da16
+source-git-commit: 2378e09a21dfa3c87964058bca38a3d6d2ead98f
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 6%
+source-wordcount: '505'
+ht-degree: 9%
 
 ---
 
@@ -14,6 +14,8 @@ ht-degree: 6%
 # Introdução à visualização de ativos {#assets-view}
 
 ![Implantar o Assets Essentials](assets/banner-image.jpg)
+
+![Implantar o Assets Essentials](assets/banner-image1.png)
 
 No cenário atual de lançamento digital acelerado, onde a criação e a entrega de conteúdo em tempo real são essenciais, é fundamental ter uma experiência de Gerenciamento de ativos digitais (DAM) projetada para a velocidade de marketing de downstream. O Adobe, aproveitando sua experiência em capacitar profissionais de marketing e criação, introduz uma nova experiência revolucionária para o usuário da Visualização de ativos. Essa abordagem de primeiro fluxo de trabalho revoluciona como as empresas lidam com seus ativos digitais dinâmicos, capacitando os profissionais de marketing para maximizar a eficiência na localização, colaboração, personalização e entrega de ativos. Esses fluxos de trabalho simplificados aceleram a velocidade do conteúdo e impulsionam seus esforços de marketing para novos patamares.
 
@@ -53,5 +55,13 @@ Dê as boas-vindas a uma solução de gerenciamento de ativos digitais que compr
 Libere o potencial da biblioteca de ativos digitais da sua organização com o poder da pesquisa com funcionalidade de última geração. Você pode se despedir do incômodo de examinar manualmente inúmeros arquivos e pastas. Qualquer usuário pode localizar instantaneamente a imagem, o vídeo ou o documento perfeito de que você precisa para criar campanhas de marketing impressionantes, apresentações cativantes e conteúdo envolvente. Nosso primeiro mecanismo de pesquisa permite navegar facilmente por tipos de ativos, metadados, tags inteligentes e até mesmo pelo conteúdo em si, sem saber a palavra-chave exata. Adote o futuro do DAM com nosso Search-First e libere todo o potencial de sua biblioteca de ativos digitais.
 
 ![Implantar o Assets Essentials](assets/search-first.gif)
+
+## Insights para tomar decisões orientadas por dados {#insights-data}
+
+Para acompanhar a velocidade do conteúdo, insights acionáveis são essenciais. A nova experiência de Exibição de ativos oferece insights avançados no Meu espaço de trabalho, fornecendo dados valiosos sobre o desempenho dos ativos, o uso do público-alvo e os envolvimentos. Os profissionais de marketing podem tomar decisões orientadas por dados, otimizar estratégias de conteúdo e refinar a entrega downstream para alcançar resultados ideais. Com acesso a insights significativos, as empresas podem se manter à frente da concorrência e impulsionar resultados excepcionais.
+
+![Implantar o Assets Essentials](assets/insights-overview.gif)
+
+[![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-reports.md#view-live-statistics)
 
 
