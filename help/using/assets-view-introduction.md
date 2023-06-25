@@ -3,7 +3,7 @@ title: Introdução à exibição de ativos
 description: Novidades na exibição do Assets
 hidefromtoc: true
 hide: true
-source-git-commit: 836f4524bde739614cca0595e7aace5f7674a954
+source-git-commit: 1ff1ced0910f1b2ca18e9130b07a399da1ccf27f
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 8%
@@ -65,6 +65,8 @@ Para acompanhar a velocidade do conteúdo, insights acionáveis são essenciais.
 ## Acelere a colaboração {#accelerate-collaboration}
 
 A nova experiência oferece um conjunto robusto de recursos de colaboração, incluindo edição em tempo real com recursos incorporados do Adobe Photoshop, controles de versão e ferramentas de anotação. Isso permite uma colaboração contínua entre equipes de design, criação, marca e marketing, permitindo que superem gargalos e agilizem o processo de operações de marketing. Os profissionais de marketing agora têm ferramentas eficientes à disposição para acelerar a entrega de projetos e aumentar sua produtividade geral.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3420922)
 
 
 
