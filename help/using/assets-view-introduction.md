@@ -3,10 +3,10 @@ title: Introdução à exibição de ativos
 description: Novidades na exibição do Assets
 hidefromtoc: true
 hide: true
-source-git-commit: cd99934326eab5f7701e691a7f98329c57f8d2c4
+source-git-commit: f370e2e3e1c7fc5798e6873bd37098e5c22b8e5a
 workflow-type: tm+mt
-source-wordcount: '861'
-ht-degree: 15%
+source-wordcount: '1022'
+ht-degree: 12%
 
 ---
 
@@ -93,6 +93,16 @@ A pasta Lixeira, disponível na visualização Ativos, lista os ativos excluído
 ![Excluir reversível](assets/soft-delete.gif)
 
 [![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](navigate-view.md)
+
+Além desses recursos, a exibição Ativos também permite executar os seguintes recursos que não estão disponíveis na exibição Administração:
+
+* Faça upload de uma nova versão de um ativo, com um nome diferente, do sistema de arquivos local para o repositório de ativos. O ativo carregado está disponível como uma nova versão com o mesmo nome do ativo original.
+
+* Renomeie os ativos e a pasta disponíveis no repositório.
+
+## Conclusão {#conclusion}
+
+Chegou a era do digital-first e é hora de transformar nossas ferramentas de marketing para respaldar o cenário empresarial em evolução. A nova Exibição de ativos do Adobe Experience Manager Assets é personalizada para simplificar fluxos de trabalho, promover colaboração e acelerar a entrega de ativos. Ao adotar a velocidade do conteúdo, os profissionais de marketing podem desbloquear todo o potencial de seus ativos digitais e liberar a criatividade como nunca antes. Prepare-se para aproveitar o potencial da nova experiência de Visualização de ativos do Adobe e gerar resultados excepcionais em suas campanhas de marketing. É hora de abraçar o futuro do DAM e impulsionar seus negócios.
 
 
 
