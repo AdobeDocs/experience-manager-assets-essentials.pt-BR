@@ -3,10 +3,10 @@ title: Introdução à exibição de ativos
 description: Novidades na exibição do Assets
 hidefromtoc: true
 hide: true
-source-git-commit: dd6734b4e43eef875515e48704757a4f53a1a185
+source-git-commit: 547dd9dab9a2b176f9fb7bed62289d60f96243dc
 workflow-type: tm+mt
-source-wordcount: '677'
-ht-degree: 12%
+source-wordcount: '773'
+ht-degree: 14%
 
 ---
 
@@ -62,7 +62,7 @@ Para acompanhar a velocidade do conteúdo, insights acionáveis são essenciais.
 
 [![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-reports.md#view-live-statistics)
 
-## Acelere a colaboração com a integração do Adobe Photoshop Express {#accelerate-collaboration}
+## Integração do Adobe Photoshop Express para acelerar a colaboração {#accelerate-collaboration}
 
 A nova experiência oferece um conjunto robusto de recursos de colaboração, incluindo edição em tempo real com recursos incorporados do Adobe Photoshop, controles de versão e ferramentas de anotação. Isso permite uma colaboração contínua entre equipes de design, criação, marca e marketing, permitindo que superem gargalos e agilizem o processo de operações de marketing. Os profissionais de marketing agora têm ferramentas eficientes à disposição para acelerar a entrega de projetos e aumentar sua produtividade geral.
 
@@ -70,13 +70,21 @@ A nova experiência oferece um conjunto robusto de recursos de colaboração, in
 
 [![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](edit-images.md)
 
-## Configuração de estrutura hierárquica rápida usando uploads de pasta {#folder-uploads}
+## Uploads de pasta para configurar a estrutura hierárquica da organização {#folder-uploads}
 
 Configure rapidamente uma estrutura de pastas para sua organização usando a visualização Ativos carregando pastas existentes em seu sistema de arquivos local. Não é necessário criar pastas na pasta raiz e, em seguida, fazer o upload de ativos para essas pastas manualmente para manter a estrutura hierárquica lógica. Todas as pastas e ativos na pasta raiz são carregados automaticamente no Experience Manager Assets.
 
-![Implantar o Assets Essentials](assets/folder-uploads.gif)
+![Carregar pastas](assets/folder-uploads.gif)
 
 [![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
+
+## Inscrever-se no conteúdo para receber notificações
+
+A exibição de Ativos fornece a capacidade de monitorar as operações realizadas nos ativos, pastas ou coleções disponíveis no repositório. Você precisa selecionar e assinar o conteúdo sobre o qual deseja receber notificações. Você também pode configurar os tipos de evento, como exclusão do conteúdo que você assinou, modificações no conteúdo que você assinou etc. As notificações são enviadas a você somente para esses tipos de evento.
+
+![Receber notificações](assets/notifications.gif)
+
+[![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-notifications.md)
 
 
 
