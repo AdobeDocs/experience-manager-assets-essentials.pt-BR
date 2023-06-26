@@ -3,10 +3,10 @@ title: Introdução à exibição de ativos
 description: Novidades na exibição do Assets
 hidefromtoc: true
 hide: true
-source-git-commit: 1ff1ced0910f1b2ca18e9130b07a399da1ccf27f
+source-git-commit: 7a1d9c01ed19015f8552b088142122b354c6074b
 workflow-type: tm+mt
-source-wordcount: '566'
-ht-degree: 8%
+source-wordcount: '657'
+ht-degree: 9%
 
 ---
 
@@ -62,11 +62,17 @@ Para acompanhar a velocidade do conteúdo, insights acionáveis são essenciais.
 
 [![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-reports.md#view-live-statistics)
 
-## Acelere a colaboração {#accelerate-collaboration}
+## Acelere a colaboração com a integração do Adobe Photoshop Express {#accelerate-collaboration}
 
 A nova experiência oferece um conjunto robusto de recursos de colaboração, incluindo edição em tempo real com recursos incorporados do Adobe Photoshop, controles de versão e ferramentas de anotação. Isso permite uma colaboração contínua entre equipes de design, criação, marca e marketing, permitindo que superem gargalos e agilizem o processo de operações de marketing. Os profissionais de marketing agora têm ferramentas eficientes à disposição para acelerar a entrega de projetos e aumentar sua produtividade geral.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420922)
+
+[![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](edit-images.md)
+
+## Configuração de estrutura hierárquica rápida usando uploads de pasta {#folder-uploads}
+
+Configure rapidamente uma estrutura de pastas para sua organização usando a visualização Ativos carregando pastas existentes em seu sistema de arquivos local. Não é necessário criar pastas na pasta raiz e, em seguida, fazer o upload de ativos para essas pastas manualmente para manter a estrutura hierárquica lógica. Todas as pastas e ativos na pasta raiz são carregados automaticamente no Experience Manager Assets.
 
 
 
