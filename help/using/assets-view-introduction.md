@@ -3,10 +3,10 @@ title: Introdução à exibição de ativos
 description: Novidades na exibição do Assets
 hidefromtoc: true
 hide: true
-source-git-commit: 547dd9dab9a2b176f9fb7bed62289d60f96243dc
+source-git-commit: cd99934326eab5f7701e691a7f98329c57f8d2c4
 workflow-type: tm+mt
-source-wordcount: '773'
-ht-degree: 14%
+source-wordcount: '861'
+ht-degree: 15%
 
 ---
 
@@ -78,13 +78,21 @@ Configure rapidamente uma estrutura de pastas para sua organização usando a vi
 
 [![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
 
-## Inscrever-se no conteúdo para receber notificações
+## Inscrever-se no conteúdo do repositório para um gerenciamento eficiente de ativos
 
 A exibição de Ativos fornece a capacidade de monitorar as operações realizadas nos ativos, pastas ou coleções disponíveis no repositório. Você precisa selecionar e assinar o conteúdo sobre o qual deseja receber notificações. Você também pode configurar os tipos de evento, como exclusão do conteúdo que você assinou, modificações no conteúdo que você assinou etc. As notificações são enviadas a você somente para esses tipos de evento.
 
 ![Receber notificações](assets/notifications.gif)
 
 [![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-notifications.md)
+
+## Excluir ativos de forma reversível para oferecer melhor controle aos administradores {#soft-delete-assets}
+
+A pasta Lixeira, disponível na visualização Ativos, lista os ativos excluídos da pasta raiz Ativos. Você pode selecionar um ativo da pasta Lixeira para restaurá-lo no local original ou excluí-lo permanentemente. Você também pode especificar uma palavra-chave ou aplicar filtros padrão ou personalizados para pesquisar ativos apropriados na pasta Lixeira.
+
+![Excluir reversível](assets/soft-delete.gif)
+
+[![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](navigate-view.md)
 
 
 
