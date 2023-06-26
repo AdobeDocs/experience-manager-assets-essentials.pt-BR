@@ -3,10 +3,10 @@ title: Introdução à exibição de ativos
 description: Novidades na exibição do Assets
 hidefromtoc: true
 hide: true
-source-git-commit: 7a1d9c01ed19015f8552b088142122b354c6074b
+source-git-commit: dd6734b4e43eef875515e48704757a4f53a1a185
 workflow-type: tm+mt
-source-wordcount: '657'
-ht-degree: 9%
+source-wordcount: '677'
+ht-degree: 12%
 
 ---
 
@@ -73,6 +73,10 @@ A nova experiência oferece um conjunto robusto de recursos de colaboração, in
 ## Configuração de estrutura hierárquica rápida usando uploads de pasta {#folder-uploads}
 
 Configure rapidamente uma estrutura de pastas para sua organização usando a visualização Ativos carregando pastas existentes em seu sistema de arquivos local. Não é necessário criar pastas na pasta raiz e, em seguida, fazer o upload de ativos para essas pastas manualmente para manter a estrutura hierárquica lógica. Todas as pastas e ativos na pasta raiz são carregados automaticamente no Experience Manager Assets.
+
+![Implantar o Assets Essentials](assets/folder-uploads.gif)
+
+[![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
 
 
 
