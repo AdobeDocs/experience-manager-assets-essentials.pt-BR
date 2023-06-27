@@ -4,9 +4,9 @@ description: Novidades na exibição do Assets
 mini-toc-levels: 3
 hidefromtoc: true
 hide: true
-source-git-commit: 52ec2263e237e6c3b47dc967eb5cc3e6acbe814f
+source-git-commit: 094ee651d7ac90675df88b52a5e76dd3e6e84094
 workflow-type: tm+mt
-source-wordcount: '1020'
+source-wordcount: '1070'
 ht-degree: 11%
 
 ---
@@ -21,7 +21,6 @@ No cenário atual de lançamento digital acelerado, onde a criação e a entrega
 ## Como acessar a visualização de Ativos? {#access-assets-view}
 
 É possível acessar a visualização de Ativos das seguintes maneiras:
-
 ![Visão geral do Meu espaço de trabalho](assets/assets-view.png)
 
 <!--
@@ -81,6 +80,8 @@ A nova experiência oferece um conjunto robusto de recursos de colaboração, in
 Assista a este vídeo para entender o poder do Assets visualizar a integração com o Adobe Photoshop Express:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420922)
+
+As próximas versões também incluirão [integração de Adobe Firefly via Adobe Express](https://firefly.adobe.com/?gclid=EAIaIQobChMIlZeKuNfj_wIVeyCtBh3e5g2cEAAYASAAEgL56_D_BwE&amp;sdid=JM4FW6VL&amp;mv=search&amp;mv2=paidsearch&amp;ef_id=EAIaIQobChMIlZeKuNfj_wIVeyCtBh3e5g2cEAAYASAAEgL56_D_BwE:G:s&amp;s_kwcid=AL!3085!3!652077237594!g!adobe%20firefly!19870733758!148140507838).
 
 [![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](edit-images.md)
 
