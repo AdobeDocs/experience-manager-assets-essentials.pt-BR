@@ -1,12 +1,13 @@
 ---
 title: Introdução à exibição de ativos
 description: Novidades na exibição do Assets
+mini-toc-levels: 3
 hidefromtoc: true
 hide: true
-source-git-commit: 9ce744b0a920dc553a41e631d0f1be1d8f26bb93
+source-git-commit: 138e8eaa8e4c0ff83c46e2b6a62e92740c87f366
 workflow-type: tm+mt
-source-wordcount: '1037'
-ht-degree: 12%
+source-wordcount: '1103'
+ht-degree: 11%
 
 ---
 
@@ -39,30 +40,35 @@ Repita essas etapas para alternar de volta para a exibição de Administração.
    * Clique em **[!UICONTROL Experience Manager Assets]** para acessar a visualização de Ativos.
    * Clique em **[!UICONTROL Experience Manager Assets]** para acessar a visualização de Ativos.
 
+## Por que exibir o Assets?
 
-## Painel Meu espaço de trabalho para fornecer experiências otimizadas
+A exibição de Ativos fornece os seguintes benefícios principais que não estão disponíveis na exibição de Administrador:
+
+* [Painel Meu espaço de trabalho para fornecer experiências otimizadas](#my-workspace-for-streamlined-experience)
+* [Abordagem de pesquisa para aumentar a eficiência](#search-first)
+* [Insights para tomar decisões orientadas por dados](#insights-data)
+* [Integração do Adobe Photoshop Express para acelerar a colaboração](#accelerate-collaboration)
+* [Uploads de pasta para configurar a estrutura hierárquica da organização](#folder-uploads)
+* [Inscrever-se no conteúdo do repositório para um gerenciamento eficiente de ativos](#subscribe-content)
+* [Excluir ativos de forma reversível para oferecer melhor controle aos administradores](#soft-delete-assets)
+
+### Painel Meu espaço de trabalho para fornecer experiências otimizadas {#my-workspace-for-streamlined-experience}
 
 Dê as boas-vindas a uma solução de gerenciamento de ativos digitais que compreenda as diversas necessidades das diferentes funções organizacionais. A nova e elegante visualização de ativos prioriza a facilidade de uso e a velocidade, atendendo à preferência dos profissionais de marketing por apelo visual e espaços de trabalho desorganizados. Com um painel personalizável específico do usuário do Meu espaço de trabalho, os profissionais de marketing podem encontrar, visualizar, editar, gerenciar e fornecer ativos com eficiência notável. Despeça-se das horas infinitas gastas procurando ativos específicos e receba com prazer uma experiência simplificada que coloque tudo o que você precisa ao seu alcance.
 
-![Implantar o Assets Essentials](assets/my-workspace-demo.gif)
+![Visão geral do Meu espaço de trabalho](assets/my-workspace-demo.gif)
 
 [![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](my-workspace.md)
 
-## Abordagem de pesquisa para aumentar a eficiência
-
-Libere o potencial da biblioteca de ativos digitais da sua organização com o poder da pesquisa com funcionalidade de última geração. Você pode se despedir do incômodo de examinar manualmente inúmeros arquivos e pastas. Qualquer usuário pode localizar instantaneamente a imagem, o vídeo ou o documento perfeito de que você precisa para criar campanhas de marketing impressionantes, apresentações cativantes e conteúdo envolvente. Nosso primeiro mecanismo de pesquisa permite navegar facilmente por tipos de ativos, metadados, tags inteligentes e até mesmo pelo conteúdo em si, sem saber a palavra-chave exata. Adote o futuro do DAM com nosso Search-First e libere todo o potencial de sua biblioteca de ativos digitais.
-
-![Implantar o Assets Essentials](assets/search-first.gif)
-
-## Insights para tomar decisões orientadas por dados {#insights-data}
+### Insights para tomar decisões orientadas por dados {#insights-data}
 
 Para acompanhar a velocidade do conteúdo, insights acionáveis são essenciais. A nova experiência de Exibição de ativos oferece insights avançados no Meu espaço de trabalho, fornecendo dados valiosos sobre o desempenho dos ativos, o uso do público-alvo e os envolvimentos. Os profissionais de marketing podem tomar decisões orientadas por dados, otimizar estratégias de conteúdo e refinar a entrega downstream para alcançar resultados ideais. Com acesso a insights significativos, as empresas podem se manter à frente da concorrência e impulsionar resultados excepcionais.
 
-![Implantar o Assets Essentials](assets/insights-overview.gif)
+![Visão geral do Insights](assets/insights-overview.gif)
 
 [![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-reports.md#view-live-statistics)
 
-## Integração do Adobe Photoshop Express para acelerar a colaboração {#accelerate-collaboration}
+### Integração do Adobe Photoshop Express para acelerar a colaboração {#accelerate-collaboration}
 
 A nova experiência oferece um conjunto robusto de recursos de colaboração, incluindo edição em tempo real com recursos incorporados do Adobe Photoshop, controles de versão e ferramentas de anotação. Isso permite uma colaboração contínua entre equipes de design, criação, marca e marketing, permitindo que superem gargalos e agilizem o processo de operações de marketing. Os profissionais de marketing agora têm ferramentas eficientes à disposição para acelerar a entrega de projetos e aumentar sua produtividade geral.
 
@@ -72,7 +78,7 @@ Assista a este vídeo para entender o poder do Assets visualizar a integração 
 
 [![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](edit-images.md)
 
-## Uploads de pasta para configurar a estrutura hierárquica da organização {#folder-uploads}
+### Uploads de pasta para configurar a estrutura hierárquica da organização {#folder-uploads}
 
 Configure rapidamente uma estrutura de pastas para sua organização usando a visualização Ativos carregando pastas existentes em seu sistema de arquivos local. Não é necessário criar pastas na pasta raiz e, em seguida, fazer o upload de ativos para essas pastas manualmente para manter a estrutura hierárquica lógica. Todas as pastas e ativos na pasta raiz são carregados automaticamente no Experience Manager Assets.
 
@@ -80,7 +86,13 @@ Configure rapidamente uma estrutura de pastas para sua organização usando a vi
 
 [![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
 
-## Inscrever-se no conteúdo do repositório para um gerenciamento eficiente de ativos
+### Abordagem de pesquisa para aumentar a eficiência {#search-first}
+
+Libere o potencial da biblioteca de ativos digitais da sua organização com o poder da pesquisa com funcionalidade de última geração. Você pode se despedir do incômodo de examinar manualmente inúmeros arquivos e pastas. Qualquer usuário pode localizar instantaneamente a imagem, o vídeo ou o documento perfeito de que você precisa para criar campanhas de marketing impressionantes, apresentações cativantes e conteúdo envolvente. Nosso primeiro mecanismo de pesquisa permite navegar facilmente por tipos de ativos, metadados, tags inteligentes e até mesmo pelo conteúdo em si, sem saber a palavra-chave exata. Adote o futuro do DAM com nosso Search-First e libere todo o potencial de sua biblioteca de ativos digitais.
+
+![Pesquisar primeiro](assets/search-first.gif)
+
+### Inscrever-se no conteúdo do repositório para um gerenciamento eficiente de ativos {#subscribe-content}
 
 A exibição de Ativos fornece a capacidade de monitorar as operações realizadas nos ativos, pastas ou coleções disponíveis no repositório. Você precisa selecionar e assinar o conteúdo sobre o qual deseja receber notificações. Você também pode configurar os tipos de evento, como exclusão do conteúdo que você assinou, modificações no conteúdo que você assinou etc. As notificações são enviadas a você somente para esses tipos de evento.
 
@@ -88,7 +100,7 @@ A exibição de Ativos fornece a capacidade de monitorar as operações realizad
 
 [![Consulte o guia](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-notifications.md)
 
-## Excluir ativos de forma reversível para oferecer melhor controle aos administradores {#soft-delete-assets}
+### Excluir ativos de forma reversível para oferecer melhor controle aos administradores {#soft-delete-assets}
 
 A pasta Lixeira, disponível na visualização Ativos, lista os ativos excluídos da pasta raiz Ativos. Você pode selecionar um ativo da pasta Lixeira para restaurá-lo no local original ou excluí-lo permanentemente. Você também pode especificar uma palavra-chave ou aplicar filtros padrão ou personalizados para pesquisar ativos apropriados na pasta Lixeira.
 
