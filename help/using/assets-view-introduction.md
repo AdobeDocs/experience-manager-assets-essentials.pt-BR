@@ -4,9 +4,9 @@ description: Novidades na exibição do Assets
 mini-toc-levels: 3
 hidefromtoc: true
 hide: true
-source-git-commit: 256d42b06e66e9f152823f507412de360474b3b7
+source-git-commit: 2ef7fb0d0671a9dfe054608f068c64623f6b488a
 workflow-type: tm+mt
-source-wordcount: '1070'
+source-wordcount: '1067'
 ht-degree: 11%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 11%
 
 ![Implantar o Assets Essentials](assets/banner-image.jpg)
 
-No cenário atual de lançamento digital acelerado, onde a criação e a entrega de conteúdo em tempo real são essenciais, é fundamental ter uma experiência de Gerenciamento de ativos digitais (DAM) projetada para a velocidade de marketing de downstream. O Adobe, aproveitando sua experiência em capacitar profissionais de marketing e criação, introduz uma nova experiência revolucionária para o usuário da Visualização de ativos. Essa abordagem de primeiro fluxo de trabalho revoluciona como as empresas lidam com seus ativos digitais dinâmicos, capacitando os profissionais de marketing para maximizar a eficiência na localização, colaboração, personalização e entrega de ativos. Esses fluxos de trabalho simplificados aceleram a velocidade do conteúdo e impulsionam seus esforços de marketing para novos patamares.
+No cenário atual de lançamento digital acelerado, onde a criação e a entrega de conteúdo em tempo real são essenciais, é fundamental ter uma experiência de Gerenciamento de ativos digitais (DAM) projetada para a velocidade de marketing de downstream. O Adobe, aproveitando sua experiência em capacitação de profissionais de marketing e criativos, apresenta uma nova experiência de usuário que muda o jogo. Essa abordagem de primeiro fluxo de trabalho revoluciona como as empresas lidam com seus ativos digitais dinâmicos, capacitando os profissionais de marketing para maximizar a eficiência na localização, colaboração, personalização e entrega de ativos. Esses fluxos de trabalho simplificados aceleram a velocidade do conteúdo e impulsionam seus esforços de marketing para novos patamares.
 
 ## Como acessar a visualização de Ativos? {#access-assets-view}
 
@@ -59,7 +59,7 @@ A exibição de Ativos fornece os seguintes benefícios principais que não est�
 
 ### Painel Meu espaço de trabalho para fornecer experiências otimizadas {#my-workspace-for-streamlined-experience}
 
-Dê as boas-vindas a uma solução de gerenciamento de ativos digitais que compreenda as diversas necessidades das diferentes funções organizacionais. A nova e elegante visualização de ativos prioriza a facilidade de uso e a velocidade, atendendo à preferência dos profissionais de marketing por apelo visual e espaços de trabalho desorganizados. Com um painel personalizável específico do usuário do Meu espaço de trabalho, os profissionais de marketing podem encontrar, visualizar, editar, gerenciar e fornecer ativos com eficiência notável. Despeça-se das horas infinitas gastas procurando ativos específicos e receba com prazer uma experiência simplificada que coloque tudo o que você precisa ao seu alcance.
+Dê as boas-vindas a uma solução de gerenciamento de ativos digitais que compreenda as diversas necessidades das diferentes funções organizacionais. A nova visualização elegante do Assets prioriza a facilidade de uso e a velocidade, atendendo à preferência dos profissionais de marketing por apelo visual e espaços de trabalho desorganizados. Com um painel personalizável específico do usuário do Meu espaço de trabalho, os profissionais de marketing podem encontrar, visualizar, editar, gerenciar e fornecer ativos com eficiência notável. Despeça-se das horas infinitas gastas procurando ativos específicos e receba com prazer uma experiência simplificada que coloque tudo o que você precisa ao seu alcance.
 
 ![Visão geral do Meu espaço de trabalho](assets/my-workspace-demo.gif)
 
@@ -67,7 +67,7 @@ Dê as boas-vindas a uma solução de gerenciamento de ativos digitais que compr
 
 ### Insights para tomar decisões orientadas por dados {#insights-data}
 
-Para acompanhar a velocidade do conteúdo, insights acionáveis são essenciais. A nova experiência de Exibição de ativos oferece insights avançados no Meu espaço de trabalho, fornecendo dados valiosos sobre o desempenho dos ativos, o uso do público-alvo e os envolvimentos. Os profissionais de marketing podem tomar decisões orientadas por dados, otimizar estratégias de conteúdo e refinar a entrega downstream para alcançar resultados ideais. Com acesso a insights significativos, as empresas podem se manter à frente da concorrência e impulsionar resultados excepcionais.
+Para acompanhar a velocidade do conteúdo, insights acionáveis são essenciais. A nova experiência de exibição do Assets oferece insights avançados no Meu espaço de trabalho, fornecendo dados valiosos sobre desempenho de ativos, uso de público-alvo e envolvimentos. Os profissionais de marketing podem tomar decisões orientadas por dados, otimizar estratégias de conteúdo e refinar a entrega downstream para alcançar resultados ideais. Com acesso a insights significativos, as empresas podem se manter à frente da concorrência e impulsionar resultados excepcionais.
 
 ![Visão geral do Insights](assets/insights-overview.gif)
 
@@ -123,7 +123,7 @@ Além desses recursos, a exibição Ativos também permite executar os seguintes
 
 ## Conclusão {#conclusion}
 
-Chegou a era do digital-first e é hora de transformar nossas ferramentas de marketing para respaldar o cenário empresarial em evolução. A nova Exibição de ativos do Adobe Experience Manager Assets é personalizada para simplificar fluxos de trabalho, promover colaboração e acelerar a entrega de ativos. Ao adotar a velocidade do conteúdo, os profissionais de marketing podem desbloquear todo o potencial de seus ativos digitais e liberar a criatividade como nunca antes. Prepare-se para aproveitar o potencial da nova experiência de Visualização de ativos do Adobe e gerar resultados excepcionais em suas campanhas de marketing. É hora de abraçar o futuro do DAM e impulsionar seus negócios.
+Chegou a era do digital-first e é hora de transformar nossas ferramentas de marketing para respaldar o cenário empresarial em evolução. A nova visualização do Adobe Experience Manager Assets é personalizada para simplificar fluxos de trabalho, promover colaboração e acelerar a entrega de ativos. Ao adotar a velocidade do conteúdo, os profissionais de marketing podem desbloquear todo o potencial de seus ativos digitais e liberar a criatividade como nunca antes. Prepare-se para aproveitar o potencial da nova experiência de visualização do Adobe Assets e impulsionar resultados excepcionais em suas campanhas de marketing. É hora de abraçar o futuro do DAM e impulsionar seus negócios.
 
 
 
