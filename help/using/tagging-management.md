@@ -1,10 +1,10 @@
 ---
 title: Como gerenciar tags na visualização de Ativos?
-description: Saiba como gerenciar tags na visualização de Ativos. As tags ajudam a categorizar ativos que podem ser navegados e pesquisados com mais eficiência.
+description: Saiba como gerenciar tags na visualização de Ativos. As tags ajudam a categorizar ativos que podem ser procurados e pesquisados com mais eficiência.
 source-git-commit: 22786c182ac959739396f694f0a63d84efa28ae5
 workflow-type: tm+mt
 source-wordcount: '1422'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 0%
 >[!CONTEXTUALHELP]
 >id="assets_taxonomy_management"
 >title="Gerenciar tags"
->abstract="As tags ajudam a categorizar ativos que podem ser navegados e pesquisados com mais eficiência. Os administradores têm a capacidade de usar a estrutura hierárquica de marcação, que facilita a aplicação de metadados relevantes, a categorização de ativos, o suporte a pesquisas, a reutilização de tags, a melhoria da descoberta e assim por diante."
+>abstract="As tags ajudam a categorizar ativos que podem ser procurados e pesquisados com mais eficiência. Os administradores têm a capacidade de usar a estrutura hierárquica de marcação, que facilita a aplicação de metadados relevantes, categorização de ativos, suporte a pesquisas, reutilização de tags, melhoria da capacidade de descoberta e assim por diante."
 
-As tags ajudam a categorizar ativos que podem ser navegados e pesquisados com mais eficiência. A marcação ajuda a propagar a taxonomia apropriada para outros usuários e workflows.
+As tags ajudam a categorizar ativos que podem ser procurados e pesquisados com mais eficiência. A marcação ajuda a propagar a taxonomia apropriada para outros usuários e workflows.
 
-Listas planas de vocabulários controlados podem se tornar incontroláveis com o tempo. Os administradores têm a capacidade de usar a estrutura hierárquica de marcação, que facilita a aplicação de metadados relevantes, a categorização de ativos, o suporte a pesquisas, a reutilização de tags, a melhoria da descoberta e assim por diante.
+Listas planas de vocabulários controlados podem se tornar incontroláveis com o tempo. Os administradores têm a capacidade de usar a estrutura hierárquica de marcação, que facilita a aplicação de metadados relevantes, categorização de ativos, suporte a pesquisas, reutilização de tags, melhoria da capacidade de descoberta e assim por diante.
 
 Você pode criar um namespace no nível raiz e criar uma estrutura hierárquica de subtags no namespace. Por exemplo, você pode criar um `Activities` namespace no nível raiz e têm `Cycling`, `Hiking`, e `Running` no namespace. É possível ter mais subtags `Clothing` e `Shoes` no prazo de `Running`.
 
