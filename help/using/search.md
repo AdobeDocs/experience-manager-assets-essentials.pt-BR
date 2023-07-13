@@ -3,10 +3,10 @@ title: Pesquisar e descobrir ativos no [!DNL Assets Essentials]
 description: Pesquisar e descobrir ativos no [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 839ec4e2dcd324c481d9b4b5aba2210ec95203ba
+source-git-commit: 99f843be67ca6ca9dc1afe4887937b0fbcbfcf8e
 workflow-type: tm+mt
-source-wordcount: '897'
-ht-degree: 100%
+source-wordcount: '1033'
+ht-degree: 86%
 
 ---
 
@@ -141,6 +141,34 @@ What about temporarily hiding an asset (suspending search on it) from the search
 
 When userA is searching and userB add an asset that matches search results, will the asset display in search as soon as userA refreshes the page? Assuming indexing is near real-time. May not be so for bulk uploads.
 -->
+
+## Trabalhar com os resultados da pesquisa {#work-with-search-results}
+
+Você pode selecionar os ativos exibidos nos resultados da pesquisa e realizar as seguintes ações:
+
+* **Detalhes**: visualize e edite as propriedades do ativo.
+
+* **Adicionar à coleção**: adicione o ativo selecionado a uma coleção.
+
+* **Baixar**: baixar um ativo.
+
+* **Excluir**: excluir um ativo.
+
+* **Copiar**: copie um ativo para um local de pasta diferente.
+
+* **Mover**: mova um ativo para um local de pasta diferente.
+
+* **Renomear**: Renomeie um ativo.
+
+* **Atribuir tarefas**: atribua tarefas a usuários para um ativo.
+
+* **Compartilhar link**: [Compartilhar links](share-links-for-assets.md) para um ativo com outros usuários, para que eles possam acessá-lo e baixá-lo.
+
+* **Observar**: [Monitorar as operações](manage-notifications.md) executado em um ativo.
+
+* **Mostrar Local do Arquivo**: navegue até o local da pasta de ativos.
+
+* **Fixar no Acesso Rápido**: [Fixar um ativo](my-workspace.md) para obter acesso mais rápido quando precisar. Todos os itens fixados são exibidos no **Acesso rápido** seção do Meu espaço de trabalho.
 
 ## Próximas etapas {#next-steps}
 
