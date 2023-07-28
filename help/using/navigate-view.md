@@ -3,10 +3,10 @@ title: "Interface do [!DNL Assets Essentials] "
 description: Entenda a interface e a navegação no [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: b2ec3dde3d231cdb772833dfa7c9de01b7c3dd38
+source-git-commit: 4f3141fe95a0c33b22042da4f234dd2a921cbac6
 workflow-type: tm+mt
-source-wordcount: '937'
-ht-degree: 96%
+source-wordcount: '1000'
+ht-degree: 90%
 
 ---
 
@@ -111,6 +111,16 @@ Se você visualizar explicitamente um ativo, o [!DNL Assets Essentials] o mostra
 Explicitly previewed assets are displayed as recently viewed assets. Give screenshot of this.
 Other use cases after previewing.
 -->
+
+## Configurar exibição de colunas para a exibição da Lista de ativos {#configure-columns-list-view}
+
+Você pode selecionar as colunas exibidas na exibição da Lista de ativos, como Status, Formato, Dimension, Tamanho, etc.:
+
+1. Selecionar **[!UICONTROL Assets]** no painel de navegação esquerdo, alterne para a exibição Lista de ativos e clique em ![ícone de configurações](assets/settings-icon.svg).
+
+1. Selecione as colunas que devem ser exibidas na exibição em Lista e clique em **[!UICONTROL Confirmar o]**.
+
+   ![Configurar colunas](/help/using/assets/configure-columns.png)
 
 ## Próximas etapas {#next-steps}
 

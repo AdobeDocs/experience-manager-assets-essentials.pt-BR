@@ -4,19 +4,68 @@ description: Notas de versão e problemas conhecidos do [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 84b830af6225242aa8cb851ac6458a66394a281a
+source-git-commit: c61a22ad3c44b26762a8afbb93422197a5cf92ca
 workflow-type: tm+mt
-source-wordcount: '2044'
-ht-degree: 86%
+source-wordcount: '2154'
+ht-degree: 84%
 
 ---
 
 # Notas de versão do [!DNL Assets Essentials] {#release-notes}
 
-A versão atual do Assets Essentials foi lançada em 22 de junho de 2023.
+A versão atual do Assets Essentials foi lançada em 27 de julho de 2023.
 
 A lista de recursos incluídos na versão é:
 
+<!--
+
+**Assign metadata form to a folder**
+
+You can now assign metadata form to a specific folder within your Assets Essentials deployment. All assets in the folder, including assets in the sub-folders, then display properties defined in the assigned metadata form.
+
+![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
+
+-->
+
+**Estrutura de inteligência artificial aprimorada para Tags inteligentes de imagem**
+
+O Experience Manager Assets agora usa uma estrutura de inteligência artificial aprimorada para tags inteligentes de imagem. Essa inteligência de conteúdo resulta em melhor relevância e precisão das Tags inteligentes disponíveis para todos os ativos de imagem na assimilação.
+
+**Configurar exibição de colunas para a exibição da Lista de ativos**
+
+O Assets Essentials agora oferece a capacidade de selecionar as colunas exibidas na exibição da Lista de ativos, como Status, Formato, Dimension, Tamanho e assim por diante.
+
+![Configurar colunas](/help/using/assets/configure-columns.png)
+
+**Classificar resultados da pesquisa com base na relevância**
+
+Por padrão, o Assets Essentials agora classifica os resultados da pesquisa com base em Relevância. Você pode classificar os ativos pesquisados em ordem crescente ou decrescente de `Name`, `Relevance`, `Size`, `Modified` e `Created`.
+
+**Aprimoramentos com base no feedback dos clientes**
+
+Aprimoramentos e correções de erros com base no feedback do cliente.
+
+
+## Problemas conhecidos {#known-issues}
+
+A lista de problemas conhecidos do [!DNL Assets Essentials] é revisada e atualizada continuamente:
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* As coleções privadas estão disponíveis para o criador e usuários com privilégios de administrador. Como administrador, não é possível delegar a outros usuários as permissões para acessar a coleção.
+
+* Como administrador, não é possível delegar a outros usuários as permissões para acessar a coleção.
+
+Se você encontrar problemas ou quiser fazer solicitações de aprimoramento, [forneça feedback](#provide-feedback) à equipe.
+
+## Versões anteriores {#past-releases}
+
+### Versão de junho {#june2023-release}
 
 **Marcação hierárquica de ativos para obter uma experiência de pesquisa mais rápida**
 
@@ -49,30 +98,6 @@ O Assets Essentials agora oferece suporte à exibição dos principais termos pe
 **Aprimoramentos no formulário de metadados**
 
 O Assets Essentials agora permite adicionar componentes de propriedade de texto de vários valores e listas suspensas aos formulários de metadados.
-
-
-**Aprimoramentos com base no feedback dos clientes**
-
-Aprimoramentos e correções de erros com base no feedback do cliente.
-
-## Problemas conhecidos {#known-issues}
-
-A lista de problemas conhecidos do [!DNL Assets Essentials] é revisada e atualizada continuamente:
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* As coleções privadas estão disponíveis para o criador e usuários com privilégios de administrador. Como administrador, não é possível delegar a outros usuários as permissões para acessar a coleção.
-
-* Como administrador, não é possível delegar a outros usuários as permissões para acessar a coleção.
-
-Se você encontrar problemas ou quiser fazer solicitações de aprimoramento, [forneça feedback](#provide-feedback) à equipe.
-
-## Versões anteriores {#past-releases}
 
 ### Várias versões em 2023 {#multiple-releases-2023}
 
