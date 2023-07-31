@@ -3,9 +3,9 @@ title: Meu espaço de trabalho para o Assets
 description: Meu espaço de trabalho é uma página que fornece módulos visuais personalizáveis para um acesso conveniente às áreas-chave da interface do Assets e informações mais relevantes para o usuário.
 exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
 source-git-commit: 22786c182ac959739396f694f0a63d84efa28ae5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '687'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 81%
 
 O Assets agora inclui um espaço de trabalho personalizável, que fornece widgets para acesso conveniente às áreas-chave da interface do Assets e informações mais relevantes para você. Esta página serve como uma solução única para fornecer uma visão geral dos itens de trabalho e fornecer acesso rápido aos principais fluxos de trabalho. Um acesso mais conveniente a essas opções aumenta a eficiência e a velocidade do conteúdo.
 
-Você pode acessar Meu espaço de trabalho clicando em **[!UICONTROL Meu espaço de trabalho]** nos itens disponíveis no painel de navegação esquerdo. Meu espaço de trabalho inclui uma variedade de widgets que mostram Acesso rápido, Insights, Tarefas e Widgets de conteúdo. É possível configurar como esses widgets são exibidos em seu espaço de trabalho, com base em suas preferências.
+Você pode acessar Meu espaço de trabalho clicando em **[!UICONTROL Meu espaço de trabalho]** nos itens disponíveis no painel de navegação esquerdo. A área Meu espaço de trabalho inclui uma variedade de widgets de acesso rápido, insights, tarefas e conteúdo. É possível configurar como esses widgets são exibidos em seu espaço de trabalho, com base em suas preferências.
 
 >[!NOTE]
 >
@@ -38,17 +38,17 @@ Highlights upcoming features for Assets.
 
 **Acesso rápido**
 
-Fixe arquivos, pastas e coleções para ter acesso mais rápido a esses itens quando precisar deles posteriormente. Todos os itens fixados são exibidos no **Acesso rápido** seção do Meu espaço de trabalho. Você pode acessá-las usando Meu espaço de trabalho em vez de navegar até o local em que são salvas no repositório.
+Fixe arquivos, pastas e coleções para ter acesso mais rápido a esses itens quando precisar deles posteriormente. Todos os itens fixados são exibidos na seção **Acesso rápido** do Meu espaço de trabalho. Você pode acessá-los usando o Meu espaço de trabalho em vez de navegar até o local em que foram salvos no repositório.
 
-Para fixar um ativo, uma pasta ou uma coleção, selecione o item e clique em **[!UICONTROL Fixar no Acesso Rápido]**.
+Para fixar um ativo, pasta ou coleção, selecione o item e clique em **[!UICONTROL Fixar no Acesso rápido]**.
 
-![Tarefas no Espaço de trabalho](assets/quick-access.png)
+![Tarefas no espaço de trabalho](assets/quick-access.png)
 
 **Insights**
 
 Os administradores podem exibir um resumo do número de downloads e uploads executados no ambiente do Assets durante os últimos 30 dias. Você pode clicar em **[!UICONTROL Exibir tudo]** para navegar rapidamente até a página Insights para painéis mais detalhados.
 
-Você também pode visualizar os principais termos pesquisados junto com o número de vezes que esses termos são pesquisados na implantação do Assets Essentials usando o **Insights** seção do Meu espaço de trabalho. Você também pode navegar até os Insights detalhados para exibir as principais pesquisas durante os últimos 30 dias ou 12 meses.
+Você também pode visualizar os principais termos pesquisados junto com o número de vezes que esses termos foram pesquisados na implantação do Assets Essentials usando a seção **Insights** do Meu espaço de trabalho. Você também pode navegar até os Insights detalhados para exibir as principais pesquisas durante os últimos 30 dias ou 12 meses.
 
 ![Insights no Espaço de trabalho](assets/insights.png)
 
