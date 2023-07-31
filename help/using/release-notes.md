@@ -7,7 +7,7 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: c61a22ad3c44b26762a8afbb93422197a5cf92ca
 workflow-type: tm+mt
 source-wordcount: '2154'
-ht-degree: 84%
+ht-degree: 96%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 84%
 
 A versão atual do Assets Essentials foi lançada em 27 de julho de 2023.
 
-A lista de recursos incluídos na versão é:
+A lista de recursos da versão inclui:
 
 <!--
 
@@ -67,37 +67,37 @@ Se você encontrar problemas ou quiser fazer solicitações de aprimoramento, [f
 
 ### Versão de junho {#june2023-release}
 
-**Marcação hierárquica de ativos para obter uma experiência de pesquisa mais rápida**
+**Marcação hierárquica de ativos para uma experiência de pesquisa mais rápida**
 
-Listas planas de vocabulários controlados tornam-se incontroláveis com o tempo. O Assets Essentials agora é compatível com a estrutura hierárquica de marcação, que facilita a aplicação de metadados relevantes, a categorização de ativos, o suporte a pesquisas, a reutilização de tags, a melhoria da descoberta e assim por diante.
+Listas planas de vocabulários controlados tornam-se incontroláveis com o tempo. O Assets Essentials agora é compatível com a estrutura de marcação hierárquica, que facilita a aplicação de metadados relevantes, a categorização de ativos, o suporte a pesquisas, a reutilização de tags, a melhoria da descoberta e assim por diante.
 
-![Gerenciamento de tags](assets/tags-hierarchy.png)
+![Gerenciamento de marcação](assets/tags-hierarchy.png)
 
 **Fixar arquivos, pastas e coleções para acesso rápido**
 
-Agora é possível fixar arquivos, pastas e coleções para agilizar o acesso a esses itens quando for necessário. Os itens fixados são exibidos na variável **Acesso rápido** seção do Meu espaço de trabalho. Você pode acessá-las usando Meu espaço de trabalho em vez de navegar até o local em que são salvas no repositório.
+Agora é possível fixar arquivos, pastas e coleções para agilizar o acesso a esses itens quando for necessário. Os itens fixados são exibidos na seção **Acesso rápido** do Meu espaço de trabalho. Você pode acessá-los usando o Meu espaço de trabalho em vez de navegar até o local em que foram salvos no repositório.
 
-![Tarefas no Espaço de trabalho](assets/quick-access.png)
+![Tarefas no espaço de trabalho](assets/quick-access.png)
 
 **Filtrar ativos na pasta Lixeira**
 
-O Assets Essentials agora permite filtrar ativos disponíveis na pasta Lixeira. Você pode aplicar filtros padrão ou personalizados para pesquisar ativos apropriados na pasta Lixeira para restaurá-los ou excluí-los permanentemente.
+O Assets Essentials agora permite filtrar ativos disponíveis na pasta Lixeira. Você pode aplicar filtros padrão ou personalizados para pesquisar ativos apropriados na pasta Lixeira e restaurá-los ou excluí-los permanentemente.
 
-**Visualizações de miniaturas para ativos 3D**
+**Visualizações de miniatura para ativos 3D**
 
-O Assets Essentials agora gera visualizações de miniaturas para formatos de arquivo 3D comuns, incluindo gLB, USDz, FBX, 3DS, OBJ e SBSAR. Quando esses arquivos são carregados para o Assets Essentials, as miniaturas são geradas automaticamente pelo sistema, por padrão.
+O Assets Essentials agora gera visualizações de miniatura para formatos de arquivo 3D comuns, incluindo gLB, USDz, FBX, 3DS, OBJ e SBSAR. Quando esses arquivos são carregados para o Assets Essentials, as miniaturas são geradas automaticamente pelo sistema, por padrão.
 
-![Tarefas no Espaço de trabalho](assets/3d-preview.png)
+![Tarefas no espaço de trabalho](assets/3d-preview.png)
 
 **Exibir os principais termos pesquisados**
 
-O Assets Essentials agora oferece suporte à exibição dos principais termos pesquisados na implantação do Assets Essentials usando o **Insights** seção do Meu espaço de trabalho. Você também pode navegar até os Insights detalhados para exibir as principais pesquisas durante os últimos 30 dias ou 12 meses.
+O Assets Essentials agora oferece suporte à exibição dos principais termos pesquisados na implantação do Assets Essentials usando a seção **Insights** do Meu espaço de trabalho. Você também pode navegar até os Insights detalhados para exibir as principais pesquisas durante os últimos 30 dias ou 12 meses.
 
-![Tarefas no Espaço de trabalho](assets/insights-top-searches.png)
+![Tarefas no espaço de trabalho](assets/insights-top-searches.png)
 
 **Aprimoramentos no formulário de metadados**
 
-O Assets Essentials agora permite adicionar componentes de propriedade de texto de vários valores e listas suspensas aos formulários de metadados.
+O Assets Essentials agora permite adicionar componentes de propriedade de texto de múltiplos valores e listas suspensas aos formulários de metadados.
 
 ### Várias versões em 2023 {#multiple-releases-2023}
 
@@ -320,7 +320,7 @@ O [!DNL Assets Essentials] foi lançado em 16 de dezembro de 2021 com as seguint
 
 O [!DNL Assets Essentials] 2021.8.0 foi lançado em 30 de agosto de 2021, com as seguintes atualizações:
 
-* Integrações com o [!DNL Adobe Workfront] que permite que usuários do [!DNL Workfront] gerenciam os ativos digitais no contexto do gerenciamento do próprio trabalho.
+* Integrações com o [!DNL Adobe Workfront] que permitem que usuários do [!DNL Workfront] gerenciem os ativos digitais enquanto gerenciam seu próprio trabalho.
 
 ### Versão 2021.7.0 {#july2021}
 

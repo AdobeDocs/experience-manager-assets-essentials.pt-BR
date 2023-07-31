@@ -6,7 +6,7 @@ exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: 5942762ec76b25cc89168015edfbe3fce4c4368f
 workflow-type: tm+mt
 source-wordcount: '1042'
-ht-degree: 86%
+ht-degree: 99%
 
 ---
 
@@ -146,29 +146,29 @@ When userA is searching and userB add an asset that matches search results, will
 
 Você pode selecionar os ativos exibidos nos resultados da pesquisa e realizar as seguintes ações:
 
-* **Detalhes**: visualize e edite as propriedades do ativo.
+* **Detalhes**: visualizar e editar as propriedades do ativo.
 
-* **Adicionar à coleção**: adicione o ativo selecionado a uma coleção.
+* **Adicionar à coleção**: adicionar o ativo selecionado a uma coleção.
 
 * **Baixar**: baixar um ativo.
 
 * **Excluir**: excluir um ativo.
 
-* **Copiar**: copie um ativo para um local de pasta diferente.
+* **Copiar**: copiar um ativo para um local de pasta diferente.
 
-* **Mover**: mova um ativo para um local de pasta diferente.
+* **Mover**: mover um ativo para um local de pasta diferente.
 
-* **Renomear**: Renomeie um ativo.
+* **Renomear**: renomear um ativo.
 
-* **Atribuir tarefas**: atribua tarefas a usuários para um ativo.
+* **Atribuir tarefas**: atribuir tarefas de um ativo a usuários.
 
-* **Compartilhar link**: [Compartilhar links](share-links-for-assets.md) para um ativo com outros usuários, para que eles possam acessá-lo e baixá-lo.
+* **Compartilhar link**: [compartilhar links](share-links-for-assets.md) para um ativo com outros usuários, para que possam acessá-lo e baixá-lo.
 
-* **Observar**: [Monitorar as operações](manage-notifications.md) executado em um ativo.
+* **Observar**: [monitorar as operações](manage-notifications.md) executadas em um ativo.
 
-* **Mostrar Local do Arquivo**: navegue até o local da pasta de ativos.
+* **Mostrar local do arquivo**: navegar até o local da pasta de ativos.
 
-* **Fixar no Acesso Rápido**: [Fixar um ativo](my-workspace.md) para obter acesso mais rápido quando precisar. Todos os itens fixados são exibidos no **Acesso rápido** seção do Meu espaço de trabalho.
+* **Fixar no Acesso rápido**: [fixar um ativo](my-workspace.md) para agilizar o acesso quando precisar. Todos os itens fixados são exibidos na seção **Acesso rápido** do Meu espaço de trabalho.
 
 ## Próximas etapas {#next-steps}
 
