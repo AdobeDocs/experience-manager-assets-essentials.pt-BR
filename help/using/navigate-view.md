@@ -4,9 +4,9 @@ description: Entenda a interface e a navegação no [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: 4f3141fe95a0c33b22042da4f234dd2a921cbac6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1000'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -112,15 +112,15 @@ Explicitly previewed assets are displayed as recently viewed assets. Give screen
 Other use cases after previewing.
 -->
 
-## Configurar exibição de colunas para a exibição da Lista de ativos {#configure-columns-list-view}
+## Configuração da exibição de colunas da exibição Lista de ativos {#configure-columns-list-view}
 
-Você pode selecionar as colunas exibidas na exibição da Lista de ativos, como Status, Formato, Dimension, Tamanho, etc.:
+É possível selecionar as colunas exibidas na exibição Lista de ativos, como Status, Formato, Dimensões, Tamanho e assim por diante:
 
-1. Selecionar **[!UICONTROL Assets]** no painel de navegação esquerdo, alterne para a exibição Lista de ativos e clique em ![ícone de configurações](assets/settings-icon.svg).
+1. Selecione **[!UICONTROL Ativos]** no painel de navegação esquerdo, alterne para a exibição Lista de ativos e clique no ![ícone de configurações](assets/settings-icon.svg).
 
-1. Selecione as colunas que devem ser exibidas na exibição em Lista e clique em **[!UICONTROL Confirmar o]**.
+1. Selecione as colunas que deseja exibir na lista e clique em **[!UICONTROL Confirmar]**.
 
-   ![Configurar colunas](/help/using/assets/configure-columns.png)
+   ![Configuração de colunas](/help/using/assets/configure-columns.png)
 
 ## Próximas etapas {#next-steps}
 
