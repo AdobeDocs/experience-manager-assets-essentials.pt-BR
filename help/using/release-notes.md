@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: c61a22ad3c44b26762a8afbb93422197a5cf92ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2154'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -29,17 +29,17 @@ You can now assign metadata form to a specific folder within your Assets Essenti
 
 **Estrutura de inteligência artificial aprimorada para Tags inteligentes de imagem**
 
-O Experience Manager Assets agora usa uma estrutura de inteligência artificial aprimorada para tags inteligentes de imagem. Essa inteligência de conteúdo resulta em melhor relevância e precisão das Tags inteligentes disponíveis para todos os ativos de imagem na assimilação.
+O Experience Manager Assets agora usa uma estrutura de inteligência artificial aprimorada para Tags inteligentes de imagem. Essa inteligência de conteúdo resulta em melhor relevância e precisão das Tags inteligentes disponíveis para todos os ativos de imagem na assimilação.
 
-**Configurar exibição de colunas para a exibição da Lista de ativos**
+**Configuração da exibição de colunas da exibição Lista de ativos**
 
-O Assets Essentials agora oferece a capacidade de selecionar as colunas exibidas na exibição da Lista de ativos, como Status, Formato, Dimension, Tamanho e assim por diante.
+O Assets Essentials agora oferece a capacidade de selecionar as colunas mostradas na exibição Lista de ativos, como Status, Formato, Dimensões, Tamanho e assim por diante.
 
-![Configurar colunas](/help/using/assets/configure-columns.png)
+![Configuração de colunas](/help/using/assets/configure-columns.png)
 
-**Classificar resultados da pesquisa com base na relevância**
+**Classificação de resultados de pesquisa com base na relevância**
 
-Por padrão, o Assets Essentials agora classifica os resultados da pesquisa com base em Relevância. Você pode classificar os ativos pesquisados em ordem crescente ou decrescente de `Name`, `Relevance`, `Size`, `Modified` e `Created`.
+Por padrão, o Assets Essentials agora classifica os resultados de pesquisa com base na relevância. É possível classificar os ativos pesquisados em ordem crescente ou decrescente de `Name`, `Relevance`, `Size`, `Modified` e `Created`.
 
 **Aprimoramentos com base no feedback dos clientes**
 
