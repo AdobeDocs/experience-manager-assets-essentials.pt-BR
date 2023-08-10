@@ -4,9 +4,9 @@ description: Pesquisar e descobrir ativos no [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: 5942762ec76b25cc89168015edfbe3fce4c4368f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1042'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -50,7 +50,7 @@ Você pode filtrar os resultados da pesquisa com base nos seguintes parâmetros.
 
 * Filtros personalizados: [adicione filtros personalizados](#custom-filters) à interface do Assets Essentials. Aplique filtros personalizados além dos filtros padrão para refinar os resultados da pesquisa.
 
-Você pode classificar os ativos pesquisados em ordem crescente ou decrescente de `Name`, `Relevance`, `Size`, `Modified` e `Created`. Os ativos pesquisados são classificados com base em `Relevance`, por padrão.
+E possível classificar os ativos pesquisados em ordem crescente ou decrescente de `Name`, `Relevance`, `Size`, `Modified` e `Created`. Os ativos pesquisados são classificados com base em `Relevance`, por padrão.
 
 ## Gerenciar filtros personalizados {#custom-filters}
 
