@@ -4,10 +4,10 @@ description: Gerenciar metadados de ativos no  [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 6a9bc34907f9eb8c7d18a8fbb139e27244538256
+source-git-commit: 50b9ba30eac2d99fe72a8cfacf4b0361b8955a87
 workflow-type: tm+mt
-source-wordcount: '1606'
-ht-degree: 99%
+source-wordcount: '1558'
+ht-degree: 100%
 
 ---
 
@@ -58,11 +58,6 @@ As Tags inteligentes também contêm uma pontuação de confiança como uma porc
 Também é possível remover tags da seção [!UICONTROL Tags inteligentes] que são adicionadas automaticamente pelo [!DNL Assets Essentials] em todos os ativos carregados.
 
 ## Gerenciamento de taxonomia {#taxonomy-management}
-
->[!CONTEXTUALHELP]
->id="assets_express_integration"
->title="Integração do Adobe Express"
->abstract="O [!DNL Experience Manager Assets] fornece vários campos padrão de metadados, por padrão. As organizações têm necessidades adicionais de metadados e precisam de mais campos para adicionar metadados específicos de negócios. Os formulários de metadados permitem que as empresas adicionem campos de metadados personalizados à página Detalhes de um ativo. Os metadados específicos de negócios melhoram a governança e a descoberta de ativos."
 
 As tags também podem ser aninhadas em uma hierarquia para permitir relacionamentos como o de categoria e subcategoria. Se você precisar inserir tags hierárquicas, elas podem ser gerenciadas facilmente por admins na seção [!UICONTROL Gerenciamento de taxonomia] das [!UICONTROL Configurações]. É possível criar um conjunto controlado de namespaces e tags que todos os usuários podem usar para descrever o conteúdo. Somente admins podem configurar hierarquias de tags no [!UICONTROL Gerenciador de taxonomia], garantindo que os valores sejam controlados e usados de forma consistente.
 
