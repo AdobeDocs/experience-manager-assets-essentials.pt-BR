@@ -2,10 +2,10 @@
 title: Gerenciar relatórios no Assets Essentials
 description: Acesse os dados na seção de relatórios do Assets Essentials para avaliar o uso de produtos e recursos e obter insights sobre as principais métricas de sucesso.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 22786c182ac959739396f694f0a63d84efa28ae5
-workflow-type: ht
-source-wordcount: '814'
-ht-degree: 100%
+source-git-commit: 7bda2024fd9e9d2ad05ccffccf76a51b16a113fa
+workflow-type: tm+mt
+source-wordcount: '839'
+ht-degree: 94%
 
 ---
 
@@ -14,9 +14,9 @@ ht-degree: 100%
 >[!CONTEXTUALHELP]
 >id="assets_reports"
 >title="Relatórios"
->abstract="Os relatórios de ativos fornecem aos administradores visibilidade sobre as atividades do ambiente do Adobe Experience Manager Assets Essentials. Esses dados fornecem informações úteis sobre como os usuários interagem com o conteúdo e o produto. Todos os usuários atribuídos ao perfil de produto de administradores podem acessar o painel Insights ou criar relatórios definidos pelo usuário."
+>abstract="Os relatórios de ativos fornecem aos administradores visibilidade sobre as atividades do ambiente do Adobe Experience Manager Assets Essentials. Esses dados fornecem informações úteis sobre como os usuários interagem com o conteúdo e o produto. Todos os usuários podem acessar o painel Insights e aqueles que estão atribuídos ao perfil de produto Administradores podem criar relatórios definidos pelo usuário."
 
-Os relatórios de ativos fornecem aos administradores visibilidade sobre as atividades do ambiente do Adobe Experience Manager Assets Essentials. Esses dados fornecem informações úteis sobre como os usuários interagem com o conteúdo e o produto.
+Os relatórios de ativos fornecem aos administradores visibilidade sobre as atividades do ambiente do Adobe Experience Manager Assets Essentials. Esses dados fornecem informações úteis sobre como os usuários interagem com o conteúdo e o produto. Todos os usuários podem acessar o painel Insights e aqueles que estão atribuídos ao perfil de produto Administradores podem criar relatórios definidos pelo usuário.
 
 ## Acessar relatórios {#access-reports}
 
@@ -55,6 +55,7 @@ Para criar um relatório de downloads:
 1. Selecione o caminho da pasta que compreende os ativos para os quais o relatório será criado, usando o campo **[!UICONTROL Selecionar caminho da pasta]**.
 
 1. Selecione o intervalo de datas do relatório.
+
    >[!NOTE]
    >
    > O Assets Essentials converte todos os fusos horários locais para o Tempo universal coordenado (UTC).
