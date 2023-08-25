@@ -2,10 +2,10 @@
 title: Meu espaço de trabalho para o Assets
 description: Meu espaço de trabalho é uma página que fornece módulos visuais personalizáveis para um acesso conveniente às áreas-chave da interface do Assets e informações mais relevantes para o usuário.
 exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
-source-git-commit: 22786c182ac959739396f694f0a63d84efa28ae5
-workflow-type: ht
-source-wordcount: '687'
-ht-degree: 100%
+source-git-commit: 1db631a927e806d4b8ed83b1e0fc4a1e4f5bef71
+workflow-type: tm+mt
+source-wordcount: '739'
+ht-degree: 88%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 O Assets agora inclui um espaço de trabalho personalizável, que fornece widgets para acesso conveniente às áreas-chave da interface do Assets e informações mais relevantes para você. Esta página serve como uma solução única para fornecer uma visão geral dos itens de trabalho e fornecer acesso rápido aos principais fluxos de trabalho. Um acesso mais conveniente a essas opções aumenta a eficiência e a velocidade do conteúdo.
 
-Você pode acessar Meu espaço de trabalho clicando em **[!UICONTROL Meu espaço de trabalho]** nos itens disponíveis no painel de navegação esquerdo. A área Meu espaço de trabalho inclui uma variedade de widgets de acesso rápido, insights, tarefas e conteúdo. É possível configurar como esses widgets são exibidos em seu espaço de trabalho, com base em suas preferências.
+Você pode acessar Meu espaço de trabalho clicando em **[!UICONTROL Meu espaço de trabalho]** nos itens disponíveis no painel de navegação esquerdo. Meu espaço de trabalho inclui uma variedade de widgets que mostram Acesso rápido, Insights, Tarefas e Widgets de conteúdo. É possível configurar como esses widgets são exibidos em seu espaço de trabalho, com base em suas preferências.
 
 >[!NOTE]
 >
@@ -40,9 +40,17 @@ Highlights upcoming features for Assets.
 
 Fixe arquivos, pastas e coleções para ter acesso mais rápido a esses itens quando precisar deles posteriormente. Todos os itens fixados são exibidos na seção **Acesso rápido** do Meu espaço de trabalho. Você pode acessá-los usando o Meu espaço de trabalho em vez de navegar até o local em que foram salvos no repositório.
 
-Para fixar um ativo, pasta ou coleção, selecione o item e clique em **[!UICONTROL Fixar no Acesso rápido]**.
+Para fixar um ativo, uma pasta ou uma coleção:
 
-![Tarefas no espaço de trabalho](assets/quick-access.png)
+1. Selecione o item e clique em **[!UICONTROL Fixar no Acesso Rápido]**.
+
+1. Selecione se você precisa fixar o item apenas para você, para toda a organização ou para grupos selecionados. Se você selecionar **[!UICONTROL Para grupos]**, defina os nomes dos grupos na **[!UICONTROL Fixar para grupos]** campo.
+
+   ![Fixar itens para grupos](assets/pin-items-for-groups.png)
+1. Clique em **[!UICONTROL Fixar]**.
+
+   O item selecionado é exibido no campo **[!UICONTROL Acesso rápido]** seção do Meu espaço de trabalho.
+   ![Tarefas no espaço de trabalho](assets/quick-access.png)
 
 **Insights**
 

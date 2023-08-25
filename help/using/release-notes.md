@@ -4,16 +4,16 @@ description: Notas de versão e problemas conhecidos do [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: c61a22ad3c44b26762a8afbb93422197a5cf92ca
-workflow-type: ht
-source-wordcount: '2154'
-ht-degree: 100%
+source-git-commit: de90b6958e4db44e8706d4a74558006702c3057c
+workflow-type: tm+mt
+source-wordcount: '2298'
+ht-degree: 93%
 
 ---
 
 # Notas de versão do [!DNL Assets Essentials] {#release-notes}
 
-A versão atual do Assets Essentials foi lançada em 27 de julho de 2023.
+A versão atual do Assets Essentials foi lançada em 24 de agosto de 2023.
 
 A lista de recursos da versão inclui:
 
@@ -27,19 +27,23 @@ You can now assign metadata form to a specific folder within your Assets Essenti
 
 -->
 
-**Estrutura de inteligência artificial aprimorada para Tags inteligentes de imagem**
+**Importar ativos em massa de fontes de dados**
 
-O Experience Manager Assets agora usa uma estrutura de inteligência artificial aprimorada para Tags inteligentes de imagem. Essa inteligência de conteúdo resulta em melhor relevância e precisão das Tags inteligentes disponíveis para todos os ativos de imagem na assimilação.
+Agora, os administradores têm a capacidade de importar um grande número de ativos de uma fonte de dados para o AEM Assets. Os administradores não precisam mais fazer upload de ativos ou pastas individuais para o AEM Assets. As fontes de dados compatíveis com a importação em massa incluem o Azure, o AWS, a Google Cloud e o Dropbox.
 
-**Configuração da exibição de colunas da exibição Lista de ativos**
+![Importar ativos em massa de uma fonte de dados](/help/using/assets/bulk-import.png)
 
-O Assets Essentials agora oferece a capacidade de selecionar as colunas mostradas na exibição Lista de ativos, como Status, Formato, Dimensões, Tamanho e assim por diante.
+**Ferramentas de edição de imagens possibilitadas pelo Adobe Express**
 
-![Configuração de colunas](/help/using/assets/configure-columns.png)
+Ferramentas de edição de imagens fáceis e intuitivas, viabilizadas pelo Adobe Express, disponíveis diretamente no AEM Assets para aumentar a reutilização de conteúdo e acelerar a velocidade do conteúdo.
 
-**Classificação de resultados de pesquisa com base na relevância**
+![Edição de imagens com o Adobe Express](/help/using/assets/edit-adobe-express.png)
 
-Por padrão, o Assets Essentials agora classifica os resultados de pesquisa com base na relevância. É possível classificar os ativos pesquisados em ordem crescente ou decrescente de `Name`, `Relevance`, `Size`, `Modified` e `Created`.
+**Flexibilidade ao fixar itens para o Acesso rápido ao My Workspace**
+
+Capacidade de selecionar e fixar itens para você, para toda a organização ou para uma lista de grupos para que eles sejam exibidos na seção Acesso rápido de Meu Espaço de Trabalho com base na sua seleção.
+
+![Fixar itens para grupos](assets/pin-items-for-groups.png)
 
 **Aprimoramentos com base no feedback dos clientes**
 
@@ -65,7 +69,23 @@ Se você encontrar problemas ou quiser fazer solicitações de aprimoramento, [f
 
 ## Versões anteriores {#past-releases}
 
-### Versão de junho {#june2023-release}
+### Versão de julho de 2023 {#july2023-release}
+
+**Estrutura de inteligência artificial aprimorada para Tags inteligentes de imagem**
+
+O Experience Manager Assets agora usa uma estrutura de inteligência artificial aprimorada para Tags inteligentes de imagem. Essa inteligência de conteúdo resulta em melhor relevância e precisão das Tags inteligentes disponíveis para todos os ativos de imagem na assimilação.
+
+**Configuração da exibição de colunas da exibição Lista de ativos**
+
+O Assets Essentials agora oferece a capacidade de selecionar as colunas mostradas na exibição Lista de ativos, como Status, Formato, Dimensões, Tamanho e assim por diante.
+
+![Configuração de colunas](/help/using/assets/configure-columns.png)
+
+**Classificação de resultados de pesquisa com base na relevância**
+
+Por padrão, o Assets Essentials agora classifica os resultados de pesquisa com base na relevância. É possível classificar os ativos pesquisados em ordem crescente ou decrescente de `Name`, `Relevance`, `Size`, `Modified` e `Created`.
+
+### Versão de junho de 2023 {#june2023-release}
 
 **Marcação hierárquica de ativos para uma experiência de pesquisa mais rápida**
 
