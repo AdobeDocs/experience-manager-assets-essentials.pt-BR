@@ -5,18 +5,18 @@ exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 7bda2024fd9e9d2ad05ccffccf76a51b16a113fa
 workflow-type: tm+mt
 source-wordcount: '839'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
-# Gerenciar relatórios {#manage-reports}
+# Gerenciamento de relatórios {#manage-reports}
 
 >[!CONTEXTUALHELP]
 >id="assets_reports"
 >title="Relatórios"
->abstract="Os relatórios de ativos fornecem aos administradores visibilidade sobre as atividades do ambiente do Adobe Experience Manager Assets Essentials. Esses dados fornecem informações úteis sobre como os usuários interagem com o conteúdo e o produto. Todos os usuários podem acessar o painel Insights e aqueles que estão atribuídos ao perfil de produto Administradores podem criar relatórios definidos pelo usuário."
+>abstract="Os relatórios de ativos fornecem aos administradores visibilidade sobre as atividades do ambiente do Adobe Experience Manager Assets Essentials. Esses dados fornecem informações úteis sobre como os usuários interagem com o conteúdo e o produto. Todos os(as) usuários(as) podem acessar o painel Insights e aqueles que estiverem atribuídos(as) ao perfil de produto Administrador podem criar relatórios definidos pelo(a) usuário(a)."
 
-Os relatórios de ativos fornecem aos administradores visibilidade sobre as atividades do ambiente do Adobe Experience Manager Assets Essentials. Esses dados fornecem informações úteis sobre como os usuários interagem com o conteúdo e o produto. Todos os usuários podem acessar o painel Insights e aqueles que estão atribuídos ao perfil de produto Administradores podem criar relatórios definidos pelo usuário.
+Os relatórios de ativos fornecem aos administradores visibilidade sobre as atividades do ambiente do Adobe Experience Manager Assets Essentials. Esses dados fornecem informações úteis sobre como os usuários interagem com o conteúdo e o produto. Todos os(as) usuários(as) podem acessar o painel Insights e aqueles que estiverem atribuídos(as) ao perfil de produto Administrador podem criar relatórios definidos pelo(a) usuário(a).
 
 ## Acessar relatórios {#access-reports}
 
