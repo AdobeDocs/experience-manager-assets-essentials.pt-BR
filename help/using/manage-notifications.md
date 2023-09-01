@@ -3,7 +3,7 @@ title: Gerenciar notificações
 description: Monitore as operações realizadas nos ativos ou pastas disponíveis no repositório usando as notificações do Assets Essentials.
 exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
 source-git-commit: c34fa28a698523dee00f972ede0781305aee6e60
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '617'
 ht-degree: 100%
 
