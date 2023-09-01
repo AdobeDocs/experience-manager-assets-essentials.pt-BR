@@ -3,10 +3,10 @@ title: Editar imagens
 description: Editar imagens usando opções viabilizadas pelo [!DNL Adobe Photoshop Express] e salvar imagens atualizadas como versões.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: c34fa28a698523dee00f972ede0781305aee6e60
+source-git-commit: 701da4ddf9dcadb9e8ad3070877788344d0210fc
 workflow-type: tm+mt
-source-wordcount: '896'
-ht-degree: 52%
+source-wordcount: '908'
+ht-degree: 51%
 
 ---
 
@@ -34,10 +34,10 @@ Após editar uma imagem, você pode salvar a nova imagem como uma nova versão. 
 Redimensionar uma imagem para um tamanho específico é um caso de uso comum. O [!DNL Assets Essentials] permite redimensionar rapidamente a imagem para ajustá-la aos tamanhos de foto comuns, fornecendo novas resoluções pré-calculadas para tamanhos de foto específicos. Para redimensionar a imagem usando [!DNL Assets Essentials], siga as etapas abaixo:
 
 1. Selecione uma imagem e clique em **Editar**.
-2. Clique em **[!DNL Resize Image]** nas ações rápidas disponíveis no painel esquerdo.
+2. Clique em **[!UICONTROL Redimensionar imagem]** nas ações rápidas disponíveis no painel esquerdo.
 3. Selecione a plataforma de mídia social apropriada na **[!UICONTROL Redimensionar para]** e selecione o tamanho da imagem nas opções exibidas.
 4. Dimensione a imagem, se necessário, usando o **[!UICONTROL Escala de imagem]** campo.
-5. Clique em **[!DNL Apply]** para aplicar as alterações.
+5. Clique em **[!UICONTROL Aplicar]** para aplicar as alterações.
    ![Edição de imagens com o Adobe Express](/help/using/assets/adobe-express-resize-image.png)
 
    A imagem editada está disponível para download. Você pode salvar o ativo editado como uma nova versão do mesmo ativo ou salvá-lo como um novo ativo.
@@ -48,8 +48,8 @@ Redimensionar uma imagem para um tamanho específico é um caso de uso comum. O 
 Você pode remover o plano de fundo de uma imagem em algumas etapas simples, como mencionado abaixo:
 
 1. Selecione uma imagem e clique em **Editar**.
-2. Clique em **[!DNL Remove Background]** nas ações rápidas disponíveis no painel esquerdo. O Experience Manager Assets exibe a imagem sem plano de fundo.
-3. Clique em **[!DNL Apply]** para aplicar as alterações.
+2. Clique em **[!UICONTROL Remover plano de fundo]** nas ações rápidas disponíveis no painel esquerdo. O Experience Manager Assets exibe a imagem sem plano de fundo.
+3. Clique em **[!UICONTROL Aplicar]** para aplicar as alterações.
    ![Salvar imagem com o Adobe Express](/help/using/assets/adobe-express-remove-background.png)
 
    A imagem editada está disponível para download. Você pode salvar o ativo editado como uma nova versão do mesmo ativo ou salvá-lo como um novo ativo.
@@ -59,9 +59,9 @@ Você pode remover o plano de fundo de uma imagem em algumas etapas simples, com
 Transformar uma imagem em um tamanho perfeito é fácil usando incorporado [!DNL Adobe Express] ações rápidas.
 
 1. Selecione uma imagem e clique em **Editar**.
-2. Clique em **[!DNL Crop Image]** nas ações rápidas disponíveis no painel esquerdo.
+2. Clique em **[!UICONTROL Cortar imagem]** nas ações rápidas disponíveis no painel esquerdo.
 3. Arraste as alças nos cantos da imagem para criar o corte desejado.
-4. Clique em **[!DNL Apply]**.
+4. Clique em **[!UICONTROL Aplicar]**.
    ![Salvar imagem com o Adobe Express](/help/using/assets/adobe-express-crop-image.png)
 A imagem cortada está disponível para download. Você pode salvar o ativo editado como uma nova versão do mesmo ativo ou salvá-lo como um novo ativo.
 
@@ -70,7 +70,7 @@ A imagem cortada está disponível para download. Você pode salvar o ativo edit
 Você pode converter rapidamente uma imagem de JPEG em um formato PNG usando Adobe Express. Execute as seguintes etapas:
 
 1. Selecione uma imagem e clique em **Editar**.
-2. Clique em **[!DNL JPEG to PNG]** nas ações rápidas disponíveis no painel esquerdo.
+2. Clique em **[!UICONTROL JPEG para PNG]** nas ações rápidas disponíveis no painel esquerdo.
    ![Converter em PNG com Adobe Express](/help/using/assets/adobe-express-convert-image.png)
 3. Clique em **[!UICONTROL Baixar]**.
 
