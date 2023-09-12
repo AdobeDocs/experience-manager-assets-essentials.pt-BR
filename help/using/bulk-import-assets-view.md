@@ -4,7 +4,7 @@ description: Saiba como importar ativos em massa usando a nova interface do usu�
 source-git-commit: 946dc5ea27c61eb5f2dc74054ebdd65cdbdb71a8
 workflow-type: tm+mt
 source-wordcount: '1244'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 2%
 >[!CONTEXTUALHELP]
 >id="assets_bulk_import"
 >title="Importar ativos em massa"
->abstract="Agora os administradores podem importar um grande número de ativos de uma fonte de dados para o Experience Manager Assets usando a visualização de Ativos. Os administradores não precisam mais fazer upload de ativos ou pastas individuais para o Experience Manager Assets. Os provedores de armazenamento em nuvem compatíveis para importação em massa incluem Azure, AWS, Google Cloud e Dropbox."
+>abstract="Agora administradores(as) podem importar um grande número de ativos de uma fonte de dados para o Experience Manager Assets usando a visualização Ativos. Não é mais necessário mais fazer upload de ativos ou pastas individuais para o Experience Manager Assets. Os provedores de armazenamento na nuvem compatíveis com a importação em massa são Azure, AWS, Google Cloud e Dropbox."
 
 A Importação em massa na visualização do AEM Assets fornece aos administradores a capacidade de importar um grande número de ativos de uma fonte de dados para o AEM Assets. Os administradores não precisam mais fazer upload de ativos ou pastas individuais para o AEM Assets.
 
