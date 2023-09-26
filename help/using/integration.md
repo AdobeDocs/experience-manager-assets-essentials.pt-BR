@@ -3,10 +3,10 @@ title: Integração com outras soluções da Adobe
 description: “O [!DNL Assets Essentials] integra-se com outras soluções da Adobe e fornece uma experiência incorporada no aplicativo nativo.”
 role: User
 exl-id: bc43a59e-f295-44d2-a14d-854174f91e41
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
-source-wordcount: '369'
-ht-degree: 100%
+source-git-commit: 5bcd55313d1fb8bcf3dedbb24742eca5e2663aa8
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,6 +25,12 @@ A experiência do [!DNL Assets Essentials] incorporado pode se integrar com as s
 * **[!DNL Adobe Workfront]**: o [[!DNL Adobe Workfront]](https://www.workfront.com/) é um aplicativo de gerenciamento de trabalho que ajuda você a gerenciar todo o ciclo de vida do trabalho em um único local. A integração nativa entre o [!DNL Adobe Workfront] e o [!DNL Assets Essentials] permite que as organizações melhorem a velocidade do conteúdo e o prazo para comercialização, conectando intrinsecamente o trabalho e o gerenciamento de ativos. No contexto do gerenciamento de trabalho, os usuários têm acesso aos documentos e imagens necessários na mesma solução. O [!DNL Assets Essentials] está disponível como um complemento que novos clientes do [!DNL Workfront] podem adquirir separadamente. Consulte [Configurar e usar a integração do [!DNL Workfront] e [!DNL Essentials] ](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm).
 
   [Assista a um vídeo sobre configuração da integração do Adobe Workfront e do Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=pt-BR)
+
+## Integração com a criação baseada em documentos para Edge Delivery Services {#integrate-doc-authoring-edge-and-assets}
+
+O Edge Delivery permite criar sites rápidos e atraentes, nos quais os autores podem atualizar e publicar conteúdo rapidamente, e novos sites podem ser inicializados rapidamente.
+
+Integre o AEM Assets com a criação baseada em documentos para que o Edge Delivery Services permita que os autores de sites usem imagens disponíveis em repositórios do AEM Assets ao criar documentos no Microsoft Word ou Google Docs. Para obter mais informações, consulte [Integrar o AEM Assets com a criação baseada em documentos](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/edge-delivery/using.html#integrate-assets-edge).
 
 ## Próximas etapas {#next-steps}
 
