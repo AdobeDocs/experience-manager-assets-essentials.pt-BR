@@ -4,28 +4,24 @@ description: Notas de versão e problemas conhecidos do [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: de90b6958e4db44e8706d4a74558006702c3057c
+source-git-commit: 1df4ab7705b5478c86531a5b4cae57b09ef5a0d5
 workflow-type: tm+mt
-source-wordcount: '2298'
-ht-degree: 93%
+source-wordcount: '2342'
+ht-degree: 92%
 
 ---
 
 # Notas de versão do [!DNL Assets Essentials] {#release-notes}
 
-A versão atual do Assets Essentials foi lançada em 24 de agosto de 2023.
+A versão atual do Assets Essentials foi lançada em 21 de setembro de 2023.
 
-A lista de recursos da versão inclui:
+A lista de recursos recentemente adicionados inclui:
 
-<!--
+**Atribuir formulário de metadados a uma pasta**
 
-**Assign metadata form to a folder**
+Agora é possível atribuir o formulário de metadados a uma pasta específica na implantação do Assets Essentials. Todos os ativos na pasta, incluindo ativos nas subpastas, em seguida, exibem as propriedades definidas no formulário de metadados atribuído.
 
-You can now assign metadata form to a specific folder within your Assets Essentials deployment. All assets in the folder, including assets in the sub-folders, then display properties defined in the assigned metadata form.
-
-![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
-
--->
+![atribuir formulário de metadados a uma pasta](/help/using/assets/assign-to-folder.png)
 
 **Importar ativos em massa de fontes de dados**
 
@@ -35,7 +31,7 @@ Agora, os administradores têm a capacidade de importar um grande número de ati
 
 **Ferramentas de edição de imagens possibilitadas pelo Adobe Express**
 
-Ferramentas de edição de imagens fáceis e intuitivas, viabilizadas pelo Adobe Express, disponíveis diretamente no AEM Assets para aumentar a reutilização de conteúdo e acelerar a velocidade do conteúdo.
+Ferramentas de edição de imagens fáceis e intuitivas, viabilizadas pelo Adobe Express, disponíveis diretamente no AEM Assets para aumentar a reutilização de conteúdo e acelerar sua velocidade.
 
 ![Edição de imagens com o Adobe Express](/help/using/assets/edit-adobe-express.png)
 
@@ -113,7 +109,7 @@ O Assets Essentials agora gera visualizações de miniatura para formatos de arq
 
 O Assets Essentials agora oferece suporte à exibição dos principais termos pesquisados na implantação do Assets Essentials usando a seção **Insights** do Meu espaço de trabalho. Você também pode navegar até os Insights detalhados para exibir as principais pesquisas durante os últimos 30 dias ou 12 meses.
 
-![Tarefas no espaço de trabalho](assets/insights-top-searches.png)
+![Tarefas no Espaço de trabalho](assets/insights-top-searches.png)
 
 **Aprimoramentos no formulário de metadados**
 

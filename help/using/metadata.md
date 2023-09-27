@@ -4,10 +4,10 @@ description: Gerenciar metadados de ativos no  [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 1897989934b12b0f88b56461c76833273ca04447
-workflow-type: ht
-source-wordcount: '1558'
-ht-degree: 100%
+source-git-commit: 1df4ab7705b5478c86531a5b4cae57b09ef5a0d5
+workflow-type: tm+mt
+source-wordcount: '1686'
+ht-degree: 92%
 
 ---
 
@@ -135,25 +135,21 @@ Veja abaixo uma visão geral de cada tipo de propriedade e como eles são armaze
 | Palavras-chave | Adiciona palavras-chave de forma livre (mapeadas para dc:subject). |
 | Tags inteligentes | Adicione para aumentar os recursos de pesquisa inserindo tags de metadados automaticamente. |
 
-<!--
+### Atribuir formulário de metadados a uma pasta {#assign-metadata-form-folder}
 
-### Assign metadata form to a folder {#assign-metadata-form-folder}
+Você também pode atribuir um formulário de metadados a uma pasta na implantação do Assets Essentials. O formulário de metadados atribuído a uma pasta de acordo com o tipo MIME é substituído quando você aplica um formulário de metadados a uma pasta manualmente. Todos os ativos na pasta, incluindo os ativos nas subpastas, e então as propriedades de exibição definidas no formulário de metadados.
 
-You can also assign a metadata form to a folder within your Assets Essentials deployment. The metadata form assigned to a folder as per the MIME type is overwritten when you apply a metadata form to a folder manually. All assets in the folder, including assets in the sub-folders, then display properties defined in the metadata form.
+Para atribuir um formulário de metadados a uma pasta:
 
-To assign a metadata form to a folder:
+1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Forms de metadados]** e selecione um formulário de metadados.
 
-1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL Metadata Forms]** and select a metadata form.
+2. Clique em **[!UICONTROL Atribuir à pasta]**.
 
-2. Click **[!UICONTROL Assign to Folder]**.
+3. Selecione a pasta e clique em **[!UICONTROL Atribuir]**.
 
-3. Select the folder and click **[!UICONTROL Assign]**.
+   ![atribuir formulário de metadados a uma pasta](/help/using/assets/assign-to-folder.png)
 
-   ![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
-
-   You can also navigate to the folder details page and select a metadata form from the folder properties available in the right pane to assign the metadata form to the folder.
-
--->
+   Você também pode navegar até a página de detalhes da pasta e selecionar um formulário de metadados nas propriedades da pasta disponíveis no painel direito para atribuir o formulário de metadados à pasta.
 
 ## Próximas etapas {#next-steps}
 
