@@ -1,25 +1,25 @@
 ---
-title: Importar ativos em massa usando a exibição Ativos
-description: Saiba como importar ativos em massa usando a nova interface do usuário do Assets (exibição de Ativos). Ele fornece aos administradores a capacidade de importar um grande número de ativos de uma fonte de dados para o AEM Assets.
-source-git-commit: 946dc5ea27c61eb5f2dc74054ebdd65cdbdb71a8
+title: Importar ativos em massa usando o Assets Essentials
+description: Saiba como importar ativos em massa usando a nova interface do Assets (Assets Essentials). Ele fornece aos administradores a capacidade de importar um grande número de ativos de uma fonte de dados para o AEM Assets.
+source-git-commit: 8708a9140b283ab2f45db7d466c069e53fb28b2a
 workflow-type: tm+mt
-source-wordcount: '1244'
-ht-degree: 7%
+source-wordcount: '1245'
+ht-degree: 5%
 
 ---
 
-# Importar ativos em massa usando a exibição Ativos  {#bulk-import-assets-view}
+# Importar ativos em massa usando o Assets Essentials  {#bulk-import-essentials}
 
 >[!CONTEXTUALHELP]
 >id="assets_bulk_import"
 >title="Importar ativos em massa"
->abstract="Agora administradores(as) podem importar um grande número de ativos de uma fonte de dados para o Experience Manager Assets usando a visualização Ativos. Não é mais necessário mais fazer upload de ativos ou pastas individuais para o Experience Manager Assets. Os provedores de armazenamento na nuvem compatíveis com a importação em massa são Azure, AWS, Google Cloud e Dropbox."
+>abstract="Agora os administradores podem importar um grande número de ativos de uma fonte de dados para a Experience Manager Assets usando o Assets Essentials. Não é mais necessário mais fazer upload de ativos ou pastas individuais para o Experience Manager Assets. Os provedores de armazenamento na nuvem compatíveis com a importação em massa são Azure, AWS, Google Cloud e Dropbox."
 
-A Importação em massa na visualização do AEM Assets fornece aos administradores a capacidade de importar um grande número de ativos de uma fonte de dados para o AEM Assets. Os administradores não precisam mais fazer upload de ativos ou pastas individuais para o AEM Assets.
+A Importação em massa no AEM Assets Essentials fornece aos administradores a capacidade de importar um grande número de ativos de uma fonte de dados para o AEM Assets. Os administradores não precisam mais fazer upload de ativos ou pastas individuais para o AEM Assets.
 
 >[!NOTE]
 >
->O importador de itens em massa de exibição do Assets usa o mesmo back-end do importador em massa de exibição do administrador. No entanto, ele oferece mais fontes de dados para importar do e uma experiência do usuário mais simplificada.
+>O importador em massa Assets Essentials usa o mesmo back-end do importador em massa as a Cloud Service do Assets. No entanto, o Assets Essentials oferece mais fontes de dados para importar e uma experiência do usuário mais simplificada.
 
 Você pode importar ativos das seguintes fontes de dados:
 
@@ -74,7 +74,7 @@ Ao importar ativos ou pastas em massa, [!DNL Experience Manager Assets] importa 
 
 Durante a importação em massa, [!DNL Experience Manager] procure as pastas existentes para evitar a reimportação de ativos e pastas e também verifique as regras de limpeza aplicadas na pasta principal onde a importação ocorre. Se as regras de limpeza forem aplicadas na pasta principal, as mesmas regras serão aplicadas à origem de importação. Para novas importações, as seguintes regras de limpeza são aplicadas para gerenciar os nomes de arquivos de ativos e pastas.
 
-Para obter mais informações sobre nomes não permitidos, tratamento de nomes de ativos e tratamento de nomes de pastas durante a importação em massa, consulte [Manipulação de nomes de arquivo durante a importação em massa na exibição de Administração](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=en#filename-handling-bulkimport).
+Para obter mais informações sobre nomes não permitidos, tratamento de nomes de ativos e tratamento de nomes de pastas durante a importação em massa, consulte [Manipulação de nomes de arquivo durante a importação em massa](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=en#filename-handling-bulkimport).
 
 ## Exibir configurações de importação em massa existentes {#view-import-configuration}
 

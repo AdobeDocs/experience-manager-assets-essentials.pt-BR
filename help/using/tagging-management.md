@@ -1,20 +1,20 @@
 ---
-title: Como gerenciar tags na visualização do Assets?
-description: Saiba como gerenciar tags na visualização do Assets. As tags ajudam a categorizar ativos que podem ser procurados e pesquisados com mais eficiência.
-source-git-commit: 22786c182ac959739396f694f0a63d84efa28ae5
-workflow-type: ht
-source-wordcount: '1422'
-ht-degree: 100%
+title: Como gerenciar tags no Assets Essentials?
+description: Saiba como gerenciar tags no Assets Essentials. As tags ajudam a categorizar ativos que podem ser procurados e pesquisados com mais eficiência.
+source-git-commit: 8708a9140b283ab2f45db7d466c069e53fb28b2a
+workflow-type: tm+mt
+source-wordcount: '1292'
+ht-degree: 88%
 
 ---
 
-# Gerenciar tags na visualização do Assets {#view-assets-and-details}
+# Gerenciar tags no Assets Essentials {#view-assets-and-details}
 
 
 >[!CONTEXTUALHELP]
 >id="assets_taxonomy_management"
 >title="Gerenciar tags"
->abstract="As tags ajudam a categorizar ativos que podem ser procurados e pesquisados com mais eficiência. Os administradores têm a capacidade de usar a estrutura hierárquica de marcação, que facilita a aplicação de metadados relevantes, categorização de ativos, suporte a pesquisas, reutilização de tags, melhoria da capacidade de descoberta e assim por diante."
+>abstract="As tags ajudam a categorizar ativos que podem ser procurados e pesquisados com mais eficiência. Admins têm a capacidade de usar a estrutura hierárquica de marcação, que facilita a aplicação de metadados relevantes, a categorização de ativos, o suporte a pesquisas, a reutilização de tags, a melhoria da capacidade de descoberta e assim por diante."
 
 As tags ajudam a categorizar ativos que podem ser procurados e pesquisados com mais eficiência. A marcação ajuda a propagar a taxonomia apropriada para outros usuários e fluxos de trabalho.
 
@@ -32,7 +32,7 @@ A marcação oferece muitos benefícios, como:
 
 * As tags podem evoluir com o tempo, à medida que um vocabulário organizacional muda.
 
-* As tags gerenciadas na visualização de admin permanecem em sincronia com as tags gerenciadas na visualização do Assets, o que garante a governança e a integridade dos metadados.
+* As tags gerenciadas no Assets as a Cloud Service permanecem em sincronia com as tags gerenciadas no Assets Essentials, o que garante a governança e a integridade dos metadados.
 
 Para poder aplicar tags nos ativos, primeiro crie um namespace e depois insira tags adicionais nele. Também é possível criar tags e adicioná-las a um namespace existente. Todas as tags criadas no nível raiz são automaticamente adicionadas ao namespace Tags padrão. Em seguida, é possível adicionar o campo Tags ao formulário de metadados para que ele seja exibido na página de detalhes do ativo. Depois de definir essas configurações, você pode começar a aplicar tags nos ativos.
 
@@ -42,7 +42,7 @@ Para poder aplicar tags nos ativos, primeiro crie um namespace e depois insira t
 
 ![Gerenciamento de marcação](assets/tagging-taxonomy-management.png)
 
-Recursos adicionais além dos mencionados neste artigo, incluindo mesclagem, renomeação, localização e publicação de tags, estão disponíveis na visualização de Admin.
+Recursos adicionais além do que é mencionado neste artigo, incluindo mesclagem, renomeação, localização e publicação de tags, estão disponíveis no Assets as a Cloud Service.
 
 ## Criar um namespace {#creating-a-namespace}
 
@@ -92,7 +92,7 @@ Para criar uma tag padrão, clique em `Create Tag` no nível raiz. Especifique o
 
 >[!NOTE]
 >
->Se você excluir o namespace `Standard Tags` usando a visualização de Admin, as tags criadas no nível raiz não serão exibidas na lista de tags disponíveis.
+>Se você excluir `Standard Tags` usando o Assets as a Cloud Service, as tags criadas no nível raiz não são exibidas na lista de tags disponíveis.
 
 ## Mover tags {#moving-tags}
 
@@ -115,7 +115,7 @@ Para editar o título da tag, selecione-a e clique em `Edit`. Especifique o novo
 >[!NOTE]
 >
 >* O `Name` de uma tag não pode ser atualizado. O caminho raiz de uma tag também se baseia no nome da tag. O caminho permanece o mesmo se você atualizar o campo `Title`.
->* Operações adicionais como mesclar, localizar e publicar estão disponíveis na visualização de Admin.
+>* Operações adicionais como mesclar, localizar e publicar estão disponíveis no Assets as a Cloud Service.
 
 ## Exclusão de tags {#deleting-tags}
 
@@ -134,7 +134,7 @@ Execute as seguintes etapas para excluir tags:
 
 ## Adicionar o componente de tags ao formulário de metadados {#adding-tags-to-metadata-form}
 
-O componente de tags é adicionado ao formulário de metadados `default` automaticamente. Você pode criar um [formulário de metadados](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=br#metadata-forms) do zero ou utilizar um modelo. Se você não estiver usando um modelo de formulário de metadados existente, poderá modificar o formulário de metadados e adicionar o componente de tags. O mapeamento da propriedade de metadados é preenchido automaticamente e não pode ser modificado neste momento. Usuários na visualização de Admin podem atualizar o mapeamento para armazenar valores de tag usando namespaces personalizados e expor apenas subconjuntos de hierarquias usando caminhos raiz.
+O componente de tags é adicionado ao formulário de metadados `default` automaticamente. Você pode criar um [formulário de metadados](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=br#metadata-forms) do zero ou utilizar um modelo. Se você não estiver usando um modelo de formulário de metadados existente, poderá modificar o formulário de metadados e adicionar o componente de tags. O mapeamento da propriedade de metadados é preenchido automaticamente e não pode ser modificado neste momento. Os usuários as a Cloud Service de ativos podem atualizar o mapeamento para armazenar valores de tag usando namespaces personalizados e expor apenas subconjuntos de hierarquias usando caminhos raiz.
 
 Assista a este vídeo rápido para ver como adicionar o componente de tags ao formulário de metadados:
 
@@ -149,17 +149,7 @@ Assista a este vídeo rápido para ver como adicionar o componente de tags ao fo
    ![Marcação de ativos](assets/adding-tags-to-assets.png)
 
 1. Selecione uma ou mais tags. A subtag é selecionada automaticamente junto com a tag principal ou o namespace.
-As tags modificadas na visualização do Assets também são aplicadas na visualização de Admin.
-
-## Limitações {#limitations}
-
-No momento, os seguintes recursos avançados de taxonomia não estão disponíveis na visualização do Assets e só podem ser acessados por meio da visualização de Admin:
-
-* **Localização:** qualquer localização deve ocorrer na visualização de Admin.
-* **Caminho raiz:** os caminhos raiz não podem ser configurados. Todos os namespaces armazenados no gerenciamento de taxonomia são expostos na propriedade Tags da visualização do Assets.
-* **Tags padrão:** as tags padrão aplicadas na visualização de Admin estão visíveis na visualização do Assets. Não é possível adicionar novas tags padrão na visualização do Assets por meio da página Detalhes do ativo. Os valores existentes armazenados nas tags padrão são aplicados na página Detalhes do ativo.
-* **Namespaces personalizados:** as tags não podem ser mapeadas para namespaces personalizados.
-* **Exibição de referências:** admins podem ver o uso da tag na visualização do Assets. Todos os ativos que estão usando ativamente uma tag são informados. No entanto, admins não podem ver ativos individuais usando a tag das referências.
+As tags modificadas nos Assets Essentials também são aplicadas aos Ativos as a Cloud Service.
 
 <!--
 *   Overview
