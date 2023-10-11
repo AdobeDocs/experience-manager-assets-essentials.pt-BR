@@ -4,8 +4,8 @@ description: Saiba como importar ativos em massa usando a nova interface do Asse
 exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
 source-git-commit: 73721e8ee5c130ccad2ef2bdccba2e8412e031f2
 workflow-type: tm+mt
-source-wordcount: '1245'
-ht-degree: 7%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
