@@ -1,7 +1,8 @@
 ---
 title: Como gerenciar tags no Assets Essentials?
 description: Saiba como gerenciar tags no Assets Essentials. As tags ajudam a categorizar ativos que podem ser procurados e pesquisados com mais eficiência.
-source-git-commit: 8708a9140b283ab2f45db7d466c069e53fb28b2a
+exl-id: da9e8d56-c190-4006-9579-c3c8401c5e5f
+source-git-commit: 74f78f0675e01c09a8654d7f7d0db14a0ee674a2
 workflow-type: tm+mt
 source-wordcount: '1292'
 ht-degree: 88%
@@ -150,21 +151,3 @@ Assista a este vídeo rápido para ver como adicionar o componente de tags ao fo
 
 1. Selecione uma ou mais tags. A subtag é selecionada automaticamente junto com a tag principal ou o namespace.
 As tags modificadas nos Assets Essentials também são aplicadas aos Ativos as a Cloud Service.
-
-<!--
-*   Overview
-*   Benefits
-*   Prerequisites and Permissions
-*   Configuration
-*   Managing Tags
-    *   Creating a Namespace
-    *   Adding Tags to a Namespace
-    *   Adding Tags to Standard Tags
-    *   Moving Tags
-    *   Editing Tags
-    *   Deleting Tags
-*   Applying Tags
-    *   Adding Tags to the Metadata form
-    *   Adding Tags to Assets
-*   Limitations
--->
