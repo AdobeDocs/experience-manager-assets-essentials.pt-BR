@@ -5,7 +5,7 @@ exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
 source-git-commit: 1db631a927e806d4b8ed83b1e0fc4a1e4f5bef71
 workflow-type: tm+mt
 source-wordcount: '739'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 88%
 
 O Assets agora inclui um espaço de trabalho personalizável, que fornece widgets para acesso conveniente às áreas-chave da interface do Assets e informações mais relevantes para você. Esta página serve como uma solução única para fornecer uma visão geral dos itens de trabalho e fornecer acesso rápido aos principais fluxos de trabalho. Um acesso mais conveniente a essas opções aumenta a eficiência e a velocidade do conteúdo.
 
-Você pode acessar Meu espaço de trabalho clicando em **[!UICONTROL Meu espaço de trabalho]** nos itens disponíveis no painel de navegação esquerdo. Meu espaço de trabalho inclui uma variedade de widgets que mostram Acesso rápido, Insights, Tarefas e Widgets de conteúdo. É possível configurar como esses widgets são exibidos em seu espaço de trabalho, com base em suas preferências.
+Você pode acessar Meu espaço de trabalho clicando em **[!UICONTROL Meu espaço de trabalho]** nos itens disponíveis no painel de navegação esquerdo. O Meu espaço de trabalho inclui uma variedade de dispositivos, incluindo de Acesso rápido, de Insights, de Tarefas e de Conteúdo. É possível configurar como esses widgets são exibidos em seu espaço de trabalho, com base em suas preferências.
 
 >[!NOTE]
 >
@@ -42,14 +42,14 @@ Fixe arquivos, pastas e coleções para ter acesso mais rápido a esses itens qu
 
 Para fixar um ativo, uma pasta ou uma coleção:
 
-1. Selecione o item e clique em **[!UICONTROL Fixar no Acesso Rápido]**.
+1. Selecione o item e clique em **[!UICONTROL Fixar no Acesso rápido]**.
 
-1. Selecione se você precisa fixar o item apenas para você, para toda a organização ou para grupos selecionados. Se você selecionar **[!UICONTROL Para grupos]**, defina os nomes dos grupos na **[!UICONTROL Fixar para grupos]** campo.
+1. Selecione se precisa fixar o item apenas para você, para toda a organização ou para grupos selecionados. Se você selecionar **[!UICONTROL Para grupos]**, defina os nomes dos grupos no campo **[!UICONTROL Fixar para grupos]**.
 
-   ![Fixar itens para grupos](assets/pin-items-for-groups.png)
+   ![Fixação de itens para grupos](assets/pin-items-for-groups.png)
 1. Clique em **[!UICONTROL Fixar]**.
 
-   O item selecionado é exibido no campo **[!UICONTROL Acesso rápido]** seção do Meu espaço de trabalho.
+   Os itens selecionados serão exibidos na seção **[!UICONTROL Acesso rápido]** do Meu espaço de trabalho.
    ![Tarefas no espaço de trabalho](assets/quick-access.png)
 
 **Insights**
