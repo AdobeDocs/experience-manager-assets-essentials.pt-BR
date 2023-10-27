@@ -4,42 +4,28 @@ description: Notas de versão e problemas conhecidos do [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 1df4ab7705b5478c86531a5b4cae57b09ef5a0d5
+source-git-commit: 347ec8c64daa46f603b41dd3845503863a1ccedd
 workflow-type: tm+mt
-source-wordcount: '2342'
-ht-degree: 92%
+source-wordcount: '2435'
+ht-degree: 93%
 
 ---
 
 # Notas de versão do [!DNL Assets Essentials] {#release-notes}
 
-A versão atual do Assets Essentials foi lançada em 21 de setembro de 2023.
+A versão atual do Assets Essentials foi lançada em 26 de outubro de 2023.
 
-A lista de recursos recentemente adicionados inclui:
+Os novos recursos incluem:
 
-**Atribuir formulário de metadados a uma pasta**
+**Importar ativos em massa da fonte de dados do OneDrive**
 
-Agora é possível atribuir o formulário de metadados a uma pasta específica na implantação do Assets Essentials. Todos os ativos na pasta, incluindo ativos nas subpastas, em seguida, exibem as propriedades definidas no formulário de metadados atribuído.
+Agora, os administradores têm a capacidade de [importar um grande número de ativos do OneDrive para o AEM Assets](/help/using/bulk-import-assets-view.md). A lista atualizada das fontes de dados com suporte para importação em massa inclui Azure, AWS, Google Cloud, Dropbox e OneDrive.
 
-![atribuir formulário de metadados a uma pasta](/help/using/assets/assign-to-folder.png)
+![atribuir formulário de metadados a uma pasta](/help/using/assets/bulk-import-source-details.png)
 
-**Importar ativos em massa de fontes de dados**
+**Suporte a direitos entre organizações para bibliotecas**
 
-Agora, os administradores têm a capacidade de importar um grande número de ativos de uma fonte de dados para o AEM Assets. Os administradores não precisam mais fazer upload de ativos ou pastas individuais para o AEM Assets. As fontes de dados compatíveis com a importação em massa incluem o Azure, o AWS, a Google Cloud e o Dropbox.
-
-![Importar ativos em massa de uma fonte de dados](/help/using/assets/bulk-import.png)
-
-**Ferramentas de edição de imagens possibilitadas pelo Adobe Express**
-
-Ferramentas de edição de imagens fáceis e intuitivas, viabilizadas pelo Adobe Express, disponíveis diretamente no AEM Assets para aumentar a reutilização de conteúdo e acelerar sua velocidade.
-
-![Edição de imagens com o Adobe Express](/help/using/assets/edit-adobe-express.png)
-
-**Flexibilidade ao fixar itens para o Acesso rápido ao My Workspace**
-
-Capacidade de selecionar e fixar itens para você, para toda a organização ou para uma lista de grupos para que eles sejam exibidos na seção Acesso rápido de Meu Espaço de Trabalho com base na sua seleção.
-
-![Fixar itens para grupos](assets/pin-items-for-groups.png)
+O Experience Manager Assets agora permite configurar o acesso às bibliotecas de Creative Cloud em uma Organização IMS diferente. Ele permite acesso mais fácil aos fluxos de trabalho entre produtos mais recentes entre Creative Cloud e Experience Manager e reduz o tempo e o esforço de criação.
 
 **Aprimoramentos com base no feedback dos clientes**
 
@@ -64,6 +50,33 @@ A lista de problemas conhecidos do [!DNL Assets Essentials] é revisada e atuali
 Se você encontrar problemas ou quiser fazer solicitações de aprimoramento, [forneça feedback](#provide-feedback) à equipe.
 
 ## Versões anteriores {#past-releases}
+
+### Versão de setembro de 2023 {#september2023-release}
+
+**Atribuir formulário de metadados a uma pasta**
+
+Agora é possível atribuir o formulário de metadados a uma pasta específica na implantação do Assets Essentials. Todos os ativos na pasta, incluindo ativos nas subpastas, em seguida, exibem as propriedades definidas no formulário de metadados atribuído.
+
+![atribuir formulário de metadados a uma pasta](/help/using/assets/assign-to-folder.png)
+
+**Importação em massa de ativos de fontes de dados**
+
+Agora é possível importar um grande número de ativos de uma fonte de dados para o AEM Assets. Não é mais necessário fazer upload de ativos ou pastas individuais para o AEM Assets. As fontes de dados compatíveis com a importação em massa incluem Azure, AWS, Google Cloud e Dropbox.
+
+![Importação em massa de ativos de uma fonte de dados](/help/using/assets/bulk-import.png)
+
+**Ferramentas de edição de imagem viabilizadas pelo Adobe Express**
+
+Ferramentas de edição de imagens fáceis e intuitivas, viabilizadas pelo Adobe Express, disponíveis diretamente no AEM Assets para aumentar a reutilização de conteúdo e acelerar sua velocidade.
+
+![Edição de imagens com o Adobe Express](/help/using/assets/edit-adobe-express.png)
+
+**Flexibilidade ao fixar itens no Acesso rápido do Meu espaço de trabalho**
+
+Capacidade de selecionar e fixar itens para você, para toda a organização ou para uma lista de grupos para que sejam exibidos na seção Acesso rápido do Meu espaço de trabalho com base na sua seleção.
+
+![Fixação de itens para grupos](assets/pin-items-for-groups.png)
+
 
 ### Versão de julho de 2023 {#july2023-release}
 

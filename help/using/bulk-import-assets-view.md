@@ -2,10 +2,10 @@
 title: Importar ativos em massa usando o Assets Essentials
 description: Saiba como importar ativos em massa usando a nova interface do Assets (Assets Essentials). Ela fornece a capacidade de importar um grande número de ativos de uma fonte de dados para o AEM Assets.
 exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
-source-git-commit: 73721e8ee5c130ccad2ef2bdccba2e8412e031f2
+source-git-commit: d7e239008c5235cc423f0a2d168f37c315a0118e
 workflow-type: tm+mt
-source-wordcount: '1245'
-ht-degree: 80%
+source-wordcount: '1796'
+ht-degree: 56%
 
 ---
 
@@ -28,6 +28,7 @@ A Importação em massa no AEM Assets Essentials fornece aos administradores a c
 * AWS
 * Google Cloud
 * Dropbox
+* OneDrive
 
 ## Pré-requisitos {#prerequisites}
 
@@ -37,8 +38,80 @@ A Importação em massa no AEM Assets Essentials fornece aos administradores a c
 | AWS | <ul> <li>Região do AWS </li> <li> Classificação AWS <li> Chave de acesso do AWS </li><li> Segredo de acesso do AWS </li></ul> |
 | Google Cloud | <ul> <li>Compartimento de GCP </li> <li> Email da conta de serviço GCP <li> Chave privada da conta de serviço GCP</li></ul> |
 | Dropbox | <ul> <li>ID do cliente do Dropbox </li> <li> Segredo do cliente do Dropbox</li></ul> |
+| OneDrive | <ul> <li>ID de Locatário do OneDrive  </li> <li> ID do cliente do OneDrive</li><li> Segredo do cliente do OneDrive</li></ul> |
 
 Além desses pré-requisitos com base na fonte de dados, você deve estar ciente do nome da pasta de origem disponível na fonte de dados que contém todos os ativos que precisam ser importados para o AEM Assets.
+
+## Configurar o aplicativo para desenvolvedor de Dropbox {#dropbox-developer-application}
+
+Antes de importar ativos da sua conta do Dropbox para o AEM Assets, crie e configure o aplicativo do desenvolvedor do Dropbox.
+
+Execute as seguintes etapas:
+
+1. Faça logon no [conta Dropbox](https://www.dropbox.com/developers) e clique em **[!UICONTROL Criar aplicativos]**.
+
+1. No **[!UICONTROL Escolher uma API]** selecione o único botão de opção disponível.
+
+1. No **[!UICONTROL Escolha o tipo de acesso necessário]** selecione uma das seguintes opções:
+
+   * Selecionar **[!UICONTROL Pasta do aplicativo]**, se precisar de acesso a uma única pasta criada no aplicativo na conta Dropbox.
+
+   * Selecionar **[!UICONTROL Dropbox completo]**, se precisar de acesso a todos os arquivos e pastas da sua conta Dropbox.
+
+1. Especifique um nome para o aplicativo e clique em **[!UICONTROL Criar aplicativo]**.
+
+1. No **[!UICONTROL Configurações]** do aplicativo, adicione o seguinte à **[!UICONTROL URIs de redirecionamento]** seção:
+
+   * https://exc-unifiedcontent.experience.adobe.net
+
+   * https://exc-unifiedcontent.experience-stage.adobe.net (válido apenas para ambientes de preparo)
+
+1. Copie os valores para a variável **[!UICONTROL Chave do aplicativo]** e **[!UICONTROL Segredo do aplicativo]** campos. Os valores são necessários ao configurar a ferramenta de importação em massa no AEM Assets.
+
+1. No **[!UICONTROL Permissões]** adicione as seguintes permissões na guia **[!UICONTROL Escopos individuais]** seção.
+
+   * account_info.read
+
+   * files.metadata.read
+
+   * files.content.read
+
+   * files.content.write
+
+1. Clique em **[!UICONTROL Enviar]** para salvar as alterações.
+
+## Configurar o aplicativo do desenvolvedor do OneDrive {#onedrive-developer-application}
+
+Antes de importar ativos da sua conta do OneDrive para o AEM Assets, crie e configure o aplicativo para desenvolvedores do OneDrive.
+
+Execute as seguintes etapas:
+
+1. Faça logon no [Conta do OneDrive](https://portal.azure.com/#view/Microsoft_AAD_RegisteredApps/ApplicationsListBlade) e clique em **[!UICONTROL Novo registro]**.
+
+1. Especifique um nome para o aplicativo e selecione **[!UICONTROL Contas somente neste diretório organizacional (somente Adobe - locatário único)]** de **[!UICONTROL Tipos de conta compatíveis]** e clique em **[!UICONTROL Registrar]**. O aplicativo foi criado com sucesso.
+
+1. Copie os valores dos campos ID do cliente da aplicação e ID do locatário. Os valores são necessários ao configurar a ferramenta de importação em massa no AEM Assets.
+
+1. Execute as seguintes etapas para adicionar um certificado:
+   1. Na página de visão geral do aplicativo, clique em **[!UICONTROL Adicionar um certificado ou segredo]** e clique em **[!UICONTROL Novo segredo do cliente]**.
+   1. Especifique a descrição e a expiração do segredo do cliente e clique em **[!UICONTROL Adicionar]**.
+   1. Depois de criar o Segredo do cliente, copie o **[!UICONTROL Valor]** (Não copie o campo ID secreta). É necessário ao configurar a importação em massa no AEM Assets.
+
+1. Execute as seguintes etapas para adicionar URIs de redirecionamento:
+   1. Na página de visão geral do aplicativo, clique em **[!UICONTROL Adicionar um URI de redirecionamento]** > **[!UICONTROL Adicionar uma plataforma]** > **[!UICONTROL Web]**.
+   1. Adicione o seguinte à **[!UICONTROL URIs de redirecionamento]** seção:
+
+      * https://exc-unifiedcontent.experience.adobe.net
+
+      * https://exc-unifiedcontent.experience-stage.adobe.net (válido apenas para ambientes de preparo)
+
+      Adicione o primeiro URI e clique em **[!UICONTROL Configurar]** para adicioná-lo. É possível adicionar mais clicando em **[!UICONTROL Adicionar URI]** opção disponível no **[!UICONTROL Web]** seção no **[!UICONTROL Autenticação]** página.
+
+1. Execute as seguintes etapas para adicionar permissões de API ao aplicativo:
+   1. Clique em **[!UICONTROL Permissões de API]** no painel esquerdo e clique em **[!UICONTROL Adicionar uma permissão]**.
+   1. Clique em **[!UICONTROL Gráfico do Microsoft]** > **[!UICONTROL Permissões delegadas]**. A variável **[!UICONTROL Selecionar permissão]** exibe as permissões disponíveis.
+   1. Selecionar `offline_access` permissão de `OpenId permissions` e `Files.ReadWrite.All` permissão de `Files`.
+   1. Clique em **[!UICONTROL Adicionar permissões]** para salvar as atualizações.
 
 ## Criação de uma configuração de importação em massa {#create-bulk-import-configuration}
 
@@ -49,6 +122,13 @@ Siga as seguintes etapas para criar uma configuração de importação em massa:
 1. Especifique um nome para a configuração de importação em massa no campo **[!UICONTROL Nome]**.
 1. Especifique as credenciais específicas da fonte de dados, conforme mencionado em [Pré-requisitos](#prerequisites).
 1. Forneça o nome da pasta raiz que contém ativos na fonte de dados no campo **[!UICONTROL Pasta de origem]**.
+
+   >[!NOTE]
+   >
+   >Se estiver usando o Dropbox como fonte de dados, especifique o caminho da pasta de origem com base nas seguintes regras:
+   >* Se você selecionar **Dropbox completo** ao criar o aplicativo Dropbox e a pasta que contém os ativos existe em `https://www.dropbox.com/home/bulkimport-assets`e, em seguida, especificar `bulkimport-assets` no **[!UICONTROL Pasta de origem]** campo.
+   >* Se você selecionar **Pasta do aplicativo** ao criar o aplicativo Dropbox e a pasta que contém os ativos existe em `https://www.dropbox.com/home/Apps/BulkImportAppFolderScope/bulkimport-assets`e, em seguida, especificar `bulkimport-assets` no **[!UICONTROL Pasta de origem]** campo, onde `BulkImportAppFolderScope` refere-se ao nome do aplicativo. `Apps` é adicionado automaticamente após `home` neste caso.
+
 1. (Opcional) Selecione a opção **[!UICONTROL Excluir arquivo de origem após a importação]** para excluir os arquivos originais do armazenamento de dados de origem após os arquivos serem importados para o Experience Manager Assets.
 1. Selecione o **[!UICONTROL Modo de importação]**. Selecione **[!UICONTROL Ignorar]**, **[!UICONTROL Substituir]** ou **[!UICONTROL Criar versão]**. O modo Ignorar é o padrão e nesse modo, o assimilador ignora a importação de um ativo, caso já exista.
    ![Importação de detalhes da origem](assets/bulk-import-source-details.png)
