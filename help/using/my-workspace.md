@@ -2,10 +2,10 @@
 title: Meu espaço de trabalho para o Assets
 description: Meu espaço de trabalho é uma página que fornece módulos visuais personalizáveis para um acesso conveniente às áreas-chave da interface do Assets e informações mais relevantes para o usuário.
 exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
-source-git-commit: 8a52d79ecd1ce8fdafd181e0f9b166e8d827c665
+source-git-commit: 55418ab5b6346785bcc14bf32322a2e69738895d
 workflow-type: tm+mt
 source-wordcount: '738'
-ht-degree: 96%
+ht-degree: 93%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 96%
 >[!CONTEXTUALHELP]
 >id="assets_my_workspace"
 >title="Meu espaço de trabalho"
->abstract="O Assets inclui um espaço de trabalho personalizável que fornece widgets para acesso conveniente a áreas principais da interface do usuário do Assets e informações mais relevantes para você. Esta página serve como uma solução única para fornecer uma visão geral dos itens de trabalho e conceder acesso rápido aos principais fluxos de trabalho."
+>abstract="O Assets inclui um espaço de trabalho personalizável que fornece widgets para acesso conveniente a áreas principais da interface do usuário do Assets e informações mais relevantes para você. Esta página serve como uma solução única para fornecer uma visão geral de seus itens de trabalho e facilitar o acesso rápido aos principais fluxos de trabalho."
 
 O Assets agora inclui um espaço de trabalho personalizável, que fornece widgets para acesso conveniente às áreas-chave da interface do Assets e informações mais relevantes para você. Esta página serve como uma solução única para fornecer uma visão geral dos itens de trabalho e fornecer acesso rápido aos principais fluxos de trabalho. Um acesso mais conveniente a essas opções aumenta a eficiência e a velocidade do conteúdo.
 
