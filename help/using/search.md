@@ -6,7 +6,7 @@ exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: 8a52d79ecd1ce8fdafd181e0f9b166e8d827c665
 workflow-type: tm+mt
 source-wordcount: '1041'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 97%
 >[!CONTEXTUALHELP]
 >id="assets_search"
 >title="Pesquisar ativos"
->abstract="Pesquise ativos especificando uma palavra-chave na barra de Pesquisa ou filtrando ativos com base em seu status, tipo de arquivo, tipo MIME, tamanho, criação, modificação e datas de expiração. Também é possível aplicar filtros personalizados, além dos filtros padrão. Você pode salvar os resultados filtrados como uma Pesquisa salva ou uma Coleção inteligente."
+>abstract="Pesquise por ativos especificando uma palavra-chave na barra de pesquisa ou filtrando ativos com base no status, tipo de arquivo, tipo MIME, tamanho, datas de criação, modificação e expiração. Também é possível aplicar filtros personalizados, além dos filtros padrão. Você pode salvar os resultados filtrados como uma Pesquisa salva ou uma Coleção inteligente."
 >additional-url="https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=pt-BR#manage-smart-collection" text="Criar coleções inteligentes"
 
 O [!DNL Assets Essentials] oferece uma pesquisa eficiente, que funciona por padrão. A pesquisa é abrangente, pois é uma pesquisa de texto completo. Essa eficiente funcionalidade de pesquisa permite descobrir rapidamente o ativo apropriado e ajuda a melhorar a velocidade do conteúdo. O [!DNL Assets Essentials] fornece pesquisa de texto completo e até mesmo pesquisas por meio de metadados, como tags inteligentes, título, data de criação e direito autoral.

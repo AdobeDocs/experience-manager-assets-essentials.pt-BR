@@ -5,7 +5,7 @@ exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 43ecb9862b6553ffd34cf1e116eb018505eff28e
 workflow-type: tm+mt
 source-wordcount: '827'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ Todos os usuários atribuídos ao [Perfil de produto de administradores do Asset
 >[!CONTEXTUALHELP]
 >id="assets_reports"
 >title="Relatórios"
->abstract="O painel Insights permite visualizar métricas de evento em tempo real do seu ambiente do Experience Manager Assets nos últimos 30 dias ou nos últimos 12 meses. A lista de eventos inclui o número de downloads, uploads, principais pesquisas e assim por diante."
+>abstract="O painel Insights permite visualizar as métricas de eventos em tempo real do seu ambiente do Experience Manager Assets nos últimos 30 dias ou nos últimos 12 meses. A lista de eventos inclui o número de downloads, uploads, principais pesquisas e assim por diante."
 
 O Assets Essentials permite que você visualize dados do seu ambiente Assets Essentials em tempo real, por meio do painel Insights. Você pode visualizar métricas de evento em tempo real dos últimos 30 dias ou dos últimos 12 meses.
 

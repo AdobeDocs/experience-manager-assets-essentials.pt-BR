@@ -5,7 +5,7 @@ exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
 source-git-commit: 8a52d79ecd1ce8fdafd181e0f9b166e8d827c665
 workflow-type: tm+mt
 source-wordcount: '1809'
-ht-degree: 56%
+ht-degree: 57%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 56%
 >[!CONTEXTUALHELP]
 >id="assets_bulk_import"
 >title="Importação em massa de ativos"
->abstract="Os administradores podem importar um grande número de ativos de uma fonte de dados para a Experience Manager Assets usando o Assets Essentials. Não é mais necessário mais fazer upload de ativos ou pastas individuais para o Experience Manager Assets. Os provedores de armazenamento na nuvem compatíveis com a importação em massa são Azure, AWS, Google Cloud e Dropbox."
+>abstract="Administradores podem importar um grande número de ativos de uma fonte de dados para o Experience Manager Assets usando o Assets Essentials. Não é mais necessário mais fazer upload de ativos ou pastas individuais para o Experience Manager Assets. Os provedores de armazenamento na nuvem compatíveis com a importação em massa são Azure, AWS, Google Cloud e Dropbox."
 >additional-url="https://images-tv.adobe.com/mpcv3/4477/98bce651-721c-442e-98b8-c43e7708e44c_1698834577.854x480at800_h264.mp4" text="Assistir ao vídeo"
 
 A Importação em massa no AEM Assets Essentials fornece aos administradores a capacidade de importar um grande número de ativos de uma fonte de dados para o AEM Assets. Não é mais necessário fazer upload de ativos ou pastas individuais para o AEM Assets.
