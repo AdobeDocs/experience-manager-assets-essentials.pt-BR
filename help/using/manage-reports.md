@@ -2,10 +2,10 @@
 title: Gerenciar relatórios no Assets Essentials
 description: Acesse os dados na seção de relatórios do Assets Essentials para avaliar o uso de produtos e recursos e obter insights sobre as principais métricas de sucesso.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 43ecb9862b6553ffd34cf1e116eb018505eff28e
+source-git-commit: aee57f5a83bfa5a292e9c0c50e2cb00499dbb08c
 workflow-type: tm+mt
-source-wordcount: '827'
-ht-degree: 100%
+source-wordcount: '916'
+ht-degree: 90%
 
 ---
 
@@ -16,6 +16,20 @@ Os relatórios de ativos fornecem aos administradores visibilidade sobre as ativ
 ## Acessar relatórios {#access-reports}
 
 Todos os usuários atribuídos ao [Perfil de produto de administradores do Assets Essentials](deploy-administer.md) podem acessar o painel Insights e criar relatórios definidos pelo usuário no Assets Essentials.
+
+Para acessar os relatórios, navegue até **[!UICONTROL Relatórios]** em **[!UICONTROL Configurações]**.
+
+![Relatórios](assets/reports.png)
+<!--
+In the **[!UICONTROL Reports]** screen, various components are shown in the tabular format which includes the following:
+
+* **Title**: Title of the report
+* **Type**: Determines whether the report is uploaded or downloaded to the repository
+* **Description**: Provide details of the report that was given during uploading/downloading the report
+* **Status**: Determines whether the report is completed, under progress, or deleted.
+* **Author**: Provides email of the author who has uploaded/downloaded the report.
+* **Created**: Gives information of the date when the report was generated.
+-->
 
 ## Exibir o Insights {#view-live-statistics}
 
@@ -34,13 +48,18 @@ Clique na opção **[!UICONTROL Insights]**, disponível no painel de navegaçã
 
 * **Uploads**: o número de ativos carregados para o ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados por meio de um gráfico de linhas.
 
+* **Contagem de ativos por tamanho**: a divisão da contagem de ativos com base em seu intervalo de vários tamanhos de 0 MB a 100 GB.
+
+* **Utilização do armazenamento**: o uso do armazenamento, em bytes, para o ambiente de Assets Essentials representado usando um gráfico de barras, dependendo da usabilidade.
+
+  ![Armazenamento](assets/storage.png)
+
+
+* **Entrega**: o gráfico descreve a contagem de ativos como as datas de entrega.
+
+* **Contagem de ativos por tipo de ativo**: representa a contagem de vários tipos MIME dos ativos disponíveis. Por exemplo, application/zip, image/png, video/mp4, application/postscripte.
+
 * **Principais pesquisas**: visualize os principais termos pesquisados junto com o número de vezes que eles foram pesquisados em seu ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados em formato tabular.
-
-<!--
-
-* **Storage usage**: The storage usage, in gigabytes (GB), for the Assets Essentials environment, for the last 30 days or 12 months represented using a bar chart.
-
--->
 
 ## Criar um relatório de downloads {#create-download-report}
 
