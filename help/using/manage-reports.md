@@ -2,9 +2,9 @@
 title: Gerenciar relatórios no Assets Essentials
 description: Acesse os dados na seção de relatórios do Assets Essentials para avaliar o uso de produtos e recursos e obter insights sobre as principais métricas de sucesso.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: aee57f5a83bfa5a292e9c0c50e2cb00499dbb08c
+source-git-commit: 37a0692c47d4fa14e9c2582a34000ec8bf975692
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '910'
 ht-degree: 90%
 
 ---
@@ -40,7 +40,7 @@ In the **[!UICONTROL Reports]** screen, various components are shown in the tabu
 
 O Assets Essentials permite que você visualize dados do seu ambiente Assets Essentials em tempo real, por meio do painel Insights. Você pode visualizar métricas de evento em tempo real dos últimos 30 dias ou dos últimos 12 meses.
 
-![Opções da barra de ferramentas ao selecionar um ativo](assets/assets-essentials-live-statistics.png)
+<!--![Toolbar options when you select an asset](assets/assets-essentials-live-statistics.png)-->
 
 Clique na opção **[!UICONTROL Insights]**, disponível no painel de navegação esquerdo, para exibir os seguintes gráficos gerados automaticamente:
 
@@ -52,7 +52,7 @@ Clique na opção **[!UICONTROL Insights]**, disponível no painel de navegaçã
 
 * **Utilização do armazenamento**: o uso do armazenamento, em bytes, para o ambiente de Assets Essentials representado usando um gráfico de barras, dependendo da usabilidade.
 
-  ![Armazenamento](assets/storage.png)
+  <!--![Storage](assets/storage.png)-->
 
 
 * **Entrega**: o gráfico descreve a contagem de ativos como as datas de entrega.
@@ -60,6 +60,9 @@ Clique na opção **[!UICONTROL Insights]**, disponível no painel de navegaçã
 * **Contagem de ativos por tipo de ativo**: representa a contagem de vários tipos MIME dos ativos disponíveis. Por exemplo, application/zip, image/png, video/mp4, application/postscripte.
 
 * **Principais pesquisas**: visualize os principais termos pesquisados junto com o número de vezes que eles foram pesquisados em seu ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados em formato tabular.
+
+  ![Insights](assets/insights1.png)
+  ![Insights](assets/insights2.png)
 
 ## Criar um relatório de downloads {#create-download-report}
 
