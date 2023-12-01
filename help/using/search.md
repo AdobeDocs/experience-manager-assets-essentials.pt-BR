@@ -3,10 +3,10 @@ title: Pesquisar e descobrir ativos no [!DNL Assets Essentials]
 description: Pesquisar e descobrir ativos no [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 2a885eb87d29be19f2e1206fe44e592137e43fe2
+source-git-commit: dee5bde4837795b800fad6307d18914ed4c90af9
 workflow-type: tm+mt
-source-wordcount: '1303'
-ht-degree: 76%
+source-wordcount: '1295'
+ht-degree: 77%
 
 ---
 
@@ -172,7 +172,7 @@ Você pode selecionar os ativos exibidos nos resultados da pesquisa e realizar a
 
 ## Configuração da primeira página inicial de pesquisa {#configuring-search-first-homepage}
 
-A primeira página inicial de pesquisa permite navegar por vários arquivos e pastas instantaneamente. Ele permite navegar facilmente por tipos de ativos, metadados, tags inteligentes e até mesmo pelo conteúdo em si, sem saber a palavra-chave exata. [!DNL Assets Essentials] permite configurar sua página inicial controlando o que deve aparecer ao fazer logon no [!DNL Assets Essentials].
+O Assets Essentials permite selecionar a página de aterrissagem padrão da sua organização. Ao usar a Pesquisa primeiro como página inicial, você também tem opções para personalizar a identidade visual da página, configurando as imagens de plano de fundo e logotipo que correspondem à sua marca.
 
 Para configurar a primeira home page de pesquisa, execute as etapas abaixo:
 
@@ -191,7 +191,7 @@ Você pode adicionar o logotipo da marca e a imagem de fundo à sua primeira pá
 
 1. Navegue até **[!UICONTROL Imagem de plano de fundo e logotipo]** seção em **[!UICONTROL Página inicial]**.
 1. Clique em **[!UICONTROL Substituir]** para navegar por imagens do repositório de ativos existente.
-1. Clique em **[!UICONTROL Salvar]**. [Visualizar](#preview-configured-homepage) as alterações para analisar as modificações.
+1. Clique em **[!UICONTROL Salvar]**. [Visualizar](#preview-configured-homepage) as alterações para revisar as modificações.
 
 ### Visualizar página inicial configurada {#preview-configured-homepage}
 
