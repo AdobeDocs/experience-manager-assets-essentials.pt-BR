@@ -3,10 +3,10 @@ title: Pesquisar e descobrir ativos no [!DNL Assets Essentials]
 description: Pesquisar e descobrir ativos no [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 638d1cef41c5cde1f4f16e231eef5852d779b7e1
+source-git-commit: 41cbb7a26d632ef24f6997ab6fe741e5d060e70a
 workflow-type: tm+mt
-source-wordcount: '1442'
-ht-degree: 67%
+source-wordcount: '1451'
+ht-degree: 66%
 
 ---
 
@@ -32,7 +32,7 @@ Para pesquisar ativos,
 
 ## Pesquisar ativos usando o Adobe Firefly
 
-Se estiver procurando um ativo não disponível em nenhuma pasta de ativos, use o [!UICONTROL Adobe Firefly] recurso de pesquisa de ativo no [!UICONTROL Adobe Experience Manager Assets]. O recurso permite pesquisar com eficiência ativos que podem não estar armazenados nas pastas designadas.  <br> Por exemplo, você pode pesquisar um ativo usando a palavra-chave `Bugatti Type 57`. Ao pesquisar por `Bugatti Type 57`, nenhum resultado foi encontrado. <br>
+Se estiver procurando um ativo não disponível em nenhuma pasta de ativos, use o [!UICONTROL Adobe Firefly] recurso de pesquisa de ativo no [!UICONTROL Adobe Experience Manager Assets]. Ele permite pesquisar com eficiência ativos que podem não estar armazenados nas pastas designadas. No momento, esse recurso está acessível somente aos usuários com direito ao Express.  <br> Por exemplo, você pode pesquisar um ativo usando a palavra-chave `Bugatti Type 57`. Ao pesquisar por `Bugatti Type 57`, nenhum resultado foi encontrado. <br>
 Na barra de pesquisa, digite o nome do ativo e clique em **[!UICONTROL Gerar]**.
 
 ![integração de Firefly](firefly-integration.jpg)
