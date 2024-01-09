@@ -3,10 +3,10 @@ title: Pesquisar e descobrir ativos no [!DNL Assets Essentials]
 description: Pesquisar e descobrir ativos no [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: dee5bde4837795b800fad6307d18914ed4c90af9
+source-git-commit: 608cd11dbdee46606e898fe3c79ffbad0101cebc
 workflow-type: tm+mt
-source-wordcount: '1295'
-ht-degree: 77%
+source-wordcount: '1401'
+ht-degree: 69%
 
 ---
 
@@ -29,6 +29,14 @@ Para pesquisar ativos,
    * Pesquisar usando uma palavra-chave e, opcionalmente, alterar a pasta. Pressione Return.
 
    * Comece a trabalhar com um ativo visualizado recentemente procurando diretamente por ele. Clique na caixa de pesquisa e selecione um ativo visualizado recentemente a partir das sugestões.
+
+## Pesquisar ativos usando o Adobe Firefly
+
+Com a integração do [!UICONTROL Adobe Firefly] e [!UICONTROL Adobe Experience Manager Assets], você pode pesquisar ativos que não estão disponíveis em nenhuma pasta de ativos com eficiência. <br> Por exemplo, você pode pesquisar um ativo usando a palavra-chave `Bugatti Type 57`. Ao pesquisar por `Bugatti Type 57`, nenhum resultado foi encontrado.
+
+Na barra de pesquisa, digite o nome do ativo e clique em **[!UICONTROL Gerar]**. Os ativos de amostra são exibidos na tela. Você pode fazer upload desses ativos para sua pasta preferida para facilitar o acesso.
+
+![integração de Firefly](assets/bugatti-type-57.jpg)
 
 ## Filtrar os resultados da pesquisa {#refine-search-results}
 
@@ -146,11 +154,21 @@ When userA is searching and userB add an asset that matches search results, will
 
 Você pode selecionar os ativos exibidos nos resultados da pesquisa e realizar as seguintes ações:
 
+* **Localizar Imagem Semelhante**: encontre ativos de imagem semelhantes na interface do Assets com base nos metadados e nas tags inteligentes.
+
 * **Detalhes**: visualizar e editar as propriedades do ativo.
+
+* **Baixar**: baixar um ativo.
 
 * **Adicionar à coleção**: adicionar o ativo selecionado a uma coleção.
 
-* **Baixar**: baixar um ativo.
+* **Fixar no Acesso rápido**: [fixar um ativo](my-workspace.md) para agilizar o acesso quando precisar. Todos os itens fixados são exibidos na seção **Acesso rápido** do Meu espaço de trabalho.
+
+* **Abrir no Adobe Express**: edite uma imagem no Adobe Express integrado na tela do Adobe Experience Manager Assets.
+
+* **Editar**: edite a imagem usando o Adobe Express.
+
+* **Compartilhar link**: [compartilhar links](share-links-for-assets.md) para um ativo com outros usuários, para que possam acessá-lo e baixá-lo.
 
 * **Excluir**: excluir um ativo.
 
@@ -160,15 +178,11 @@ Você pode selecionar os ativos exibidos nos resultados da pesquisa e realizar a
 
 * **Renomear**: renomear um ativo.
 
+* **Copiar para bibliotecas**: adicione um ativo à Biblioteca.
+
 * **Atribuir tarefas**: atribuir tarefas de um ativo a usuários.
 
-* **Compartilhar link**: [compartilhar links](share-links-for-assets.md) para um ativo com outros usuários, para que possam acessá-lo e baixá-lo.
-
 * **Observar**: [monitorar as operações](manage-notifications.md) executadas em um ativo.
-
-* **Mostrar local do arquivo**: navegar até o local da pasta de ativos.
-
-* **Fixar no Acesso rápido**: [fixar um ativo](my-workspace.md) para agilizar o acesso quando precisar. Todos os itens fixados são exibidos na seção **Acesso rápido** do Meu espaço de trabalho.
 
 ## Configuração da primeira página inicial de pesquisa {#configuring-search-first-homepage}
 
