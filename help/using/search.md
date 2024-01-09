@@ -3,10 +3,10 @@ title: Pesquisar e descobrir ativos no [!DNL Assets Essentials]
 description: Pesquisar e descobrir ativos no [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 608cd11dbdee46606e898fe3c79ffbad0101cebc
+source-git-commit: 638d1cef41c5cde1f4f16e231eef5852d779b7e1
 workflow-type: tm+mt
-source-wordcount: '1401'
-ht-degree: 69%
+source-wordcount: '1442'
+ht-degree: 67%
 
 ---
 
@@ -32,11 +32,16 @@ Para pesquisar ativos,
 
 ## Pesquisar ativos usando o Adobe Firefly
 
-Com a integração do [!UICONTROL Adobe Firefly] e [!UICONTROL Adobe Experience Manager Assets], você pode pesquisar ativos que não estão disponíveis em nenhuma pasta de ativos com eficiência. <br> Por exemplo, você pode pesquisar um ativo usando a palavra-chave `Bugatti Type 57`. Ao pesquisar por `Bugatti Type 57`, nenhum resultado foi encontrado.
+Se estiver procurando um ativo não disponível em nenhuma pasta de ativos, use o [!UICONTROL Adobe Firefly] recurso de pesquisa de ativo no [!UICONTROL Adobe Experience Manager Assets]. O recurso permite pesquisar com eficiência ativos que podem não estar armazenados nas pastas designadas.  <br> Por exemplo, você pode pesquisar um ativo usando a palavra-chave `Bugatti Type 57`. Ao pesquisar por `Bugatti Type 57`, nenhum resultado foi encontrado. <br>
+Na barra de pesquisa, digite o nome do ativo e clique em **[!UICONTROL Gerar]**.
 
-Na barra de pesquisa, digite o nome do ativo e clique em **[!UICONTROL Gerar]**. Os ativos de amostra são exibidos na tela. Você pode fazer upload desses ativos para sua pasta preferida para facilitar o acesso.
+![integração de Firefly](firefly-integration.jpg)
+*Figura: Nenhum resultado encontrado para Bugatti Type 57 na pasta de ativos.*
+
+Os ativos de amostra são exibidos na tela. Você pode fazer upload desses ativos para sua pasta preferida para facilitar o acesso.
 
 ![integração de Firefly](assets/bugatti-type-57.jpg)
+*Figura: ativos de referência pesquisados usando o recurso de pesquisa de ativos do Adobe Firefly.*
 
 ## Filtrar os resultados da pesquisa {#refine-search-results}
 
