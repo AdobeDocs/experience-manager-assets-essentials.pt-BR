@@ -4,9 +4,9 @@ description: Editar imagens usando opções viabilizadas pelo [!DNL Adobe Photos
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: dee5bde4837795b800fad6307d18914ed4c90af9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1147'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -80,35 +80,35 @@ A imagem cortada estará disponível para download. É possível salvar o ativo 
 
 * Tamanho de arquivo máximo aceito: 17 MB
 
-## Editar imagens usando o editor incorporado do Adobe Express {#edit-using-embedded-editor}
+## Editar imagens usando o editor integrado do Adobe Express {#edit-using-embedded-editor}
 
-Os usuários com acesso ao Express agora têm ferramentas integradas de edição e criação de imagens do Adobe Express e do Adobe Firefly disponíveis diretamente no Assets Essentials para melhorar a reutilização do conteúdo e acelerar a velocidade do conteúdo. Você também pode usar elementos predefinidos para que seu ativo tenha uma aparência incrível ou executar ações rápidas para editar sua imagem com apenas alguns cliques.
+Usuários com acesso ao Express agora têm as ferramentas integradas de edição e criação de imagens do Adobe Express e do Adobe Firefly disponíveis diretamente no Assets Essentials, as quais permitem melhorar a reutilização e acelerar a velocidade do conteúdo. Você também pode usar elementos predefinidos para que seu ativo tenha uma aparência incrível ou para executar ações de edição rápidas na imagem com apenas alguns cliques.
 
-Para editar imagens usando [!DNL Adobe Express] editor incorporado, siga as etapas abaixo:
+Para editar imagens usando o editor integrado do [!DNL Adobe Express], siga as etapas abaixo:
 
-1. Selecione uma imagem da sua [!DNL Experience Manager] Repositório de ativos.
+1. Selecione uma imagem do repositório de ativos do [!DNL Experience Manager].
 1. Clique em **[!UICONTROL Abrir no Adobe Express]**.
 
-   ![editor incorporado do Adobe Express](assets/embedded-editor.png)
+   ![Editor integrado do Adobe Express](assets/embedded-editor.png)
 
-   Você pode aproveitar a funcionalidade do [!DNL Adobe Express] para executar todas as ações relacionadas à edição de imagens, como [redimensionar imagem](https://helpx.adobe.com/in/express/using/resize-image.html), [remover ou alterar a cor do plano de fundo](https://helpx.adobe.com/in/express/using/remove-background.html), [cortar imagem](https://helpx.adobe.com/in/express/using/crop-image.html)e muito mais.
+   Você pode aproveitar a funcionalidade do [!DNL Adobe Express] para executar todas as ações relacionadas à edição de imagens, como [redimensionar imagem](https://helpx.adobe.com/br/express/using/resize-image.html), [remover ou alterar a cor do fundo](https://helpx.adobe.com/br/express/using/remove-background.html), [cortar a imagem](https://helpx.adobe.com/br/express/using/crop-image.html) e muito mais.
 
 1. Após concluir a edição de imagens, você pode baixar um ativo como um novo ativo ou salvá-lo como uma nova versão.
 
 ## Criar novos ativos usando o Adobe Express {#create-new-embedded-editor}
 
-[!DNL Assets Essentials] permite criar um novo modelo do zero usando [!DNL Adobe Express] editor incorporado. Para criar um novo ativo usando [!DNL Adobe Express], execute as etapas a seguir:
+O [!DNL Assets Essentials] permite criar um novo modelo do zero usando o editor integrado do [!DNL Adobe Express]. Para criar um novo ativo usando o [!DNL Adobe Express], execute as etapas a seguir:
 
-1. Navegue até **[!UICONTROL Meu espaço de trabalho]** e clique em **[!UICONTROL Criar]** no banner Adobe Express exibido acima da variável [!UICONTROL Acesso rápido] seção. [!DNL Adobe Express] tela em branco é exibida dentro do [!DNL Assets Essentials] interface do usuário.
-1. Crie o conteúdo usando [Modelos](https://helpx.adobe.com/in/express/using/work-with-templates.html). Caso contrário, navegue até **[!UICONTROL Suas coisas]** para modificar conteúdo existente.
+1. Navegue até **[!UICONTROL Meu espaço de trabalho]** e clique em **[!UICONTROL Criar]** no banner do Adobe Express exibido acima da seção [!UICONTROL Acesso rápido]. A tela em branco do [!DNL Adobe Express] é exibida dentro da interface do [!DNL Assets Essentials].
+1. Crie o conteúdo usando [modelos](https://helpx.adobe.com/br/express/using/work-with-templates.html). Caso contrário, navegue até **[!UICONTROL Seus itens]** para modificar o conteúdo existente.
 1. Após concluir a edição, clique em **[!UICONTROL Salvar como novo ativo]**.
-1. Especifique o caminho de destino para o ativo criado e clique em **[!UICONTROL Salvar]**.
+1. Especifique o caminho de destino do ativo criado e clique em **[!UICONTROL Salvar]**.
 
 >[!NOTE]
 >
->* Só é possível modificar imagens de `JPEG` e `PNG` tipos de formato.
+>* É possível modificar apenas as imagens com tipos de formato `JPEG` e `PNG`.
 >* O tamanho do ativo deve ser inferior a 14 MB.
->* É possível salvar uma imagem no `PDF`, `JPEG`ou `PNG` formatos.
+>* É possível salvar uma imagem nos formatos `PDF`, `JPEG` ou `PNG`.
 
 ## Edição de imagens usando o [!DNL Adobe Photoshop Express] {#edit-using-photoshop-express}
 
