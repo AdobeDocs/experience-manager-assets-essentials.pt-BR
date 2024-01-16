@@ -3,9 +3,9 @@ title: Como gerenciar tags no Assets Essentials?
 description: Saiba como gerenciar tags no Assets Essentials. As tags ajudam a categorizar ativos que podem ser procurados e pesquisados com mais eficiência.
 exl-id: da9e8d56-c190-4006-9579-c3c8401c5e5f
 source-git-commit: 74f78f0675e01c09a8654d7f7d0db14a0ee674a2
-workflow-type: tm+mt
-source-wordcount: '1292'
-ht-degree: 88%
+workflow-type: ht
+source-wordcount: '1284'
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ A marcação oferece muitos benefícios, como:
 
 * As tags podem evoluir com o tempo, à medida que um vocabulário organizacional muda.
 
-* As tags gerenciadas no Assets as a Cloud Service permanecem em sincronia com as tags gerenciadas no Assets Essentials, o que garante a governança e a integridade dos metadados.
+* As tags gerenciadas no Assets as a Cloud Service permanecem em sincronia com as tags do Assets Essentials, o que garante a governança e a integridade dos metadados.
 
 Para poder aplicar tags nos ativos, primeiro crie um namespace e depois insira tags adicionais nele. Também é possível criar tags e adicioná-las a um namespace existente. Todas as tags criadas no nível raiz são automaticamente adicionadas ao namespace Tags padrão. Em seguida, é possível adicionar o campo Tags ao formulário de metadados para que ele seja exibido na página de detalhes do ativo. Depois de definir essas configurações, você pode começar a aplicar tags nos ativos.
 
@@ -43,7 +43,7 @@ Para poder aplicar tags nos ativos, primeiro crie um namespace e depois insira t
 
 ![Gerenciamento de marcação](assets/tagging-taxonomy-management.png)
 
-Recursos adicionais além do que é mencionado neste artigo, incluindo mesclagem, renomeação, localização e publicação de tags, estão disponíveis no Assets as a Cloud Service.
+Recursos adicionais além dos mencionados neste artigo, incluindo a mesclagem, renomeação, localização e publicação de tags, estão disponíveis no Assets as a Cloud Service.
 
 ## Criar um namespace {#creating-a-namespace}
 
@@ -93,7 +93,7 @@ Para criar uma tag padrão, clique em `Create Tag` no nível raiz. Especifique o
 
 >[!NOTE]
 >
->Se você excluir `Standard Tags` usando o Assets as a Cloud Service, as tags criadas no nível raiz não são exibidas na lista de tags disponíveis.
+>Se você excluir o namespace `Standard Tags` usando o Assets as a Cloud Service, as tags criadas no nível raiz não serão exibidas na lista de tags disponíveis.
 
 ## Mover tags {#moving-tags}
 
@@ -135,7 +135,7 @@ Execute as seguintes etapas para excluir tags:
 
 ## Adicionar o componente de tags ao formulário de metadados {#adding-tags-to-metadata-form}
 
-O componente de tags é adicionado ao formulário de metadados `default` automaticamente. Você pode criar um [formulário de metadados](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=br#metadata-forms) do zero ou utilizar um modelo. Se você não estiver usando um modelo de formulário de metadados existente, poderá modificar o formulário de metadados e adicionar o componente de tags. O mapeamento da propriedade de metadados é preenchido automaticamente e não pode ser modificado neste momento. Os usuários as a Cloud Service de ativos podem atualizar o mapeamento para armazenar valores de tag usando namespaces personalizados e expor apenas subconjuntos de hierarquias usando caminhos raiz.
+O componente de tags é adicionado ao formulário de metadados `default` automaticamente. Você pode criar um [formulário de metadados](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=br#metadata-forms) do zero ou utilizar um modelo. Se você não estiver usando um modelo de formulário de metadados existente, poderá modificar o formulário de metadados e adicionar o componente de tags. O mapeamento da propriedade de metadados é preenchido automaticamente e não pode ser modificado neste momento. Usuários do Assets as a Cloud Service podem atualizar o mapeamento para armazenar valores de tag por meio de namespaces personalizados e expor apenas subconjuntos de hierarquias usando caminhos raiz.
 
 Assista a este vídeo rápido para ver como adicionar o componente de tags ao formulário de metadados:
 
@@ -150,4 +150,4 @@ Assista a este vídeo rápido para ver como adicionar o componente de tags ao fo
    ![Marcação de ativos](assets/adding-tags-to-assets.png)
 
 1. Selecione uma ou mais tags. A subtag é selecionada automaticamente junto com a tag principal ou o namespace.
-As tags modificadas nos Assets Essentials também são aplicadas aos Ativos as a Cloud Service.
+As tags modificadas no Assets Essentials também são aplicadas no Assets as a Cloud Service.
