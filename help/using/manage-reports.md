@@ -3,9 +3,9 @@ title: Gerenciar relatórios no Assets Essentials
 description: Acesse os dados na seção de relatórios do Assets Essentials para avaliar o uso de produtos e recursos e obter insights sobre as principais métricas de sucesso.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: b24113299b5f8d32b3c4aef453923b23dc775228
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '857'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -52,7 +52,7 @@ Clique na opção **[!UICONTROL Insights]**, disponível no painel de navegaçã
 
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
-* **Utilização do armazenamento**: o uso do armazenamento, em bytes, para o ambiente de Assets Essentials representado usando um gráfico de barras.
+* **Uso do armazenamento**: o uso de armazenamento (em bytes) no ambiente do Assets Essentials, representado com um gráfico de barras.
 
 <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
