@@ -4,9 +4,9 @@ description: “O [!DNL Assets Essentials] integra-se com outras soluções da A
 role: User
 exl-id: bc43a59e-f295-44d2-a14d-854174f91e41
 source-git-commit: 5bcd55313d1fb8bcf3dedbb24742eca5e2663aa8
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '385'
+ht-degree: 100%
 
 ---
 
@@ -26,11 +26,11 @@ A experiência do [!DNL Assets Essentials] incorporado pode se integrar com as s
 
   [Assista a um vídeo sobre configuração da integração do Adobe Workfront e do Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=pt-BR)
 
-## Integração com a criação baseada em documentos para Edge Delivery Services {#integrate-doc-authoring-edge-and-assets}
+## Integração com criação baseada em documentos para Edge Delivery Services {#integrate-doc-authoring-edge-and-assets}
 
-O Edge Delivery permite criar sites rápidos e atraentes, nos quais os autores podem atualizar e publicar conteúdo rapidamente, e novos sites podem ser inicializados rapidamente.
+O Edge Delivery permite criar sites rápidos e cativantes, nos quais autores(as) podem atualizar, publicar conteúdo e inicializar novos sites, tudo de maneira rápida.
 
-Integre o AEM Assets com a criação baseada em documentos para que o Edge Delivery Services permita que os autores de sites usem imagens disponíveis em repositórios do AEM Assets ao criar documentos no Microsoft Word ou Google Docs. Para obter mais informações, consulte [Integrar o AEM Assets com a criação baseada em documentos](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/edge-delivery/using.html#integrate-assets-edge).
+Integre o AEM Assets com criação baseada em documentos ao Edge Delivery Services para permitir que criadores(as) de sites usem imagens disponíveis em repositórios do AEM Assets ao criar documentos no Microsoft Word ou Google Docs. Para obter mais informações, consulte [Integrar o AEM Assets com a criação baseada em documentos](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/edge-delivery/using.html?lang=pt-BR#integrate-assets-edge).
 
 ## Próximas etapas {#next-steps}
 
