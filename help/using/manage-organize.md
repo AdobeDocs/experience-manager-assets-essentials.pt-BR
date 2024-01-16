@@ -5,9 +5,9 @@ role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: 638d1cef41c5cde1f4f16e231eef5852d779b7e1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1152'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -25,21 +25,21 @@ Você pode selecionar os ativos exibidos nos resultados da pesquisa e realizar a
 
 * ![ícone de desmarcar](assets/do-not-localize/close-icon.png) Desmarcar a seleção.
 
-* ![ícone localizar semelhante](assets/do-not-localize/find-similar.svg) Encontre ativos de imagem semelhantes na interface do Assets com base nos metadados e nas tags inteligentes.
+* ![ícone localizar semelhante](assets/do-not-localize/find-similar.svg) Encontrar ativos de imagem semelhantes na interface do Assets com base nos metadados e nas tags inteligentes.
 
 * ![ícone de detalhes](assets/do-not-localize/edit-in-icon.png) Clique para visualizar um ativo e exibir os metadados detalhados. Ao visualizar, você pode exibir as versões e editar uma imagem.
 
 * ![ícone de download](assets/do-not-localize/download-icon.png) Baixar o ativo selecionado para o sistema de arquivos local.
 
-* ![ícone adicionar coleção](assets/do-not-localize/add-collection.svg) Adicionar o ativo selecionado a uma coleção.
+* ![ícone adicionar à coleção](assets/do-not-localize/add-collection.svg) Adicionar o ativo selecionado a uma coleção.
 
-* ![Ícone Fixar ativos](assets/do-not-localize/pin-quick-access.svg) Fixe um ativo para ter acesso mais rápido quando precisar posteriormente. Todos os itens fixados são exibidos na seção **Acesso rápido** do Meu espaço de trabalho.
+* ![ícone fixar ativos](assets/do-not-localize/pin-quick-access.svg) Fixar um ativo para poder acessá-lo rapidamente quando precisar. Todos os itens fixados são exibidos na seção **Acesso rápido** do Meu espaço de trabalho.
 
-* ![editar no ícone expresso](assets/do-not-localize/edit-e.svg) Edite uma imagem no Adobe Express integrado no Adobe Experience Manager Assets.
+* ![ícone editar no Express](assets/do-not-localize/edit-e.svg) Editar uma imagem no Adobe Express integrado no Adobe Experience Manager Assets.
 
-* ![ícone editar ativo](assets/do-not-localize/edit-e.svg) Edite a imagem usando o Adobe Express.
+* ![ícone editar ativo](assets/do-not-localize/edit-e.svg) Editar a imagem usando o Adobe Express.
 
-* ![ícone compartilhar link de ativo](assets/do-not-localize/share-link.svg) para um ativo com outros usuários, para que eles possam acessá-lo e baixá-lo.
+* ![ícone compartilhar link do ativo](assets/do-not-localize/share-link.svg) Compartilhar links para um ativo com outras pessoas, para que possam acessá-lo e baixá-lo.
 
 * ![ícone de excluir](assets/do-not-localize/delete-icon.png) Excluir o ativo ou a pasta selecionada.
 
@@ -49,11 +49,11 @@ Você pode selecionar os ativos exibidos nos resultados da pesquisa e realizar a
 
 * ![ícone de renomear](assets/do-not-localize/rename-icon.png) Renomear o ativo ou a pasta selecionada. Use um nome exclusivo, caso contrário, a renomeação falhará com um aviso. Você pode tentar novamente com um novo nome.
 
-* ![ícone copiar biblioteca](assets/do-not-localize/copy-icon.png) Adicione um ativo à Biblioteca.
+* ![ícone copiar biblioteca](assets/do-not-localize/copy-icon.png) Adicionar um ativo à biblioteca.
 
 * ![ícone de atribuir tarefa](assets/do-not-localize/review-delegate-icon.png) Atribuir tarefas a outros usuários para colaborar em um ativo.
 
-* ![ícone atribuir tarefa](assets/do-not-localize/watch-asset.svg) Monitorar as operações realizadas em um ativo.
+* ![ícone de atribuir tarefa](assets/do-not-localize/watch-asset.svg) Monitorar as operações realizadas em um ativo.
 
 É possível exibir as mesmas opções nas miniaturas de ativos.
 
