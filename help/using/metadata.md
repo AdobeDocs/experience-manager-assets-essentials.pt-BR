@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: b14d8533854df448e2cb7b527ef5b7e69c072380
-workflow-type: tm+mt
-source-wordcount: '1664'
-ht-degree: 92%
+workflow-type: ht
+source-wordcount: '1652'
+ht-degree: 100%
 
 ---
 
@@ -136,19 +136,19 @@ Veja abaixo uma visão geral de cada tipo de propriedade e como eles são armaze
 
 ### Atribuir formulário de metadados a uma pasta {#assign-metadata-form-folder}
 
-Você também pode atribuir um formulário de metadados a uma pasta na implantação do Assets Essentials. O formulário de metadados atribuído a uma pasta de acordo com o tipo MIME é substituído quando você aplica um formulário de metadados a uma pasta manualmente. Todos os ativos na pasta, incluindo os ativos nas subpastas, e então as propriedades de exibição definidas no formulário de metadados.
+Você também pode atribuir um formulário de metadados a uma pasta na implantação do Assets Essentials. O formulário de metadados atribuído a uma pasta de acordo com o tipo MIME é substituído quando você aplica manualmente um formulário de metadados a uma pasta. Em seguida, todos os ativos na pasta, incluindo os contidos nas subpastas, exibem as propriedades definidas no formulário de metadados.
 
 Para atribuir um formulário de metadados a uma pasta:
 
-1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Forms de metadados]** e selecione um formulário de metadados.
+1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Formulários de metadados]** e selecione um formulário de metadados.
 
-2. Clique em **[!UICONTROL Atribuir à pasta]**.
+2. Clique em **[!UICONTROL Atribuir à pasta]**
 
 3. Selecione a pasta e clique em **[!UICONTROL Atribuir]**.
 
-   ![atribuir formulário de metadados a uma pasta](/help/using/assets/assign-to-folder.png)
+   ![Atribuir formulário de metadados a uma pasta](/help/using/assets/assign-to-folder.png)
 
-   Você também pode navegar até a página de detalhes da pasta e selecionar um formulário de metadados nas propriedades da pasta disponíveis no painel direito para atribuir o formulário de metadados à pasta.
+   Você também pode navegar até a página de detalhes da pasta e selecionar um formulário de metadados nas propriedades da pasta disponíveis no painel direito para atribuir o formulário à pasta.
 
 ## Próximas etapas {#next-steps}
 
