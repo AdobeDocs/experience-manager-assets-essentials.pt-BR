@@ -7,7 +7,7 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 196fa10fd6788b306aaad3c63100e5763be566b2
 workflow-type: tm+mt
 source-wordcount: '2666'
-ht-degree: 86%
+ht-degree: 98%
 
 ---
 
@@ -15,41 +15,41 @@ ht-degree: 86%
 
 A versão atual do Assets Essentials foi lançada em sexta-feira, 11 de janeiro de 2024.
 
-Alguns dos recursos adicionados recentemente incluem:
+Alguns dos recursos recém-adicionados incluem:
 
 **Tags inteligentes incluir na lista de bloqueios**
 
 O Assets Essentials agora permite definir uma inclui na lista de bloqueios que inclui palavras que não devem ser adicionadas como Tags inteligentes a ativos quando eles forem carregados no repositório. Esse recurso ajuda a manter a conformidade com a marca e reduz o esforço de moderar tags inteligentes.
 
-![insights de uso do armazenamento](/help/using/assets/block-tags.png)
+![Uso do armazenamento no Insights](/help/using/assets/block-tags.png)
 
-**Criar imagens GenAI com o Adobe Firefly**
+**Criar imagens de IA generativa com o Adobe Firefly**
 
-Crie novas imagens com base em consultas de pesquisa com uma integração do recurso texto para imagem do Adobe Firefly (requer uma licença do Adobe Firefly).
+Crie novas imagens com base em consultas de pesquisas com uma integração do recurso de “texto para imagem” do Adobe Firefly (requer uma licença do Adobe Firefly).
 
-![Integração do Firefly de ativos](/help/using/assets/assets-firefly-integration.png)
+![Integração do Firefly com o Assets](/help/using/assets/assets-firefly-integration.png)
 
-**Localizar Imagens Semelhantes**
+**Localizar imagens semelhantes**
 
-Agora é possível encontrar conteúdo facilmente selecionando uma imagem e visualizando imagens semelhantes no repositório do Experience Manager Assets.
+Agora é possível encontrar conteúdo com facilidade selecionando uma imagem e visualizando imagens semelhantes no repositório do Experience Manager Assets.
 
-**Editor de Adobe Express incorporado no AEM Assets**
+**Editor do Adobe Express incorporado no AEM Assets**
 
-Os usuários com acesso ao Express agora têm ferramentas integradas de edição e criação de imagens do Adobe Express e do Adobe Firefly disponíveis diretamente no AEM Assets para melhorar a reutilização do conteúdo e acelerar a velocidade do conteúdo.
+Usuários com acesso ao Express agora têm ferramentas integradas de edição e criação de imagens do Adobe Express e do Adobe Firefly disponíveis diretamente no AEM Assets, o que permite aprimorar a reutilização e acelerar a velocidade do conteúdo.
 
-![atribuir formulário de metadados a uma pasta](/help/using/assets/adobe-express-aem-assets.png)
+![Atribuir formulário de metadados a uma pasta](/help/using/assets/adobe-express-aem-assets.png)
 
-**Relatórios de uso de armazenamento em Insights**:
+**Relatórios de uso do armazenamento no Insights**:
 
-Agora, os administradores podem exibir os relatórios de uso de armazenamento disponíveis como parte do Insights.
+Agora, admins podem visualizar os relatórios de uso do armazenamento disponíveis como parte do Insights.
 
-![insights de uso do armazenamento](/help/using/assets/storage-usage-insights.png)
+![Uso do armazenamento no Insights](/help/using/assets/storage-usage-insights.png)
 
-**Pesquisar primeira configuração de página inicial**
+**Configuração da primeira página de pesquisa**
 
-O Assets Essentials agora permite configurar a experiência de página inicial para sua organização. Se você selecionar pesquisar primeiro como página inicial, poderá configurar o alinhamento da barra de pesquisa, a imagem do plano de fundo e o logotipo da sua organização.
+O Assets Essentials agora permite configurar a experiência da página inicial da sua organização. Se você selecionar a opção “Pesquisar primeiro” como a página inicial, poderá configurar o alinhamento da barra de pesquisa, a imagem do fundo e o logotipo da sua organização.
 
-![pesquisar primeira configuração](/help/using/assets/search-first-configuration.png)
+![Configuração “Pesquisar primeiro”](/help/using/assets/search-first-configuration.png)
 
 
 
@@ -79,23 +79,23 @@ Se você encontrar problemas ou quiser fazer solicitações de aprimoramento, [f
 
 ### Versão de outubro de 2023 {#october2023-release}
 
-**Importar ativos em massa da fonte de dados do OneDrive**
+**Importação em massa de ativos da fonte de dados do OneDrive**
 
-Agora, os administradores têm a capacidade de [importar um grande número de ativos do OneDrive para o AEM Assets](/help/using/bulk-import-assets-view.md). A lista atualizada das fontes de dados com suporte para importação em massa inclui Azure, AWS, Google Cloud, Dropbox e OneDrive.
+Agora, admins podem [importar um grande número de ativos do OneDrive para o AEM Assets](/help/using/bulk-import-assets-view.md). A lista atualizada das fontes de dados compatíveis com a importação em massa inclui: Azure, AWS, Google Cloud, Dropbox e OneDrive.
 
-![atribuir formulário de metadados a uma pasta](/help/using/assets/bulk-import-source-details.png)
+![Atribuir formulário de metadados a uma pasta](/help/using/assets/bulk-import-source-details.png)
 
 **Suporte a direitos entre organizações para bibliotecas**
 
-O Experience Manager Assets agora permite configurar o acesso às bibliotecas de Creative Cloud em uma Organização IMS diferente. Ele permite acesso mais fácil aos fluxos de trabalho entre produtos mais recentes entre Creative Cloud e Experience Manager e reduz o tempo e o esforço de criação.
+O Experience Manager Assets agora permite configurar o acesso às bibliotecas da Creative Cloud em uma organização IMS diferente. Isso facilita o acesso aos fluxos de trabalho de produtos mais recentes entre a Creative Cloud e o Experience Manager e reduz o tempo e esforço de criação.
 
 ### Versão de setembro de 2023 {#september2023-release}
 
 **Atribuir formulário de metadados a uma pasta**
 
-Agora é possível atribuir o formulário de metadados a uma pasta específica na implantação do Assets Essentials. Todos os ativos na pasta, incluindo ativos nas subpastas, em seguida, exibem as propriedades definidas no formulário de metadados atribuído.
+Agora é possível atribuir o formulário de metadados a uma pasta específica na implantação do Assets Essentials. Com isso, todos os ativos contidos nas pastas e subpastas exibem as propriedades definidas no formulário de metadados atribuído.
 
-![atribuir formulário de metadados a uma pasta](/help/using/assets/assign-to-folder.png)
+![Atribuir formulário de metadados a uma pasta](/help/using/assets/assign-to-folder.png)
 
 **Importação em massa de ativos de fontes de dados**
 

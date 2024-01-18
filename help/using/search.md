@@ -6,7 +6,7 @@ exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: 92cfe963d37df919b8bc29c49da7c8e9bd62638e
 workflow-type: tm+mt
 source-wordcount: '1524'
-ht-degree: 63%
+ht-degree: 85%
 
 ---
 
@@ -56,7 +56,7 @@ E possível classificar os ativos pesquisados em ordem crescente ou decrescente 
 
 **Permissões necessárias:** `Can Edit`, `Owner` ou Administrador.
 
-Os Assets Essentials também permitem adicionar filtros personalizados à interface. É possível aplicar esses filtros personalizados além dos [filtros padrão](#refine-search-results) para refinar os resultados da pesquisa.
+O Assets Essentials também permite adicionar filtros personalizados à interface. É possível aplicar esses filtros personalizados além dos [filtros padrão](#refine-search-results) para refinar os resultados da pesquisa.
 
 O Assets Essentials fornece os seguintes filtros personalizados:
 
@@ -154,7 +154,7 @@ Para fazer upload do ativo gerado para o repositório de ativos:
 
 ## Pesquisas salvas {#saved-search}
 
-A funcionalidade de pesquisa é bastante fácil de usar no [!DNL Assets Essentials]. Na caixa de pesquisa, você pode digitar uma palavra-chave e pressionar Return para ver os resultados. Além disso, é possível pesquisar novamente as palavras-chave pesquisadas recentemente de maneira rápida e com um único clique.
+A funcionalidade de pesquisa é bastante fácil de usar no [!DNL Assets Essentials]. Na caixa de pesquisa, você pode digitar uma palavra-chave e pressionar Return para ver os resultados; além disso, é possível pesquisar novamente por palavras-chave recentes de maneira rápida e com um único clique.
 
 Também é possível filtrar os resultados da pesquisa com base em critérios específicos relacionados aos metadados e tipos de ativos. O [!DNL Assets Essentials] também permite salvar os parâmetros de uma pesquisa para melhorar a experiência de busca de filtros usados com frequência. Em seguida, você pode selecionar a pesquisa salva para pesquisar e aplicar o filtro com apenas um clique.
 
@@ -177,7 +177,7 @@ When userA is searching and userB add an asset that matches search results, will
 
 Você pode selecionar os ativos exibidos nos resultados da pesquisa e realizar as seguintes ações:
 
-* **Localizar Imagem Semelhante**: encontre ativos de imagem semelhantes na interface do Assets com base nos metadados e nas tags inteligentes.
+* **Localizar imagem semelhante**: encontre ativos de imagem semelhantes na interface do Assets com base nos metadados e nas tags inteligentes.
 
 * **Detalhes**: visualizar e editar as propriedades do ativo.
 
@@ -189,7 +189,7 @@ Você pode selecionar os ativos exibidos nos resultados da pesquisa e realizar a
 
 * **Abrir no Adobe Express**: edite uma imagem no Adobe Express integrado na tela do Experience Manager Assets.
 
-* **Editar**: edite a imagem usando o Adobe Express.
+* **Editar**: editar a imagem usando o Adobe Express.
 
 * **Compartilhar link**: [compartilhar links](share-links-for-assets.md) para um ativo com outros usuários, para que possam acessá-lo e baixá-lo.
 
@@ -201,44 +201,44 @@ Você pode selecionar os ativos exibidos nos resultados da pesquisa e realizar a
 
 * **Renomear**: renomear um ativo.
 
-* **Copiar para bibliotecas**: adicione um ativo à Biblioteca.
+* **Copiar para as bibliotecas**: adicionar um ativo à biblioteca.
 
 * **Atribuir tarefas**: atribuir tarefas de um ativo a usuários.
 
 * **Observar**: [monitorar as operações](manage-notifications.md) executadas em um ativo.
 
-## Configuração da primeira página inicial de pesquisa {#configuring-search-first-homepage}
+## Configuração da primeira página de pesquisa {#configuring-search-first-homepage}
 
-O Assets Essentials permite selecionar a página de aterrissagem padrão da sua organização. Ao usar a Pesquisa primeiro como página inicial, você também tem opções para personalizar a identidade visual da página, configurando as imagens de plano de fundo e logotipo que correspondem à sua marca.
+O Assets Essentials permite selecionar a página de destino padrão da sua organização. Ao usar a opção “Pesquisar primeiro” como a página inicial, é possível personalizar a identidade visual da página, através da configuração das imagens de fundo e do logotipo que corresponde à sua marca.
 
-Para configurar a primeira home page de pesquisa, execute as etapas abaixo:
+Para configurar a primeira página de pesquisa, execute as etapas abaixo:
 
-1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Configurações gerais]**.
-1. Selecionar **[!UICONTROL Pesquisar primeiro]**. Ele abre ainda mais a primeira configuração relacionada à pesquisa. Você pode definir [alinhamento](#setting-alignment-search-bar) ou [definir imagem de plano de fundo e logotipo](#setting-background-image-and-logo) da sua página inicial.
+1. Navegue até **[!UICONTROL Configurações]** >; **[!UICONTROL Configurações gerais]**.
+1. Selecione **[!UICONTROL Pesquisar primeiro]**. Isso disponibiliza ainda mais configurações relacionadas à primeira página de pesquisa. Você pode configurar o [alinhamento](#setting-alignment-search-bar) ou [definir a imagem de fundo e o logotipo](#setting-background-image-and-logo) da sua página inicial.
 
-### Definindo alinhamento da barra de pesquisa {#setting-alignment-search-bar}
+### Configuração do alinhamento da barra de pesquisa {#setting-alignment-search-bar}
 
-[!DNL Assets Essentials] permite alterar o alinhamento da barra de pesquisa. Você pode fazer a barra de pesquisa aparecer no centro ou na parte superior. Selecione o alinhamento apropriado e clique em **[!UICONTROL Salvar]**.
+O [!DNL Assets Essentials] permite alterar o alinhamento da barra de pesquisa. Você pode fazer a barra de pesquisa aparecer no centro ou na parte superior. Selecione o alinhamento apropriado e clique em **[!UICONTROL Salvar]**.
 
-![Pesquisar alinhamento da primeira página inicial](assets/search-first-alignment.png)
+![Alinhamento da primeira página de pesquisa](assets/search-first-alignment.png)
 
 ### Configuração da imagem de fundo e logotipo da página inicial {#setting-background-image-and-logo}
 
-Você pode adicionar o logotipo da marca e a imagem de fundo à sua primeira página inicial de pesquisa. Execute as seguintes etapas:
+Você pode adicionar o logotipo da marca e a imagem de fundo à sua primeira página de pesquisa. Execute as seguintes etapas:
 
-1. Navegue até **[!UICONTROL Imagem de plano de fundo e logotipo]** seção em **[!UICONTROL Página inicial]**.
-1. Clique em **[!UICONTROL Substituir]** para navegar por imagens do repositório de ativos existente.
-1. Clique em **[!UICONTROL Salvar]**. [Visualizar](#preview-configured-homepage) as alterações para revisar as modificações.
+1. Navegue até a seção **[!UICONTROL Imagem de fundo e logotipo]** na **[!UICONTROL Página inicial]**.
+1. Clique em **[!UICONTROL Substituir]** para procurar imagens do repositório de ativos existente.
+1. Clique em **[!UICONTROL Salvar]**. [Visualize](#preview-configured-homepage) as alterações para revisar as modificações.
 
-### Visualizar página inicial configurada {#preview-configured-homepage}
+### Visualizar a página inicial configurada {#preview-configured-homepage}
 
-Você pode visualizar para verificar o layout e a formatação da primeira página inicial de pesquisa. Usar **[!UICONTROL Visualizar]**, você pode corrigir o layout ou fazer modificações de acordo com o requisito. Para visualizar a home page configurada, execute as etapas abaixo:
+Você pode visualizar o layout e a formatação da primeira página de pesquisa. Com a opção **[!UICONTROL Visualizar]**, é possível corrigir o layout ou fazer as modificações necessárias. Para visualizar a página inicial configurada, execute as etapas abaixo:
 
 1. Clique em **[!UICONTROL Configurações gerais]** e selecione **[!UICONTROL Pesquisar primeiro]**.
-1. Navegue até **[!UICONTROL Personalizar a primeira página inicial de pesquisa]** e clique em **[!UICONTROL Visualizar]**. Alternar através **[!UICONTROL Tema escuro]** botão para visualizar a página inicial em um tema escuro ou claro.
-1. Clique em **[!UICONTROL Fechar]** para fechar a tela de visualização.
+1. Navegue até **[!UICONTROL Personalizar a primeira página de pesquisa]** e clique em **[!UICONTROL Visualizar]**. Alterne o botão **[!UICONTROL Tema escuro]** para visualizar a página inicial em um tema escuro ou claro.
+1. Clique em **[!UICONTROL Fechar]** para fechar a janela de visualização.
 
-   ![Pesquisar primeira visualização de página inicial](assets/search-first-preview.gif)
+   ![Visualização da primeira página de pesquisa](assets/search-first-preview.gif)
 
 ## Próximas etapas {#next-steps}
 
