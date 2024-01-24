@@ -4,9 +4,9 @@ description: Pesquisar e descobrir ativos no [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 source-git-commit: 92cfe963d37df919b8bc29c49da7c8e9bd62638e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1524'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -120,37 +120,37 @@ Para remover filtros personalizados:
 
 1. Clique em **[!UICONTROL Confirmar]** para remover os filtros da interface.
 
-## Pesquisar ativos usando [!DNL Adobe Firefly] {#search-firefly}
+## Pesquisar ativos usando o [!DNL Adobe Firefly] {#search-firefly}
 
-Pesquise por um ativo que não está disponível em nenhuma das pastas de ativos usando o [!DNL Adobe Firefly] recurso de pesquisa de ativo no [!DNL Experience Manager Assets]. Isso permite gerar ativos em tempo real com eficiência que não estão armazenados nas pastas de ativos.
+Você pode pesquisar um ativo que não está disponível em nenhuma das pastas de ativos utilizando o recurso de pesquisa de ativos do [!DNL Adobe Firefly] no [!DNL Experience Manager Assets]. Isso permite gerar ativos com eficiência em tempo real que não estão armazenados nas pastas de ativos.
 
 ### Antes de começar
 
-Você deve ter um ativo [!DNL Adobe Express] assinatura.
+Você precisa ter uma assinatura do [!DNL Adobe Express] ativa.
 
-### Gerar ativos
+### Geração de ativos
 
 Para gerar novos ativos usando o [!DNL Adobe Firefly]:
 
-1. Navegue até a [!DNL AEM Assets] espaço de trabalho.
+1. Navegue até o espaço de trabalho do [!DNL AEM Assets].
 1. Insira o nome do ativo na barra de pesquisa na parte superior da página.<br>
-Por exemplo, você pode pesquisar um ativo usando a palavra-chave `Bugatti Type 57`. Ao pesquisar pelo ativo, nenhum resultado é encontrado porque o ativo não está presente em nenhuma das pastas de ativos.
-1. Digite o nome do ativo na barra de pesquisa no meio da página e clique em **[!UICONTROL Gerar]**.
-   ![integração de Firefly](firefly-integration.jpg)
-   *Figura: Nenhum resultado encontrado para Bugatti Type 57 na pasta de ativos.*<br>
+Por exemplo, você pode pesquisar um ativo usando a palavra-chave `Bugatti Type 57`. Ao pesquisar o ativo, nenhum resultado é encontrado porque o ativo não existe em nenhuma das pastas de ativos.
+1. Digite o nome do ativo na barra de pesquisa no meio da página e clique em **[!UICONTROL Gerar]**.
+   ![Integração do Firefly](firefly-integration.jpg)
+   *Figura: nenhum resultado encontrado para Bugatti Type 57 na pasta de ativos.*<br>
 Os novos ativos foram gerados com sucesso.
-   ![integração de Firefly](assets/bugatti-type-57.jpg)
-   *Figura: ativos de referência pesquisados usando [!DNL Adobe Firefly] recurso de pesquisa de ativos.* <br>
-Você pode fazer upload desses ativos para sua pasta preferida para facilitar o acesso.
+   ![Integração do Firefly](assets/bugatti-type-57.jpg)
+   *Figura: ativos de referência buscados usando o recurso de pesquisa de ativos do [!DNL Adobe Firefly].* <br>
+Você pode fazer upload desses ativos para a pasta de sua preferência para facilitar o acesso.
 
-### Fazer upload de ativos
+### Upload de ativos
 
 Para fazer upload do ativo gerado para o repositório de ativos:
 
-1. Clique em **[!UICONTROL Carregar]**.
-1. Selecione a pasta de ativos na qual você precisa fazer upload do ativo e clique em **[!UICONTROL Selecionar pasta]**.
-   ![Fazer upload de ativo](assets/upload-asset-firefly.jpg)
-   *Figura: selecione a pasta na qual carregar o ativo.*
+1. Clique em **[!UICONTROL Fazer upload]**.
+1. Selecione a pasta de ativos para a qual você deseja fazer upload do ativo e clique em **[!UICONTROL Selecionar pasta]**.
+   ![Faça o upload do ativo](assets/upload-asset-firefly.jpg)
+   *Figura: selecione a pasta para fazer upload do ativo.*
 
 ## Pesquisas salvas {#saved-search}
 
