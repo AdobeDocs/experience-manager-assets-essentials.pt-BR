@@ -5,23 +5,23 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: 196fa10fd6788b306aaad3c63100e5763be566b2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2666'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
 # Notas de versão do [!DNL Assets Essentials] {#release-notes}
 
-A versão atual do Assets Essentials foi lançada em sexta-feira, 11 de janeiro de 2024.
+A versão atual do Assets Essentials foi lançada em 11 de janeiro de 2024.
 
 Alguns dos recursos recém-adicionados incluem:
 
-**Tags inteligentes incluir na lista de bloqueios**
+**Tags inteligentes na lista de bloqueios**
 
-O Assets Essentials agora permite definir uma inclui na lista de bloqueios que inclui palavras que não devem ser adicionadas como Tags inteligentes a ativos quando eles forem carregados no repositório. Esse recurso ajuda a manter a conformidade com a marca e reduz o esforço de moderar tags inteligentes.
+O Assets Essentials agora permite definir uma lista de bloqueios que inclui palavras que não devem ser adicionadas como Tags inteligentes aos ativos quando eles são enviados ao repositório. Esse recurso ajuda a manter a conformidade da marca e reduz o esforço para moderar as Tags inteligentes.
 
-![Uso do armazenamento no Insights](/help/using/assets/block-tags.png)
+![Insights do uso do armazenamento](/help/using/assets/block-tags.png)
 
 **Criar imagens de IA generativa com o Adobe Firefly**
 
