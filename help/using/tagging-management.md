@@ -3,9 +3,9 @@ title: Como gerenciar tags no Assets Essentials?
 description: Saiba como gerenciar tags no Assets Essentials. As tags ajudam a categorizar ativos que podem ser procurados e pesquisados com mais eficiência.
 exl-id: da9e8d56-c190-4006-9579-c3c8401c5e5f
 source-git-commit: eef4aec6f67700d0a5b096577b9637d96949b488
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1748'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 65%
 
 As tags ajudam a categorizar ativos que podem ser procurados e pesquisados com mais eficiência. A marcação ajuda a propagar a taxonomia apropriada para outros usuários e fluxos de trabalho.
 
-Listas planas de vocabulários controlados podem se tornar incontroláveis com o tempo. Os administradores são capazes de usar a estrutura hierárquica de marcação, que facilita a aplicação de metadados relevantes, a categorização de ativos, o suporte a pesquisas, a reutilização de tags, a melhoria da descoberta e assim por diante.
+Listas planas de vocabulários controlados podem se tornar incontroláveis com o tempo. Os administradores têm a capacidade de utilizar a estrutura de marcação hierárquica, que facilita a aplicação de metadados relevantes, a categorização de ativos, o suporte a pesquisas, a reutilização de tags, a melhoria da capacidade de descoberta e assim por diante.
 
 Você pode criar um namespace no nível raiz e criar uma estrutura hierárquica de subtags no namespace. Por exemplo, você pode criar um namespace `Activities` no nível raiz e ter as tags `Cycling`, `Hiking` e `Running` no namespace. É possível incluir as subtags `Clothing` e `Shoes` em `Running`.
 
@@ -29,13 +29,13 @@ A marcação oferece muitos benefícios, como:
 
 * A marcação permite que autores organizem facilmente ativos diferentes por meio de uma taxonomia comum. Autores podem pesquisar e organizar ativos rapidamente por tags comuns.
 
-* As tags hierárquicas são flexíveis e são uma excelente maneira de organizar termos de maneira lógica. Por meio de namespaces, tags e subtags, sistemas taxonômicos inteiros podem ser representados.
+* As tags hierárquicas são extremamente flexíveis e são uma excelente maneira de organizar termos de maneira lógica. Por meio de namespaces, tags e subtags, sistemas taxonômicos inteiros podem ser representados.
 
 * As tags podem evoluir com o tempo, à medida que um vocabulário organizacional muda.
 
-* As tags gerenciadas no Assets as a Cloud Service permanecem em sincronia com as tags gerenciadas no Assets Essentials, que garantem a governança e a integridade dos metadados.
+* As tags gerenciadas no Assets as a Cloud Service permanecem em sincronia com as tags do Assets Essentials, o que garante a governança e a integridade dos metadados.
 
-Para poder aplicar tags a ativos, primeiro crie um namespace e depois crie e adicione tags a ele. Também é possível criar tags e adicioná-las a um namespace existente. Todas as tags criadas no nível raiz são automaticamente adicionadas ao namespace Tags padrão. Em seguida, é possível adicionar o campo Tags ao formulário de metadados para que ele seja exibido na página de detalhes do ativo. Depois de definir essas configurações, você pode começar a aplicar tags nos ativos.
+Para poder aplicar tags aos ativos, primeiro crie um namespace e então crie e adicione tags a ele. Também é possível criar tags e adicioná-las a um namespace existente. Todas as tags criadas no nível raiz são automaticamente adicionadas ao namespace Tags padrão. Em seguida, é possível adicionar o campo Tags ao formulário de metadados para que ele seja exibido na página de detalhes do ativo. Depois de definir essas configurações, você pode começar a aplicar tags nos ativos.
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ Execute as seguintes etapas para criar um namespace:
 
 Execute as seguintes etapas para adicionar tags a um namespace:
 
-1. Ir para **[!UICONTROL Gerenciamento de taxonomia]**.
+1. Vá para **[!UICONTROL Gerenciamento de taxonomia]**.
 1. Selecione o namespace e clique em `Create` para criar a tag no nível superior, logo abaixo do namespace. Se precisar criar uma subtag em uma tag existente em um namespace, selecione a tag e clique em `Create`.
    ![Hierarquia de tags](assets/hierarchy-of-tags.png)
 
@@ -127,16 +127,16 @@ Execute as seguintes etapas para excluir tags:
 >* A exclusão de uma tag também exclui todas as suas referências dos ativos.
 >* Não é possível excluir tags padrão existentes no nível raiz.
 
-## Adicionar o componente de Tags ao formulário de Metadados {#add-tags-to-metadata-form}
+## Adicionar componente de tags ao formulário de metadados {#add-tags-to-metadata-form}
 
-O componente de tags é adicionado ao formulário de metadados `default` automaticamente. Você pode criar um [formulário de metadados](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=br#metadata-forms) do zero ou utilizar um modelo. Se você não estiver usando um modelo de formulário de metadados existente, poderá modificar o formulário de metadados e adicionar o componente de tags. O mapeamento da propriedade de metadados é preenchido automaticamente e não pode ser modificado neste momento. [!DNL Assets as a Cloud Service] os usuários podem atualizar o mapeamento para armazenar valores de tag usando namespaces personalizados e expor apenas subconjuntos de hierarquias usando caminhos raiz.
+O componente de tags é adicionado ao formulário de metadados `default` automaticamente. Você pode criar um [formulário de metadados](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=br#metadata-forms) do zero ou utilizar um modelo. Se você não estiver usando um modelo de formulário de metadados existente, poderá modificar o formulário de metadados e adicionar o componente de tags. O mapeamento da propriedade de metadados é preenchido automaticamente e não pode ser modificado neste momento. Usuários do [!DNL Assets as a Cloud Service] podem atualizar o mapeamento para armazenar valores de tags utilizando namespaces personalizados e expor apenas subconjuntos de hierarquias utilizando caminhos raiz.
 
 Assista a este vídeo rápido para ver como adicionar o componente de tags ao formulário de metadados:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420452)
 
 
-### Adicionar tags aos ativos {#add-tags-to-assets}
+### Adicionar tags a ativos {#add-tags-to-assets}
 
 1. Acesse a página Detalhes do ativo e navegue até a seção `Tags` do formulário de metadados.
 1. Selecione o ícone do seletor de tags, ao lado do campo Tags, ou comece a digitar um nome de tag para ver os resultados sugeridos.
@@ -146,9 +146,9 @@ Assista a este vídeo rápido para ver como adicionar o componente de tags ao fo
 1. Selecione uma ou mais tags. A subtag é selecionada automaticamente junto com a tag principal ou o namespace.
 As tags modificadas no Assets Essentials também são aplicadas no Assets as a Cloud Service.
 
-## Adicionar tags ao incluo na lista de bloqueios {#blocklist-essentials}
+## Adicionar tags à lista de bloqueios {#blocklist-essentials}
 
-[!DNL Assets Essentials] O permite configurar uma inclui na lista de bloqueios que inclui palavras que não devem ser adicionadas como Tags inteligentes a ativos quando eles forem carregados no repositório. Esse recurso ajuda a manter a conformidade da marca e reduz o esforço para moderar as Tags inteligentes.
+Agora o [!DNL Assets Essentials] permite configurar uma lista de bloqueios que inclui palavras que não devem ser adicionadas como tags inteligentes aos ativos quando eles são enviados ao repositório. Esse recurso ajuda a manter a conformidade da marca e reduz o esforço para moderar as Tags inteligentes.
 
 <!--
 ### Block smart tags for single asset {#block-smart-tags-for-single-asset}
@@ -157,7 +157,7 @@ As tags modificadas no Assets Essentials também são aplicadas no Assets as a C
 
 ### Bloquear tags inteligentes para todos os ativos {#block-smart-tags-for-all-assets}
 
-[!DNL Assets Essentials] O permite que um administrador bloqueie tags inteligentes para ativos existentes e recém-adicionados. Para bloquear tags, execute as seguintes etapas:
+O [!DNL Assets Essentials] permite que um administrador bloqueie tags inteligentes para ativos existentes e recém-adicionados. Para bloquear tags, execute as seguintes etapas:
 
 1. Navegue até **[!UICONTROL Tags bloqueadas]** em **[!UICONTROL Configurações]**.
 1. Clique em **[!UICONTROL Adicionar tag bloqueada]**.
@@ -166,37 +166,37 @@ As tags modificadas no Assets Essentials também são aplicadas no Assets as a C
 
    >[!NOTE]
    >
-   >É possível adicionar no máximo 25 tags à lista de uma só vez. Repita as etapas para adicionar mais tags à inclui na lista de bloqueios.
+   >É possível adicionar no máximo 25 tags à lista de uma só vez. Repita as etapas para adicionar mais tags à lista de bloqueios.
 
-Também é possível bloquear tags inteligentes para um único ativo. Navegue até os detalhes de um ativo. Em **[!UICONTROL Tags]** remova as tags inteligentes indesejadas e clique em **[!UICONTROL Salvar]**. Incluir na lista de bloqueios As tags são listadas na pesquisa para o ativo selecionado.
+Também é possível bloquear tags inteligentes para um único ativo. Navegue até os detalhes de um ativo. Na guia **[!UICONTROL Tags]** remova as tags inteligentes indesejadas e clique em **[!UICONTROL Salvar]**. As tags são listadas na lista de bloqueios para o ativo selecionado.
 
-### Ações executadas na inclui na lista de bloqueios {#blocklist-actions}
+### Ações executadas na lista de bloqueios {#blocklist-actions}
 
-* **Remover tags:** Também é possível remover as tags do incluo na lista de bloqueios. Para fazer isso, selecione uma ou mais tags que deseja remover. Clique em **[!UICONTROL Remover]**. É possível remover no máximo 25 tags da lista de uma só vez.
-* **Selecionar tudo:** Marque a caixa de seleção ao lado de **Nome da tag** incluir na lista de bloqueios para selecionar todas as tags no arquivo de pesquisa.
-* **Classificação:** Você pode classificar a inclui na lista de bloqueios em ordem crescente ou decrescente. Para fazer isso, clique na seta adjacente a **Nome da tag**.
+* **Remover tags:** também é possível remover as tags da lista de bloqueios. Para fazer isso, selecione uma ou mais tags que deseja remover. Clique em **[!UICONTROL Remover]**. É possível remover no máximo 25 tags da lista de uma só vez.
+* **Selecionar tudo:** marque a caixa de seleção ao lado de **Nome da tag** para selecionar todas as tags da lista de bloqueios.
+* **Classificação:** é possível classificar a lista de bloqueios em ordem crescente ou decrescente. Para fazer isso, clique na seta adjacente a **Nome da tag**.
 
-  ![tags de bloqueio](assets/blocklist.gif)
+  ![bloquear tags](assets/blocklist.gif)
 
   >[!NOTE]
   >
-  >Não use caracteres especiais ao adicionar uma tag no incluo na lista de bloqueios. Caracteres como a-z, A-Z, 0-9 e - podem ser usados.
+  >Não use caracteres especiais ao adicionar uma tag na lista de bloqueios. Caracteres como a-z, A-Z, 0-9 e - podem ser usados.
 
-### Exportar inclui na lista de bloqueios{#export-blocklist}
+### Exportar lista de bloqueios{#export-blocklist}
 
-O Assets Essentials permite exportar as tags bloqueadas listadas para o formato CSV. Para exportar a inclui na lista de bloqueios, execute as etapas abaixo:
+O Assets Essentials permite exportar as tags bloqueadas listadas para o formato CSV. Para exportar a lista de bloqueios, execute as etapas abaixo:
 
 1. Clique em **[!UICONTROL Exportar como CSV]**.
 1. Escolha o local apropriado para salvar o arquivo CSV. Também é possível renomear o arquivo de acordo com o requisito.
 1. Clique em **[!UICONTROL Salvar]**. A lista exportada em formato CSV é baixada no local selecionado.
 
-### Importar inclui na lista de bloqueios{#import-blocklist}
+### Importar lista de bloqueios{#import-blocklist}
 
-O Assets Essentials oferece a capacidade de importar tags bloqueadas de uma fonte de dados (CSV). Para importar a inclui na lista de bloqueios, execute as etapas abaixo:
+O Assets Essentials oferece a capacidade de importar tags bloqueadas de uma fonte de dados (CSV). Para importar uma lista de bloqueios, execute as etapas abaixo:
 
 1. Clique em **[!UICONTROL Importar como CSV]**.
 1. Escolha o arquivo CSV do seu dispositivo. Clique em **[!UICONTROL selecionar um arquivo]** para navegar até o arquivo do seu dispositivo. Como alternativa, você pode arrastar e soltar o arquivo CSV do seu dispositivo.
-1. Clique em **[!UICONTROL Carregar]**. As tags do arquivo CSV estão listadas na lista de tags bloqueadas.
+1. Clique em **[!UICONTROL Fazer upload]**. As tags do arquivo CSV são listadas na lista de tags bloqueadas.
 
    ![Importar lista de tags bloqueadas](assets/import-blocked-tags.png)
 
@@ -204,4 +204,4 @@ Caso deseje baixar um modelo de tags bloqueadas, siga as etapas abaixo:
 
 1. Clique em **[!UICONTROL Baixar modelo]**.
 1. Escolha o local apropriado para salvar o arquivo CSV. Também é possível renomear o arquivo de acordo com o requisito.
-1. Clique em **[!UICONTROL Salvar]**. Os modelos de tags de bloco no formato CSV são baixados no local selecionado.
+1. Clique em **[!UICONTROL Salvar]**. Os modelos de tags bloqueadas no formato CSV são baixados no local selecionado.
