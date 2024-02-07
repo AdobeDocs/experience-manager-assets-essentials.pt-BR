@@ -3,10 +3,10 @@ title: "Interface do [!DNL Assets Essentials] "
 description: Entenda a interface e a navegação no [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: 4f3141fe95a0c33b22042da4f234dd2a921cbac6
-workflow-type: ht
-source-wordcount: '1000'
-ht-degree: 100%
+source-git-commit: 7dbba95fef582cff32fa705a529f8da8b7e98124
+workflow-type: tm+mt
+source-wordcount: '992'
+ht-degree: 91%
 
 ---
 
@@ -47,7 +47,9 @@ Você pode navegar pelas pastas da interface do usuário principal ou da barra l
 * [Coleções](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=pt-BR): uma coleção é um conjunto de ativos, pastas ou outras coleções no Adobe Experience Manager Assets Essentials. Use coleções para compartilhar ativos entre usuários. Diferente de pastas, uma coleção pode incluir ativos de locais diferentes. Você pode compartilhar várias coleções com um usuário. Cada coleção contém referências a ativos. A integridade referencial dos ativos é mantida entre as coleções.
 
 * [Insights](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=pt-BR#view-live-statistics): no [!DNL Assets Essentials], você pode visualizar insights em tempo real no seu painel. O Assets Essentials permite que você visualize dados do seu ambiente Assets Essentials em tempo real, por meio do painel Insights. Você pode visualizar métricas de evento em tempo real dos últimos 30 dias ou dos últimos 12 meses.
-* **Lixeira**: lista os ativos excluídos da pasta raiz **[!UICONTROL Ativos]**. Você pode selecionar um ativo na pasta Lixeira e restaurá-lo ao seu local de origem ou excluí-lo permanentemente. Você também pode especificar uma palavra-chave ou aplicar filtros padrão ou personalizados para pesquisar ativos apropriados na pasta Lixeira. Para obter mais informações sobre o uso de filtros padrão e personalizados, consulte [Pesquisar ativos no Assets Essentials](search.md).
+
+* **Lixeira**: lista os ativos excluídos da pasta raiz **[!UICONTROL Ativos]**. Você pode selecionar um ativo na pasta Lixeira para restaurá-lo ao seu local original ou excluí-lo permanentemente. Você pode especificar uma palavra-chave ou aplicar filtros, como status do ativo, tipo de arquivo, tipo MIME, tamanho da imagem, criação de ativos, modificação e datas de expiração, bem como filtrar por ativos descartados pelo usuário atual. Também é possível aplicar filtros personalizados para pesquisar ativos apropriados na pasta Lixeira. Para obter mais informações sobre o uso de filtros padrão e personalizados, consulte como [pesquisar ativos no Assets Essentials](search.md).
+
 * **Configurações**: você pode configurar várias opções do Assets Essentials usando as **Configurações**, como formulários de metadados, relatórios e gerenciamento de taxonomia.
 
 <!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
