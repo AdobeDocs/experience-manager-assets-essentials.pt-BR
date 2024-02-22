@@ -4,9 +4,9 @@ description: Entenda a interface e a navegação no [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: 3b70810a264dac062032b07dc3d8ce169b56b4cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '982'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Ao fazer logon no [!DNL Assets Essentials], você verá a seguinte interface.
 
 ![[!DNL Assets Essentials]Interface](assets/essentials-interface.png)
 
-**A**: barra lateral esquerda para navegar pelo repositório e fornecer acesso a algumas outras opções **B**: exibir ou recolher a barra lateral esquerda para aumentar a área de visualização de ativos **C**: filtrar resultados de pesquisa **D**: seleciona todo o conteúdo da pasta selecionada **E**: opções para classificar ativos **F**: Caixa de pesquisa **G**: carregue ou arraste e solte arquivos usando `Add Assets` botão **H**: criar uma nova pasta **I**: alternar entre exibições diferentes
+**A**: barra lateral esquerda para navegar pelo repositório e acessar algumas outras opções **B**: exibir ou recolher a barra lateral esquerda para aumentar a área de visualização de ativos **C**: filtrar os resultados de uma pesquisa **D**: selecionar todo o conteúdo da pasta selecionada **E**: opções de ordenação de ativos **F**: caixa de pesquisa **G**: upload ou arrastar e soltar arquivos com o botão `Add Assets` **H**: criar uma nova pasta **I**: alternar entre diferentes visualizações
 
 <!-- TBD: Need an embedded video here with narration. It has to be hosted on MPC to be embeddable. -->
 
@@ -40,7 +40,7 @@ Você pode navegar pelas pastas da interface do usuário principal ou da barra l
 
 * [Insights](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-reports.html?lang=pt-BR#view-live-statistics): no [!DNL Assets Essentials], você pode visualizar insights em tempo real no seu painel. O Assets Essentials permite que você visualize dados do seu ambiente Assets Essentials em tempo real, por meio do painel Insights. Você pode visualizar métricas de evento em tempo real dos últimos 30 dias ou dos últimos 12 meses.
 
-* **Lixeira**: lista os ativos excluídos da pasta raiz **[!UICONTROL Ativos]**. Você pode selecionar um ativo na pasta Lixeira para restaurá-lo ao seu local original ou excluí-lo permanentemente. Você pode especificar uma palavra-chave ou aplicar filtros, como status do ativo, tipo de arquivo, tipo MIME, tamanho da imagem, criação de ativos, modificação e datas de expiração, bem como filtrar por ativos descartados pelo usuário atual. Também é possível aplicar filtros personalizados para pesquisar ativos apropriados na pasta Lixeira. Para obter mais informações sobre como usar filtros padrão e personalizados, veja como [pesquisar recursos no Assets Essentials](search.md).
+* **Lixeira**: lista os ativos excluídos da pasta raiz **[!UICONTROL Ativos]**. É possível selecionar um ativo na pasta “Lixeira” e restaurá-lo para o local de origem ou excluí-lo permanentemente. Você pode especificar uma palavra-chave ou aplicar filtros, como status do ativo, tipo de arquivo, tipo de MIME, tamanho da imagem, criação de ativos, datas de modificação e vencimento, bem como filtrar por ativos descartados pelo usuário atual. Também é possível aplicar filtros personalizados para pesquisar ativos apropriados na pasta Lixeira. Para obter mais informações sobre como usar filtros padrão e personalizados, veja como [pesquisar recursos no Assets Essentials](search.md).
 
 * **Configurações**: você pode configurar várias opções do Assets Essentials usando as **Configurações**, como formulários de metadados, relatórios e gerenciamento de taxonomia.
 
@@ -76,7 +76,7 @@ Para visualizar um ativo, selecione-o e clique em [!UICONTROL Detalhes] ![ícone
 
 ![Visualizar um ativo](assets/preview-asset-2.png)
 
-**A**: retornar à pasta atual ou ao resultado da pesquisa atual no repositório **B**: nome e formato do arquivo que você está visualizando **C**: Atribuir tarefas **D**: Metadados avançados **E**: palavras-chave e tags inteligentes **F**: comentar e anotar **G**: exibir tarefas relacionadas ao ativo selecionado **H**: exibir e gerenciar versões **I**: exibir representações da imagem **J**: Editar imagem **K**: Metadados básicos **L**: Metadados avançados **M**: palavras-chave e tags inteligentes **N**: Visualize mais de perto. Zoom, tela cheia e outras opções **O**: Prosseguir para o ativo anterior ou seguinte na pasta atual sem voltar para a pasta
+**A**: retornar à pasta atual ou ao resultado da pesquisa atual no repositório **B**: nome e formato do arquivo visualizado **C**: atribuir tarefas **D**: metadados avançados **E**: palavras-chave e tags inteligentes **F**: comentários e anotações **G**: visualizar tarefas relacionadas ao ativo selecionado **H**: visualizar e gerenciar versões **I**: visualizar versões da imagem **J**: editar imagem **K**: metadados básicos **L**: metadados avançados **M**: palavras-chave e tags inteligentes **N**: visualizar mais detalhadamente. Zoom, tela cheia e outras opções **O**: prosseguir para o ativo anterior ou passar para o próximo na pasta atual sem voltar à pasta
 
 Você também pode visualizar vídeos.
 
