@@ -4,10 +4,10 @@ description: Mover, excluir, copiar, renomear, atualizar e criar versões de seu
 role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
-source-git-commit: 638d1cef41c5cde1f4f16e231eef5852d779b7e1
-workflow-type: ht
-source-wordcount: '1152'
-ht-degree: 100%
+source-git-commit: a49bfcdf3dbd6601ed15ae8a3309922c0483b3d7
+workflow-type: tm+mt
+source-wordcount: '1195'
+ht-degree: 95%
 
 ---
 
@@ -47,7 +47,10 @@ Você pode selecionar os ativos exibidos nos resultados da pesquisa e realizar a
 
 * ![ícone de mover](assets/do-not-localize/move-icon.png) Mover o ativo ou pasta selecionada para um local diferente na hierarquia do repositório.
 
-* ![ícone de renomear](assets/do-not-localize/rename-icon.png) Renomear o ativo ou a pasta selecionada. Use um nome exclusivo, caso contrário, a renomeação falhará com um aviso. Você pode tentar novamente com um novo nome.
+* ![ícone de renomear](assets/do-not-localize/rename-icon.png) Renomear o ativo ou a pasta selecionada. Use um nome exclusivo, caso contrário, a renomeação falhará com um aviso. Tente novamente com um novo nome.
+Além disso, você pode clicar no título de um ativo ou em uma pasta para renomeá-lo. Mencione o novo texto no **Renomear ativo** e clique em **Salvar**. Esse recurso está disponível em Grade, Galeria, Cascata e Exibições em lista.
+
+* ![ícone de exibição em cascata](assets/do-not-localize/waterfall-view.png) [!UICONTROL Exibição em cascata].
 
 * ![ícone copiar biblioteca](assets/do-not-localize/copy-icon.png) Adicionar um ativo à biblioteca.
 
