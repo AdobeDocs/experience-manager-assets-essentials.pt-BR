@@ -5,7 +5,7 @@ exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 source-git-commit: d0884f7c5a50d89cb8ce4166dc038814bd7fd07d
 workflow-type: tm+mt
 source-wordcount: '907'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -188,17 +188,17 @@ Para excluir uma coleção:
 
 1. Clique em **[!UICONTROL Excluir]**.
 
-## Gerenciar permissões de uma coleção privada{#manage-permissions-private-collection}
+## Gerenciar permissões para uma coleção privada{#manage-permissions-private-collection}
 
-Você pode permitir que os administradores gerenciem [níveis de acesso](/help/using/manage-permissions.md#manage-permissions-on-folders) para coleções privadas disponíveis no repositório. É possível atribuir permissões, como `Can View` e `Can Edit` aos grupos ou usuários. Você também pode delegar privilégios de gerenciamento de permissões a grupos de usuários. Os usuários que criam coleções privadas são os proprietários dessas coleções. Eles podem usar o [!UICONTROL Gerenciar permissões] ação para conceder acesso aos outros usuários. Além disso, os administradores podem visualizar e gerenciar permissões das coleções privadas na [!DNL Experience Manager] repositório.
+Você pode permitir que administradores gerenciem os [níveis de acesso](/help/using/manage-permissions.md#manage-permissions-on-folders) de coleções privadas disponíveis no repositório. É possível atribuir permissões como `Can View` e `Can Edit` a usuários ou a grupos de usuários. Você também pode delegar privilégios de gerenciamento de permissões a grupos de usuários. Usuários que criam coleções privadas são os proprietários dessas coleções. É possível usar a ação [!UICONTROL Gerenciar permissões] para conceder acesso a outras pessoas. Além disso, os administradores podem visualizar e gerenciar permissões das coleções privadas no repositório [!DNL Experience Manager].
 <!--
 >[!NOTE]
 >
 >Adobe does not recommend to assign permissions to users.
 -->
-Para obter informações sobre como atribuir as permissões disponíveis a grupos de usuários, consulte [Adicionar permissões a grupos de usuários](/help/using/manage-permissions.md#add-permissions).
+Para mais informações sobre como atribuir as permissões disponíveis a grupos de usuários, consulte [Adicionar permissões a grupos de usuários](/help/using/manage-permissions.md#add-permissions).
 
-Para obter mais informações sobre o fluxo de trabalho completo, consulte [gerenciar permissões](/help/using/manage-permissions.md).
+Para mais informações sobre o fluxo de trabalho completo, consulte [gerenciar permissões](/help/using/manage-permissions.md).
 
 ## Próximas etapas {#next-steps}
 
@@ -206,4 +206,4 @@ Para obter mais informações sobre o fluxo de trabalho completo, consulte [gere
 
 * Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
-* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support)
+* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General#support)
