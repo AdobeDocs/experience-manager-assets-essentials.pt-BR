@@ -5,9 +5,9 @@ role: User,Leader
 contentOwner: AG
 exl-id: b01e98b9-0cc2-47c5-9f5b-79b8e6bef39f
 source-git-commit: a49bfcdf3dbd6601ed15ae8a3309922c0483b3d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1195'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -47,8 +47,8 @@ Você pode selecionar os ativos exibidos nos resultados da pesquisa e realizar a
 
 * ![ícone de mover](assets/do-not-localize/move-icon.png) Mover o ativo ou pasta selecionada para um local diferente na hierarquia do repositório.
 
-* ![ícone de renomear](assets/do-not-localize/rename-icon.png) Renomear o ativo ou a pasta selecionada. Use um nome exclusivo, caso contrário, a renomeação falhará com um aviso. Tente novamente com um novo nome.
-Além disso, você pode clicar no título de um ativo ou em uma pasta para renomeá-lo. Mencione o novo texto no **Renomear ativo** e clique em **Salvar**. Esse recurso está disponível em Grade, Galeria, Cascata e Exibições em lista.
+* ![ícone de renomear](assets/do-not-localize/rename-icon.png) Renomear o ativo ou a pasta selecionada. Use um nome exclusivo, caso contrário, a renomeação falhará com um aviso. Você pode tentar novamente com um novo nome.
+Além disso, é possível clicar no título de um ativo ou de uma pasta para renomeá-lo. Insira o novo texto na caixa de texto **Renomear ativo** e clique em **Salvar**. Esse recurso está disponível nas exibições em grade, galeria, cascata e lista.
 
 * ![ícone de exibição em cascata](assets/do-not-localize/waterfall-view.png) [!UICONTROL Exibição em cascata].
 
@@ -168,10 +168,10 @@ Para adicionar o campo de metadados Data de expiração ao formulário, arraste 
 
 ## Próximas etapas {#next-steps}
 
-* [Assista a um vídeo sobre gerenciamento de ativos no Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/managing.html?lang=pt-BR)
+* [Assista a um vídeo sobre gerenciamento de ativos no Assets Essentials](https://experienceleague.adobe.com/pt-br/docs/experience-manager-learn/assets-essentials/basics/managing)
 
 * Forneça feedback sobre o produto usando a opção de [!UICONTROL Feedback] disponível na interface do Assets Essentials
 
 * Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
-* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support)
+* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General#support)
