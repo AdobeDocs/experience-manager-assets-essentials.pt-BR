@@ -2,8 +2,8 @@
 title: Como gerenciar permissões para pastas no AEM Assets Essentials?
 description: O Assets Essentials permite que os administradores gerenciem os níveis de acesso para pastas disponíveis no repositório. Crie grupos de usuários e atribua permissões a esses grupos para gerenciar os níveis de acesso. Como administrador, você também pode delegar os privilégios de gerenciamento de permissões a grupos de usuários no nível da pasta.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: a77513f925203f9ad6cad9fd517f28989385af95
-workflow-type: ht
+source-git-commit: ec723ae4222254c64e8ddc2e03f8a523203f9f8a
+workflow-type: tm+mt
 source-wordcount: '1657'
 ht-degree: 100%
 
@@ -118,7 +118,7 @@ Para atribuir permissões de grupo em pastas:
 
 1. Na caixa de diálogo **[!UICONTROL Gerenciar permissões]**, especifique o nome do grupo ou um usuário no campo **[!UICONTROL Grupos e Usuários]**.
 
-1. Selecione o [nível de acesso](#manage-permissions-folders) na lista suspensa **[!UICONTROL Acesso]**.
+1. Selecione o [nível de acesso](#manage-permissions-on-folders) na lista suspensa **[!UICONTROL Acesso]**.
 
 1. Clique em **[!UICONTROL Adicionar]** para fazer uma alteração imediata nas permissões para o usuário ou grupo de usuários.
 
@@ -144,7 +144,7 @@ Para editar permissões atribuídas a grupos de usuários em pastas:
 
 1. Selecione a pasta e clique em **[!UICONTROL Gerenciar permissões]**.
 
-1. Na caixa de diálogo **[!UICONTROL Gerenciar permissões]**, edite o [nível de acesso](#manage-permissions-folders) na lista suspensa **[!UICONTROL Acesso]**.
+1. Na caixa de diálogo **[!UICONTROL Gerenciar permissões]**, edite o [nível de acesso](#manage-permissions-on-folders) na lista suspensa **[!UICONTROL Acesso]**.
 
 1. [Adicione mais grupos de usuários ou usuários](#add-permissions) às regras de permissão existentes, se necessário.
 

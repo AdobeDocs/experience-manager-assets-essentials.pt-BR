@@ -4,10 +4,10 @@ description: Gerenciar metadados de ativos no  [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: b14d8533854df448e2cb7b527ef5b7e69c072380
-workflow-type: ht
-source-wordcount: '1652'
-ht-degree: 100%
+source-git-commit: 37beb971f1e675162eb4b8e9ab008b20a241c066
+workflow-type: tm+mt
+source-wordcount: '1773'
+ht-degree: 92%
 
 ---
 
@@ -134,7 +134,7 @@ Veja abaixo uma visão geral de cada tipo de propriedade e como eles são armaze
 | Palavras-chave | Adiciona palavras-chave de forma livre (mapeadas para dc:subject). |
 | Tags inteligentes | Adicione para aumentar os recursos de pesquisa inserindo tags de metadados automaticamente. |
 
-### Atribuir formulário de metadados a uma pasta {#assign-metadata-form-folder}
+### Atribuir formulário de metadados a pastas {#assign-metadata-form-folder}
 
 Você também pode atribuir um formulário de metadados a uma pasta na implantação do Assets Essentials. O formulário de metadados atribuído a uma pasta de acordo com o tipo MIME é substituído quando você aplica manualmente um formulário de metadados a uma pasta. Em seguida, todos os ativos na pasta, incluindo os contidos nas subpastas, exibem as propriedades definidas no formulário de metadados.
 
@@ -142,13 +142,29 @@ Para atribuir um formulário de metadados a uma pasta:
 
 1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Formulários de metadados]** e selecione um formulário de metadados.
 
-2. Clique em **[!UICONTROL Atribuir à pasta]**
+2. Clique em **[!UICONTROL Atribuir às pastas]**.
 
-3. Selecione a pasta e clique em **[!UICONTROL Atribuir]**.
+3. Selecione as pastas e clique em **[!UICONTROL Atribuir]**. Você pode selecionar as pastas clicando nos nomes das pastas.
 
    ![Atribuir formulário de metadados a uma pasta](/help/using/assets/assign-to-folder.png)
 
    Você também pode navegar até a página de detalhes da pasta e selecionar um formulário de metadados nas propriedades da pasta disponíveis no painel direito para atribuir o formulário à pasta.
+
+   ![propriedades da pasta do formulário de metadados](/help/using/assets/folder-properties-metadata-forms.png)
+
+### Remover formulário de metadados das pastas {#remove-metadata-form-folder}
+
+Depois de atribuir um formulário de metadados a uma ou várias pastas, o Experience Manager Assets também permite remover o formulário de metadados das pastas selecionadas.
+
+Para remover um formulário de metadados de uma pasta:
+
+1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Formulários de metadados]** e selecione um formulário de metadados.
+
+1. Clique em **[!UICONTROL Remover das pastas]**. A lista de pastas atribuídas para a exibição do formulário de metadados.
+
+1. Selecione a pasta e clique em **[!UICONTROL Remover]**. Você também pode selecionar várias pastas na lista.
+
+Você também pode navegar até a página de detalhes da pasta e selecionar **[!UICONTROL Formulário de metadados mapeados pelo sistema]** do **[!UICONTROL Forms de metadados]** para remover o formulário de metadados atribuído de uma pasta.
 
 ## Próximas etapas {#next-steps}
 
