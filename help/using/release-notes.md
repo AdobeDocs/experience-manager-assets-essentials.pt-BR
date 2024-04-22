@@ -4,9 +4,9 @@ description: Notas de versão e problemas conhecidos do [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 8ad7c9e02e94656200b715047bb25ed79bdbf06d
+source-git-commit: ae72670b4e66b79ac531f4050703951e0e7852e0
 workflow-type: tm+mt
-source-wordcount: '2865'
+source-wordcount: '2847'
 ht-degree: 93%
 
 ---
@@ -39,7 +39,7 @@ O Experience Manager Assets agora oferece uma experiência do usuário simplific
 
 **Ações rápidas de vídeo expresso**
 
-O Experience Manager Assets agora inclui ferramentas de edição de vídeo fáceis e intuitivas, viabilizadas pelo Adobe Express, para aumentar a reutilização de conteúdo e acelerar a velocidade do conteúdo. A edição leve de vídeos no AEM Assets não requer amplo conhecimento de ferramentas e conceitos de edição de vídeo. As opções de edição incluem cortar, recortar, redimensionar um vídeo e também converter um MP4 em um arquivo GIF.
+O Experience Manager Assets agora inclui ferramentas de edição de vídeo fáceis e intuitivas, viabilizadas pelo Adobe Express, para aumentar a reutilização de conteúdo e acelerar a velocidade do conteúdo. As opções de edição incluem cortar, recortar, redimensionar um vídeo e também converter um MP4 em um arquivo GIF.
 
 ![recortar vídeo com Adobe Express](/help/using/assets/adobe-express-crop-video.png)
 
