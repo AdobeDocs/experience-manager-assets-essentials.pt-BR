@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: 37beb971f1e675162eb4b8e9ab008b20a241c066
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1773'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -142,15 +142,15 @@ Para atribuir um formulário de metadados a uma pasta:
 
 1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Formulários de metadados]** e selecione um formulário de metadados.
 
-2. Clique em **[!UICONTROL Atribuir às pastas]**.
+2. Clique em **[!UICONTROL Atribuir a pastas]**.
 
-3. Selecione as pastas e clique em **[!UICONTROL Atribuir]**. Você pode selecionar as pastas clicando nos nomes das pastas.
+3. Selecione as pastas e clique em **[!UICONTROL Atribuir]**. É possível selecionar as pastas clicando nos nomes delas.
 
    ![Atribuir formulário de metadados a uma pasta](/help/using/assets/assign-to-folder.png)
 
    Você também pode navegar até a página de detalhes da pasta e selecionar um formulário de metadados nas propriedades da pasta disponíveis no painel direito para atribuir o formulário à pasta.
 
-   ![propriedades da pasta do formulário de metadados](/help/using/assets/folder-properties-metadata-forms.png)
+   ![Propriedades da pasta do formulário de metadados](/help/using/assets/folder-properties-metadata-forms.png)
 
 ### Remover formulário de metadados das pastas {#remove-metadata-form-folder}
 
@@ -160,11 +160,11 @@ Para remover um formulário de metadados de uma pasta:
 
 1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Formulários de metadados]** e selecione um formulário de metadados.
 
-1. Clique em **[!UICONTROL Remover das pastas]**. A lista de pastas atribuídas para a exibição do formulário de metadados.
+1. Clique em **[!UICONTROL Remover das pastas]**. A lista de pastas atribuídas para a exibição do formulário de metadados.
 
-1. Selecione a pasta e clique em **[!UICONTROL Remover]**. Você também pode selecionar várias pastas na lista.
+1. Selecione a pasta e clique em **[!UICONTROL Remover]**. Você também pode selecionar várias pastas da lista.
 
-Você também pode navegar até a página de detalhes da pasta e selecionar **[!UICONTROL Formulário de metadados mapeados pelo sistema]** do **[!UICONTROL Forms de metadados]** para remover o formulário de metadados atribuído de uma pasta.
+Além disso, é possível navegar até a página de detalhes da pasta e selecionar **[!UICONTROL Formulário de metadados mapeados pelo sistema]** no campo **[!UICONTROL Formulários de metadados]** para remover o formulário de metadados atribuído de uma pasta.
 
 ## Próximas etapas {#next-steps}
 
