@@ -3,9 +3,9 @@ title: Pesquisar e descobrir ativos no [!DNL Assets Essentials]
 description: Pesquisar e descobrir ativos no [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 0da570c129407b6ecaf3e41223f61ce279a308d0
+source-git-commit: 5d6cc2c27fc416d3f616a25db0e6497d9ad946c1
 workflow-type: ht
-source-wordcount: '1890'
+source-wordcount: '1834'
 ht-degree: 100%
 
 ---
@@ -311,17 +311,19 @@ O vídeo a seguir ilustra o processo completo, desde o acesso à interface da pe
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428407)
 
-### Desabilitar pesquisa contextual {#disable-contextual-search}
+<!--
+### Disable Contextual Search {#disable-contextual-search}
 
-Admins também têm a opção de desabilitar a pesquisa contextual para usuários da organização. Para desabilitá-la, siga estas etapas:
+Administrators also have the option to disable Contextual Search for users in your organization. To do so, execute the following steps:
 
-1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Configurações gerais]**.
+1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL General Settings]**.
 
-1. Na seção [!UICONTROL Pesquisa contextual], desative o botão **[!UICONTROL Habilitar pesquisa contextual para a organização]** para desabilitar o recurso de pesquisa contextual para todos os usuários da organização.
+1. In the [!UICONTROL Contextual Search] section, turn off the **[!UICONTROL Enable Contextual Search for your organization]** toggle to disable the Contextual Search feature for all users in your organization.  
+-->
 
 ### Feedback da pesquisa contextual {#contextual-search-feedback}
 
-Se precisar fornecer feedback sobre o recurso de pesquisa contextual, clique no ![ícone Pesquisa contextual](assets/do-not-localize/contextual-search-icon.png) e no ícone Feedback. Selecione o tipo de feedback, especifique o assunto e a descrição e clique em **[!UICONTROL Enviar]**.
+Se precisar fornecer feedback sobre o recurso de pesquisa contextual, clique no ![ícone Pesquisa contextual](assets/do-not-localize/Smock_Help_18_N.svg) e no ícone Feedback. Selecione o tipo de feedback, especifique o assunto e a descrição e clique em **[!UICONTROL Enviar]**.
 
 ![Feedback da pesquisa contextual](/help/using/assets/contextual-search-feedback.png)
 
