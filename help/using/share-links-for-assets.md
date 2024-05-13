@@ -2,10 +2,10 @@
 title: Como compartilhar links com ativos?
 description: Gere um link e compartilhe ativos com outras pessoas que não têm acesso ao aplicativo  [!DNL Assets Essentials] .
 exl-id: 6e05b06c-7436-40e3-acee-c8b1ed218f9e
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
-source-wordcount: '407'
-ht-degree: 100%
+source-git-commit: 0ce79167583178f2b81b7ac9f91dd518455cc49f
+workflow-type: tm+mt
+source-wordcount: '413'
+ht-degree: 76%
 
 ---
 
@@ -20,6 +20,11 @@ Para gerar um link para um ativo ou uma pasta contendo ativos:
 1. Selecione o(s) ativo(s) e/ou a(s) pasta(s) contendo os ativos e clique em **[!UICONTROL Compartilhar link]**.
 
 1. Se desejar ajustá-lo, clique no ícone Calendário para definir uma data de expiração para o link usando o campo **[!UICONTROL Data de vencimento]**. Também é possível especificar uma data diretamente no formato `yyyy-mm-dd`. Por padrão, a data de expiração de um link é definida como 2 semanas a partir da data de compartilhamento.
+
+>[!NOTE]
+> O formato de data muda com base no local escolhido.
+> Por exemplo, a variável `de-DE` usos `dd-mm-yyyy`, `ja-JA` usos `yyyy-mm-dd`, considerando que, `en-EN` usos `mm-dd-yyyy`.
+>
 
 1. Copie o link do campo **[!UICONTROL Compartilhar link]**.
 
@@ -43,10 +48,10 @@ Para baixar todos os ativos de uma só vez, alterne para a **[!UICONTROL Exibiç
 
 ## Próximas etapas {#next-steps}
 
-* [Assista a um vídeo sobre compartilhamento de links de ativos no Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html?lang=pt-BR)
+* [Assista a um vídeo sobre compartilhamento de links de ativos no Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html?lang=pt-BR).
 
-* Forneça feedback sobre o produto usando a opção de [!UICONTROL Feedback] disponível na interface do Assets Essentials
+* Forneça feedback sobre o produto usando o [!UICONTROL Feedback] opção disponível na interface do usuário do Assets Essentials.
 
-* Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
+* Forneça feedback sobre a documentação usando o [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponível na barra lateral direita.
 
-* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support)
+* Contato [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support).
