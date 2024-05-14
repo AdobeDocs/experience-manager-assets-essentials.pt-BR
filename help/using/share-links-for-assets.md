@@ -3,9 +3,9 @@ title: Como compartilhar links com ativos?
 description: Gere um link e compartilhe ativos com outras pessoas que não têm acesso ao aplicativo  [!DNL Assets Essentials] .
 exl-id: 6e05b06c-7436-40e3-acee-c8b1ed218f9e
 source-git-commit: 0ce79167583178f2b81b7ac9f91dd518455cc49f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '413'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -22,8 +22,8 @@ Para gerar um link para um ativo ou uma pasta contendo ativos:
 1. Se desejar ajustá-lo, clique no ícone Calendário para definir uma data de expiração para o link usando o campo **[!UICONTROL Data de vencimento]**. Também é possível especificar uma data diretamente no formato `yyyy-mm-dd`. Por padrão, a data de expiração de um link é definida como 2 semanas a partir da data de compartilhamento.
 
 >[!NOTE]
-> O formato de data muda com base no local escolhido.
-> Por exemplo, a variável `de-DE` usos `dd-mm-yyyy`, `ja-JA` usos `yyyy-mm-dd`, considerando que, `en-EN` usos `mm-dd-yyyy`.
+> O formato da data muda com base na localidade escolhida.
+> Por exemplo, `de-DE` utiliza `dd-mm-yyyy`, `ja-JA` utiliza `yyyy-mm-dd`, e `en-EN` utiliza `mm-dd-yyyy`.
 >
 
 1. Copie o link do campo **[!UICONTROL Compartilhar link]**.
@@ -34,7 +34,7 @@ Para gerar um link para um ativo ou uma pasta contendo ativos:
 
 ## Acessar os ativos compartilhados {#access-shared-assets}
 
-Após compartilhar o link público para os ativos, os destinatários podem clicar no link para visualizar ou baixar os ativos compartilhados em um navegador da Web, sem precisar fazer logon no [!DNL Assets Essentials].
+Após compartilhar o link público para os ativos, os destinatários podem clicar nele para visualizar ou baixar os ativos compartilhados em um navegador da web sem precisar fazer logon no [!DNL Assets Essentials].
 
 Clique no link, clique na pasta para navegar até o ativo e, em seguida, clique no ativo para visualizá-lo. Você pode optar por exibir os ativos compartilhados em uma Exibição de lista ou em uma Exibição de cartão.
 
@@ -48,10 +48,10 @@ Para baixar todos os ativos de uma só vez, alterne para a **[!UICONTROL Exibiç
 
 ## Próximas etapas {#next-steps}
 
-* [Assista a um vídeo sobre compartilhamento de links de ativos no Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html?lang=pt-BR).
+* [Assista a um vídeo sobre compartilhamento de links para ativos no Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html?lang=pt-BR).
 
-* Forneça feedback sobre o produto usando o [!UICONTROL Feedback] opção disponível na interface do usuário do Assets Essentials.
+* Forneça feedback sobre o produto por meio da opção de [!UICONTROL Feedback] disponível na interface do usuário do Assets Essentials.
 
-* Forneça feedback sobre a documentação usando o [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponível na barra lateral direita.
+* Forneça feedback sobre a documentação por meio das opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita.
 
-* Contato [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support).
+* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support).

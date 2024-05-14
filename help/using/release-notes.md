@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 source-git-commit: eac31e102b9e26241cd513b1aeb8774802120a9d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2903'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -44,15 +44,15 @@ O Experience Manager Assets agora inclui ferramentas de edição de vídeo fáce
 ![cortar vídeo com o Adobe Express](/help/using/assets/adobe-express-crop-video.png)
 
 >[!NOTE]
-> Direitos de acesso [!DNL Adobe Express] é necessário e pelo menos um ambiente no AEM Assets. O ambiente pode ser qualquer um dos repositórios dentro de [!DNL Assets as a Cloud Service] ou [!DNL Assets Essentials].
+> São necessários direitos de acesso ao [!DNL Adobe Express] e pelo menos um ambiente no AEM Assets. O ambiente pode ser qualquer um dos repositórios dentro do [!DNL Assets as a Cloud Service] ou [!DNL Assets Essentials].
 
 **Atribuir ou remover um formulário de metadados a várias pastas**
 
-Um formulário de metadados agora pode ser atribuído ou removido de várias pastas.
+Agora, um formulário de metadados pode ser atribuído a várias pastas ou removido delas.
 
 **Gerenciar permissões para coleções particulares**
 
-Você pode permitir que administradores ou não administradores (outros usuários) gerenciem níveis de acesso para coleções privadas disponíveis no repositório. É possível atribuir permissões como `Can View` e `Can Edit` a usuários ou a grupos de usuários. Você também pode delegar privilégios de gerenciamento de permissões a grupos de usuários. 
+É possível permitir que usuários, administradores ou não, gerenciem os níveis de acesso a coleções privadas disponíveis no repositório. É possível atribuir permissões como `Can View` e `Can Edit` a usuários ou a grupos de usuários. Você também pode delegar privilégios de gerenciamento de permissões a grupos de usuários. 
 
 
 **Aprimoramentos com base no feedback dos clientes**
@@ -62,7 +62,7 @@ Aprimoramentos e correções de erros com base no feedback do cliente.
 
 ## Problemas conhecidos {#known-issues}
 
-A lista de problemas conhecidos do [!DNL Assets Essentials] A oferta do é revisada e atualizada continuamente.
+A lista de problemas conhecidos do [!DNL Assets Essentials] é revisada e atualizada continuamente.
 
 <!--
 
@@ -109,7 +109,7 @@ Agora, admins podem visualizar os relatórios de uso do armazenamento disponíve
 
 **Configuração da primeira página de pesquisa**
 
-O Assets Essentials agora permite configurar a experiência da página inicial da sua organização. Se você selecionar pesquisar primeiro como página inicial, poderá configurar o alinhamento da barra de pesquisa, a imagem do plano de fundo e o logotipo da sua organização. Escolhendo [!UICONTROL Configurações gerais] substitui a landing page padrão. Por exemplo, a landing page padrão é [!UICONTROL Meu espaço de trabalho] para administradores e [!UICONTROL Pesquisar primeiro] para não administradores, escolher qualquer uma das opções em Configurações gerais aplica isso a todos os usuários
+O Assets Essentials agora permite configurar a experiência da página inicial da sua organização. Se você selecionar a opção “Pesquisar primeiro” como a página inicial, poderá configurar o alinhamento da barra de pesquisa, a imagem do fundo e o logotipo da sua organização. Escolher [!UICONTROL Configurações gerais] substitui a página de destino padrão. Por exemplo, a página de destino padrão é [!UICONTROL Meu espaço de trabalho] para administradores e [!UICONTROL Pesquisar primeiro] para outros, escolher qualquer uma das opções em “Configurações gerais” a aplicará a todos os usuários
 
 ![Configuração “Pesquisar primeiro”](/help/using/assets/search-first-configuration.png)
 
@@ -212,7 +212,7 @@ O meu espaço de trabalho agora exibe os dez ativos mais baixados para o seu amb
 
 **Atualizações em massa para metadados de ativos**
 
-As atualizações de metadados em massa permitem executar atualizações de metadados comuns em vários ativos simultaneamente. Não é necessário atualizar registros individualmente e você pode aplicar rapidamente as propriedades aos ativos ou pastas acessados por meio de pesquisa. Além disso, as atualizações de metadados em massa substituem quaisquer valores existentes, o que significa que as palavras-chave existentes são substituídas pela atualização de Metadados em massa.
+As atualizações de metadados em massa permitem executar atualizações de metadados comuns em vários ativos simultaneamente. Não é necessário atualizar registros individualmente, e é possível aplicar propriedades rapidamente a ativos ou pastas acessados por meio da pesquisa. Além disso, as atualizações de metadados em massa substituem quaisquer valores já existentes, o que significa que as palavras-chave já existentes são substituídas pela atualização de metadados em massa.
 
 **Meu espaço de trabalho com widgets configuráveis**
 
