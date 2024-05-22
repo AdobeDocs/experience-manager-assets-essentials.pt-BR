@@ -4,8 +4,8 @@ description: Editar imagens usando opções viabilizadas pelo [!DNL Adobe Photos
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: a4195938dbd220f6b9419e5ce7a0ad1ff1982d7c
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '1147'
 ht-degree: 100%
 
 ---
