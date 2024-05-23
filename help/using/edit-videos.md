@@ -2,10 +2,11 @@
 title: Editar vídeos
 description: Editar vídeos usando [!DNL Adobe Express] opções viabilizadas pelo e salvar vídeos atualizados como versões.
 role: User
-source-git-commit: 5bcec500ff6bf67426f532a98eec5d351cc1ad03
+exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
+source-git-commit: 2b27cf67be1cc0466a41b29f04a96adddedd1977
 workflow-type: tm+mt
 source-wordcount: '786'
-ht-degree: 16%
+ht-degree: 18%
 
 ---
 
@@ -19,7 +20,7 @@ Saiba mais sobre o [interface de visualização](/help/using/navigate-view.md#pr
 
 ## Pré-requisitos {#prerequisites}
 
-Direitos de acesso [!DNL Adobe Express] e pelo menos um ambiente no AEM Assets. O ambiente pode ser qualquer um dos repositórios dentro de [!DNL Assets as a Cloud Service] ou [!DNL Assets Essentials].
+Direitos de acesso [!DNL Adobe Express] e pelo menos um ambiente no AEM Assets. O ambiente pode ser qualquer um dos repositórios dentro do [!DNL Assets as a Cloud Service] ou [!DNL Assets Essentials].
 
 ## Editar vídeos usando o Adobe Express {#edit-video-using-express}
 
@@ -34,7 +35,7 @@ Você pode eliminar partes indesejadas do vídeo usando recursos incorporados [!
 3. Arraste as alças nos cantos do vídeo para criar o recorte desejado ou escolha entre os tamanhos de tela existentes, conforme desejado.
 4. Você pode optar por ativar ou desativar o som do vídeo.
 5. Clique em **[!UICONTROL Aplicar]**.
-   ![recortar vídeo com Adobe Express](/help/using/assets/adobe-express-crop-video.png)
+   ![cortar vídeo com o Adobe Express](/help/using/assets/adobe-express-crop-video.png)
 
    O vídeo cortado está disponível para download. Você pode salvar o ativo editado como uma nova versão do mesmo ativo ou salvá-lo como um novo ativo. ![Salvar vídeo com o Adobe Express](/help/using/assets/adobe-express-save-video.png)
 
@@ -84,7 +85,7 @@ O vídeo está disponível em formato GIF para download. É possível salvar o a
 
 * Somente vídeos no formato MP4 são suportados para edição.
 
-* O tamanho máximo de arquivo de origem com suporte é 200 MB
+* O tamanho máximo de arquivo de origem com suporte é de 1 GB
 
 * Os vídeos suportados são maiores que 46 pixels e menores que 3840 pixels em qualquer lado
 
