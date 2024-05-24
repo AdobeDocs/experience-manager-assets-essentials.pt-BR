@@ -3,7 +3,7 @@ title: Editar vídeos
 description: Editar vídeos usando [!DNL Adobe Express] opções viabilizadas pelo e salvar vídeos atualizados como versões.
 role: User
 exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
-source-git-commit: e775f6ebeda48ff01082c471a9f997c57e0dedb3
+source-git-commit: 456ffec077617909f98b66bed711921c0b7b3925
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 18%
@@ -87,7 +87,7 @@ O vídeo está disponível em formato GIF para download. É possível salvar o a
 
 * O tamanho máximo de arquivo de origem com suporte é 200 MB.
 
-* Os vídeos suportados são maiores que 46 pixels e menores que 3840 pixels em qualquer lado
+* Os vídeos compatíveis são maiores que 46 pixels e menores que 3840 pixels em qualquer lado.
 
 * Os navegadores da Web compatíveis são Google Chrome, Firefox, Safari e Edge.
 
