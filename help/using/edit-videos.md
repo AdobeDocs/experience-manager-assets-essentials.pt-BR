@@ -3,7 +3,7 @@ title: Editar vídeos
 description: Editar vídeos usando [!DNL Adobe Express] opções viabilizadas pelo e salvar vídeos atualizados como versões.
 role: User
 exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
-source-git-commit: eede4280258595b7c74061786a8c173afaeee058
+source-git-commit: e775f6ebeda48ff01082c471a9f997c57e0dedb3
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 18%
@@ -95,7 +95,7 @@ O vídeo está disponível em formato GIF para download. É possível salvar o a
 
 ### Próximas etapas {#next-steps}
 
-* Forneça feedback sobre o produto usando a opção de [!UICONTROL Feedback] disponível na interface do Assets Essentials
+* Forneça feedback sobre o produto por meio da opção de [!UICONTROL Feedback] disponível na interface do usuário do Assets Essentials.
 
 * Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
