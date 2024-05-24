@@ -4,9 +4,9 @@ description: Editar imagens usando opções viabilizadas pelo [!DNL Adobe Expres
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: f65e4eb7e0877e8b8d7ba4d5dd88c64b4423f152
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '796'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -76,9 +76,9 @@ A imagem cortada estará disponível para download. É possível salvar o ativo 
 
 ### Limitações {#limitations-adobe-express}
 
-* Resolução de imagem suportada: Mínimo - 50 pixels, Máximo - 6000 pixels por dimensão.
+* Resolução da imagem compatível: mínimo de 50 pixels e máximo de 6.000 pixels por dimensão.
 
-* Tamanho máximo de arquivo aceito: 17 MB.
+* Tamanho máximo do arquivo aceito: 17 MB.
 
 ## Editar imagens usando o editor integrado do Adobe Express {#edit-using-embedded-editor}
 
