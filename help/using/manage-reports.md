@@ -2,10 +2,10 @@
 title: Gerenciar relatórios no Assets Essentials
 description: Acesse os dados na seção de relatórios do Assets Essentials para avaliar o uso de produtos e recursos e obter insights sobre as principais métricas de sucesso.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: b24113299b5f8d32b3c4aef453923b23dc775228
-workflow-type: ht
-source-wordcount: '857'
-ht-degree: 100%
+source-git-commit: eede4280258595b7c74061786a8c173afaeee058
+workflow-type: tm+mt
+source-wordcount: '930'
+ht-degree: 92%
 
 ---
 
@@ -44,26 +44,32 @@ O Assets Essentials permite que você visualize dados do seu ambiente Assets Ess
 
 Clique na opção **[!UICONTROL Insights]**, disponível no painel de navegação esquerdo, para exibir os seguintes gráficos gerados automaticamente:
 
-![Insights](assets/insights.png)
-
 * **Downloads**: o número de ativos baixados do ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados por meio de um gráfico de linhas.
+  ![downloads](/help/using/assets/insights-downloads2341.svg)
 
 * **Uploads**: o número de ativos carregados para o ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados por meio de um gráfico de linhas.
+  ![uploads](/help/using/assets/insights-uplods2.svg)
 
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
 * **Uso do armazenamento**: o uso de armazenamento (em bytes) no ambiente do Assets Essentials, representado com um gráfico de barras.
-
-<!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
+  ![uso do armazenamento](/help/using/assets/insights-storage-usage1.svg)
+  <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
 <!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
 * **Principais pesquisas**: visualize os principais termos pesquisados junto com o número de vezes que eles foram pesquisados em seu ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados em formato tabular.
+  ![uso do armazenamento](/help/using/assets/insights-top-search.svg)
 
   <!--
    ![Insights](assets/insights1.png)
    ![Insights](assets/insights2.png)
    -->
+
+* **Contagem de ativos por tamanho:** Segmenta a contagem total de ativos no ambiente Assets Essentials, destacando a contagem e a porcentagem de ativos com base em seus tipos de arquivos, representada por um gráfico de rosca.
+  ![insights-assets-count-by-size](/help/using/assets/insights-assets-count-by-size.svg)
+* **Contagem de ativos por tipo de ativo:** Segmenta a contagem total de ativos no ambiente Assets Essentials em intervalos de tamanho diferentes, destacando a contagem e a porcentagem de ativos em cada intervalo de tamanho, representados usando um gráfico de rosca.
+  ![insights-assets-count-by-size](/help/using/assets/insights-assest-count-by-asset-type1.svg)
 
 ## Criar um relatório de downloads {#create-download-report}
 
