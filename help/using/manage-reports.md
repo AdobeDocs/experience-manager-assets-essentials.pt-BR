@@ -2,10 +2,10 @@
 title: Gerenciar relatórios no Assets Essentials
 description: Acesse os dados na seção de relatórios do Assets Essentials para avaliar o uso de produtos e recursos e obter insights sobre as principais métricas de sucesso.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: eede4280258595b7c74061786a8c173afaeee058
+source-git-commit: 8f91cd833712363e09b81a5f59b08e2f41237d90
 workflow-type: tm+mt
-source-wordcount: '930'
-ht-degree: 92%
+source-wordcount: '862'
+ht-degree: 99%
 
 ---
 
@@ -65,11 +65,6 @@ Clique na opção **[!UICONTROL Insights]**, disponível no painel de navegaçã
    ![Insights](assets/insights1.png)
    ![Insights](assets/insights2.png)
    -->
-
-* **Contagem de ativos por tamanho:** Segmenta a contagem total de ativos no ambiente Assets Essentials, destacando a contagem e a porcentagem de ativos com base em seus tipos de arquivos, representada por um gráfico de rosca.
-  ![insights-assets-count-by-size](/help/using/assets/insights-assets-count-by-size.svg)
-* **Contagem de ativos por tipo de ativo:** Segmenta a contagem total de ativos no ambiente Assets Essentials em intervalos de tamanho diferentes, destacando a contagem e a porcentagem de ativos em cada intervalo de tamanho, representados usando um gráfico de rosca.
-  ![insights-assets-count-by-size](/help/using/assets/insights-assest-count-by-asset-type1.svg)
 
 ## Criar um relatório de downloads {#create-download-report}
 
