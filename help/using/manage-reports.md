@@ -3,9 +3,9 @@ title: Gerenciar relatórios no Assets Essentials
 description: Acesse os dados na seção de relatórios do Assets Essentials para avaliar o uso de produtos e recursos e obter insights sobre as principais métricas de sucesso.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 8f91cd833712363e09b81a5f59b08e2f41237d90
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '862'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -47,19 +47,19 @@ Clique na opção **[!UICONTROL Insights]**, disponível no painel de navegaçã
 * **Downloads**: o número de ativos baixados do ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados por meio de um gráfico de linhas.
   ![downloads](/help/using/assets/insights-downloads2341.svg)
 
-* **Uploads**: o número de ativos carregados para o ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados por meio de um gráfico de linhas.
+* **Uploads**: o número de ativos enviados para o ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados por meio de um gráfico de linhas.
   ![uploads](/help/using/assets/insights-uplods2.svg)
 
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
-* **Uso do armazenamento**: o uso de armazenamento (em bytes) no ambiente do Assets Essentials, representado com um gráfico de barras.
-  ![uso do armazenamento](/help/using/assets/insights-storage-usage1.svg)
+* **Uso do armazenamento**: o uso de armazenamento (em bytes) no ambiente do Assets Essentials, representado por um gráfico de barras.
+  ![utilização do armazenamento](/help/using/assets/insights-storage-usage1.svg)
   <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
 <!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
 * **Principais pesquisas**: visualize os principais termos pesquisados junto com o número de vezes que eles foram pesquisados em seu ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados em formato tabular.
-  ![uso do armazenamento](/help/using/assets/insights-top-search.svg)
+  ![utilização do armazenamento](/help/using/assets/insights-top-search.svg)
 
   <!--
    ![Insights](assets/insights1.png)
