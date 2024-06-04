@@ -3,9 +3,9 @@ title: Pesquisar e descobrir ativos no [!DNL Assets Essentials]
 description: Pesquisar e descobrir ativos no [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 5d6cc2c27fc416d3f616a25db0e6497d9ad946c1
-workflow-type: tm+mt
-source-wordcount: '1834'
+source-git-commit: 34e710243a77647c50c2057c54f68dbe23d3997a
+workflow-type: ht
+source-wordcount: '1890'
 ht-degree: 100%
 
 ---
@@ -311,15 +311,13 @@ O vídeo a seguir ilustra o processo completo, desde o acesso à interface da pe
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428407)
 
-<!--
-### Disable Contextual Search {#disable-contextual-search}
+### Desabilitar pesquisa contextual {#disable-contextual-search}
 
-Administrators also have the option to disable Contextual Search for users in your organization. To do so, execute the following steps:
+Admins também têm a opção de desabilitar a pesquisa contextual para usuários da organização. Para desabilitá-la, siga estas etapas:
 
-1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL General Settings]**.
+1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Configurações gerais]**.
 
-1. In the [!UICONTROL Contextual Search] section, turn off the **[!UICONTROL Enable Contextual Search for your organization]** toggle to disable the Contextual Search feature for all users in your organization.  
--->
+1. Na seção [!UICONTROL Pesquisa contextual], desative o botão **[!UICONTROL Habilitar pesquisa contextual para a organização]** para desabilitar o recurso de pesquisa contextual para todos os usuários da organização.
 
 ### Feedback da pesquisa contextual {#contextual-search-feedback}
 
