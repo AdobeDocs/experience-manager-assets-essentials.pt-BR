@@ -6,24 +6,24 @@ exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: 5947e7db586b691f1db3bf734481de8438e5a3b5
 workflow-type: tm+mt
 source-wordcount: '1116'
-ht-degree: 30%
+ht-degree: 89%
 
 ---
 
 # Editar imagens no [!DNL Assets Essentials] {#edit-images-in-assets-essentials}
 
-A interface de usuário do Assets Essentials permite a edição básica de imagens, incluindo redimensionamento, remoção de plano de fundo, recorte e conversão entre formatos JPEG e PNG. Além disso, permite a edição avançada por meio da integração com o Adobe Express. Após editar uma imagem, você pode salvar a nova imagem como uma nova versão. O controle de versão ajuda você a reverter para o ativo original posteriormente, se necessário. Para editar uma imagem, [abra sua visualização](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets) e clique em **Editar imagem**.
+A interface de usuário do Assets Essentials permite a edição básica de imagens, incluindo redimensionamento, remoção de plano de fundo, recorte e conversão entre formatos JPEG e PNG. Além disso, a edição avançada é possível por meio da integração com o Adobe Express. Após editar uma imagem, é possível salvá-la como uma nova versão. O controle de versão permite reverter para o ativo original posteriormente, se necessário. Para editar uma imagem, [abra sua visualização](https://experienceleague.adobe.com/pt-br/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets) e clique em **Editar imagem**.
 
 >[!NOTE]
 >
->É possível editar imagens de tipos de arquivos PNG e JPEG usando o Adobe Express.
+>É possível editar imagens de arquivos PNG e JPEG usando o Adobe Express.
 
 <!--The editing actions that are available are Spot healing, Crop and straighten, Resize image, and Adjust image.-->
 
 ## Editar imagem {#edit-images}
 
-Acessar a interface do Assets Essentials usando o link - [IU do Assets Essentials](https://experience.adobe.com/#/assets) e selecionando o repositório correto. Para receber acesso, entre em contato com o administrador da organização.
-Para obter informações de referência adicionais, consulte - [Introdução ao uso do Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started), [noções básicas da interface do usuário](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view), [Casos de uso do Assets essentials](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started#use-cases) e [problemas conhecidos](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/release-notes).
+Acessar a interface do Assets Essentials usando o link - [IU do Assets Essentials](https://experience.adobe.com/#/assets) e selecionando o repositório correto. Para receber acesso, entre em contato com o(a) admin da organização.
+Para obter informações de referência adicionais, consulte - [Introdução ao uso do Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/pt-br/docs/experience-manager-assets-essentials/help/get-started), [noções básicas da interface do usuário](https://experienceleague.adobe.com/pt-br/docs/experience-manager-assets-essentials/help/navigate-view), [Casos de uso do Assets essentials](https://experienceleague.adobe.com/pt-br/docs/experience-manager-assets-essentials/help/get-started#use-cases) e [problemas conhecidos](https://experienceleague.adobe.com/pt-br/docs/experience-manager-assets-essentials/help/release-notes).
 <!--
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
@@ -32,14 +32,14 @@ Para obter informações de referência adicionais, consulte - [Introdução ao 
 
 ### Editar imagem na interface do Essentials usando o Adobe Express {#edit-image-on-essentials-ui-using-adobe-express}
 
-Depois de acessar a interface do Essentials, clique em **Assets**, selecione uma imagem e clique em **Editar** do painel superior. A nova tela exibe as opções de edição disponíveis, incluindo redimensionamento, remoção do plano de fundo, recorte e conversão entre formatos JPEG e PNG.
+Após acessar a interface do Essentials, clique em **Ativos**, selecione uma imagem e clique em **Editar** no painel superior. A nova tela exibe as opções de edição disponíveis, incluindo redimensionar, remover o fundo, cortar e converter entre formatos JPEG e PNG.
 
 #### Redimensionar imagem {#resize-image-using-express}
 
-Redimensionar uma imagem para um tamanho específico é um caso de uso comum. O Assets Essentials permite redimensionar imagens rapidamente para ajustá-las aos tamanhos de foto comuns, fornecendo novas resoluções pré-calculadas para tamanhos de foto específicos. Para redimensionar a imagem usando Assets Essentials, siga as etapas abaixo:
+Redimensionar uma imagem para um tamanho específico é um caso de uso comum. O Assets Essentials permite redimensionar rapidamente a imagem para ajustá-la aos tamanhos de foto comuns, fornecendo novas resoluções pré-calculadas para tamanhos de foto específicos. Para redimensionar a imagem usando o Assets Essentials, siga as etapas abaixo:
 
 1. Clique em **Redimensionar imagem** no painel esquerdo.
-2. Selecione a plataforma de rede social apropriada na lista suspensa Redimensionar e selecione o tamanho da imagem nas opções exibidas.
+2. Selecione a plataforma de rede social apropriada na lista suspensa Redimensionar e escolha o tamanho da imagem nas opções exibidas.
 3. Dimensione a imagem, se necessário, usando o campo **Dimensionamento de imagem**.
 4. Clique em **Aplicar** para aplicar as alterações.
    ![Edição de imagens com o Adobe Express](/help/using/assets/adobe-express-resize-image.png)
@@ -49,9 +49,9 @@ Redimensionar uma imagem para um tamanho específico é um caso de uso comum. O 
 
 #### Remover fundo {#remove-background-using-express}
 
-Você pode remover o plano de fundo de uma imagem seguindo as etapas mencionadas abaixo:
+Para remover o fundo de uma imagem, siga as etapas mencionadas abaixo:
 
-1. Clique em **Remover plano de fundo** no painel esquerdo. O Experience Manager Assets exibirá a imagem sem o fundo.
+1. Clique em **Remover fundo** no painel esquerdo. O Experience Manager Assets exibirá a imagem sem o fundo.
 2. Clique em **[!UICONTROL Aplicar]** para aplicar as alterações.
    ![Salvamento de imagens com o Adobe Express](/help/using/assets/adobe-express-remove-background.png)
 
@@ -59,7 +59,7 @@ Você pode remover o plano de fundo de uma imagem seguindo as etapas mencionadas
 
 #### Cortar imagem {#crop-image-using-express}
 
-Transformar uma imagem em um tamanho perfeito é simples usando incorporado [!DNL Adobe Express] ações rápidas.
+É possível adequar a imagem a um tamanho ideal com facilidade usando as ações rápidas incorporadas do [!DNL Adobe Express].
 
 1. Clique em **[!UICONTROL Cortar imagem]** no painel esquerdo.
 2. Arraste as alças nos cantos da imagem para criar o corte desejado.
@@ -69,7 +69,7 @@ A imagem cortada estará disponível para download. É possível salvar o ativo 
 
 #### Converter entre tipos de arquivo de imagem {#convert-image-types-using-express}
 
-É possível converter rapidamente entre formatos de imagem JPEG e PNG usando o Adobe Express. Execute as seguintes etapas:
+É possível converter rapidamente uma imagem entre os formatos JPEG e PNG usando o Adobe Express. Execute as seguintes etapas:
 
 1. Clique em **JPEG para PNG** ou **PNG para JPEG** no painel esquerdo.
    ![Conversão para PNG com o Adobe Express](/help/using/assets/adobe-express-convert-image.png)
@@ -80,52 +80,52 @@ A imagem cortada estará disponível para download. É possível salvar o ativo 
 * Resolução da imagem compatível: mínimo de 50 pixels e máximo de 6.000 pixels por dimensão.
 * Tamanho máximo do arquivo aceito: 17 MB.
 
-### Editar imagens no editor incorporado do Adobe Express {#edit-images-in-adobe-express-embedded-editor}
+### Editar imagens usando o editor integrado do Adobe Express {#edit-images-in-adobe-express-embedded-editor}
 
-Os usuários com direito ao Express podem usar o editor Express incorporado na interface do usuário do Assets Essentials para editar facilmente o conteúdo e criar novo conteúdo com GenAI do Adobe Firefly. Isso melhora a reutilização do conteúdo e acelera a velocidade do conteúdo. Você também pode usar elementos predefinidos para que seu ativo tenha uma aparência incrível ou executar ações rápidas para editar sua imagem com apenas alguns cliques.
-![express na interface do usuário do essentials](/help/using/assets/express-in-essentials-ui.jpg)
+Usuários com direito ao Adobe Express podem usar o editor incorporado à interface do Assets Essentials para editar e criar novos conteúdos facilmente com a IA generativa do Adobe Firefly. Isso melhora a reutilização do conteúdo e acelera a sua velocidade. Você também pode usar elementos predefinidos para que seu ativo tenha uma aparência incrível ou para executar ações de edição rápidas na imagem com apenas alguns cliques.
+![Express na interface do Essentials](/help/using/assets/express-in-essentials-ui.jpg)
 Para editar imagens usando o editor incorporado do Adobe Express, siga as etapas abaixo:
 
 1. Acesse a interface do usuário do AEM Assets Essentials usando o link - [Interface do usuário do AEM Assets Essentials](https://experience.adobe.com/#/assets) e selecione o repositório correto.
-1. Clique em **Assets**, insira uma pasta e selecione uma imagem.
-1. Clique em **Abrir no Adobe Express**. A imagem é aberta em uma tela expressa.
+1. Clique em **Ativos**, escolha uma pasta e selecione uma imagem.
+1. Clique em **Abrir no Adobe Express**. A imagem abre em uma tela do Express.
 1. Faça as edições necessárias na imagem.
 1. Se o projeto exigir que você adicione mais páginas, clique em **Adicionar**, selecione ativos, insira uma pasta, selecione uma imagem para trazer para a página da tela e faça as edições necessárias na imagem.
 1. Para salvar as imagens, clique em **Salvar**. A caixa de diálogo Salvar é exibida.
 
    >[!NOTE]
    >
-   > **1. Para Página Única**
+   > **1. Para página única**
    >
-   > **Salvar como versão:** Esse recurso suporta salvar apenas um único ativo. Selecione essa opção para exportar a imagem como uma nova versão (mantendo o formato original) e salvá-la na mesma pasta.
-   > **Salvar como novo ativo:** Selecione essa opção para exportar o ativo em um formato diferente do original e salvá-lo em qualquer pasta como um novo ativo.
+   > **Salvar como versão:** esse recurso permite salvar apenas um único ativo. Selecione essa opção para exportar a imagem como uma nova versão (mantendo o formato original) e salvá-la na mesma pasta.
+   > **Salvar como novo ativo:** selecione essa opção para exportar o ativo em um formato diferente do original e salvá-lo em qualquer pasta como um novo ativo.
    >  
    > **2. Para várias páginas**
    >
-   > **Salvar como versão:** Esse recurso suporta salvar apenas um único ativo. Se quiser salvar uma única página de várias páginas, selecione essa opção para salvar o ativo no formato e no local originais.\
-   > **Salvar como novo ativo:** Com essa opção, você exporta vários ativos ou um único ativo para qualquer pasta e os salva como novos ativos com o formato de arquivo original ou diferente.
+   > **Salvar como versão:** esse recurso permite salvar apenas um único ativo. Se deseja salvar uma única página a partir de várias páginas, selecione essa opção para salvar o ativo no formato e no local originais.\
+   > **Salvar como novo ativo:** com essa opção, é possível exportar vários ativos ou um único ativo para qualquer pasta e os salvar como novos ativos com o formato de arquivo original ou em outro formato.
 
 1. Na caixa de diálogo Salvar:
-   1. Insira um nome para o arquivo na variável **Salvar como** campo.
+   1. Insira um nome para o arquivo no campo **Salvar como**.
    1. Selecione uma pasta de destino.
-   1. Opcional: forneça detalhes como nome do projeto ou da campanha, palavras-chave, canais, intervalo de tempo e região.
+   1. Opcional: forneça detalhes como o nome do projeto ou da campanha, palavras-chave, canais, intervalo de tempo e região.
 1. Clique em **Salvar como versão** ou **Salvar como novo ativo** para salvar o(s) ativo(s).
 
-#### Limitações da edição de imagens no Express Editor {#limitations-of-editing-images-in-the-express-editor}
+#### Limitações da edição de imagens no editor do Express {#limitations-of-editing-images-in-the-express-editor}
 
-* Tipo de arquivo suportado: JPEG ou PNG.
-* Tamanho máximo do arquivo aceito: 40 MB.
+* Tipos de arquivo compatíveis: JPEG ou PNG.
+* Tamanho máximo de arquivo aceito: 40 MB.
 * Intervalo de largura e altura compatível: entre 50 e 8000 pixels.
-* Recarregue a página para ver o novo ativo salvo mais recentemente na pasta de origem.
+* Recarregue a página para ver o último ativo salvo na pasta de origem.
 
 ### Criar novos ativos usando o Adobe Express {#create-new-assets-using-embedded-editor}
 
-O Assets Essentials permite criar um novo modelo do zero usando o editor incorporado do Adobe Express. Para criar um novo ativo usando o Adobe Express, execute as etapas abaixo:
+O Assets Essentials permite criar um novo modelo do zero usando o editor integrado do Adobe Express. Para criar um novo ativo usando o Adobe Express, execute as etapas a seguir:
 
-1. Navegue até **Meu Workspace** e clique em **Criar** no banner Adobe Express que é exibido dentro do Adobe Express na parte superior. A tela em branco do Adobe Express é exibida na interface do usuário do Assets Essentials.
+1. Navegue até **Meu espaço de trabalho** e clique em **Criar** no banner do Adobe Express na parte superior. A tela em branco do Adobe Express aparece na interface do Assets Essentials.
 1. Crie o conteúdo usando [modelos](https://helpx.adobe.com/br/express/using/work-with-templates.html). Caso contrário, navegue até Seus itens para modificar o conteúdo existente.
 1. Após concluir a edição, clique em **Salvar**.
-1. Especifique o caminho de destino para o ativo criado e clique em **Salvar como novo ativo**.
+1. Especifique o caminho de destino do ativo criado e clique em **Salvar como novo ativo**.
 
 #### Limitações {#limitations}
 
