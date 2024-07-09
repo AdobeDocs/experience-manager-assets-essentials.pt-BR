@@ -3,10 +3,10 @@ title: Editar vídeos
 description: Editar vídeos usando [!DNL Adobe Express] opções viabilizadas pelo e salvar vídeos atualizados como versões.
 role: User
 exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
-source-git-commit: 78187929a6baa0f1ab5d8675287408a24e1ada98
+source-git-commit: a9ef92194f55da9ad5352adf4251c85e3abcdcd1
 workflow-type: tm+mt
-source-wordcount: '786'
-ht-degree: 18%
+source-wordcount: '833'
+ht-degree: 22%
 
 ---
 
@@ -23,6 +23,11 @@ Saiba mais sobre o [interface de visualização](/help/using/navigate-view.md#pr
 Direitos de acesso [!DNL Adobe Express] e pelo menos um ambiente no AEM Assets. O ambiente pode ser qualquer um dos repositórios dentro do [!DNL Assets as a Cloud Service] ou [!DNL Assets Essentials].
 
 ## Editar vídeos usando o Adobe Express {#edit-video-using-express}
+
+>[!CONTEXTUALHELP]
+>id="assets_express_integration_videos"
+>title="Integração do Adobe Express para edição de vídeo"
+>abstract="O Experience Manager Assets agora inclui ferramentas de edição de vídeo fáceis e intuitivas com a tecnologia do Adobe Express para aumentar a reutilização de conteúdo e acelerar a velocidade do conteúdo. As opções de edição incluem aparar, cortar, redimensionar um vídeo e também converter um MP4 em um arquivo GIF."
 
 Transformar um vídeo em um tamanho e orientação perfeitos é fácil com o uso de [!DNL Adobe Express] ações rápidas.
 
