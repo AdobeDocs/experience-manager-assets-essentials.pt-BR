@@ -4,9 +4,9 @@ description: Editar imagens usando opções viabilizadas pelo [!DNL Adobe Expres
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: a9ef92194f55da9ad5352adf4251c85e3abcdcd1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1138'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ A interface do Assets Essentials permite a edição básica de imagens, como red
 Acesse a interface do Assets Essentials usando o link [Interface do Assets Essentials](https://experience.adobe.com/#/assets) e selecionando o repositório correto. Para receber acesso, entre em contato com a administração da organização.
 Para obter informações de referência adicionais, consulte [Introdução ao Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/pt-br/docs/experience-manager-assets-essentials/help/get-started), [noções básicas da interface do usuário](https://experienceleague.adobe.com/pt-br/docs/experience-manager-assets-essentials/help/navigate-view), [casos de uso do Assets Essentials](https://experienceleague.adobe.com/pt-br/docs/experience-manager-assets-essentials/help/get-started#use-cases) e [problemas conhecidos](https://experienceleague.adobe.com/pt-br/docs/experience-manager-assets-essentials/help/release-notes).
 
-### Editar imagens usando o Adobe Express {#edit-images-using-adobe-express}
+### Edição de imagens usando o Adobe Express {#edit-images-using-adobe-express}
 
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
