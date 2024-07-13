@@ -4,9 +4,9 @@ description: Casos de uso de administração, como implantação e gerenciamento
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
-source-wordcount: '1342'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '1304'
+ht-degree: 99%
 
 ---
 
@@ -131,7 +131,7 @@ O Assets Essentials permite que os administradores gerenciem os níveis de acess
 
 Para obter mais informações, consulte [Gerenciar permissões para pastas](manage-permissions.md).
 
-### Configurar formulários de metadados (Opcional) {#metadata-forms}
+### Configurar Forms de metadados (opcional) {#metadata-forms}
 
 Por padrão, o Assets Essentials fornece vários campos de metadados padrão. As organizações têm necessidades adicionais de metadados e precisam de mais campos para adicionar metadados específicos de negócios. Os formulários de metadados permitem que as empresas adicionem campos de metadados personalizados à página [!UICONTROL Detalhes] de um ativo. Os metadados específicos de negócios melhoram a governança e a descoberta de ativos. É possível criar formulários do zero ou redefinir a finalidade de um formulário existente.
 
