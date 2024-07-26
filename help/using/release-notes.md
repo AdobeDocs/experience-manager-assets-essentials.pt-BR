@@ -4,18 +4,28 @@ description: Notas de versão e problemas conhecidos do [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: eac31e102b9e26241cd513b1aeb8774802120a9d
+source-git-commit: 323e1ebd3ee81dfae0d15dc4120997ae3c4798b9
 workflow-type: tm+mt
-source-wordcount: '2903'
-ht-degree: 100%
+source-wordcount: '2976'
+ht-degree: 97%
 
 ---
 
 # Notas de versão do [!DNL Assets Essentials] {#release-notes}
 
-A versão atual do Assets Essentials foi lançada em 18 de abril de 2024.
+A versão atual do Assets Essentials foi lançada em sexta-feira, 25 de julho de 2024.
 
 Alguns dos recursos recém-adicionados incluem:
+
+**integração de Contents credentials**
+
+O Experience Manager Assets agora é compatível com contents credentials para formatos de imagem compatíveis. Isso fornece informações sobre a linhagem do ativo e como ele foi criado, incluindo se ele foi modificado usando GenAI.
+
+![Contents credentials](/help/using/assets/content-credentials.png)
+
+**Visualizações visuais do conteúdo da pasta**
+
+O Experience Manager Assets agora exibe visualizações visuais do conteúdo da pasta na miniatura da pasta ao navegar ou pesquisar conteúdo, o que melhora a descoberta de ativos disponíveis no repositório do AEM Assets.
 
 **Pesquisa contextual**
 
