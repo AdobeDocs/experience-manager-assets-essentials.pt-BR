@@ -3,10 +3,10 @@ title: "Interface do [!DNL Assets Essentials] "
 description: Entenda a interface e a navegação no [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
-source-git-commit: c6b04d1882347a4647a690939353856844b2a27a
+source-git-commit: 8debab75bb335d4a81279c9c0e84229c3b3ca2cd
 workflow-type: tm+mt
 source-wordcount: '1036'
-ht-degree: 90%
+ht-degree: 88%
 
 ---
 
@@ -55,7 +55,7 @@ Ao navegar pelos ativos em uma pasta, você pode usar a interface para exibir mi
 
 É possível abrir ou recolher a barra lateral esquerda para aumentar a área de visualização de ativos disponível.
 
-Em [!DNL Assets Essentials], você pode exibir ativos, pastas e resultados de pesquisa em quatro tipos diferentes de layouts.
+No [!DNL Assets Essentials], você pode exibir ativos, pastas e resultados de pesquisa em quatro tipos diferentes de layouts:
 
 * ![ícone de exibição de lista](assets/do-not-localize/list-view.png) [!UICONTROL Visualização em lista]
 * ![ícone de exibição de grade](assets/do-not-localize/grid-view.png) [!UICONTROL Visualização em grade]
