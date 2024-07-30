@@ -4,9 +4,9 @@ description: Entenda a interface e a navegação no [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: 5abb9a2ca6136c08479f9a48855522f4fd982e95
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1036'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -30,8 +30,8 @@ Ao fazer logon no [!DNL Assets Essentials], você verá a seguinte interface.
 
 ## Procurar e exibir ativos e pastas {#browse-repository}
 
-Você pode navegar pelas pastas da interface do usuário principal ou da barra lateral esquerda. O Experience Manager Assets agora exibe visualizações visuais do conteúdo da pasta na miniatura da pasta ao navegar ou pesquisar conteúdo, o que melhora a descoberta de ativos disponíveis no repositório do AEM Assets. Essa miniatura de pasta economiza seu tempo gasto na pesquisa de ativos específicos em uma pasta no Repositório do AEM Assets.
-Ao navegar pelos ativos em uma pasta, você pode usar a interface para exibir miniaturas de ativos para navegar visualmente pelo repositório ou exibir detalhes do ativo para encontrar rapidamente o ativo que deseja. As opções disponíveis na barra lateral esquerda são:
+Você pode navegar pelas pastas da interface do usuário principal ou da barra lateral esquerda. O Experience Manager Assets agora exibe visualizações do conteúdo das pastas em suas miniaturas ao navegar ou pesquisar conteúdo, o que melhora a descoberta de ativos disponíveis no repositório do AEM Assets. Essa miniatura da pasta economiza o tempo dedicado à pesquisa de ativos específicos em uma pasta no repositório do AEM Assets.
+Ao navegar pelos ativos de uma pasta, você pode usar a interface para exibir miniaturas dos ativos para navegar visualmente pelo repositório ou exibir detalhes do ativo para encontrar rapidamente o ativo desejado. As opções disponíveis na barra lateral esquerda são:
 
 * [Meu espaço de trabalho](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=pt-BR): o Assets agora inclui um espaço de trabalho personalizável, que fornece widgets para acesso conveniente às principais áreas da interface do Assets, bem como as informações mais relevantes para você. Esta página serve como uma solução única para fornecer uma visão geral dos itens de trabalho e fornecer acesso rápido aos principais fluxos de trabalho. Um acesso mais conveniente a essas opções aumenta a eficiência e a velocidade do conteúdo.
 * [Tarefas](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=pt-BR): você pode visualizar as tarefas atribuídas a você na guia **Minhas tarefas**. Ao passo que as tarefas criadas por você podem ser visualizadas na guia **Tarefas atribuídas**. Além disso, as tarefas concluídas estão localizadas na guia **Tarefas concluídas**.
@@ -55,7 +55,7 @@ Ao navegar pelos ativos em uma pasta, você pode usar a interface para exibir mi
 
 É possível abrir ou recolher a barra lateral esquerda para aumentar a área de visualização de ativos disponível.
 
-No [!DNL Assets Essentials], você pode exibir ativos, pastas e resultados de pesquisa em quatro tipos diferentes de layouts:
+Em [!DNL Assets Essentials], você pode exibir ativos, pastas e resultados de pesquisas em quatro tipos diferentes de layout:
 
 * ![ícone de exibição de lista](assets/do-not-localize/list-view.png) [!UICONTROL Visualização em lista]
 * ![ícone de exibição de grade](assets/do-not-localize/grid-view.png) [!UICONTROL Visualização em grade]
@@ -64,7 +64,7 @@ No [!DNL Assets Essentials], você pode exibir ativos, pastas e resultados de pe
 
 Para localizar um ativo, você pode classificar os ativos em ordem crescente ou decrescente de `Name`, `Relevancy`, `Size`, `Modified` e `Created`.
 
-Para navegar em uma pasta, clique duas vezes nas miniaturas da pasta ou selecione a pasta na barra lateral esquerda. Para exibir detalhes de uma pasta, selecione-a e clique em Detalhes na barra de ferramentas na parte superior. Para navegar para cima e para baixo na hierarquia, use a barra lateral esquerda ou a navegação estrutural na parte superior.
+Para navegar por uma pasta, clique duas vezes em sua miniatura ou selecione-a na barra lateral esquerda. Para exibir detalhes de uma pasta, selecione-a e clique em Detalhes na barra de ferramentas na parte superior. Para navegar para cima e para baixo na hierarquia, use a barra lateral esquerda ou a navegação estrutural na parte superior.
 
 ![Procurar pastas](assets/browsing-folders.png)
 
