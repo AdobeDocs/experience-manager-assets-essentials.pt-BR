@@ -3,10 +3,10 @@ title: Editar imagens
 description: Editar imagens usando opções viabilizadas pelo [!DNL Adobe Express] e salvar imagens atualizadas como versões.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: 65e9f9414fe71d9e9add9b794856d77f87aed086
+source-git-commit: 56a2af8467f3e44855f26bd86a394c76e9f7ccf3
 workflow-type: tm+mt
 source-wordcount: '1182'
-ht-degree: 65%
+ht-degree: 63%
 
 ---
 
@@ -34,7 +34,7 @@ Para obter informações de referência adicionais, consulte - [Introdução ao 
 >title="Integração do Adobe Express"
 >abstract="Ferramentas de edição de imagens fáceis e intuitivas, viabilizadas pelo Adobe Express, disponíveis diretamente no AEM Assets para aumentar a reutilização de conteúdo e acelerar sua velocidade."
 
-Após acessar a interface do Essentials, clique em **Ativos**, selecione uma imagem e clique em **Editar** no painel superior. A nova tela exibe as opções de edição disponíveis viabilizadas pelo Adobe Express, que incluem redimensionamento, remoção do plano de fundo, recorte e conversão entre os formatos JPEG e PNG.
+Depois de navegar para a interface do Essentials, clique em **Assets**, selecione uma imagem e clique em **Editar** no painel superior. A nova tela exibe as opções de edição disponíveis viabilizadas pelo Adobe Express, que incluem redimensionamento, remoção do plano de fundo, recorte e conversão entre os formatos JPEG e PNG.
 
 #### Redimensionar imagem {#resize-image-using-express}
 
