@@ -3,7 +3,7 @@ title: Pesquisar e descobrir ativos no [!DNL Assets Essentials]
 description: Pesquisar e descobrir ativos no [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 332a4842f6ae017b802fbd0edd75e74d6f2e8c97
+source-git-commit: 84695c5a2b6423b0a5863b088ac8507f0de0e80d
 workflow-type: tm+mt
 source-wordcount: '1967'
 ht-degree: 80%
@@ -146,7 +146,7 @@ Para gerar novos ativos usando o [!DNL Adobe Firefly]:
 
    * Insira um nome para o arquivo no campo **Salvar como**.
    * Selecione uma pasta de destino.
-   * Forneça detalhes como nome do projeto ou da campanha, palavras-chave, canais, intervalo de tempo e região.
+   * Insira detalhes como nome do projeto ou da campanha, palavras-chave, canais, intervalo de tempo e região.
 
    ![Integração do Firefly](assets/save-generated-asset.png)
 
