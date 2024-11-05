@@ -2,10 +2,10 @@
 title: Gerenciar relatórios no Assets Essentials
 description: Acesse os dados na seção de relatórios do Assets Essentials para avaliar o uso de produtos e recursos e obter insights sobre as principais métricas de sucesso.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 71a0381f5f7c32d3da1923778b3cd7b678391cae
+source-git-commit: 49b650b3efe5740eb1ce39b7dcf6f84e34e0e81a
 workflow-type: tm+mt
-source-wordcount: '862'
-ht-degree: 100%
+source-wordcount: '1226'
+ht-degree: 37%
 
 ---
 
@@ -30,6 +30,143 @@ In the **[!UICONTROL Reports]** screen, various components are shown in the tabu
 * **Author**: Provides email of the author who has uploaded/downloaded the report.
 * **Created**: Gives information of the date when the report was generated.
 -->
+
+## Criar um relatório {#create-report}
+
+O ambiente do AEM Assets Essentials oferece recursos abrangentes de relatórios por meio do painel de relatórios. Esse recurso permite que os usuários gerem e baixem relatórios CSV detalhando uploads e downloads de ativos em intervalos de tempo especificados, que variam de uma vez a diários, semanais, mensais ou anuais.
+
+**Para criar um relatório:**
+
+1. Navegue até **Relatórios** e clique em **Criar relatório** (na parte superior direita). A caixa de diálogo **criar relatório** exibe os seguintes campos:
+   ![criar-relatório](/help/using/assets/executed-reports1.svg)
+
+   **Na guia Configuração:**
+
+   1. **Tipo de relatório:** selecione entre o tipo de carregamento e download.
+   1. **Título:** Adicione um título ao relatório.
+   1. **Descrição:** Adicione uma descrição opcional ao relatório.
+   1. **Selecionar caminho da pasta:** selecione um caminho de pasta para gerar o relatório de ativos carregados e baixados dentro dessa pasta específica. Por exemplo, se você precisar do relatório de ativos carregados em uma pasta, especifique o caminho para essa pasta.
+   1. **Selecionar intervalo de datas:** Selecione o intervalo de datas para exibir a atividade de carregamento ou download na pasta.
+   <br>
+
+   >[!NOTE]
+   >
+   > O Assets Essentials converte todos os fusos horários locais para o Tempo universal coordenado (UTC).
+
+   **Na Guia Colunas:** Selecione os nomes das colunas a serem exibidas no relatório. A tabela a seguir explica o uso de todas as colunas:
+
+   <table>
+    <tbody>
+     <tr>
+      <th><strong>Nome da coluna</strong></th>
+      <th><strong>Descrição</strong></th>
+      <th><strong>Tipo de relatório</strong></th>
+     </tr>
+     <tr>
+      <td>Título</td>
+      <td>O título do ativo.</td>
+      <td>Fazer upload e baixar</td>
+     </tr>
+     <tr>
+      <td>Caminho </td>
+      <td>O caminho da pasta onde o ativo está disponível no Assets Essentials.</td>
+      <td>Fazer upload e baixar</td>
+     </tr>
+     <tr>
+      <td>Tipo MIME</td>
+      <td>O tipo MIME do ativo.</td>
+      <td>Fazer upload e baixar</td>
+     </tr>
+     <tr>
+      <td>Tamanho</td>
+      <td>O tamanho do ativo em bytes.</td>
+      <td>Fazer upload e baixar</td>
+     </tr>
+     <tr>
+      <td>Baixado por</td>
+      <td>A ID do email do usuário que baixou o ativo.</td>
+      <td>Download</td>
+     </tr>
+     <tr>
+      <td>Data de download</td>
+      <td>A data em que a ação de download do ativo foi executada.</td>
+      <td>Download</td>
+     </tr>
+     <tr>
+      <td>Autor</td>
+      <td>O autor do ativo.</td>
+      <td>Fazer upload e baixar</td>
+     </tr>
+     <tr>
+      <td>Data de criação</td>
+      <td>A data em que o ativo foi carregado para o Assets Essentials.</td>
+      <td>Fazer upload e baixar</td>
+     </tr>
+     <tr>
+      <td>Data da modificação</td>
+      <td>A data em que o ativo foi modificado pela última vez.</td>
+      <td>Fazer upload e baixar</td>
+     </tr>
+     <tr>
+      <td>Expirado</td>
+      <td>O status de expiração do ativo.</td>
+      <td>Fazer upload e baixar</td>
+     </tr>
+     <tr>
+      <td>Baixado por Nome de usuário</td>
+      <td>O nome do usuário que baixou o ativo.</td>
+      <td>Download</td>
+     </tr>           
+    </tbody>
+   </table>
+
+## Exibir e baixar relatório existente {#View-and-download-existing-report}
+
+Os relatórios existentes são exibidos na guia **Relatórios executados**. Clique em **Relatórios** e selecione **Relatórios Executados** para exibir todos os relatórios criados com o status **concluído**, indicando que eles estão prontos para download. Para baixar o relatório no formato CSV ou excluí-lo, selecione a linha de relatório. Em seguida, selecione **Baixar CSV** ou **Excluir**.
+![exibir e baixar relatórios existentes](/help/using/assets/view-download-existing-report.png)
+
+## Agendar um relatório {#schedule-report}
+
+Na interface do AEM Essentials, o **Relatório de agendamento** configura uma geração automática de relatórios em intervalos futuros especificados, como diariamente, semanalmente, mensalmente ou anualmente. Esse recurso ajuda a simplificar as necessidades de relatórios recorrentes e garante atualizações de dados oportunas. Enquanto o **Criar Relatório** gera relatórios de datas passadas. Os relatórios concluídos estão listados em **Relatórios Executados** e os próximos relatórios serão encontrados em **Relatórios Agendados**.
+
+Para agendar um relatório, siga as etapas abaixo:
+
+1. Clique em Relatórios no painel esquerdo e, em seguida, clique em Criar relatório (no canto superior direito).
+1. A caixa de diálogo do relatório exibe as informações abaixo:
+   1. **Tipo de relatório:** selecione entre o tipo de carregamento e download.
+   1. **Título:** Adicione um título ao relatório.
+   1. **Descrição**: adicione uma descrição opcional ao relatório.
+   1. **Selecionar caminho da pasta:** Selecione um caminho de pasta para gerar um relatório para os ativos que serão carregados ou baixados dessa pasta específica no futuro.
+   1. Alternar **Relatório de agendamento:** para agendar o relatório para um momento posterior ou para sua ocorrência repetida.
+      ![agendar relatório](/help/using/assets/schedule-reports1.svg)
+
+   1. **Escolha a frequência:** especifique o intervalo para gerar o relatório (por exemplo, diário, semanal, mensal, anual ou uma vez) e defina a data e a hora para executar o relatório junto com a data final para recorrência. Para um relatório único, selecione o intervalo de datas para o relatório sobre o tipo de atividade selecionado no ambiente AEM. Por exemplo, se você precisar de um relatório sobre ativos baixados do dia 10 ao dia 29 (datas futuras) de um mês específico, selecione essas datas no campo **Selecionar intervalo de datas**.
+
+   >[!NOTE]
+   >
+   > O Assets Essentials converte todos os fusos horários locais para o Tempo universal coordenado (UTC).
+
+## Visualizar Relatórios Agendados {#view-scheduled-reports}
+
+Os relatórios agendados são exibidos na guia **Relatórios agendados** de forma organizada sistematicamente. Todos os relatórios concluídos para cada relatório agendado são armazenados em uma única pasta de relatório. Clique em ![expandir recolher](/help/using/assets/expand-icon1.svg) para exibir os relatórios concluídos. Por exemplo, se você tiver agendado um relatório diário, todos os relatórios concluídos serão agrupados em uma pasta. Essa organização simplifica a navegação e a capacidade de descoberta dos relatórios. Para exibir os relatórios agendados, clique em **Relatórios** e em **Relatórios Agendados**. Todos os relatórios agendados são exibidos com o status em andamento ou concluído. Os relatórios concluídos estão prontos para download.
+![relatório agendado](/help/using/assets/scheduled-reports-tab.png)
+
+## Editar e cancelar relatórios agendados {#edit-cancel-scheduled-reports}
+
+1. Navegue até a guia **Relatórios agendados**.
+1. Selecione a linha do relatório.
+1. Clique em **Editar**.
+1. Clique em **Cancelar Agendamento** e em **Confirmar** para cancelar o relatório agendado. Para relatórios cancelados, o próximo tempo de execução fica vazio e o status mostra cancelado.
+   ![editar e cancelar o relatório agendado](/help/using/assets/cancel-edit-scheduled-reports.png)
+
+### Retomar cronograma {#resume-schedule}
+
+Para retomar o agendamento cancelado, selecione a linha de relatório e clique em **Retomar Agendamento**. Quando retomadas, as próximas entradas de tempo de execução são exibidas novamente e o status mostra em andamento.
+![retomar agendamento](/help/using/assets/resume-schedule.png)
+
+>[!NOTE]
+>
+> Se você retomar um relatório cancelado antes da data final programada, os relatórios da data de cancelamento até a data de retomada serão gerados automaticamente.
 
 ## Exibir o Insights {#view-live-statistics}
 
@@ -66,177 +203,9 @@ Clique na opção **[!UICONTROL Insights]**, disponível no painel de navegaçã
    ![Insights](assets/insights2.png)
    -->
 
-## Criar um relatório de downloads {#create-download-report}
+* **Contagem de ativos por tamanho:** segmenta a contagem total de ativos no ambiente do Assets Essentials em intervalos de tamanho diferentes, destacando a contagem e a porcentagem de ativos em cada intervalo de tamanho, representados por um gráfico de rosca.
+  ![insights-assets-count-by-size](/help/using/assets/insights-assets-count-by-size.svg)
 
-Para criar um relatório de downloads:
+* **Contagem de ativos por tipo de ativo:** segmenta a contagem total de ativos no seu ambiente do Assets Essentials, destacando a contagem e a porcentagem de ativos com base em seus tipos de arquivos, representados por um gráfico de rosca.
+  ![insights-assets-count-by-size](/help/using/assets/insights-assest-count-by-asset-type1.svg)
 
-1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Relatórios]** e clique em **[!UICONTROL Criar relatório]**.
-
-1. Na guia [!UICONTROL Configuração], especifique o tipo de relatório como **[!UICONTROL Baixar]**.
-
-1. Especifique um título e uma descrição opcional para o relatório.
-
-1. Selecione o caminho da pasta que compreende os ativos para os quais o relatório será criado, usando o campo **[!UICONTROL Selecionar caminho da pasta]**.
-
-1. Selecione o intervalo de datas do relatório.
-
-   >[!NOTE]
-   >
-   > O Assets Essentials converte todos os fusos horários locais para o Tempo universal coordenado (UTC).
-
-1. Na guia [!UICONTROL Colunas], selecione os nomes das colunas que devem ser exibidas no relatório.
-
-1. Clique em **[!UICONTROL Criar]**
-
-   ![Baixar relatório](assets/download-reports-config.png)
-
-A tabela a seguir explica o uso de todas as colunas que você pode adicionar ao relatório:
-
-<table>
-    <tbody>
-     <tr>
-      <th><strong>Nome da coluna</strong></th>
-      <th><strong>Descrição</strong></th>
-     </tr>
-     <tr>
-      <td>Título</td>
-      <td>O título do ativo.</td>
-     </tr>
-     <tr>
-      <td>Caminho </td>
-      <td>O caminho da pasta onde o ativo está disponível no Assets Essentials.</td>
-     </tr>
-     <tr>
-      <td>Tipo MIME</td>
-      <td>O tipo MIME do ativo.</td>
-     </tr>
-     <tr>
-      <td>Tamanho</td>
-      <td>O tamanho do ativo em bytes.</td>
-     </tr>
-     <tr>
-      <td>Baixado por</td>
-      <td>A ID do email do usuário que baixou o ativo.</td>
-     </tr>
-     <tr>
-      <td>Data de download</td>
-      <td>A data em que a ação de download do ativo foi executada.</td>
-     </tr>
-     <tr>
-      <td>Autor</td>
-      <td>O autor do ativo.</td>
-     </tr>
-     <tr>
-      <td>Data de criação</td>
-      <td>A data em que o ativo foi carregado para o Assets Essentials.</td>
-     </tr>
-     <tr>
-      <td>Data da modificação</td>
-      <td>A data em que o ativo foi modificado pela última vez.</td>
-     </tr>
-     <tr>
-      <td>Expirado</td>
-      <td>O status de expiração do ativo.</td>
-     </tr>
-     <tr>
-      <td>Baixado por Nome de usuário</td>
-      <td>O nome do usuário que baixou o ativo.</td>
-     </tr>           
-    </tbody>
-   </table>
-
-## Criar um relatório de uploads {#create-upload-report}
-
-Para criar um relatório de uploads:
-
-1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Relatórios]** e clique em **[!UICONTROL Criar relatório]**.
-
-1. Na guia [!UICONTROL Configuração], especifique o tipo de relatório como **[!UICONTROL Fazer upload]**.
-
-1. Especifique um título e uma descrição opcional para o relatório.
-
-1. Selecione o caminho da pasta que compreende os ativos para os quais o relatório será criado, usando o campo **[!UICONTROL Selecionar caminho da pasta]**.
-
-1. Selecione o intervalo de datas do relatório.
-
-1. Na guia [!UICONTROL Colunas], selecione os nomes das colunas que devem ser exibidas no relatório.
-
-1. Clique em **[!UICONTROL Criar]**.
-
-   ![Relatório de uploads](assets/upload-reports-config.png)
-
-A tabela a seguir explica o uso de todas as colunas que você pode adicionar ao relatório:
-
-<table>
-    <tbody>
-     <tr>
-      <th><strong>Nome da coluna</strong></th>
-      <th><strong>Descrição</strong></th>
-     </tr>
-     <tr>
-      <td>Título</td>
-      <td>O título do ativo.</td>
-     </tr>
-     <tr>
-      <td>Caminho </td>
-      <td>O caminho da pasta onde o ativo está disponível no Assets Essentials.</td>
-     </tr>
-     <tr>
-      <td>Tipo MIME</td>
-      <td>O tipo MIME do ativo.</td>
-     </tr>
-     <tr>
-      <td>Tamanho</td>
-      <td>O tamanho do ativo.</td>
-     </tr>
-     <tr>
-      <td>Autor</td>
-      <td>O autor do ativo.</td>
-     </tr>
-     <tr>
-      <td>Data de criação</td>
-      <td>A data em que o ativo foi carregado para o Assets Essentials.</td>
-     </tr>
-     <tr>
-      <td>Data da modificação</td>
-      <td>A data em que o ativo foi modificado pela última vez.</td>
-     </tr>
-     <tr>
-      <td>Expirado</td>
-      <td>O status de expiração do ativo.</td>
-     </tr>              
-    </tbody>
-   </table>
-
-## Visualizar relatórios existentes {#view-report-list}
-
-Depois de [criar o relatório](#create-download-report), é possível visualizar a lista de relatórios existentes e baixá-los em formato CSV ou excluí-los.
-
-Para visualizar a lista de relatórios, navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Relatórios]**.
-
-É possível visualizar o título, o tipo, a descrição especificada durante a criação, o status, a ID de email do autor e a data de criação de cada relatório.
-
-O status `Completed ` do relatório significa que ele está pronto para download.
-
-![Lista de relatórios](assets/list-of-reports.png)
-
-
-## Baixar um relatório em formato CSV {#download-csv-report}
-
-Para baixar um relatório no formato CSV:
-
-1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Relatórios]**.
-
-1. Selecione um relatório e clique em **[!UICONTROL Baixar CSV]**.
-
-O relatório selecionado é baixado no formato CSV. As colunas exibidas no relatório CSV dependem das colunas selecionadas ao [criar o relatório](#create-download-report).
-
-## Excluir um relatório {#delete-report}
-
-Para excluir um relatório:
-
-1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Relatórios]**.
-
-1. Selecione um relatório e clique em **[!UICONTROL Excluir]**.
-
-1. Clique em **[!UICONTROL Excluir]** novamente para confirmar.
