@@ -1,12 +1,12 @@
 ---
-title: "Interface do [!DNL Assets Essentials] "
+title: Interface do usuário do [!DNL Assets Essentials]
 description: Entenda a interface e a navegação no [!DNL Assets Essentials].
 role: User
 exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 source-git-commit: 5abb9a2ca6136c08479f9a48855522f4fd982e95
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1036'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -108,7 +108,7 @@ Other use cases after previewing.
 
 * Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
-* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support)
+* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General#support)
 
 >[!MORELIKETHIS]
 >

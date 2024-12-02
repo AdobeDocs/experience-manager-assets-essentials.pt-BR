@@ -1,12 +1,12 @@
 ---
 title: Integração com outras soluções da Adobe
-description: “O [!DNL Assets Essentials] integra-se com outras soluções da Adobe e fornece uma experiência incorporada no aplicativo nativo.”
+description: O [!DNL Assets Essentials] integra-se com outras soluções Adobe e fornece uma experiência incorporada no aplicativo nativo.
 role: User
 exl-id: bc43a59e-f295-44d2-a14d-854174f91e41
 source-git-commit: 5bcd55313d1fb8bcf3dedbb24742eca5e2663aa8
 workflow-type: tm+mt
 source-wordcount: '385'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
