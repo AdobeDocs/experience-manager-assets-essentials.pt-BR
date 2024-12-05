@@ -2,10 +2,10 @@
 title: Gerenciar relatórios no Assets Essentials
 description: Acesse os dados na seção de relatórios do Assets Essentials para avaliar o uso de produtos e recursos e obter insights sobre as principais métricas de sucesso.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: cb3cd047d3fbfa8e6b2e5a398c11301f93692b2e
+source-git-commit: 810bb62cd5eb664e36a6ea267050dd025828e900
 workflow-type: tm+mt
-source-wordcount: '1591'
-ht-degree: 78%
+source-wordcount: '1226'
+ht-degree: 97%
 
 ---
 
@@ -42,7 +42,7 @@ O ambiente do AEM Assets Essentials oferece recursos abrangentes de geração de
 
    **Na guia Configuração:**
 
-   1. **Tipo de relatório:** Selecione entre o tipo de [!UICONTROL carregamento], [!UICONTROL download] ou [Relatório de Entrega do Dynamic Media](#dynamic-media-delivery-reports).
+   1. **Tipo de relatório:** Selecione entre o tipo de relatório [!UICONTROL Carregar] ou [!UICONTROL Baixar].
    1. **Título:** adicione um título ao relatório.
    1. **Descrição:** adicione uma descrição opcional ao relatório.
    1. **Selecionar caminho de pasta:** selecione um caminho de pasta para gerar o relatório de ativos enviados e baixados nessa pasta específica. Por exemplo, se você precisar que o relatório de ativos seja enviado para uma pasta, especifique o caminho para essa pasta.
@@ -70,7 +70,7 @@ O ambiente do AEM Assets Essentials oferece recursos abrangentes de geração de
      <tr>
       <td>Caminho</td>
       <td>O caminho da pasta onde o ativo está disponível no Assets Essentials.</td>
-      <td>Upload, download e entrega do Dynamic Media</td>
+      <td>Upload e download</td>
      </tr>
      <tr>
       <td>Tipo MIME</td>
@@ -116,66 +116,10 @@ O ambiente do AEM Assets Essentials oferece recursos abrangentes de geração de
       <td>Baixado por Nome de usuário</td>
       <td>O nome do usuário que baixou o ativo.</td>
       <td>Download</td>
-     </tr>
-     <tr>
-      <td>Referenciador</td>
-      <td>O URL no qual o ativo é entregue ou incluído</td>
-      <td>Entrega do Dynamic Media</td>
-     </tr>  
-     <tr>
-      <td>Visitas</td>
-      <td>O número de vezes que o ativo é entregue (contagem de delivery)</td>
-      <td>Entrega do Dynamic Media</td>
-     </tr>             
+     </tr>              
     </tbody>
    </table>
 
-## Relatórios de entrega do Dynamic Media {#dynamic-media-delivery-reports}
-
-Obtenha insights de entrega para ativos fornecidos com o Dynamic Media, com contagem de entrega no nível do ativo, informações do referenciador, caminho do ativo no AEM Assets e ID exclusiva do ativo. Os relatórios podem ser gerados para todos os ativos entregues por meio do repositório do Dynamic Media for AEM Assets ou para uma hierarquia de pastas específica no AEM Assets. Além disso, os insights dos relatórios de entrega do Dynamic Media ajudam a medir o ROI dos ativos entregues, medir o desempenho do canal e a assumir tarefas informadas de gerenciamento de ativos para ativos.
-
->[!NOTE]
-> 
->Para obter acesso antecipado ao Relatório de Entrega da Dynamic Media em sua conta da Dynamic Media, [crie e envie um caso de Suporte ao Cliente Adobe](https://helpx.adobe.com/br/enterprise/using/support-for-experience-cloud.html).
-
-### Pré-requisitos {#prereqs-dynamic-media-delivery-reports}
-
-Você deve ter uma licença do Dynamic Media para criar e usar este relatório.
-
->[!IMPORTANT]
-> 
->* Os relatórios são fornecidos para ativos distribuídos por meio do Dynamic Media.
->* Os relatórios são gerados para o primeiro milhão de linhas. Para capturar todos os arquivos dentro desse limite, considere a inclusão da coluna de referenciador para pastas menores.
->* Os relatórios só podem ser gerados para os últimos três meses.
-
-### Criar um relatório de entrega do Dynamic Media{#create-dynamic-media-delivery-report}
-
-1. Crie uma Notificação de Entrega do Dynamic Media, usando as etapas mencionadas em [Criar um relatório](#create-report).
-
-1. Selecione **[!UICONTROL Entrega do Dynamic Media]** na lista suspensa **[!UICONTROL Tipo de relatório]**.
-
-   ![Lista suspensa de Relatórios de Entrega do Dynamic Media](/help/using/assets/dynamic-media-delivery-report-option.png)
-
-
-1. Na guia **[!UICONTROL Colunas]**, você pode selecionar a coluna **[!UICONTROL Referenciador]** para incluí-la em seu relatório.
-
-   ![Referenciador](/help/using/assets/referrer.png)
-
-   Todas as colunas do relatório baixado são somente leitura, exceto a coluna **Referenciador**, que você pode modificar para incluir ou excluir do relatório. <!--Choosing a referrer displays the number of visitors received from each referred report that directs traffic to the site. It offers insights into the sources of traffic and the origin of the visitors. Such insights help measure ROI of delivered assets, measure channel performance, and help take informed asset management tasks for assets.-->
-
-### Ações executadas no relatório de entrega do Dynamic Media {#actions-performed-dynamic-media-delivery-reports}
-
-Depois de criar o relatório, você pode executar as seguintes ações:
-
-* **[!UICONTROL Excluir]**: você pode excluir o relatório selecionado.
-* **[!UICONTROL Baixar CSV]**: você pode baixar o relatório selecionado em um formato CSV. O relatório baixado consiste nas colunas Name, Path, DynamicMediaID, Referrer, Hits.
-   * A coluna **Referenciador** lista a URL na qual o ativo é entregue ou incluído.
-
-   * A coluna **Ocorrências** lista o número de vezes que o ativo é entregue (contagem de entregas).
-
-Para excluir ou baixar o Relatório de Entrega do Dynamic Media como CSV, consulte [Exibir e baixar o relatório existente](#View-and-download-existing-report).
-
-![CSV baixado na notificação de entrega do Dynamic Media](/help/using/assets/csv-dynamic-media-delivery-report.png)
 
 
 ## Exibir e baixar relatórios já existentes {#View-and-download-existing-report}
