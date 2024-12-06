@@ -5,7 +5,7 @@ exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 810bb62cd5eb664e36a6ea267050dd025828e900
 workflow-type: tm+mt
 source-wordcount: '1226'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -124,7 +124,7 @@ O ambiente do AEM Assets Essentials oferece recursos abrangentes de geração de
 
 ## Exibir e baixar relatórios já existentes {#View-and-download-existing-report}
 
-Os relatórios já existentes são exibidos na guia **Relatórios executados**. Clique em **Relatórios** e selecione **Relatórios executados** para exibir todos os relatórios criados com o status **concluído**, indicando que eles estão prontos para o download. Para baixar o relatório em formato CSV ou excluí-lo, selecione a linha de relatório e selecione **Baixar CSV** ou **Excluir**.
+Os relatórios já existentes são exibidos na guia **Relatórios executados**. Clique em **Relatórios** e selecione **Relatórios executados** para exibir todos os relatórios criados com o status **concluído**, indicando que eles estão prontos para o download. Para baixar o relatório em formato CSV ou excluí-lo, selecione a linha do relatório e escolha **Baixar CSV** ou **Excluir**.
 ![exibir e baixar relatórios já existentes](/help/using/assets/view-download-existing-report.png)
 
 ## Agendar um relatório {#schedule-report}
