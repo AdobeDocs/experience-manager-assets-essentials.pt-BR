@@ -3,9 +3,9 @@ title: Gerenciar relatórios no Assets Essentials
 description: Acesse os dados na seção de relatórios do Assets Essentials para avaliar o uso de produtos e recursos e obter insights sobre as principais métricas de sucesso.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 810bb62cd5eb664e36a6ea267050dd025828e900
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1226'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ O ambiente do AEM Assets Essentials oferece recursos abrangentes de geração de
 
    **Na guia Configuração:**
 
-   1. **Tipo de relatório:** Selecione entre o tipo de relatório [!UICONTROL Carregar] ou [!UICONTROL Baixar].
+   1. **Tipo de relatório:** selecione entre o tipo de relatório [!UICONTROL Upload] ou [!UICONTROL Download].
    1. **Título:** adicione um título ao relatório.
    1. **Descrição:** adicione uma descrição opcional ao relatório.
    1. **Selecionar caminho de pasta:** selecione um caminho de pasta para gerar o relatório de ativos enviados e baixados nessa pasta específica. Por exemplo, se você precisar que o relatório de ativos seja enviado para uma pasta, especifique o caminho para essa pasta.
