@@ -4,10 +4,10 @@ description: Gerenciar metadados de ativos no  [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 37beb971f1e675162eb4b8e9ab008b20a241c066
+source-git-commit: 09040ef6dc777aa631b00bb37108f86b83bdf583
 workflow-type: tm+mt
-source-wordcount: '1773'
-ht-degree: 100%
+source-wordcount: '1884'
+ht-degree: 94%
 
 ---
 
@@ -130,9 +130,11 @@ Veja abaixo uma visão geral de cada tipo de propriedade e como eles são armaze
 | Suspenso | Adiciona uma lista suspensa. |
 | Estado | Adiciona uma propriedade de estado do repositório (mapeada para repo:state) |
 | Status do ativo | Adiciona a propriedade de status do ativo padrão (mapeada para dam:assetStatus) |
+| Aprovado para | |
 | Tags | Adiciona uma tag a partir de valores armazenados no Gerenciamento de taxonomia (mapeado para xcm:tags). |
 | Palavras-chave | Adiciona palavras-chave de forma livre (mapeadas para dc:subject). |
 | Tags inteligentes | Adicione para aumentar os recursos de pesquisa inserindo tags de metadados automaticamente. |
+| Link | Adicione para ativar URLs externos. |
 
 ### Atribuir formulário de metadados a pastas {#assign-metadata-form-folder}
 
@@ -165,6 +167,19 @@ Para remover um formulário de metadados de uma pasta:
 1. Selecione a pasta e clique em **[!UICONTROL Remover]**. Você também pode selecionar várias pastas da lista.
 
 Além disso, é possível navegar até a página de detalhes da pasta e selecionar **[!UICONTROL Formulário de metadados mapeados pelo sistema]** no campo **[!UICONTROL Formulários de metadados]** para remover o formulário de metadados atribuído de uma pasta.
+
+### Trabalhar com o componente Link no formulário de metadados {#link-component-metadata-form}
+
+O componente de link é usado para habilitar URLs externos, incluindo links de armazenamento, informações de direitos autorais, formulários de contato e assim por diante. Para usar o componente de link em formulário de metadados, você precisa [configurar o formulário de metadados](#metadata-forms).
+
+Siga as etapas abaixo para usar o componente Link no formulário de metadados:
+
+1. Vá para a página de detalhes do ativo e navegue até **[!UICONTROL URL do link]**.
+1. Adicione o URL que deseja usar para redirecionar o ativo selecionado.
+1. Clique em **[!UICONTROL Adicionar link]**. Execute uma das seguintes ações:
+   * Clique em ![ícone de cópia](assets/do-not-localize/copy.svg) para copiar a URL.
+   * Clique em ![ícone de edição](assets/do-not-localize/edit.svg) para editar a URL.
+1. Clique em **[!UICONTROL Salvar]** para salvar as alterações.
 
 ## Próximas etapas {#next-steps}
 
