@@ -2,7 +2,8 @@
 title: Renomear e renomear ativos em massa em  [!DNL Assets Essentials]
 description: Saiba como renomear ativos em massa usando a nova interface do usuário do Assets (Assets Essentials). Ele oferece a capacidade de renomear vários ativos de uma só vez.
 role: User
-source-git-commit: 9232f1ccb1d71057c909330d7e4861d048310b7b
+exl-id: 5d18950f-1863-46c0-83d7-079ae95a6320
+source-git-commit: 0526340ed0491d33a5084ea3538fa872ec2899e5
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 17%
@@ -67,3 +68,4 @@ Veja a seguir alguns exemplos de como usar a IA para renomear ativos em massa co
 * Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
 * Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support)
+
