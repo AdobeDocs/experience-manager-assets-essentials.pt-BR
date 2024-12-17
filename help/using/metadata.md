@@ -4,10 +4,10 @@ description: Gerenciar metadados de ativos no  [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 0526340ed0491d33a5084ea3538fa872ec2899e5
+source-git-commit: f922e9191cc3bf6beef66665dec49fd3876bf33b
 workflow-type: tm+mt
-source-wordcount: '1884'
-ht-degree: 94%
+source-wordcount: '1964'
+ht-degree: 90%
 
 ---
 
@@ -130,11 +130,10 @@ Veja abaixo uma visão geral de cada tipo de propriedade e como eles são armaze
 | Suspenso | Adiciona uma lista suspensa. |
 | Estado | Adiciona uma propriedade de estado do repositório (mapeada para repo:state) |
 | Status do ativo | Adiciona a propriedade de status do ativo padrão (mapeada para dam:assetStatus) |
-| Aprovado para | |
 | Tags | Adiciona uma tag a partir de valores armazenados no Gerenciamento de taxonomia (mapeado para xcm:tags). |
 | Palavras-chave | Adiciona palavras-chave de forma livre (mapeadas para dc:subject). |
 | Tags inteligentes | Adicione para aumentar os recursos de pesquisa inserindo tags de metadados automaticamente. |
-| Link | Adicione para ativar URLs externos. |
+| Link | Adicione para ativar URLs externos. Depois de configurado no formulário de Metadados, o componente de URL pode ser mapeado para uma propriedade de metadados específica na página Editor de metadados. Este formulário de [metadados pode ser atribuído a pastas](#assign-metadata-form-folder). |
 
 ### Atribuir formulário de metadados a pastas {#assign-metadata-form-folder}
 
@@ -170,9 +169,9 @@ Além disso, é possível navegar até a página de detalhes da pasta e selecion
 
 ### Trabalhar com o componente Link no formulário de metadados {#link-component-metadata-form}
 
-O componente de link é usado para habilitar URLs externos, incluindo links de armazenamento, informações de direitos autorais, formulários de contato e assim por diante. Para usar o componente de link em formulário de metadados, você precisa [configurar o formulário de metadados](#metadata-forms).
+O componente de link é usado para habilitar URLs externos, incluindo links de armazenamento, informações de direitos autorais, formulários de contato e assim por diante. Para usar o componente de link em formulário de metadados, você precisa [configurar o formulário de metadados](#metadata-forms). O componente de URL pode ser mapeado para uma propriedade de metadados específica na página Editor de metadados, que funciona da mesma forma que outros componentes de metadados. Esse formulário de metadados pode ser atribuído a pastas. Assim, na página detalhada do ativo Pasta atribuída, você pode ver o valor dos metadados do link do ativo.
 
-Siga as etapas abaixo para usar o componente Link no formulário de metadados:
+Siga as etapas abaixo para usar o componente Link na página de detalhes do ativo:
 
 1. Vá para a página de detalhes do ativo e navegue até **[!UICONTROL URL do link]**.
 1. Adicione o URL que deseja usar para redirecionar o ativo selecionado.
