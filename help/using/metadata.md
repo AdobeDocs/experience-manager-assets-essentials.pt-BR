@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: f922e9191cc3bf6beef66665dec49fd3876bf33b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1964'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -133,7 +133,7 @@ Veja abaixo uma visão geral de cada tipo de propriedade e como eles são armaze
 | Tags | Adiciona uma tag a partir de valores armazenados no Gerenciamento de taxonomia (mapeado para xcm:tags). |
 | Palavras-chave | Adiciona palavras-chave de forma livre (mapeadas para dc:subject). |
 | Tags inteligentes | Adicione para aumentar os recursos de pesquisa inserindo tags de metadados automaticamente. |
-| Link | Adicione para ativar URLs externos. Depois de configurado no formulário de Metadados, o componente de URL pode ser mapeado para uma propriedade de metadados específica na página Editor de metadados. Este formulário de [metadados pode ser atribuído a pastas](#assign-metadata-form-folder). |
+| Link | Adicione para habilitar URLs externos. Uma vez configurado no formulário de metadados, o componente de URL pode ser mapeado para uma propriedade de metadados específica na página “Editor de metadados”. Este [formulário de metadados pode ser atribuído a pastas](#assign-metadata-form-folder). |
 
 ### Atribuir formulário de metadados a pastas {#assign-metadata-form-folder}
 
@@ -167,17 +167,17 @@ Para remover um formulário de metadados de uma pasta:
 
 Além disso, é possível navegar até a página de detalhes da pasta e selecionar **[!UICONTROL Formulário de metadados mapeados pelo sistema]** no campo **[!UICONTROL Formulários de metadados]** para remover o formulário de metadados atribuído de uma pasta.
 
-### Trabalhar com o componente Link no formulário de metadados {#link-component-metadata-form}
+### Trabalho com o componente de link no formulário de metadados {#link-component-metadata-form}
 
-O componente de link é usado para habilitar URLs externos, incluindo links de armazenamento, informações de direitos autorais, formulários de contato e assim por diante. Para usar o componente de link em formulário de metadados, você precisa [configurar o formulário de metadados](#metadata-forms). O componente de URL pode ser mapeado para uma propriedade de metadados específica na página Editor de metadados, que funciona da mesma forma que outros componentes de metadados. Esse formulário de metadados pode ser atribuído a pastas. Assim, na página detalhada do ativo Pasta atribuída, você pode ver o valor dos metadados do link do ativo.
+O componente de link é usado para habilitar URLs externos, incluindo links de armazenamento, informações de direitos autorais, formulários de contato e assim por diante. Para usar o componente de link em um formulário de metadados, é necessário [configurar o formulário de metadados](#metadata-forms). O componente de URL pode ser mapeado para uma propriedade de metadados específica na página “Editor de metadados”, que funciona da mesma forma que outros componentes de metadados. Este formulário de metadados pode ser atribuído a pastas. Assim, na página detalhada do ativo de pasta atribuído, é possível ver o valor dos metadados do link do ativo.
 
-Siga as etapas abaixo para usar o componente Link na página de detalhes do ativo:
+Siga as etapas abaixo para usar o componente de link na página de detalhes do ativo:
 
-1. Vá para a página de detalhes do ativo e navegue até **[!UICONTROL URL do link]**.
-1. Adicione o URL que deseja usar para redirecionar o ativo selecionado.
-1. Clique em **[!UICONTROL Adicionar link]**. Execute uma das seguintes ações:
-   * Clique em ![ícone de cópia](assets/do-not-localize/copy.svg) para copiar a URL.
-   * Clique em ![ícone de edição](assets/do-not-localize/edit.svg) para editar a URL.
+1. Acesse a página de detalhes do ativo e navegue até **[!UICONTROL URL do link]**.
+1. Adicione o URL que deseja usar para redirecionar para o ativo selecionado.
+1. Clique em **[!UICONTROL Adicionar link]**. Realize uma das ações a seguir:
+   * Clique no ![ícone de copiar](assets/do-not-localize/copy.svg) para copiar o URL. 
+   * Clique no ![ícone de editar](assets/do-not-localize/edit.svg) para editar o URL.
 1. Clique em **[!UICONTROL Salvar]** para salvar as alterações.
 
 ## Próximas etapas {#next-steps}
