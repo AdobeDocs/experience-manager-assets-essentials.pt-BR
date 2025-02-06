@@ -4,9 +4,9 @@ description: Saiba como criar modelos do Dynamic Media usando um editor de model
 hide: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: a06bdadcd2194e1ffce23c672e605cfb95f14bcf
+source-git-commit: 85b8fc64c6bb0243803df3d8e18c00d1b17b1868
 workflow-type: tm+mt
-source-wordcount: '2800'
+source-wordcount: '2758'
 ht-degree: 0%
 
 ---
@@ -86,8 +86,6 @@ Para [criar uma pasta](/help/assets/add-delete-assets-view.md) em **[!UICONTROL 
 **Opções de menu no painel esquerdo:** Use essas opções para ações comuns do editor, conforme mencionado abaixo.
 
 * ![Modelos DM](/help/using/assets/layer-selector.svg): selecione uma camada.
-* ![modelos com suporte para personalização](/help/using/assets/bring-forward.svg): clique para avançar uma camada selecionada ou pressione **Ctrl** + **]** (Windows) ou **Cmd** + **]** (Mac).
-* ![como criar um modelo que possa ser personalizado facilmente](/help/using/assets/send-backward.svg): clique para voltar uma camada selecionada ou pressione **Ctrl** + **[** (Windows) ou **Cmd** + **[** (Mac).
 * ![crie um modelo que possa ser personalizado instantaneamente](/help/using/assets/undo.svg): clique para desfazer a última ação ou pressione **Ctrl** + **Z** (Windows) ou **Cmd** + **Z** (Mac).
 * ![modelo para criar banners rapidamente](/help/using/assets/redo.svg): clique para refazer a última ação ou pressione **Ctrl** + **Y** (Windows) ou **Cmd** + **Y** (Mac).
 * ![modelo para criar panfletos rapidamente](/help/using/assets/zoomin.svg): clique para ampliar a tela ou pressione **Ctrl** + **+** (Windows) ou Cmd + **+** (Mac).
