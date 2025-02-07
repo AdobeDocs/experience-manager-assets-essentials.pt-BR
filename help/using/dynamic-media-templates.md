@@ -4,7 +4,7 @@ description: Saiba como criar modelos do Dynamic Media usando um editor de model
 hide: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: e09573fb64567b2975d5e7e08c2cf2db62b72202
+source-git-commit: 64123ef9b8f669da24b296a5c1ea6bd514778c32
 workflow-type: tm+mt
 source-wordcount: '2766'
 ht-degree: 0%
