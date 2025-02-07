@@ -4,16 +4,16 @@ description: Saiba como criar modelos do Dynamic Media usando um editor de model
 hide: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: 85b8fc64c6bb0243803df3d8e18c00d1b17b1868
+source-git-commit: e09573fb64567b2975d5e7e08c2cf2db62b72202
 workflow-type: tm+mt
-source-wordcount: '2758'
+source-wordcount: '2766'
 ht-degree: 0%
 
 ---
 
 # Modelos do Dynamic Media{#dynamic-media-templates}
 
-| [Pesquisar Práticas Recomendadas](/help/assets/search-best-practices.md) | [Práticas recomendadas de metadados](/help/assets/metadata-best-practices.md) | [Content Hub](/help/assets/product-overview.md) | [documentação para desenvolvedores do AEM Assets](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
+| [Pesquisar Práticas Recomendadas](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices) | [Práticas recomendadas de metadados](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices) | [Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview) | [documentação para desenvolvedores do AEM Assets](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
 | ------------- | --------------------------- |---------|-----|
 
 Crie modelos do Dynamic Media usando um editor de modelos do WYSIWYG e inclua várias camadas de imagem e texto para criar banners e folhetos rapidamente e usá-los em aplicativos downstream. Você também pode adicionar parâmetros às camadas de imagens e texto incluídas no modelo e usar as [URLs do Dynamic Media](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media) para atualizar os valores dessas camadas em tempo real.
@@ -44,10 +44,10 @@ Alguns dos principais benefícios dos modelos do Dynamic Media incluem:
 Para criar um template do Dynamic Media, você deve ter:
 
 1. Acesso ao Dynamic Media.
-1. [Sincronizou as imagens disponíveis na sua instância do AEM Assets com o Dynamic Media para usá-las na criação do modelo](/help/assets/dynamic-media/config-dm.md).
+1. [Sincronizou as imagens disponíveis na sua instância do AEM Assets com o Dynamic Media para usá-las na criação do modelo](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm).
 1. verificados os seguintes itens na interface para toque:
-   * Na **[!UICONTROL página Editar Configuração do Dynamic Media]**, o **[!UICONTROL modo de sincronização do Dynamic Media]**, que está definido como **[!UICONTROL Desabilitado por padrão]**, não é aplicado a todas as pastas do AEM (**[!UICONTROL Sincronizar todo o conteúdo]** está desmarcado). Consulte [configurando o Cloud Service Dynamic Media](/help/assets/dynamic-media/config-dm.md) para obter mais informações.
-   * O **[!UICONTROL modo de sincronização do Dynamic Media]** está definido como **[!UICONTROL Habilitar para subpastas]** para a pasta ou subpasta de destino em que você salvará o modelo após a criação. Consulte [configurando o Cloud Service Dynamic Media](/help/assets/dynamic-media/config-dm.md) para obter mais informações.
+   * Na **[!UICONTROL página Editar Configuração do Dynamic Media]**, o **[!UICONTROL modo de sincronização do Dynamic Media]**, que está definido como **[!UICONTROL Desabilitado por padrão]**, não é aplicado a todas as pastas do AEM (**[!UICONTROL Sincronizar todo o conteúdo]** está desmarcado). Consulte [configurando o Cloud Service Dynamic Media](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm) para obter mais informações.
+   * O **[!UICONTROL modo de sincronização do Dynamic Media]** está definido como **[!UICONTROL Habilitar para subpastas]** para a pasta ou subpasta de destino em que você salvará o modelo após a criação. Consulte [configurando o Cloud Service Dynamic Media](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm) para obter mais informações.
 
 ## Criar modelo do Dynamic Media WYSIWYG{#how-to-create-dynamic-media-wysiwyg-template}
 
@@ -69,7 +69,7 @@ Execute estas etapas para criar uma tela em branco:
 
 1. Clique em **[!UICONTROL Criar Modelo]** para salvar o modelo no Dynamic Media Assets ou navegue até uma pasta e clique em **[!UICONTROL Criar Modelo]** para salvar o modelo nessa pasta. A caixa de diálogo **[!UICONTROL Novo Modelo]** é exibida.
    ![como criar modelos dinâmicos que podem ser personalizados em tempo real](/help/using/assets/new-template.png)
-Para [criar uma pasta](/help/assets/add-delete-assets-view.md) em **[!UICONTROL Dynamic Media Assets]**, crie uma pasta em **[!UICONTROL Assets]**. A árvore de pastas em **[!UICONTROL Assets]** é replicada em **[!UICONTROL Dynamic Media Assets]**.
+Para [criar uma pasta](/help/using/add-delete.md) em **[!UICONTROL Dynamic Media Assets]**, crie uma pasta em **[!UICONTROL Assets]**. A árvore de pastas em **[!UICONTROL Assets]** é replicada em **[!UICONTROL Dynamic Media Assets]**.
 1. Especifique um nome de modelo, defina a largura e a altura da tela e clique em **[!UICONTROL Criar]**. Uma tela de desenho em branco é exibida com opções de menu em ambos os lados para ser usada na criação do modelo. Passe o mouse sobre as opções de menu para ver a dica de ferramenta.
    ![modelo personalizável em tempo real](/help/using/assets/blank-canvas-page.png)
 
@@ -89,7 +89,7 @@ Para [criar uma pasta](/help/assets/add-delete-assets-view.md) em **[!UICONTROL 
 * ![crie um modelo que possa ser personalizado instantaneamente](/help/using/assets/undo.svg): clique para desfazer a última ação ou pressione **Ctrl** + **Z** (Windows) ou **Cmd** + **Z** (Mac).
 * ![modelo para criar banners rapidamente](/help/using/assets/redo.svg): clique para refazer a última ação ou pressione **Ctrl** + **Y** (Windows) ou **Cmd** + **Y** (Mac).
 * ![modelo para criar panfletos rapidamente](/help/using/assets/zoomin.svg): clique para ampliar a tela ou pressione **Ctrl** + **+** (Windows) ou Cmd + **+** (Mac).
-* ![modelo para criar banners rapidamente](/help/using/assets/zoomout.svg): clique para reduzir a tela ou pressione **Ctrl** + **-** (Windows) ou **Cmd** + **-** (Mac).
+* ![modelo para criar banners rapidamente](/help/using/assets/ZoomOut-1.svg): clique para reduzir a tela ou pressione **Ctrl** + **-** (Windows) ou **Cmd** + **-** (Mac).
 * Pressione **Backspace** ou **delete** para excluir a camada selecionada se nenhum texto ou propriedade estiver sendo editado.
 
 Clique em ![modelo para criar panfletos rapidamente](/help/using/assets/show-layers-list.svg) **>** mais opções (![](/help/using/assets/three-dots.svg)) na camada Tela de Pintura para editar as dimensões da tela de desenho a qualquer momento durante a criação do modelo.
@@ -121,7 +121,7 @@ Consulte o [**[!UICONTROL Painel Propriedades]**](#reposition-resize-delete-a-la
 
 >[!NOTE]
 >
-> Para usar uma fonte diferente da família de fontes F2 padrão Adobe Sans, é necessário carregar e publicar o arquivo de fonte no AEM Assets e no Dynamic Media. Se você tiver algumas fontes antigas na sua instância, certifique-se de [reprocessar](/help/assets/reprocessing-assets-view.md) para exibi-las no Editor de modelo.
+> Para usar uma fonte diferente da família de fontes F2 padrão Adobe Sans, é necessário carregar e publicar o arquivo de fonte no AEM Assets e no Dynamic Media. Se você tiver algumas fontes antigas na sua instância, certifique-se de [reprocessar](/help/using/reprocessing.md) para exibi-las no Editor de modelo.
 
 ### Editar ou excluir uma camada {#edit-or-delete-a-layer}
 
@@ -281,5 +281,5 @@ Edite o template seguindo estas etapas:
 
 ## Consulte também:
 
-1. Explorar o [Dynamic Media e seus recursos](/help/assets/dynamic-media/dynamic-media.md)
-1. Explorar o [Dynamic Media com recursos OpenAPI](/help/assets/dynamic-media-open-apis-overview.md)
+1. Explorar o [Dynamic Media e seus recursos](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media)
+1. Explorar o [Dynamic Media com recursos OpenAPI](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview)
