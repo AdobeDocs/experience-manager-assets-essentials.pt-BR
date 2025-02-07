@@ -3,9 +3,9 @@ title: Configurar o Assets Essentials para a Creative Cloud Pro com soluções d
 description: Este tutorial apresenta uma jornada de administrador que permite a integração do aplicativo do Assets Essentials aos aplicativos de desktop da Creative Cloud e ao aplicativo do Adobe Workfront. Os aplicativos de desktop da Creative Cloud incluem o Adobe Photoshop, Adobe Illustrator, Adobe InDesign e Adobe XD.
 exl-id: a5e9e0c3-35ec-41de-9656-f4f0f88946c7
 source-git-commit: b1ae487b4b4e9a88e0d9c39889d3893d92a766c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '867'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -77,7 +77,7 @@ Após gerenciar os direitos do usuário no Admin Console, os administradores pod
 
 * Configurar formulários de metadados
 
-[![Consulte o Guia](assets/see-the-guide-sm.png)](deploy-administer.md)
+[![Consulte o guia](assets/see-the-guide-sm.png)](deploy-administer.md)
 
 Agora que você configurou e gerenciou o aplicativo do Assets Essentials, [integre os aplicativos da Creative Cloud ao aplicativo do Experience Manager Assets Essentials](integrate-with-creative-cloud.md).
 
@@ -99,7 +99,7 @@ Metas:
 
 * Usar o Adobe Asset Link
 
-[![Consulte o Guia](assets/see-the-guide-sm.png)](integrate-with-creative-cloud.md)
+[![Consulte o guia](assets/see-the-guide-sm.png)](integrate-with-creative-cloud.md)
 
 Agora que você integrou os aplicativos da Creative Cloud ao Assets Essentials, [integre o Adobe Workfront ao Experience Manager Assets Essentials](integrate-with-workfront.md).
 
@@ -119,4 +119,4 @@ Metas:
 
 * Configurar a integração do Experience Manager Assets Essentials
 
-[![Consulte o Guia](assets/see-the-guide-sm.png)](integrate-with-workfront.md)
+[![Consulte o guia](assets/see-the-guide-sm.png)](integrate-with-workfront.md)
