@@ -3,7 +3,7 @@ title: Gerenciar coleções
 description: Uma coleção é um conjunto de ativos no Experience Manager Assets Essentials. Use coleções para compartilhar ativos entre usuários.
 exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 source-git-commit: 441136b23281185b82a5767aefc2c382512501a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '907'
 ht-degree: 100%
 
