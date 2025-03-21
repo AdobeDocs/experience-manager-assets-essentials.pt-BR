@@ -3,10 +3,10 @@ title: Filtros de pesquisa personalizados
 description: Saiba como personalizar o formulário de filtros de pesquisa
 role: User, Leader, Developer
 exl-id: 8c579d5b-6bfc-44bb-a381-ca5716bd20cb
-source-git-commit: e7068ab473eb016fa2bbdd7ed21e7c2c582544e5
+source-git-commit: 0bc6e92668badf4cda0cbf274ab568e3aca37c99
 workflow-type: tm+mt
-source-wordcount: '1280'
-ht-degree: 13%
+source-wordcount: '1294'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 13%
 Os filtros de pesquisa permitem refinar os resultados da pesquisa com base em vários parâmetros, como data, tipo de arquivo, tags e relevância, melhorando a precisão das consultas de pesquisa. Ao aplicar filtros, você pode analisar os resultados mais relevantes com eficiência. Isso não apenas economiza tempo, mas também melhora a experiência geral de pesquisa, adaptando os resultados às preferências e necessidades específicas.
 Veja mais sobre a [pesquisa](search.md).
 
-Filtros de pesquisa personalizados só podem ser mapeados para entradas no Índice de Propriedades Pesquisáveis. Certifique-se de que todos os metadados personalizados estejam incluídos antes de configurar sua experiência de filtro personalizada. [!DNL Assets Essentials] ajuda a personalizar os filtros de pesquisa para simplificar o processo de pesquisa. Para personalizar o modelo de filtros de pesquisa, execute as seguintes etapas:
+Personalizar filtros de pesquisa O AEM Assets só pode ser mapeado a entradas no Índice de propriedades pesquisáveis. Certifique-se de que todos os metadados personalizados estejam incluídos antes de configurar sua experiência de filtro personalizada. [!DNL Assets Essentials] ajuda a personalizar os filtros de pesquisa para simplificar o processo de pesquisa. Para personalizar os filtros de pesquisa personalizados do AEM Assets, execute as seguintes etapas:
 
 1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Configurações gerais]**.
 1. Vá para a guia **[!UICONTROL Pesquisa]**. Clique em **[!UICONTROL Personalizar]** para configurar o formulário de pesquisa.
@@ -39,7 +39,7 @@ O Assets Essentials fornece os seguintes filtros personalizados, que podem ser r
 
 ### Filtrar elementos {#filter-elements}
 
-Você pode usar uma coleção de elementos de filtro na tela de filtros de pesquisa personalizados. Esses elementos são reconfiguráveis com base na usabilidade dos atributos de propriedade de pesquisa. No entanto, você pode personalizar as [propriedades de filtro](#filter-properties) de acordo com seus requisitos. Os seguintes elementos de filtro estão disponíveis em [!DNL Assets Essentials]:
+O AEM Assets de filtros personalizados permite usar uma coleção de elementos de filtro na tela de filtros de pesquisa personalizados. Esses elementos são reconfiguráveis com base na usabilidade dos atributos de propriedade de pesquisa. No entanto, você pode personalizar as [propriedades de filtro](#filter-properties) de acordo com seus requisitos. Os seguintes elementos de filtro estão disponíveis em [!DNL Assets Essentials]:
 
 <table>
     <tr>
@@ -328,7 +328,7 @@ Os filtros pré-configurados são configurações predefinidas que permitem usá
 
 #### Filtrar propriedades {#filter-properties}
 
-Cada elemento do filtro está associado a um conjunto de propriedades. As seguintes propriedades são usadas no filtro e nos elementos pré-configurados:
+Cada elemento do filtro está associado a um conjunto de propriedades. Os filtros de pesquisa personalizados do AEM Assets usam as seguintes propriedades no filtro e nos elementos pré-configurados:
 
 <table>
     <tr>
