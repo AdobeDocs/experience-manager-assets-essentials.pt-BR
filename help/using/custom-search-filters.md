@@ -3,12 +3,55 @@ title: Filtros de pesquisa personalizados
 description: Saiba como personalizar o formulário de filtros de pesquisa
 role: User, Leader, Developer
 exl-id: 8c579d5b-6bfc-44bb-a381-ca5716bd20cb
-source-git-commit: 0bc6e92668badf4cda0cbf274ab568e3aca37c99
+source-git-commit: 9574d173debd720a2e2dfffc407a32325c5f544f
 workflow-type: tm+mt
-source-wordcount: '1294'
-ht-degree: 12%
+source-wordcount: '1349'
+ht-degree: 13%
 
 ---
+
+
+<table>
+    <tr>
+        <td>
+            <img src="assets/new.gif" width="20px" height="25px" alt="novo">
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b>Dynamic Media Prime e Ultimate</b></a>
+        </td>
+        <td>
+            <img src="assets/new.gif" width="20px" height="25px" alt="novo">
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b>AEM Assets Ultimate</b></a>
+        </td>
+        <td>
+            <img src="assets/new.gif" width="20px" height="25px" alt="novo">
+            <a href="http://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/integrate-aem-assets-edge-delivery-services"><b>Integração do AEM Assets com o Edge Delivery Services</b></a>
+        </td>
+        <td>
+            <img src="assets/new.gif" width="20px" height="25px" alt="novo">
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Extensibilidade da interface</b></a>
+        </td>
+          <td>
+            <img src="assets/new.gif" width="20px" height="25px" alt="novo">
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b>Habilitar o Dynamic Media Prime e o Ultimate</b></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices"><b>Pesquisar Práticas Recomendadas</b></a>
+        </td>
+        <td>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices"><b>Práticas recomendadas de metadados</b></a>
+        </td>
+        <td>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview"><b>Content Hub</b></a>
+        </td>
+        <td>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview"><b>Dynamic Media com recursos OpenAPI</b></a>
+        </td>
+        <td>
+            <a href="https://developer.adobe.com/experience-cloud/experience-manager-apis/"><b>documentação para desenvolvedores do AEM Assets</b></a>
+        </td>
+    </tr>
+</table>
 
 # Personalizar filtros de pesquisa {#customize-search-filters}
 
