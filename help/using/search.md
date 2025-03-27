@@ -3,12 +3,55 @@ title: Pesquisar e descobrir ativos no [!DNL Assets Essentials]
 description: Pesquisar e descobrir ativos no [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
-source-git-commit: 84695c5a2b6423b0a5863b088ac8507f0de0e80d
-workflow-type: ht
-source-wordcount: '1967'
-ht-degree: 100%
+source-git-commit: 461773235cb2d27d334b5ceb23f959dc9a848716
+workflow-type: tm+mt
+source-wordcount: '2019'
+ht-degree: 97%
 
 ---
+
+
+<table>
+    <tr>
+        <td>
+            <img src="assets/new.gif" width="20px" height="25px" alt="novo">
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b>Dynamic Media Prime e Ultimate</b></a>
+        </td>
+        <td>
+            <img src="assets/new.gif" width="20px" height="25px" alt="novo">
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b>AEM Assets Ultimate</b></a>
+        </td>
+        <td>
+            <img src="assets/new.gif" width="20px" height="25px" alt="novo">
+            <a href="http://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/integrate-aem-assets-edge-delivery-services"><b>Integração do AEM Assets com o Edge Delivery Services</b></a>
+        </td>
+        <td>
+            <img src="assets/new.gif" width="20px" height="25px" alt="novo">
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Extensibilidade da interface</b></a>
+        </td>
+          <td>
+            <img src="assets/new.gif" width="20px" height="25px" alt="novo">
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/custom-search-filters"><b>Filtros de Pesquisa Personalizados</b></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices"><b>Pesquisar Práticas Recomendadas</b></a>
+        </td>
+        <td>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices"><b>Práticas recomendadas de metadados</b></a>
+        </td>
+        <td>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview"><b>Content Hub</b></a>
+        </td>
+        <td>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview"><b>Dynamic Media com recursos OpenAPI</b></a>
+        </td>
+        <td>
+            <a href="https://developer.adobe.com/experience-cloud/experience-manager-apis/"><b>documentação para desenvolvedores do AEM Assets</b></a>
+        </td>
+    </tr>
+</table>
 
 # Pesquisar ativos no [!DNL Assets Essentials] {#search-assets}
 
@@ -213,7 +256,7 @@ Você pode selecionar os ativos exibidos nos resultados da pesquisa e realizar a
 
 * **Atribuir tarefas**: atribuir tarefas de um ativo a usuários.
 
-* **Observar**: [monitorar as operações](https://experienceleague.adobe.com/br/docs/experience-manager-cloud-service/content/assets/manage/search-assets) executadas em um ativo.
+* **Observar**: [monitorar as operações](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/manage/search-assets) executadas em um ativo.
 
 ## Configurar a página inicial da pesquisa {#configuring-search-first-homepage}
 
