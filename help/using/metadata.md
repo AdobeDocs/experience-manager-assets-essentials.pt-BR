@@ -5,9 +5,9 @@ role: User,Leader,Admin,Architect,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 source-git-commit: 1cda73b6ddc573d2736fdaa45b582198420ed5b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2159'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -169,32 +169,32 @@ Além disso, é possível navegar até a página de detalhes da pasta e selecion
 
 ### Trabalho com o componente de link no formulário de metadados {#link-component-metadata-form}
 
-O componente de link é usado para habilitar URLs externos, incluindo links de armazenamento, informações de direitos autorais, formulários de contato e assim por diante. Para usar o componente de link em um formulário de metadados, é necessário [configurar o formulário de metadados](#metadata-forms). O componente de URL pode ser mapeado para uma propriedade de metadados específica na página “Editor de metadados”, que funciona da mesma forma que outros componentes de metadados. Este formulário de metadados pode ser atribuído a pastas. Assim, na página detalhada do ativo Pasta atribuída, você pode ver o valor dos metadados do link do ativo.
+O componente de link é usado para habilitar URLs externos, incluindo links de armazenamento, informações de direitos autorais, formulários de contato e assim por diante. Para usar o componente de link em um formulário de metadados, é necessário [configurar o formulário de metadados](#metadata-forms). O componente de URL pode ser mapeado para uma propriedade de metadados específica na página “Editor de metadados”, que funciona da mesma forma que outros componentes de metadados. Este formulário de metadados pode ser atribuído a pastas. Assim, na página detalhada do ativo de pasta atribuído, é possível ver o valor dos metadados do link do ativo.
 
-Siga as etapas abaixo para usar o componente Link na página de detalhes do ativo:
+Siga as etapas abaixo para usar o componente de link na página de detalhes do ativo:
 
-1. Vá para a página de detalhes do ativo e navegue até a **[!UICONTROL URL do link]**.
+1. Acesse a página de detalhes do ativo e navegue até o **[!UICONTROL URL do link]**.
 1. Adicione o URL que deseja usar para redirecionar para o ativo selecionado.
 1. Clique em **[!UICONTROL Adicionar link]**. Realize uma das ações a seguir:
    * Clique no ![ícone de copiar](assets/do-not-localize/copy.svg) para copiar o URL. 
    * Clique no ![ícone de editar](assets/do-not-localize/edit.svg) para editar o URL.
 1. Clique em **[!UICONTROL Salvar]** para salvar as alterações.
 
-### Trabalhar com o componente Tags no formulário de metadados {#tag-component-metadata-form}
+### Trabalhar com o componente de tags no formulário de metadados {#tag-component-metadata-form}
 
-O elemento raiz representa a estrutura em árvore das tags que podem ser associadas aos ativos, ajudando a identificar o ativo com base na tag atribuída a ele. Além disso, é possível restringir o acesso de uma taxonomia específica ao configurar o formulário de metadados no editor de metadados.
+O elemento raiz representa a estrutura em árvore das tags que podem ser associadas aos ativos, ajudando a identificar o ativo com base na tag atribuída a ele. Além disso, é possível restringir o acesso de uma taxonomia específica por meio da configuração do formulário de metadados no editor de metadados.
 
-#### Configuração do componente de Tags {#tags-component-configuration}
+#### Configuração do componente de tags {#tags-component-configuration}
 
-Configure o componente de tags executando as seguintes etapas:
+Siga estas etapas para configurar o componente de tags:
 
-1. Vá para o editor de metadados, navegue até **[!UICONTROL Marcas]** e coloque-o na tela.
-1. Renomeie o componente na tela. Para fazer isso, vá para **[!UICONTROL Rótulo]** sob a [!UICONTROL propriedade de Metadados] no painel de configurações e adicione o texto para sua identificação.
-1. Em [!UICONTROL Propriedade de metadados], no painel de configurações, procure a propriedade de metadados que deseja atribuir ao componente.
-1. Clique em **[!UICONTROL Restringir à taxonomia específica]** para restringir o caminho raiz da taxonomia. Para fazer isso, navegue pelas tags e escolha a taxonomia para o caminho específico.
+1. Acesse o editor de metadados, navegue até o componente **[!UICONTROL Tags]** e coloque-o na tela.
+1. Renomeie o componente na tela. Para isso, acesse **[!UICONTROL Rótulo]** na propriedade de [!UICONTROL Metadados] do painel de configurações e adicione o texto para identificá-lo.
+1. Na [!UICONTROL propriedade de Metadados] do painel de configurações, procure a propriedade de metadados que deseja atribuir ao componente.
+1. Clique em **[!UICONTROL Restringir a uma taxonomia específica]** para restringir o caminho raiz da taxonomia. Para isso, navegue pelas tags e escolha a taxonomia correspondente ao caminho específico.
 1. Clique em **[!UICONTROL Salvar]** para salvar as alterações.
 
-   ![Configuração de marcas raiz](assets/root-tag-config.png)
+   ![Configuração de tags raiz](assets/root-tag-config.png)
 1. [Atribuir formulário de metadados a pastas](#assign-metadata-form-folder).
 
 <!--
@@ -209,7 +209,7 @@ See [Assign metadata form to folders](#assign-metadata-form-folder). Follow the 
 1. Click **[!UICONTROL Assign]**.
 -->
 
-Para visualizar as tags raiz configuradas, vá para a página de detalhes do ativo na qual o mapeamento entre o formulário de metadados e as tags raiz é executado.
+Para visualizar as tags raiz configuradas, acesse a página de detalhes do ativo na qual o mapeamento entre o formulário de metadados e as tags raiz é executado.
 
 ## Próximas etapas {#next-steps}
 
