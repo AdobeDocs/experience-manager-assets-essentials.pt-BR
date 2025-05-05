@@ -70,7 +70,7 @@ Para adicionar perfis de produto a grupos de usuários:
 
    * Usuários do **[!DNL Assets Essentials]**: têm acesso à interface completa. Esses usuários podem fazer upload, organizar, marcar e encontrar ativos digitais.
 
-   * Os usuários consumidores do **[!DNL Assets Essentials]**podem executar operações de localização, visualização e download no Assets Essentials. Eles também podem localizar e selecionar ativos no Adobe Journey Optimizer, além de localizar e selecionar ativos para usar no Workfront.
+   * Os usuários consumidores do **[!DNL Assets Essentials]**&#x200B;podem executar operações de localização, visualização e download no Assets Essentials. Eles também podem localizar e selecionar ativos no Adobe Journey Optimizer, além de localizar e selecionar ativos para usar no Workfront.
 Para obter mais informações, consulte [Integrações com outras soluções](integration.md).
 
    ![Perfil de administrador do Admin Console](assets/admin-console-admin-profile.png)

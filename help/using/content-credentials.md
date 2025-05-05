@@ -37,8 +37,11 @@ O Adobe Experience Manager Assets agora é compatível com o Content credentials
 1. Clique em **Detalhes** e selecione `Cr pin` no painel mais à direita. A guia Contents credentials exibe as seguintes informações sobre o ativo.
    1. **Imagem gerada:** Data e hora em que os Contents credentials foram aplicados.
    1. **Resumo do conteúdo:** indica se o ativo foi gerado parcial ou completamente pela IA ou como foi editado.
+
       ![resumo do conteúdo](/help/using/assets/content-credentials1.png)
    1. **Processo:** Detalha o aplicativo, o dispositivo e a ferramenta de IA (como o Adobe Firefly) usados para gerar o ativo, bem como as alterações feitas posteriormente.
+
       ![processo](/help/using/assets/CR-Process.png)
    1. **Sobre estes Contents credentials:** Nome do emissor, juntamente com a data e hora da emissão.
+
       ![emissor](/help/using/assets/CR-issuer.png)

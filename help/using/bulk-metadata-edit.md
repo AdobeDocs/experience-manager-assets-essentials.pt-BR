@@ -71,6 +71,7 @@ Execute essas etapas para editar os metadados de vários ativos em massa de uma 
    * **Palavras-chave:** Adicione termos específicos ou cadeias de texto que forneçam informações de alto nível sobre os ativos para aprimorar sua descoberta. Adicione uma palavra-chave e pressione Enter ou return para adicionar outra palavra-chave à lista.
    * **Marcas:** Clique em ![ícone de marcas](/help/using/assets/tags-icon.svg) para selecionar marcas dentre as opções disponíveis. As tags fornecem informações mais específicas sobre os ativos e melhoram sua descoberta. As marcas já aplicadas aos ativos selecionados são exibidas no painel **Propriedades**. Se você não conseguir encontrar as tags relevantes, crie-as e atribua aos ativos selecionados. Consulte [Gerenciar tags no Assets Essentials](/help/using/tagging-management.md) para obter detalhes sobre como criar e atribuir tags a ativos.
    * Clique em **Salvar** para aplicar as atualizações de metadados acima aos ativos selecionados. Depois de salvas, as Palavras-chave e as Tags são anexadas, enquanto os detalhes atualizados de Status, Data de expiração e Autor substituem os detalhes existentes.
+
      ![save-bulk-metadata-edit-properties](/help/using/assets/save-bulk-metadata-edit-properties2.png)
 
      >[!NOTE]
