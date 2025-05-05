@@ -15,37 +15,37 @@ ht-degree: 13%
     <tr>
         <td>
             <img src="assets/new3.gif" width="20px" height="25px" alt="novo">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b>Dynamic Media Prime e Ultimate</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b>Dynamic Media Prime e Ultimate</b></a>
         </td>
         <td>
             <img src="assets/new3.gif" width="20px" height="25px" alt="novo">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b>AEM Assets Ultimate</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b>AEM Assets Ultimate</b></a>
         </td>
         <td>
             <img src="assets/new3.gif" width="20px" height="25px" alt="novo">
-            <a href="http://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/integrate-aem-assets-edge-delivery-services"><b>Integração do AEM Assets com o Edge Delivery Services</b></a>
+            <a href="http://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/integrate-aem-assets-edge-delivery-services"><b>Integração do AEM Assets com o Edge Delivery Services</b></a>
         </td>
         <td>
             <img src="assets/new3.gif" width="20px" height="25px" alt="novo">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Extensibilidade da interface</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Extensibilidade da interface</b></a>
         </td>
           <td>
             <img src="assets/new3.gif" width="20px" height="25px" alt="novo">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b>Habilitar o Dynamic Media Prime e o Ultimate</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b>Habilitar o Dynamic Media Prime e o Ultimate</b></a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices"><b>Pesquisar Práticas Recomendadas</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices"><b>Pesquisar Práticas Recomendadas</b></a>
         </td>
         <td>
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices"><b>Práticas recomendadas de metadados</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices"><b>Práticas recomendadas de metadados</b></a>
         </td>
         <td>
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview"><b>Content Hub</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview"><b>Content Hub</b></a>
         </td>
         <td>
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/custom-search-filters"><b>Dynamic Media com recursos OpenAPI</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-assets-essentials/help/custom-search-filters"><b>Dynamic Media com recursos OpenAPI</b></a>
         </td>
         <td>
             <a href="https://developer.adobe.com/experience-cloud/experience-manager-apis/"><b>documentação para desenvolvedores do AEM Assets</b></a>

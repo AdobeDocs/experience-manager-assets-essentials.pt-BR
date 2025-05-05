@@ -38,7 +38,7 @@ Integre o AEM Assets com criação baseada em documentos ao Edge Delivery Servic
 
 * Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
-* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&amp;lang=pt-BR#support)
+* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General&amp;lang=pt-BR#support)
 
 <!-- TBD: Hiding this link till GA. Do not even include the beta mention as discussed with Greg. Beta is done with customers selected by the Accounts team. It is not an open Beta program. At GA, document this.
 
