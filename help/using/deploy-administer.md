@@ -161,14 +161,14 @@ Diferente de pastas, uma coleção pode incluir ativos de locais diferentes. Voc
 
 * Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
-* Entrar em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General&amp;lang=pt-BR#support)
+* Entrar em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General&lang=pt-BR#support)
 
 
 
 >[!MORELIKETHIS]
 >
->* Ajuda com o [[!DNL Admin Console] ](https://helpx.adobe.com/br/enterprise/using/admin-console.html)
->* Ajuda com o [[!DNL Cloud Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=pt-BR)
+>* Ajuda com o [[!DNL Admin Console] &#x200B;](https://helpx.adobe.com/br/enterprise/using/admin-console.html)
+>* Ajuda com o [[!DNL Cloud Manager] &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=pt-BR)
 >* [Documentação do Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR)
 >* [Notas de versão](release-notes.md)
 >* [Introdução ao uso do [!DNL Assets Essentials]](get-started.md)
