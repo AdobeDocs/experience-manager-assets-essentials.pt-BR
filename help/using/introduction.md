@@ -3,18 +3,18 @@ title: Introdução ao  [!DNL Assets Essentials]
 description: Gerencie seus ativos com o Experience Manager Assets Essentials, uma ferramenta leve de gerenciamento de ativos digitais que funciona em aplicativos da Experience Cloud.
 role: User,Leader
 exl-id: 43ddf11c-36d3-4643-80c9-b7dd5d199450
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: 2ad90f931f84bf8e0ceb51e4e6450d36a7b31a03
 workflow-type: tm+mt
-source-wordcount: '621'
-ht-degree: 100%
+source-wordcount: '660'
+ht-degree: 97%
 
 ---
 
 # Visão geral do [!DNL Adobe Experience Manager Assets Essentials] {#assets-essentials}
 
-<!-- TBD: Update this banner to remove Beta label. 
+<!-- 
+TBD: Update this banner to remove Beta label. 
 ![Banner image for beta docs](assets/do-not-localize/banner-image-beta-docs.png)
-
 -->
 
 A Adobe oferece uma solução robusta de Gerenciamento de ativos digitais (DAM) para você aproveitar ao máximo seus ativos digitais. O Adobe Experience Manager Assets Essentials é uma solução leve de gerenciamento de ativos da Adobe para armazenar, gerenciar, detectar e usar ativos digitais.
@@ -75,13 +75,13 @@ Para obter mais informações, consulte [Integrações com outras soluções da 
 
 **Plataforma baseada em nuvem**
 
-Com base na infraestrutura em nuvem da Adobe, o Assets Essentials permite que as organizações se concentrem nas suas necessidades comerciais relacionadas à criação, gerenciamento e distribuição de ativos digitais. Além disso, a Adobe garante a disponibilidade, segurança e escalabilidade da solução, mantendo-a sempre atualizada com inovações de produtos que são fornecidas aos usuários de maneira contínua por meio de atualizações frequentes.
+Com base na infraestrutura em nuvem da Adobe, o Assets Essentials permite que as organizações se concentrem nas necessidades empresariais relacionadas à criação, gerenciamento e distribuição de ativos digitais. Além disso, a Adobe garante a disponibilidade, segurança e escalabilidade da solução, mantendo-a sempre atualizada com inovações de produtos que são fornecidas aos usuários de maneira contínua por meio de atualizações frequentes.
 
 **Recursos que acompanham seu crescimento**
 
 Comece a trabalhar com o Assets Essentials rapidamente para se beneficiar dos principais recursos de gerenciamento de ativos digitais em várias equipes.
 
-Quando as necessidades de sua empresa aumentam e você precisa de suporte para requisitos avançados de gerenciamento de ativos digitais, como personalizações, extensibilidade, integrações, automação, o Dynamic Media e o Brand Portal, a Adobe também oferece o [Adobe Experience Manager Assets as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=pt-BR).
+Quando as necessidades empresariais aumentam e você precisa de suporte para requisitos avançados de gerenciamento de ativos digitais, como personalizações, extensibilidade, integrações, automação, o Dynamic Media e o Brand Portal, a Adobe também oferece o [Adobe Experience Manager Assets as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=pt-BR).
 
 
 ## Próximas etapas {#next-steps}
@@ -90,7 +90,7 @@ Quando as necessidades de sua empresa aumentam e você precisa de suporte para r
 
 * Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
-* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General&amp;lang=pt-BR#support)
+* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&lang=pt-BR#support)
 
 
 >[!MORELIKETHIS]

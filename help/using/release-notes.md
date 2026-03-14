@@ -1,13 +1,13 @@
 ---
 title: Notas de versão
 description: Notas de versão e problemas conhecidos do [!DNL Assets Essentials]
-role: User,Leader,Admin,Architect,Developer
+role: User,Leader,Admin,Developer
 contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
-source-git-commit: 323e1ebd3ee81dfae0d15dc4120997ae3c4798b9
-workflow-type: ht
-source-wordcount: '2976'
-ht-degree: 100%
+source-git-commit: b3c726122425c9a89a5d6c0ac35b652d20d8e0b9
+workflow-type: tm+mt
+source-wordcount: '3041'
+ht-degree: 97%
 
 ---
 
@@ -17,11 +17,11 @@ A versão atual do Assets Essentials foi lançada em 25 de julho de 2024.
 
 Alguns dos recursos recém-adicionados incluem:
 
-**Integração de credenciais do conteúdo**
+**Integração de Content Credentials**
 
-O Experience Manager Assets agora é compatível com credenciais de conteúdo para os formatos de imagem compatíveis. Isso fornece informações sobre a linhagem do ativo e como ele foi criado, incluindo se ele foi modificado com a IA generativa.
+O Experience Manager Assets agora é compatível com Content Credentials para os formatos de imagem compatíveis. Isso fornece informações sobre a linhagem do ativo e como ele foi criado, incluindo se ele foi modificado com a IA generativa.
 
-![Credenciais de conteúdo](/help/using/assets/content-credentials.png)
+![Content Credentials](/help/using/assets/content-credentials.png)
 
 **Visualizações do conteúdo das pastas**
 
@@ -62,7 +62,7 @@ Agora, um formulário de metadados pode ser atribuído a várias pastas ou remov
 
 **Gerenciar permissões para coleções particulares**
 
-É possível permitir que usuários, administradores ou não, gerenciem os níveis de acesso a coleções privadas disponíveis no repositório. É possível atribuir permissões como `Can View` e `Can Edit` a usuários ou a grupos de usuários. Você também pode delegar privilégios de gerenciamento de permissões a grupos de usuários. 
+É possível permitir que usuários, administradores ou não, gerenciem os níveis de acesso a coleções privadas disponíveis no repositório. É possível atribuir permissões como `Can View` e `Can Edit` a usuários ou a grupos de usuários. Você também pode delegar privilégios de gerenciamento de permissões a grupos de usuários.
 
 
 **Aprimoramentos com base no feedback dos clientes**
@@ -166,7 +166,7 @@ Capacidade de selecionar e fixar itens para você, para toda a organização ou 
 
 **Estrutura de inteligência artificial aprimorada para Tags inteligentes de imagem**
 
-O Experience Manager Assets agora usa uma estrutura de inteligência artificial aprimorada para Tags inteligentes de imagem. Essa inteligência de conteúdo resulta em melhor relevância e precisão das Tags inteligentes disponíveis para todos os ativos de imagem na assimilação.
+O Experience Manager Assets agora usa uma estrutura de inteligência artificial aprimorada para Tags inteligentes de imagem. Essa inteligência de conteúdo resulta em melhor relevância e precisão das Tags inteligentes disponíveis para todos os ativos de imagem na ingestão.
 
 **Configuração da exibição de colunas da exibição Lista de ativos**
 
@@ -184,7 +184,7 @@ Por padrão, o Assets Essentials agora classifica os resultados de pesquisa com 
 
 Listas planas de vocabulários controlados tornam-se incontroláveis com o tempo. O Assets Essentials agora é compatível com a estrutura de marcação hierárquica, que facilita a aplicação de metadados relevantes, a categorização de ativos, o suporte a pesquisas, a reutilização de tags, a melhoria da descoberta e assim por diante.
 
-![Gerenciamento de marcação](assets/tags-hierarchy.png)
+![Gerenciamento de tags](assets/tags-hierarchy.png)
 
 **Fixar arquivos, pastas e coleções para acesso rápido**
 
@@ -196,15 +196,15 @@ Agora é possível fixar arquivos, pastas e coleções para agilizar o acesso a 
 
 O Assets Essentials agora permite filtrar ativos disponíveis na pasta Lixeira. Você pode aplicar filtros padrão ou personalizados para pesquisar ativos apropriados na pasta Lixeira e restaurá-los ou excluí-los permanentemente.
 
-**Visualizações de miniatura para ativos 3D**
+**Visualizações de miniaturas para ativos 3D**
 
 O Assets Essentials agora gera visualizações de miniatura para formatos de arquivo 3D comuns, incluindo gLB, USDz, FBX, 3DS, OBJ e SBSAR. Quando esses arquivos são carregados para o Assets Essentials, as miniaturas são geradas automaticamente pelo sistema, por padrão.
 
-![Tarefas no espaço de trabalho](assets/3d-preview.png)
+![Tarefas no Espaço de trabalho](assets/3d-preview.png)
 
 **Exibir os principais termos pesquisados**
 
-O Assets Essentials agora oferece suporte à exibição dos principais termos pesquisados na implantação do Assets Essentials usando a seção **Insights** do Meu espaço de trabalho. Você também pode navegar até os Insights detalhados para exibir as principais pesquisas durante os últimos 30 dias ou 12 meses.
+O Assets Essentials agora oferece suporte à exibição dos principais termos pesquisados na implantação do Assets Essentials usando a seção **Insights** do Meu espaço de trabalho. Também é possível navegar até os Insights detalhados para exibir as principais pesquisas durante os últimos 30 dias ou 12 meses.
 
 ![Tarefas no Espaço de trabalho](assets/insights-top-searches.png)
 
@@ -334,7 +334,7 @@ As notificações do Assets Essentials permitem [monitorar as operações realiz
 
 **Relatório**
 
-Os relatórios de ativos permitem que os administradores avaliem a atividade do usuário no Adobe Experience Manager Assets Essentials. Os relatórios e o painel Estatísticas em tempo real fornecem informações úteis sobre como os usuários interagem com os ativos disponíveis na implantação. [Use as informações nos relatórios](manage-reports.md) para obter as principais métricas de sucesso e medir a adoção de ativos na sua empresa e por clientes.
+Os relatórios de ativos permitem que os administradores avaliem a atividade do usuário no Adobe Experience Manager Assets Essentials. Os relatórios e o painel Estatísticas em tempo real fornecem informações úteis sobre como os usuários interagem com os ativos disponíveis na implantação. [Use as informações nos relatórios](manage-reports.md) para obter as principais métricas de sucesso e medir a adoção do Assets na sua empresa e por clientes.
 
 Visualize os relatórios de download de ativos e o módulo do painel Estatísticas em tempo real para ver quais ativos estão sendo baixados e a frequência dos downloads.
 
@@ -394,7 +394,7 @@ A versão atual do [!DNL Assets Essentials] foi lançada em 12 de maio de 2022. 
 
 #### Modo incógnito no Chrome {#incognito-mode}
 
-Com esta versão, estamos otimizando o desempenho do delivery da interface. Recursos específicos no Assets Essentials - comentários em ativos e edição de imagens - dependem do armazenamento local do navegador e da ativação de cookies de terceiros. O modo incógnito no navegador Chrome bloqueia cookies de terceiros por padrão. Os usuários têm várias opções para continuar a acessar todos os recursos:
+Com esta versão, estamos otimizando o desempenho do delivery da interface. Recursos específicos no Assets Essentials - comentários em ativos e edição de imagens - dependem do armazenamento local do navegador e da habilitação de cookies de terceiros. O modo incógnito no navegador Chrome bloqueia cookies de terceiros por padrão. Os usuários têm várias opções para continuar a acessar todos os recursos:
 
 * Uso dos perfis do Chrome em vez do modo Incógnito, quando o usuário precisar separar as sessões do navegador
 
@@ -406,7 +406,7 @@ O [!DNL Assets Essentials] foi lançado em 9 de março de 2022 com as seguintes 
 
 * O [!DNL Assets Essentials] agora permite [gerar um link e compartilhar ativos com os participantes externos](share-links-for-assets.md), que não têm acesso ao aplicativo do [!DNL Assets Essentials]. Você pode definir uma data de expiração para o link e, em seguida, compartilhá-la com outras pessoas usando o método de comunicação preferido, como email ou serviços de mensagens. Os recipients do link podem visualizar ativos e baixá-los.
 
-* O [!DNL Assets Essentials] agora inclui [um perfil de administrador de produto](deploy-administer.md#add-users-to-essentials) no Admin Console, além dos perfis de produtos do usuário regular e do consumidor existentes. Agora, um administrador pode atribuir outros usuários ao perfil de administrador de produto.
+* O [!DNL Assets Essentials] agora inclui [um perfil de administrador de produto](deploy-administer.md#add-users-to-essentials) no Admin Console, além dos perfis de produtos do usuário regular e do usuário consumidor existentes. Agora, um administrador pode atribuir outros usuários ao perfil de administrador de produto.
 
 * O Assets Essentials agora permite que os administradores [gerenciem os níveis de acesso para pastas disponíveis no repositório](manage-permissions.md). Como administrador, você pode criar grupos de usuários e atribuir permissões a esses grupos para gerenciar níveis de acesso. Você também pode delegar os privilégios de gerenciamento de permissões a grupos de usuários no nível da pasta.
 
@@ -427,7 +427,9 @@ O [!DNL Assets Essentials] foi lançado em 16 de dezembro de 2021 com as seguint
 
 * A Adobe implanta o Assets Essentials automaticamente após concluir o processo de provisionamento. Os administradores não precisam executar etapas adicionais para implantar o Assets Essentials usando a interface do usuário do [!DNL Cloud Manager]. Essa implantação automática estará disponível para ambientes provisionados após 6 de janeiro de 2022.
 * Novas versões de plug-ins da Creative Cloud que funcionam com o Assets Essentials estão disponíveis no Adobe Exchange - [Adobe Asset Link para Adobe XD v 2.1.0](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/61d229b9) e [Adobe Asset Link para Photoshop / InDesign / Illustrator v 3.1.65](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html).
-* Várias correções de erros e aprimoramentos de produtos, incluindo problemas conhecidos anteriores (as pastas agora são exibidas corretamente na árvore de navegação esquerda após o upload<!-- CQ-4337638 -->, arrastar e soltar upload permite que o usuário selecione a pasta atual ou qualquer subpasta ao soltar para fazer upload<!-- CQ-4327753 -->).
+* Várias correções de erros e aprimoramentos de produtos, incluindo problemas conhecidos anteriores (as pastas agora são exibidas corretamente na árvore de navegação esquerda após o upload<!-- CQ-4337638 -->, arrastar e soltar upload permite que o usuário selecione a pasta atual ou qualquer subpasta ao soltar para fazer upload).
+
+<!-- CQ-4327753 -->
 
 ### Versão 2021.8.0 {#august2021}
 
@@ -449,4 +451,4 @@ A primeira versão do [!DNL Assets Essentials], disponibilizada em 21 de junho d
 * Faça upload e adicione ativos, inclusive pastas aninhadas. Visualize os ativos e as versões.
 * Pesquisa de texto completo, filtros de pesquisa aprimorados e pesquisas salvas para detecção rápida de ativos.
 * Operações básicas de gerenciamento de ativos, como atualizar, excluir, baixar e gerenciar metadados.
-* O [!DNL Assets Essentials] está disponível a usuários do [!DNL Adobe Journey Optimizer] para gerenciar os ativos ao criar mensagens. 
+* O [!DNL Assets Essentials] está disponível a usuários do [!DNL Adobe Journey Optimizer] para gerenciar os ativos ao criar mensagens.

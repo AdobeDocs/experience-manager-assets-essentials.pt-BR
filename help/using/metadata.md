@@ -1,13 +1,13 @@
 ---
 title: Gerenciar metadados
 description: Gerenciar metadados de ativos no  [!DNL Assets Essentials]
-role: User,Leader,Admin,Architect,Developer
+role: User,Leader,Admin,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
-source-git-commit: 1cda73b6ddc573d2736fdaa45b582198420ed5b1
-workflow-type: ht
-source-wordcount: '2159'
-ht-degree: 100%
+source-git-commit: 2ad90f931f84bf8e0ceb51e4e6450d36a7b31a03
+workflow-type: tm+mt
+source-wordcount: '2195'
+ht-degree: 96%
 
 ---
 
@@ -53,7 +53,7 @@ As Tags inteligentes também contêm uma pontuação de confiança como uma porc
 
 ## Adicionar ou atualizar palavras-chave {#manually-tag}
 
-É possível adicionar mais tags aos seus ativos, além das tags inteligentes que são adicionadas automaticamente usando o serviço inteligente do [!DNL Adobe Sensei]. Abra um ativo para pré-visualização, clique em [!UICONTROL Tags] e digite as palavras-chave desejadas no campo [!UICONTROL Palavras-chave]. Para adicionar a tag, pressione Return. O [!DNL Assets Essentials] indexa a palavra-chave em tempo quase real, e sua equipe poderá pesquisar os ativos atualizados em breve usando as novas palavras-chave.
+É possível adicionar mais tags aos seus ativos, além das tags inteligentes que são adicionadas automaticamente usando o serviço inteligente do [!DNL Adobe Sensei]. Abra um ativo para pré-visualização, clique em [!UICONTROL Tags] e digite as palavras-chave desejadas no campo [!UICONTROL Palavras-chave]. Para adicionar a tag, pressione Return. [!DNL Assets Essentials] O indexa a palavra-chave em tempo quase real, e sua equipe poderá pesquisar os ativos atualizados em breve usando as novas palavras-chave.
 
 Também é possível remover tags da seção [!UICONTROL Tags inteligentes] que são adicionadas automaticamente pelo [!DNL Assets Essentials] em todos os ativos carregados.
 
@@ -128,10 +128,10 @@ Veja abaixo uma visão geral de cada tipo de propriedade e como eles são armaze
 | Caixa de seleção | Adiciona um valor booleano. Este é armazenado como TRUE ou FALSE depois que um valor é salvo. |
 | Data | Adiciona um componente de data. |
 | Suspenso | Adiciona uma lista suspensa. |
-| Estado | Adiciona uma propriedade de estado do repositório (mapeada para repo:state) |
-| Status do ativo | Adiciona a propriedade de status do ativo padrão (mapeada para dam:assetStatus) |
-| Tags | Adiciona uma tag a partir de valores armazenados no Gerenciamento de taxonomia (mapeado para xcm:tags). |
-| Palavras-chave | Adiciona palavras-chave de forma livre (mapeadas para dc:subject). |
+| Estado | Adicionar a propriedade de estado do repositório (mapeada para o repositório:state) |
+| Status do ativo | Adicionar a propriedade Status do Ativo padrão (mapeada para dam:assetStatus) |
+| Tags | Adicione uma marca de valores armazenados no Gerenciamento de Taxonomia (mapeado para xcm:tags). |
+| Palavras-chave | Adicionar palavras-chave de forma livre (mapeadas para dc:subject). |
 | Tags inteligentes | Adicione para aumentar os recursos de pesquisa inserindo tags de metadados automaticamente. |
 | Link | Adicione para habilitar URLs externos. Uma vez configurado no formulário de metadados, o componente de URL pode ser mapeado para uma propriedade de metadados específica na página “Editor de metadados”. Este [formulário de metadados pode ser atribuído a pastas](#assign-metadata-form-folder). |
 
@@ -176,7 +176,7 @@ Siga as etapas abaixo para usar o componente de link na página de detalhes do a
 1. Acesse a página de detalhes do ativo e navegue até o **[!UICONTROL URL do link]**.
 1. Adicione o URL que deseja usar para redirecionar para o ativo selecionado.
 1. Clique em **[!UICONTROL Adicionar link]**. Realize uma das ações a seguir:
-   * Clique no ![ícone de copiar](assets/do-not-localize/copy.svg) para copiar o URL. 
+   * Clique no ![ícone de copiar](assets/do-not-localize/copy.svg) para copiar o URL.
    * Clique no ![ícone de editar](assets/do-not-localize/edit.svg) para editar o URL.
 1. Clique em **[!UICONTROL Salvar]** para salvar as alterações.
 
@@ -219,9 +219,10 @@ Para visualizar as tags raiz configuradas, acesse a página de detalhes do ativo
 
 * Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
-* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General&amp;lang=pt-BR#support)
+* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&lang=pt-BR#support)
 
-<!-- TBD: Cannot create a form using the second option. Documenting only the first option for now.
+<!-- 
+TBD: Cannot create a form using the second option. Documenting only the first option for now.
 To reuse an existing form to create a new form, do one of these:
 
 * Select a metadata form and click **[!UICONTROL Copy]** from the toolbar, provide a name, and click **[!UICONTROL Confirm]**.
@@ -229,7 +230,8 @@ To reuse an existing form to create a new form, do one of these:
 * Click **[!UICONTROL Create]**, select **[!UICONTROL Use existing form structure as template]** option, and select an existing form. 
 -->
 
-<!-- TBD: Queries for PM and engg.
+<!-- 
+TBD: Queries for PM and engg.
 
 Can we edit the existing metadata in any form?
 
@@ -244,7 +246,8 @@ Is there a detailed metadata tab. Where do the other details of an asset go?
 How can one search based strictly on the metadata. Similar to AEM Assets GQL queries.
 -->
 
-<!-- TBD: Link to related articles if any.
+<!-- 
+TBD: Link to related articles if any.
 
 >[!MORELIKETHIS]
 >

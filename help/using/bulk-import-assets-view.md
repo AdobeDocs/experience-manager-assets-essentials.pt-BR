@@ -2,10 +2,10 @@
 title: Importar ativos em massa usando o Assets Essentials
 description: Saiba como importar ativos em massa usando a nova interface do Assets (Assets Essentials). Ela permite que administradores importem um grande número de ativos de uma fonte de dados para o AEM Assets.
 exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
-source-git-commit: 4d4b239b0b75ac8a26a7c3001e5b28dcb6243f63
+source-git-commit: 2ad90f931f84bf8e0ceb51e4e6450d36a7b31a03
 workflow-type: tm+mt
-source-wordcount: '1812'
-ht-degree: 100%
+source-wordcount: '1849'
+ht-degree: 92%
 
 ---
 
@@ -49,7 +49,7 @@ Antes de importar ativos da sua conta do Dropbox para o AEM Assets, crie e confi
 
 Execute as seguintes etapas:
 
-1. Faça logon na sua [conta do Dropbox](https://www.dropbox.com/developers) e clique em **[!UICONTROL Criar aplicativos]**. <br>Se você estiver usando uma conta Enterprise do Dropbox, precisará ter acesso à função Administrador de conteúdo.
+1. Entre na sua [conta da Dropbox](https://www.dropbox.com/developers) e clique em **[!UICONTROL Criar aplicativos]**. <br>Se você estiver usando uma conta do Enterprise Dropbox, precisará ter acesso à função de Administrador de conteúdo.
 
 1. Na seção **[!UICONTROL Escolher uma API]**, selecione o único botão de opção disponível.
 
@@ -129,7 +129,7 @@ Execute as seguintes etapas para criar uma configuração de importação em mas
    >
    >Se estiver usando o Dropbox como fonte de dados, especifique o caminho da pasta de origem com base nas seguintes regras:
    >* Se você selecionar **Dropbox completo** ao criar o aplicativo do Dropbox e a pasta que contiver os ativos existir em `https://www.dropbox.com/home/bulkimport-assets`, especifique `bulkimport-assets` no campo **[!UICONTROL Pasta de origem]**.
-   >* Se você selecionar **Pasta do aplicativo** ao criar o aplicativo do Dropbox e a pasta que contiver os ativos existir em `https://www.dropbox.com/home/Apps/BulkImportAppFolderScope/bulkimport-assets`, especifique `bulkimport-assets` no campo **[!UICONTROL Pasta de origem]**, onde `BulkImportAppFolderScope` refere-se ao nome do aplicativo. Neste caso, o `Apps` é adicionado automaticamente após `home`.
+   >* Se você selecionar **Pasta do aplicativo** ao criar o aplicativo Dropbox e a pasta que contém os ativos existir em `https://www.dropbox.com/home/Apps/BulkImportAppFolderScope/bulkimport-assets`, especifique `bulkimport-assets` no campo **[!UICONTROL Pasta do Source]**, onde `BulkImportAppFolderScope` refere-se ao nome do aplicativo. `Apps` é adicionado automaticamente após `home` nesse caso.
 
 1. (Opcional) Selecione a opção **[!UICONTROL Excluir arquivo de origem após a importação]** para excluir os arquivos originais do armazenamento de dados de origem após os arquivos serem importados para o [!DNL Experience Manager Assets].
 1. Selecione o **[!UICONTROL Modo de importação]**. Selecione **[!UICONTROL Ignorar]**, **[!UICONTROL Substituir]** ou **[!UICONTROL Criar versão]**. O modo Ignorar é o padrão e nesse modo, o assimilador ignora a importação de um ativo, caso já exista.
@@ -137,18 +137,18 @@ Execute as seguintes etapas para criar uma configuração de importação em mas
 
 1. (Opcional) Especifique o arquivo de metadados a ser importado, fornecido em formato CSV no campo **[!UICONTROL Arquivo de metadados]**. O arquivo de origem de metadados deve estar na pasta de origem. Clique em **[!UICONTROL Próximo]** para navegar até **[!UICONTROL Localização e filtros]**.
 1. Defina um local no DAM onde os ativos devem ser importados usando o campo **[!UICONTROL Pasta de destino do Assets]**. Por exemplo, `/content/dam/imported_assets`.
-1. (Opcional) Na seção **[!UICONTROL Escolher filtros]**, forneça o tamanho mínimo de arquivo dos ativos em MB para incluí-los no processo de assimilação no campo **[!UICONTROL Filtrar por tamanho mínimo]**.
-1. (Opcional) Forneça o tamanho máximo de arquivo dos ativos em MB para incluí-los no processo de assimilação no campo **[!UICONTROL Filtrar por tamanho máximo]**.
-1. (Opcional) Selecione os tipos MIME a serem incluídos no processo de assimilação usando o campo **[!UICONTROL Incluir tipo MIME]**. É possível selecionar vários tipos MIME nesse campo. Se não definir um valor, todos os tipos MIME serão incluídos no processo de assimilação.
+1. (Opcional) Na seção **[!UICONTROL Escolher filtros]**, forneça o tamanho mínimo de arquivo dos ativos em MB para incluí-los no processo de ingestão no campo **[!UICONTROL Filtrar por tamanho mínimo]**.
+1. (Opcional) Forneça o tamanho máximo de arquivo dos ativos em MB para incluí-los no processo de ingestão no campo **[!UICONTROL Filtrar por tamanho máximo]**.
+1. (Opcional) Selecione os tipos MIME a serem incluídos no processo de ingestão usando o campo **[!UICONTROL Incluir tipo MIME]**. É possível selecionar vários tipos MIME nesse campo. Se não definir um valor, todos os tipos MIME serão incluídos no processo de ingestão.
 
-1. (Opcional) Selecione os tipos MIME a serem excluídos no processo de assimilação usando o campo **[!UICONTROL Excluir tipo MIME]**. É possível selecionar vários tipos MIME nesse campo. Se não definir um valor, todos os tipos MIME serão incluídos no processo de assimilação.
+1. (Opcional) Selecione os tipos MIME a serem excluídos no processo de ingestão usando o campo **[!UICONTROL Excluir tipo MIME]**. É possível selecionar vários tipos MIME nesse campo. Se não definir um valor, todos os tipos MIME serão incluídos no processo de ingestão.
 
    ![Filtros de importação em massa](assets/bulk-import-location.png)
 
 1. Clique em **[!UICONTROL Avançar]**. Selecione uma das seguintes opções de acordo com sua preferência:
 
    * **[!UICONTROL Salvar importação]** para salvar a configuração a fim de executá-la posteriormente.
-   * **[!UICONTROL Salvar e executar importação]** para salvar a configuração e executar a importação em massa. 
+   * **[!UICONTROL Salvar e executar importação]** para salvar a configuração e executar a importação em massa.
    * **[!UICONTROL Salvar e agendar a importação]** para salvar a configuração e agendar a importação em massa para um momento posterior. Você pode escolher a frequência da importação em massa e definir a data e a hora da importação. A importação em massa será executada na data e hora definidas na frequência escolhida.
 
    ![Executar importação em massa](assets/save-run.png)
@@ -157,7 +157,7 @@ Execute as seguintes etapas para criar uma configuração de importação em mas
 
 ### Tratamento de nomes de arquivo durante a importação em massa {#filename-handling-bulkimport-assets-view}
 
-Ao importar ativos ou pastas em massa, o [!DNL Experience Manager Assets] importa toda a estrutura existente na fonte de importação. O [!DNL Experience Manager] segue as regras incorporadas para caracteres especiais em nomes de ativos e pastas, portanto, esses nomes de arquivo precisam de limpeza. Tanto o nome da pasta quanto o nome do ativo definidos pelo usuário permanece inalterado e é armazenado em `jcr:title`.
+Quando você importa ativos ou pastas em massa, o [!DNL Experience Manager Assets] importa toda a estrutura do que existe na fonte de importação. [!DNL Experience Manager] O segue as regras incorporadas para caracteres especiais nos nomes de ativos e pastas, portanto, esses nomes de arquivos precisam de limpeza. Tanto o nome da pasta quanto o nome do ativo definidos pelo usuário permanece inalterado e é armazenado em `jcr:title`.
 
 Durante a importação em massa, o [!DNL Experience Manager] procura pelas pastas existentes para evitar a reimportação de ativos e pastas e também verifica as regras de limpeza aplicadas na pasta principal onde a importação ocorre. Se as regras de limpeza forem aplicadas na pasta principal, as mesmas regras serão aplicadas à fonte de importação. Para novas importações, as seguintes regras de limpeza são aplicadas para gerenciar os nomes de arquivo de ativos e pastas.
 
@@ -165,16 +165,18 @@ Para obter mais informações sobre nomes não permitidos, tratamento de nomes d
 
 ## Exibir configurações de importação em massa já existentes {#view-import-configuration}
 
-Para exibir as importações em massa, selecione a opção **[!UICONTROL Importações em massa]** no painel esquerdo. A página de importações em massa é exibida com a lista de **[!UICONTROL Importações executadas]**. <br>
-Também é possível exibir as **[!UICONTROL Importações salvas]** e **[!UICONTROL Importações agendadas]** na lista suspensa de opções.
+Para exibir as importações em massa, selecione a opção **[!UICONTROL Importações em massa]** no painel esquerdo. A página de importações em massa aparece com a lista de **[!UICONTROL Importações Executadas]**. <br>
+Você também pode exibir as **[!UICONTROL Importações Salvas]** e **[!UICONTROL Importações Agendadas]** da opção suspensa.
 
 ![Salvamento de configurações de importação em massa](assets/bulk-import-options.png)
 
-<!-- If you select to save and run the import, the import configuration displays in the **[!UICONTROL Executed Imports]** tab.
+<!-- 
+If you select to save and run the import, the import configuration displays in the **[!UICONTROL Executed Imports]** tab.
 
 ![Save bulk import configuration](assets/bulk-import-executed.png)
 
-If you schedule an import, it displays in the **[!UICONTROL Scheduled Imports]** tab.  -->
+If you schedule an import, it displays in the **[!UICONTROL Scheduled Imports]** tab.  
+-->
 
 ## Edição de configurações de importação em massa {#edit-import-configuration}
 
@@ -186,9 +188,9 @@ Para editar os detalhes da configuração, clique no ![Ícone mais](assets/do-no
 
 Para agendar uma importação em massa única ou recorrente, execute as seguintes etapas:
 
-1. Clique no ![Ícone mais](assets/do-not-localize/more-icon.svg) correspondente ao nome da configuração disponível na guia **[!UICONTROL Importações executadas]** ou **[!UICONTROL Importações salvas]** e clique em **[!UICONTROL Agendar]**. Também é possível reagendar uma importação navegando até a guia **[!UICONTROL Importações programadas]** e clicando em **[!UICONTROL Programar]**.
+1. Clique no ![Ícone mais](assets/do-not-localize/more-icon.svg) correspondente ao nome da configuração disponível na guia **[!UICONTROL Importações executadas]** ou **[!UICONTROL Importações salvas]** e clique em **[!UICONTROL Agendar]**. Também é possível reagendar uma importação navegando até a guia **[!UICONTROL Importações agendadas]** e clicando em **[!UICONTROL Agendar]**.
 
-1. Defina uma assimilação única ou agende uma programação por hora, dia ou semana. Clique em **[!UICONTROL Enviar]**.
+1. Defina uma ingestão única ou agende uma programação por hora, dia ou semana. Clique em **[!UICONTROL Enviar]**.
 
    ![Agendamento de configurações de importação em massa](assets/bulk-import-schedule.png)
 
@@ -200,7 +202,7 @@ Para validar a conexão com a fonte de dados, clique no ![Ícone mais](assets/do
 
 ## Faça uma execução de prática antes de executar uma importação {#dry-run-bulk-import}
 
-Clique no ![Ícone mais](assets/do-not-localize/more-icon.svg) correspondente ao nome da configuração e clique em **[!UICONTROL Execução de prática]** para solicitar uma execução de teste para a tarefa de importação em massa. O Experience Manager Assets exibe os seguintes detalhes sobre a tarefa de importação em massa:
+Clique no ![Ícone mais](assets/do-not-localize/more-icon.svg) correspondente ao nome da configuração e clique em **[!UICONTROL Execução de prática]** para solicitar uma execução de teste para o processo de importação em massa. O Experience Manager Assets exibe os seguintes detalhes sobre o processo de importação em massa:
 
 ![Verificação de integridade da importação em massa](assets/bulk-import-dry-run.png)
 
@@ -221,11 +223,11 @@ Também é possível visualizar os ativos que foram importados na pasta de desti
 
 ## Exclusão de uma configuração de importação em massa {#delete-bulk-import-configuration}
 
-Clique no ![Ícone mais](assets/do-not-localize/more-icon.svg) correspondente ao nome da configuração existente nas guias **[!UICONTROL Importações executadas]**, **[!UICONTROL Importações agendadas]** ou **[!UICONTROL Importações salvas]** e clique em **[!UICONTROL Excluir]** para excluir a configuração de importação em massa.
+Clique no ![ícone Mais](assets/do-not-localize/more-icon.svg) correspondente ao nome da configuração existente nas guias **[!UICONTROL Importações executadas]**, **[!UICONTROL Importações agendadas]** ou **[!UICONTROL Importações salvas]** e clique em **[!UICONTROL Excluir]** para excluir a configuração de importação em massa.
 
 ## Navegue até os ativos após a execução de uma importação em massa {#view-assets-after-bulk-import}
 
-Para exibir o local de destino no Assets onde os ativos são importados após a execução das tarefas de importação em massa, clique no ![Ícone de mais](assets/do-not-localize/more-icon.svg) correspondente ao nome da configuração e clique em **[!UICONTROL Exibir ativos]**.
+Para exibir o local de destino no Assets onde os ativos são importados após a execução do processo de importação em massa, clique no ![Ícone de mais](assets/do-not-localize/more-icon.svg) correspondente ao nome da configuração e clique em **[!UICONTROL Exibir ativos]**.
 
 ## Vídeo: importar ativos em massa usando o Assets Essentials
 

@@ -3,10 +3,10 @@ title: Fazer upload de ativos para o repositório
 description: Faça upload de ativos para o [!DNL Assets Essentials], visualize o status dos uploads e resolva problemas de upload.
 role: User
 exl-id: a85a4455-4456-48af-aee9-f05300677605
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+source-git-commit: b3c726122425c9a89a5d6c0ac35b652d20d8e0b9
 workflow-type: tm+mt
-source-wordcount: '829'
-ht-degree: 100%
+source-wordcount: '846'
+ht-degree: 98%
 
 ---
 
@@ -19,8 +19,10 @@ Você pode usar os seguintes métodos para fazer upload de um ou mais ativos ou 
 * Arraste ativos ou pastas na interface e siga as instruções na tela.
 * Clique em **[!UICONTROL Adicionar ativos]** na barra de ferramentas e adicione alguns arquivos à caixa de diálogo de upload.
 
-<!-- TBD: Update this GIF
-![Asset and nested folder upload demo](assets/do-not-localize/upload-assets.gif) -->
+<!-- 
+TBD: Update this GIF
+![Asset and nested folder upload demo](assets/do-not-localize/upload-assets.gif) 
+-->
 
 Você pode usar qualquer um desses métodos para fazer upload de ativos após criar uma pasta. Para criar uma pasta vazia, clique em **[!UICONTROL Criar pasta]** na barra de ferramentas. O [!DNL Assets Essentials] oferece uma eficiente funcionalidade de pesquisa de texto completo, mas você também pode usar pastas para organizar melhor seus ativos.
 
@@ -104,4 +106,4 @@ Os usuários podem excluir ativos ou pastas individuais que não são mais neces
 
 * Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
-* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General&amp;lang=pt-BR#support)
+* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General#support)

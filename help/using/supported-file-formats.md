@@ -1,12 +1,12 @@
 ---
 title: Formatos de arquivo não compatíveis
 description: Formatos de arquivo compatíveis com os vários casos de uso do  [!DNL Assets Essentials]
-role: User,Leader,Admin,Architect,Developer
+role: User,Leader,Admin,Developer
 contentOwner: AG
 exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
-source-git-commit: 243a41aef81cd1fdcbad8f4355fe2d888db394d1
-workflow-type: ht
-source-wordcount: '527'
+source-git-commit: b3c726122425c9a89a5d6c0ac35b652d20d8e0b9
+workflow-type: tm+mt
+source-wordcount: '372'
 ht-degree: 100%
 
 ---
@@ -35,7 +35,8 @@ Esses vários tipos de arquivos têm diferentes graus de compatibilidade com os 
 
 ## Adicionar, carregar e visualizar ativos {#support-to-upload-view}
 
-<!-- TBD: For AEM, AI files require the PDF option to be selected when saving the AI file.
+<!-- 
+TBD: For AEM, AI files require the PDF option to be selected when saving the AI file.
 -->
 
 | Tipo de ativo | [Navegar](/help/using/navigate-view.md) | Copiar | [Upload](/help/using/add-delete.md) | Criar | [Excluir](/help/using/add-delete.md#delete-assets) | Detalhes | Zoom da imagem | [Visualizado recentemente](/help/using/navigate-view.md) |
@@ -48,7 +49,8 @@ Esses vários tipos de arquivos têm diferentes graus de compatibilidade com os 
 | PSD, AI, PSB e INDD | ✓ | ✓ | ✓ | − | ✓ | ✓ ‡ | − | ✓ |
 | Outros arquivos binários | ✓ | ✓ | ✓ | − | ✓ | ✓ | − | ✓ |
 
-<!-- Hiding CC Libraries (considered beta) as per PM feedback.
+<!-- 
+Hiding CC Libraries (considered beta) as per PM feedback.
 | CC Libraries  | &#10003; | &minus;  | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
 -->
 
@@ -57,7 +59,7 @@ Esses vários tipos de arquivos têm diferentes graus de compatibilidade com os 
 | Tipo de ativo | [Download](/help/using/manage-organize.md#download) | Arrastar e soltar | [Editor de imagem](/help/using/edit-images.md) | [Pesquisar](/help/using/search.md) | [Tags inteligentes](/help/using/metadata.md#tags) | [Renomear](/help/using/manage-organize.md) | [Versões](/help/using/manage-organize.md#versions-of-assets) |
 |---------------|----------|---------------|--------------|----------|------------|----------|----------|
 | Imagens raster | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Arquivos RAW | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Arquivos RAW | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
 | Pastas | ✓ | ✓ | − | ✓ | − | ✓ | ✓ |
 | Vídeos | ✓ | ✓ | − | ✓ | ✓ | ✓ | ✓ |
 | Bibliotecas da CC | − | − | − | − | − | ✓ | ✓ |
@@ -104,7 +106,8 @@ Esses vários tipos de arquivos têm diferentes graus de compatibilidade com os 
 
 Usuários do [!DNL Adobe Asset Link] podem fazer upload e check-in (fazer upload de uma nova versão) de arquivos para o repositório do [!DNL Assets Essentials] em aplicativos de desktop compatíveis da [!DNL Adobe Creative Cloud].
 
-<!-- TBD: Saving the template table separately for later use.
+<!-- 
+TBD: Saving the template table separately for later use.
 | Asset type    | Features |
 |---------------|----------|
 | Raster images |          |
