@@ -1,27 +1,29 @@
 ---
 cloud: Experience Cloud
 solution: Experience Manager, Experience Manager Assets
+landing-page-name: experience-manager
+landing-page-breadcrumb-title: AEM
 product: adobe experience manager
 type: Documentation
-git-repo: https://github.com/AdobeDocs/experience-manager-assets-essentials.pt-BR
+git-repo: https://github.com/AdobeDocs/experience-manager-assets-essentials.en
 mini-toc-levels: 1
 index: true
 recommendations: noDisplay
-source-git-commit: a33f67452fdb1c42e534c5f423549c933fd5d59a
-workflow-type: ht
-source-wordcount: '93'
-ht-degree: 100%
+source-git-commit: 22ad420175d3e8ee00ef8486a3c6684c6aec3b05
+workflow-type: tm+mt
+source-wordcount: '107'
+ht-degree: 6%
 
 ---
 
 
 # Metadados para uso interno
 
-O arquivo metadata.md inclui metadados de nível de repositório que passam para os arquivos TOC.md do guia do usuário no repositório. Se desejar alterar o conteúdo de metadata.md de qualquer guia do usuário, faça isso em qualquer arquivo TOC.md.
+O arquivo metadata.md inclui metadados de nível de repositório que passam para os arquivos TOC.md do guia do usuário no repositório. Se quiser alterar o conteúdo metadata.md para qualquer guia do usuário, faça isso em qualquer arquivo TOC.md.
 
-| metadados | para que serve |
+| metadados | o que faz |
 |--- |--- |
-| mini-toc-levels | Calcula o número de níveis de cabeçalho exibidos no painel direito. O valor padrão é 2. |
+| minitoc-levels | Determina o número de níveis de cabeçalho exibidos no painel direito. O valor padrão é 2. |
 | git-repo | Especifica o local do repositório principal para uso interno. |
 
 No arquivo TOC.md
