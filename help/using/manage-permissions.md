@@ -4,8 +4,8 @@ description: O Assets Essentials permite que os administradores gerenciem os ní
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
 source-git-commit: ec723ae4222254c64e8ddc2e03f8a523203f9f8a
 workflow-type: tm+mt
-source-wordcount: '1657'
-ht-degree: 100%
+source-wordcount: '1700'
+ht-degree: 97%
 
 ---
 
@@ -32,7 +32,7 @@ Adicione administradores no aplicativo Assets Essentials para que eles possam ge
 
 Para adicionar administradores:
 
-1. Acesse o [Admin Console](https://adminconsole.adobe.com) da sua organização, clique em **[!UICONTROL Produtos]** na barra superior, clique em **[!UICONTROL AEM Assets Essentials]** e, em seguida, clique no ambiente [!DNL Assets Essentials]. O [!DNL Assets Essentials] tem três perfis de produto que representam o acesso para administradores, usuários comuns e consumidores.
+1. Acesse o [Admin Console](https://adminconsole.adobe.com) da sua organização, clique em **[!UICONTROL Produtos]** na barra superior, clique em **[!UICONTROL AEM Assets Essentials]** e depois clique no ambiente [!DNL Assets Essentials]. [!DNL Assets Essentials] O tem três perfis de produto que representam o acesso para administradores, usuários comuns e consumidores.
 
    ![Perfil de administrador do Admin Console](assets/admin-console-admin-profile.png)
 
@@ -214,4 +214,4 @@ A seguir estão os níveis de acesso para todos os grupos de usuários na hierar
 
 * Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
-* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General&amp;lang=pt-BR#support)
+* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&lang=pt-BR#support)

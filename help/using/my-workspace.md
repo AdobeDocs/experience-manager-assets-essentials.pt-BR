@@ -4,7 +4,7 @@ description: Meu espaço de trabalho é uma página que fornece módulos visuais
 exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
 source-git-commit: 21db2f77de3245f6fa40964b64ec8ac2c45d13e9
 workflow-type: tm+mt
-source-wordcount: '741'
+source-wordcount: '743'
 ht-degree: 100%
 
 ---
@@ -80,11 +80,11 @@ A guia **[!UICONTROL Principais downloads]** exibe os dez ativos mais baixados d
 
 ## Personalizar Meu espaço de trabalho {#configure-widgets}
 
-Todos os widgets são exibidos por padrão, mas você pode ativar ou desativar os widgets exibidos em Meu espaço de trabalho. As preferências são específicas para cada usuário.
+Todos os widgets são exibidos por padrão, mas você pode habilitar ou desabilitar os widgets exibidos em Meu espaço de trabalho. As preferências são específicas para cada usuário.
 
 1. Clique em **[!UICONTROL Meu espaço de trabalho]**, disponível no painel de navegação esquerdo e clique em **[!UICONTROL Personalizar]**.
 
-1. Desative a alternância do widget que você não precisa exibir no espaço de trabalho. Você também pode arrastar um widget para um local apropriado para atualizar sua ordem de exibição no espaço de trabalho.
+1. Desative o botão de alternância do widget que você não precisa exibir no espaço de trabalho. Você também pode arrastar um widget para um local apropriado para atualizar sua ordem de exibição no espaço de trabalho.
 
 1. Clique em **[!UICONTROL Concluído]** para salvar as alterações.
 
