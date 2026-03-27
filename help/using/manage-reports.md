@@ -3,9 +3,9 @@ title: Gerenciar relatórios no Assets Essentials
 description: Acesse os dados na seção de relatórios do Assets Essentials para avaliar o uso de produtos e recursos e obter insights sobre as principais métricas de sucesso.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 source-git-commit: 810bb62cd5eb664e36a6ea267050dd025828e900
-workflow-type: ht
-source-wordcount: '1226'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '1243'
+ht-degree: 96%
 
 ---
 
@@ -124,8 +124,8 @@ O ambiente do AEM Assets Essentials oferece recursos abrangentes de geração de
 
 ## Exibir e baixar relatórios já existentes {#View-and-download-existing-report}
 
-Os relatórios já existentes são exibidos na guia **Relatórios executados**. Clique em **Relatórios** e selecione **Relatórios executados** para exibir todos os relatórios criados com o status **concluído**, indicando que eles estão prontos para o download. Para baixar o relatório em formato CSV ou excluí-lo, selecione a linha do relatório e escolha **Baixar CSV** ou **Excluir**.
-![exibir e baixar relatórios já existentes](/help/using/assets/view-download-existing-report.png)
+Os relatórios já existentes são exibidos na guia **Relatórios executados**. Clique em **Relatórios** e selecione **Relatórios executados** para exibir todos os relatórios criados com o status **concluído**, indicando que eles estão prontos para o download. Para baixar o relatório em formato CSV ou excluí-lo, selecione a linha de relatório e selecione **Baixar CSV** ou **Excluir**.
+![exibir e baixar relatórios existentes](/help/using/assets/view-download-existing-report.png)
 
 ## Agendar um relatório {#schedule-report}
 
@@ -139,7 +139,7 @@ Para agendar um relatório, siga as etapas abaixo:
    1. **Título:** adicione um título ao relatório.
    1. **Descrição**: adicione uma descrição opcional ao relatório.
    1. **Selecionar caminho de pasta:** selecione um caminho de pasta para gerar um relatório de ativos que serão enviados ou baixados dessa pasta específica no futuro.
-   1. Botão **Agendar relatório:** ative-o para agendar o relatório para um momento posterior ou para que ocorra de forma recorrente.
+   1. Botão de alternância **Agendar relatório:** ative-o para agendar o relatório para um momento posterior ou para que ocorra de forma recorrente.
       ![agendar relatório](/help/using/assets/schedule-reports1.svg)
 
    1. **Escolha a frequência:** especifique o intervalo para gerar o relatório (por exemplo, diário, semanal, mensal, anual ou sem repetição) e defina a data e a hora para executar o relatório junto com a data final para recorrência. Para um relatório sem repetição, selecione o intervalo de datas do relatório de acordo com o tipo de atividade selecionado no ambiente do AEM. Por exemplo, se você precisar de um relatório de ativos baixados do dia 10 ao dia 29 (datas futuras) de um mês específico, selecione essas datas no campo **Selecionar intervalo de datas**.
@@ -163,7 +163,7 @@ Os relatórios agendados são exibidos na guia **Relatórios agendados** de mane
 
 ### Retomar cronograma {#resume-schedule}
 
-Para retomar o agendamento cancelado, selecione a linha do relatório e clique em **Retomar agendamento**. Quando retomado, os próximos registros de tempo de execução são exibidos novamente e o status é exibido como em andamento.
+Para retomar o agendamento cancelado, selecione a linha do relatório e clique em **Retomar agendamento**. Quando retomadas, as próximas entradas de tempo de execução são exibidas novamente e o status mostra em andamento.
 ![retomar agendamento](/help/using/assets/resume-schedule.png)
 
 >[!NOTE]

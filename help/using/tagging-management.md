@@ -4,8 +4,8 @@ description: Saiba como gerenciar tags no Assets Essentials. As tags ajudam a ca
 exl-id: da9e8d56-c190-4006-9579-c3c8401c5e5f
 source-git-commit: eef4aec6f67700d0a5b096577b9637d96949b488
 workflow-type: tm+mt
-source-wordcount: '1748'
-ht-degree: 100%
+source-wordcount: '1770'
+ht-degree: 97%
 
 ---
 
@@ -95,7 +95,7 @@ Caso você armazene as tags na hierarquia errada ou a taxonomia mude ao longo do
 
 * As tags só podem ser movidas entre namespaces existentes ou em uma hierarquia de tags existente.
 * As tags não podem ser movidas para a raiz para se tornarem um namespace.
-* Mover uma tag principal também move todas as tags secundárias armazenadas na hierarquia.
+* Mover uma tag pai também move todas as tags filhas armazenadas na hierarquia.
 
 Execute as seguintes etapas para mover tags de um local para outro:
 
@@ -129,7 +129,7 @@ Execute as seguintes etapas para excluir tags:
 
 ## Adicionar componente de tags ao formulário de metadados {#add-tags-to-metadata-form}
 
-O componente de tags é adicionado ao formulário de metadados `default` automaticamente. Você pode criar um [formulário de metadados](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=br#metadata-forms) do zero ou utilizar um modelo. Se você não estiver usando um modelo de formulário de metadados existente, poderá modificar o formulário de metadados e adicionar o componente de tags. O mapeamento da propriedade de metadados é preenchido automaticamente e não pode ser modificado neste momento. Usuários do [!DNL Assets as a Cloud Service] podem atualizar o mapeamento para armazenar valores de tags utilizando namespaces personalizados e expor apenas subconjuntos de hierarquias utilizando caminhos raiz.
+O componente de tags é adicionado ao formulário de metadados `default` automaticamente. Você pode criar um [formulário de metadados](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=br#metadata-forms) do zero ou utilizar um modelo. Se você não estiver usando um modelo de formulário de metadados existente, poderá modificar o formulário de metadados e adicionar o componente de tags. O mapeamento da propriedade de metadados é preenchido automaticamente e não pode ser modificado neste momento. [!DNL Assets as a Cloud Service] os usuários podem atualizar o mapeamento para armazenar valores de tag usando namespaces personalizados e expor apenas subconjuntos de hierarquias usando caminhos raiz.
 
 Assista a este vídeo rápido para ver como adicionar o componente de tags ao formulário de metadados:
 

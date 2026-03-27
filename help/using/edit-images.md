@@ -4,8 +4,8 @@ description: Editar imagens usando opções viabilizadas pelo [!DNL Adobe Expres
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 source-git-commit: 53f638e0dc934f2a4134acb89713b5d4828c8d1f
-workflow-type: ht
-source-wordcount: '1182'
+workflow-type: tm+mt
+source-wordcount: '1258'
 ht-degree: 100%
 
 ---
@@ -120,7 +120,7 @@ Para editar imagens no editor incorporado do Adobe Express, siga as etapas abaix
 
 O Assets Essentials permite criar um novo modelo do zero usando o editor integrado do Adobe Express. Para criar um novo ativo usando o Adobe Express, execute as etapas a seguir:
 
-1. Navegue até **Meu espaço de trabalho** e clique em **Criar** no banner do Adobe Express na parte superior. A tela em branco do Adobe Express aparece na interface do Assets Essentials.
+1. Navegue até **Meu espaço de trabalho** e clique em **Criar** no banner do Adobe Express exibido na parte superior. A tela em branco do Adobe Express é exibida na interface do Assets Essentials.
 1. Crie o conteúdo usando [modelos](https://helpx.adobe.com/br/express/using/work-with-templates.html). Caso contrário, navegue até Seus itens para modificar o conteúdo existente.
 1. Após concluir a edição, clique em **Salvar**.
 1. Especifique o caminho de destino do ativo criado e clique em **Salvar como novo ativo**.
@@ -195,7 +195,7 @@ TBD: Insert a video of the available social media options.
 
 * Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
-* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General&amp;lang=pt-BR#support)
+* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General#support)
 
 >[!MORELIKETHIS]
 >
