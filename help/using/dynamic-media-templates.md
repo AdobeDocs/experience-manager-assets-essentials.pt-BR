@@ -4,7 +4,7 @@ description: Saiba como criar modelos do Dynamic Media usando um editor de model
 hide: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: 8bf4babf2fefb8735b14eb4d4cb08205c54a77bb
+source-git-commit: b0b103b91ca4f4c657fd6d6f526be5f5b05dc156
 workflow-type: tm+mt
 source-wordcount: '3000'
 ht-degree: 6%
@@ -167,7 +167,7 @@ Veja estas ações comuns de edição de camadas para editar um texto ou uma cam
 Formate o texto para a fonte, o tamanho, a cor, o estilo e o alinhamento desejados (na camada) alterando os valores nos respectivos campos na seção **[!UICONTROL Texto]** do painel.
 
 **[!UICONTROL Redimensionamento de Texto Inteligente]** Inclua o **[!UICONTROL Redimensionamento de Texto Inteligente]** ([Ajuste de texto](https://experienceleague.adobe.com/pt-br/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/http-protocol-reference/text-formatting/r-copy-fitting)) para ajustar qualquer texto na área designada de forma ideal ajustando seu tamanho de fonte e comprimento de forma inteligente. Esse recurso evita o excesso de texto ou minimiza espaços extras na parte inferior do texto.
-![criação de conteúdo em pouco tempo](/help/using/assets/smart-text-resize.png)
+![criação rápida de conteúdo](/help/using/assets/smart-text-resize.png)
 
 ### Camadas de parâmetros {#parameterise-a-layer}
 
@@ -189,7 +189,7 @@ As propriedades com parâmetros podem ser incluídas como parâmetros de URL no 
 **Parâmetros de imagem:**
 
 **X:** Inclua para mover a camada horizontalmente ao longo de sua linha central, paralelamente ao eixo X do plano de modelo, alterando o valor do parâmetro na URL.
-**Y:** Inclua para mover a camada verticalmente ao longo de sua linha central, paralelamente ao eixo Y do plano de modelo, alterando o valor do parâmetro na URL.
+**Y:** Inclua para mover a camada verticalmente ao longo de sua linha central, paralela ao eixo Y do plano de modelo, alterando o valor do parâmetro na URL.
 **Largura:** Inclua para ajustar a largura da camada alterando o valor do parâmetro na URL.
 **Altura:** Inclua para ajustar a altura da camada alterando o valor do parâmetro na URL.
 **Ocultar:** Inclua para ocultar ou mostrar a camada no modelo usando 0 (mostrar) e 1 (ocultar).
