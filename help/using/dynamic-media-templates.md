@@ -2,9 +2,10 @@
 title: Como gerenciar modelos do Dynamic Media?
 description: Saiba como criar modelos do Dynamic Media usando um editor de modelos do WYSIWYG e incluir várias camadas de imagem e texto para criar banners e folhetos rapidamente e usá-los em aplicativos downstream.
 hide: true
+hidefromtoc: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: b0b103b91ca4f4c657fd6d6f526be5f5b05dc156
+source-git-commit: 4c176db86c9f3219f2cb63edda71435a2aa76850
 workflow-type: tm+mt
 source-wordcount: '3000'
 ht-degree: 6%
@@ -51,7 +52,7 @@ Para criar um modelo do Dynamic Media, você deve ter:
 
 1. Acesso ao Dynamic Media.
 1. [Sincronizado as imagens disponíveis na sua instância do AEM Assets com o Dynamic Media para usá-las na criação do modelo](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm).
-1. verificados os seguintes itens na interface para toque:
+1. Verificado o seguinte na interface para toque:
    * Na **[!UICONTROL página Editar Configuração do Dynamic Media]**, o **[!UICONTROL modo de sincronização do Dynamic Media]**, que está definido como **[!UICONTROL Desabilitado por padrão]**, não é aplicado a todas as pastas do AEM (**[!UICONTROL Sincronizar todo o conteúdo]** está desmarcado). Consulte [configurando o Dynamic Media Cloud Service](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm) para obter mais informações.
    * O **[!UICONTROL modo de sincronização do Dynamic Media]** está definido como **[!UICONTROL Habilitar para subpastas]** para a pasta ou subpasta de destino em que você salvará o modelo após a criação. Consulte [configurando o Dynamic Media Cloud Service](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm) para obter mais informações.
 
@@ -178,7 +179,7 @@ Para parametrizar uma camada:
 1. clique em ![criação de conteúdo instantâneo](/help/using/assets/show-layers-list.svg), selecione uma camada e clique em **[!UICONTROL Parâmetros]**. O painel **[!UICONTROL Parâmetros]** é exibido.
 1. Alternar **[!UICONTROL Incluir Parâmetro]** para parametrizar uma propriedade. Consulte [this](#parameterisation-options-or-allowed-parameters) para saber o comportamento da propriedade após a parametrização.
 1. **Opcional:** Renomeie o nome do parâmetro. Um nome de parâmetro tem nome de camada seguido por um sufixo. Para uma camada selecionada, todas as suas propriedades parametrizadas compartilham o mesmo nome de camada seguido por um sufixo variável. Renomeie o nome da camada seguindo a convenção de nomenclatura semântica para que, ao incluir o parâmetro no URL, o próprio nome do parâmetro explique sobre o conteúdo da camada ou sua finalidade.
-1. Clique em **[!UICONTROL Salvar]**.
+1. Clique em **[!UICONTROL Salvar]**.
    ![criação instantânea de conteúdo](/help/using/assets/parameterise-a-layer.png)
 Para alternar entre o painel Parâmetro de uma imagem e uma camada de texto, selecione a camada na tela e clique em **[!UICONTROL Parâmetros]**.
 
