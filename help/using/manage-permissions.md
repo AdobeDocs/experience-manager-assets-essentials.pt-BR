@@ -2,10 +2,16 @@
 title: Como gerenciar permissões para pastas no AEM Assets Essentials?
 description: O Assets Essentials permite que os administradores gerenciem os níveis de acesso para pastas disponíveis no repositório. Crie grupos de usuários e atribua permissões a esses grupos para gerenciar os níveis de acesso. Como administrador, você também pode delegar os privilégios de gerenciamento de permissões a grupos de usuários no nível da pasta.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
-source-git-commit: ec723ae4222254c64e8ddc2e03f8a523203f9f8a
+TQID: https://experienceleague.adobe.com/fWLQ3XI2WVIbouGb7QXznoGhEoB-pHiHw-8P-Fo4128
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '1700'
-ht-degree: 97%
+source-wordcount: 1700
+ht-degree: 98%
 
 ---
 
@@ -32,7 +38,7 @@ Adicione administradores no aplicativo Assets Essentials para que eles possam ge
 
 Para adicionar administradores:
 
-1. Acesse o [Admin Console](https://adminconsole.adobe.com) da sua organização, clique em **[!UICONTROL Produtos]** na barra superior, clique em **[!UICONTROL AEM Assets Essentials]** e depois clique no ambiente [!DNL Assets Essentials]. [!DNL Assets Essentials] O tem três perfis de produto que representam o acesso para administradores, usuários comuns e consumidores.
+1. Acesse o [Admin Console](https://adminconsole.adobe.com) da sua organização, clique em **[!UICONTROL Produtos]** na barra superior, clique em **[!UICONTROL AEM Assets Essentials]** e, em seguida, clique no ambiente [!DNL Assets Essentials]. O [!DNL Assets Essentials] tem três perfis de produto que representam o acesso para administradores, usuários comuns e usuários consumidores.
 
    ![Perfil de administrador do Admin Console](assets/admin-console-admin-profile.png)
 

@@ -4,10 +4,17 @@ description: Saiba como relacionar ativos digitais que compartilham alguns atrib
 role: User
 feature: Collaboration,Asset Management
 solution: Experience Manager, Experience Manager Assets
-source-git-commit: 0aaeb09d90d8155d62a7b057d04e82568091a0ab
+exl-id: db3c30e4-a0c2-4686-a291-36a959fc3d05
+TQID: https://experienceleague.adobe.com/BIGrPj6x-EjokkE23Kg4gYU-2QA1PAUikAA1tvMZv1k
+product_v2:
+  - id: d09181b5-a36a-43de-ba01-36641440bc43
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '534'
-ht-degree: 9%
+source-wordcount: 566
+ht-degree: 10%
 
 ---
 

@@ -3,10 +3,15 @@ title: Editar vídeos
 description: Edite vídeos usando  [!DNL Adobe Express] opções viabilizadas pelo e salve vídeos atualizados como versões.
 role: User
 exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
-source-git-commit: a9ef92194f55da9ad5352adf4251c85e3abcdcd1
+TQID: https://experienceleague.adobe.com/j9r915ua9GXUoTHdbSBHWxnHm-FIhCwvIuKOp91AFCg
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '841'
-ht-degree: 24%
+source-wordcount: 841
+ht-degree: 27%
 
 ---
 
@@ -42,11 +47,11 @@ Você pode eliminar partes indesejadas do vídeo usando as ações rápidas [!DN
 5. Clique em **[!UICONTROL Aplicar]**.
    ![cortar vídeo com o Adobe Express](/help/using/assets/adobe-express-crop-video.png)
 
-   O vídeo cortado está disponível para download. Você pode salvar o ativo editado como uma nova versão do mesmo ativo ou salvá-lo como um novo ativo. ![Salvar vídeo com o Adobe Express](/help/using/assets/adobe-express-save-video.png)
+   O vídeo cortado está disponível para download. É possível salvar o ativo editado como uma nova versão do mesmo ativo ou como um novo ativo. ![Salvar vídeo com o Adobe Express](/help/using/assets/adobe-express-save-video.png)
 
 ### Redimensionar vídeo {#resize-video-using-express}
 
-O conteúdo final do vídeo no DAM geralmente precisa ser redimensionado para distribuição em canais específicos. [!DNL Assets Essentials] O permite redimensionar facilmente o vídeo para ajustá-lo às dimensões exigidas pelos canais sociais comuns, além de redimensionar para resoluções personalizadas. Para redimensionar o vídeo usando o [!DNL Assets Essentials], execute as etapas abaixo:
+O conteúdo final do vídeo no DAM geralmente precisa ser redimensionado para distribuição em canais específicos. O [!DNL Assets Essentials] permite que você redimensione facilmente o vídeo para se ajustar às dimensões exigidas pelos canais sociais comuns, e você também pode redimensionar para resoluções personalizadas. Para redimensionar o vídeo usando o [!DNL Assets Essentials], execute as etapas abaixo:
 
 1. Selecione um vídeo e clique em **[!UICONTROL Editar]**.
 2. Clique em **[!UICONTROL Redimensionar Vídeo]** a partir das ações rápidas disponíveis no painel esquerdo.

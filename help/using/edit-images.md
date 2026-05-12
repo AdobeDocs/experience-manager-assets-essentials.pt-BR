@@ -3,10 +3,17 @@ title: Editar imagens
 description: Editar imagens usando opções viabilizadas pelo [!DNL Adobe Express] e salvar imagens atualizadas como versões.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
-source-git-commit: 53f638e0dc934f2a4134acb89713b5d4828c8d1f
+TQID: https://experienceleague.adobe.com/DAhAV4RClHSyCj-NgVALulD0gzddSip5f56LsUq0bHU
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '1258'
-ht-degree: 100%
+source-wordcount: 1258
+ht-degree: 97%
 
 ---
 
@@ -67,7 +74,7 @@ Para remover o fundo de uma imagem, siga as etapas mencionadas abaixo:
 2. Arraste as alças nos cantos da imagem para criar o corte desejado.
 3. Clique em **[!UICONTROL Aplicar]**.
    ![Salvar imagem com o Adobe Express](/help/using/assets/adobe-express-crop-image.png)
-A imagem cortada estará disponível para download. É possível salvar o ativo editado como uma nova versão do mesmo ativo ou como um novo ativo.
+A imagem cortada está disponível para download. É possível salvar o ativo editado como uma nova versão do mesmo ativo ou como um novo ativo.
 
 #### Converter JPEG em PNG {#Convert-JPEG-to-PNG}
 
@@ -86,7 +93,7 @@ A imagem cortada estará disponível para download. É possível salvar o ativo 
 
 Usuários com direito ao Express podem usar o editor incorporado na interface do Assets Essentials para editar o conteúdo e criar facilmente novos conteúdos com a IA generativa do Adobe Firefly. Isso melhora a reutilização do conteúdo e aumenta a sua velocidade. Você também pode usar elementos predefinidos para que seu ativo tenha uma aparência incrível ou para executar ações de edição rápidas na imagem com apenas alguns cliques.
 
-![Express na interface do Essentials](/help/using/assets/express-in-essentials-ui.jpg)
+![express na interface do usuário do essentials](/help/using/assets/express-in-essentials-ui.jpg)
 Para editar imagens no editor incorporado do Adobe Express, siga as etapas abaixo:
 
 1. Acesse a interface do AEM Assets Essentials com o link [Interface do AEM Assets Essentials](https://experience.adobe.com/#/assets) e selecione o repositório correto.

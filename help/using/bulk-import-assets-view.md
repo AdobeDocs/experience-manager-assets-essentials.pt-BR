@@ -2,10 +2,18 @@
 title: Importar ativos em massa usando o Assets Essentials
 description: Saiba como importar ativos em massa usando a nova interface do Assets (Assets Essentials). Ela permite que administradores importem um grande número de ativos de uma fonte de dados para o AEM Assets.
 exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
-source-git-commit: 2ad90f931f84bf8e0ceb51e4e6450d36a7b31a03
+TQID: https://experienceleague.adobe.com/6Fq368rg7WeWVL4E098y0skHagS8y1kTbEcvgVn9l94
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '1849'
-ht-degree: 92%
+source-wordcount: 1849
+ht-degree: 100%
 
 ---
 
@@ -49,7 +57,7 @@ Antes de importar ativos da sua conta do Dropbox para o AEM Assets, crie e confi
 
 Execute as seguintes etapas:
 
-1. Entre na sua [conta da Dropbox](https://www.dropbox.com/developers) e clique em **[!UICONTROL Criar aplicativos]**. <br>Se você estiver usando uma conta do Enterprise Dropbox, precisará ter acesso à função de Administrador de conteúdo.
+1. Faça logon na sua [conta do Dropbox](https://www.dropbox.com/developers) e clique em **[!UICONTROL Criar aplicativos]**. <br>Se você estiver usando uma conta Enterprise do Dropbox, precisará ter acesso à função Administrador de conteúdo.
 
 1. Na seção **[!UICONTROL Escolher uma API]**, selecione o único botão de opção disponível.
 
@@ -129,7 +137,7 @@ Execute as seguintes etapas para criar uma configuração de importação em mas
    >
    >Se estiver usando o Dropbox como fonte de dados, especifique o caminho da pasta de origem com base nas seguintes regras:
    >* Se você selecionar **Dropbox completo** ao criar o aplicativo do Dropbox e a pasta que contiver os ativos existir em `https://www.dropbox.com/home/bulkimport-assets`, especifique `bulkimport-assets` no campo **[!UICONTROL Pasta de origem]**.
-   >* Se você selecionar **Pasta do aplicativo** ao criar o aplicativo Dropbox e a pasta que contém os ativos existir em `https://www.dropbox.com/home/Apps/BulkImportAppFolderScope/bulkimport-assets`, especifique `bulkimport-assets` no campo **[!UICONTROL Pasta do Source]**, onde `BulkImportAppFolderScope` refere-se ao nome do aplicativo. `Apps` é adicionado automaticamente após `home` nesse caso.
+   >* Se você selecionar **Pasta do aplicativo** ao criar o aplicativo do Dropbox e a pasta que contiver os ativos existir em `https://www.dropbox.com/home/Apps/BulkImportAppFolderScope/bulkimport-assets`, especifique `bulkimport-assets` no campo **[!UICONTROL Pasta de origem]**, onde `BulkImportAppFolderScope` refere-se ao nome do aplicativo. Neste caso, o `Apps` é adicionado automaticamente após `home`.
 
 1. (Opcional) Selecione a opção **[!UICONTROL Excluir arquivo de origem após a importação]** para excluir os arquivos originais do armazenamento de dados de origem após os arquivos serem importados para o [!DNL Experience Manager Assets].
 1. Selecione o **[!UICONTROL Modo de importação]**. Selecione **[!UICONTROL Ignorar]**, **[!UICONTROL Substituir]** ou **[!UICONTROL Criar versão]**. O modo Ignorar é o padrão e nesse modo, o assimilador ignora a importação de um ativo, caso já exista.
@@ -157,7 +165,7 @@ Execute as seguintes etapas para criar uma configuração de importação em mas
 
 ### Tratamento de nomes de arquivo durante a importação em massa {#filename-handling-bulkimport-assets-view}
 
-Quando você importa ativos ou pastas em massa, o [!DNL Experience Manager Assets] importa toda a estrutura do que existe na fonte de importação. [!DNL Experience Manager] O segue as regras incorporadas para caracteres especiais nos nomes de ativos e pastas, portanto, esses nomes de arquivos precisam de limpeza. Tanto o nome da pasta quanto o nome do ativo definidos pelo usuário permanece inalterado e é armazenado em `jcr:title`.
+Ao importar ativos ou pastas em massa, o [!DNL Experience Manager Assets] importa toda a estrutura existente na fonte de importação. O [!DNL Experience Manager] segue as regras incorporadas para caracteres especiais em nomes de ativos e pastas, portanto, esses nomes de arquivo precisam de limpeza. Tanto o nome da pasta quanto o nome do ativo definidos pelo usuário permanece inalterado e é armazenado em `jcr:title`.
 
 Durante a importação em massa, o [!DNL Experience Manager] procura pelas pastas existentes para evitar a reimportação de ativos e pastas e também verifica as regras de limpeza aplicadas na pasta principal onde a importação ocorre. Se as regras de limpeza forem aplicadas na pasta principal, as mesmas regras serão aplicadas à fonte de importação. Para novas importações, as seguintes regras de limpeza são aplicadas para gerenciar os nomes de arquivo de ativos e pastas.
 
@@ -165,8 +173,8 @@ Para obter mais informações sobre nomes não permitidos, tratamento de nomes d
 
 ## Exibir configurações de importação em massa já existentes {#view-import-configuration}
 
-Para exibir as importações em massa, selecione a opção **[!UICONTROL Importações em massa]** no painel esquerdo. A página de importações em massa aparece com a lista de **[!UICONTROL Importações Executadas]**. <br>
-Você também pode exibir as **[!UICONTROL Importações Salvas]** e **[!UICONTROL Importações Agendadas]** da opção suspensa.
+Para exibir as importações em massa, selecione a opção **[!UICONTROL Importações em massa]** no painel esquerdo. A página de importações em massa é exibida com a lista de **[!UICONTROL Importações executadas]**. <br>
+Também é possível exibir as **[!UICONTROL Importações salvas]** e **[!UICONTROL Importações agendadas]** na lista suspensa de opções.
 
 ![Salvamento de configurações de importação em massa](assets/bulk-import-options.png)
 

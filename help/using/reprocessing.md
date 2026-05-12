@@ -2,9 +2,21 @@
 title: Reprocessamento de ativos digitais
 description: Saiba mais sobre os vários métodos de reprocessamento de ativos digitais
 role: User, Leader, Developer
-source-git-commit: ab2d6b0e9f4d53076ab461f9a09698a6cb8437e0
+exl-id: 8d84ecc2-e716-4e25-a0ec-87138ff2c499
+TQID: https://experienceleague.adobe.com/08mkBUcjbm5OQaeWzBiLmhwJtCmtSU2Gm0bo9octzUs
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+  - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '685'
+source-wordcount: 798
 ht-degree: 0%
 
 ---
@@ -65,13 +77,13 @@ As organizações que lidam com ativos digitais usam cada vez mais vocabulário 
 
 Em comparação aos vocabulários de linguagem natural, marcar ativos digitais com base na taxonomia de negócios ajuda a alinhá-los aos negócios de uma empresa e garante que os ativos mais relevantes apareçam nas pesquisas.
 
-Leia mais sobre [Marcas inteligentes para ativos de vídeo](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/smart-tags-video-assets.html?lang=pt-BR).
+Leia mais sobre [Marcas inteligentes para ativos de vídeo](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/smart-tags-video-assets.html?lang=en).
 
 Leia mais sobre [Reprocessar marcas de cores de imagens existentes no DAM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=pt-BR#color-tags-existing-images).
 
 ### Corte inteligente {#reprocessing-smart-crop}
 
-Leia mais sobre o [Corte inteligente](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles.html?lang=pt-BR) do Dynamic Media, que permite aplicar cortes específicos (**[!UICONTROL Corte inteligente]** e corte de pixels) e configuração de nitidez aos ativos carregados.
+Leia mais sobre o [Corte inteligente do Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles.html?lang=pt-BR), que permite aplicar cortes específicos (**[!UICONTROL Corte inteligente]** e corte de pixels) e configuração de nitidez aos ativos carregados.
 
 ### Metadados {#reprocessing-metadata}
 
@@ -79,13 +91,13 @@ Leia mais sobre o [Corte inteligente](https://experienceleague.adobe.com/docs/ex
 
 Leia mais sobre [Reprocessando perfis de metadados](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/metadata-profiles.html?lang=pt-BR).
 
-### Reprocessar ativos do Dynamic Media em uma pasta {#reprocessing-dynamic-media}
+### Reprocessamento de ativos do Dynamic Media em uma pasta {#reprocessing-dynamic-media}
 
-Você pode reprocessar ativos em uma pasta que já tenha um Perfil de imagem do Dynamic Media existente ou um Perfil de vídeo do Dynamic Media que você alterou posteriormente. Para obter mais informações, visite [reprocessar ativos do Dynamic Media em uma pasta.](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/about-image-video-profiles.html?lang=pt-BR)
+Você pode reprocessar ativos em uma pasta que já tenha um Perfil de imagem do Dynamic Media ou um Perfil de vídeo do Dynamic Media que você alterou posteriormente. Para obter mais informações, visite [reprocessar ativos do Dynamic Media em uma pasta.](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/about-image-video-profiles.html?lang=pt-BR)
 
 >[!NOTE]
 >
->Você precisa configurar [!DNL Dynamic Media] no ambiente para habilitar a caixa de diálogo Dynamic Media.
+>Você precisa configurar o [!DNL Dynamic Media] no ambiente para habilitar a caixa de diálogo Dynamic Media.
 >
 
 ### Fluxos de trabalhos
