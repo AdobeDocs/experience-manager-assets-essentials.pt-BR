@@ -3,13 +3,17 @@ title: Filtros de pesquisa personalizados
 description: Saiba como personalizar o formulário de filtros de pesquisa
 role: User, Leader, Developer
 exl-id: 8c579d5b-6bfc-44bb-a381-ca5716bd20cb
-source-git-commit: 461773235cb2d27d334b5ceb23f959dc9a848716
+TQID: https://experienceleague.adobe.com/h5wa-Umxw-KIYoicGOIEccNf4dBYe0a7zTkdtCi4-Ak
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: f8667931-f646-4dd3-af2a-b9d0cb8098ad
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '1349'
-ht-degree: 13%
+source-wordcount: 1475
+ht-degree: 24%
 
 ---
-
 
 <table>
     <tr>
@@ -27,7 +31,7 @@ ht-degree: 13%
         </td>
         <td>
             <img src="assets/new3.gif" width="20px" height="25px" alt="novo">
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Extensibilidade da interface</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Extensibilidade da IU</b></a>
         </td>
           <td>
             <img src="assets/new3.gif" width="20px" height="25px" alt="novo">
@@ -36,19 +40,19 @@ ht-degree: 13%
     </tr>
     <tr>
         <td>
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices"><b>Pesquisar Práticas Recomendadas</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices"><b>Práticas recomendadas de pesquisa</b></a>
         </td>
         <td>
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices"><b>Práticas recomendadas de metadados</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices"><b>Práticas recomendadas para metadados</b></a>
         </td>
         <td>
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview"><b>Content Hub</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview"><b>Centro de conteúdo</b></a>
         </td>
         <td>
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-assets-essentials/help/custom-search-filters"><b>Dynamic Media com recursos OpenAPI</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-assets-essentials/help/custom-search-filters"><b>Dynamic Media com recursos da OpenAPI</b></a>
         </td>
         <td>
-            <a href="https://developer.adobe.com/experience-cloud/experience-manager-apis/"><b>documentação para desenvolvedores do AEM Assets</b></a>
+            <a href="https://developer.adobe.com/experience-cloud/experience-manager-apis/"><b>Documentação do AEM Assets para desenvolvedores</b></a>
         </td>
     </tr>
 </table>
@@ -344,7 +348,7 @@ Os filtros pré-configurados são configurações predefinidas que permitem usá
         </td>
     </tr>
     <tr>
-        <td>Data de vencimento</td>
+        <td>Data de expiração</td>
         <td>Filtrar ativos especificando um intervalo de datas após o qual os ativos não são mais válidos ou necessários. </td>
         <td>
             <ul>
@@ -356,7 +360,7 @@ Os filtros pré-configurados são configurações predefinidas que permitem usá
         </td>
     </tr>
     <tr>
-        <td>Tags (Taxonomia)</td>
+        <td>Tags (taxonomia)</td>
         <td>Trata-se de um sistema de organização e classificação de ativos digitais através da utilização de etiquetas, que cria essencialmente uma estrutura hierárquica de palavras-chave que permite aos utilizadores pesquisar e encontrar facilmente conteúdo relevante mediante a aplicação de etiquetas específicas a cada ativo; </td>
         <td>
             <ul>
@@ -419,7 +423,7 @@ Cada elemento do filtro está associado a um conjunto de propriedades. Os filtro
         <ul>
         <li>Clique em <b>adicionar</b> para adicionar um novo valor. 
         <li>Clique em <span>✎</span> para editar o rótulo. 
-        <li>Clique em <span>??</span> para excluir o valor da opção. 
+        <li>Clique em <span>🗑</span> para excluir o valor da opção. 
         <li>Clique em <b>Editar</b> para modificar as opções de edição. 
         <li>Você também pode alterar a sequência de opções mantendo-as.
         </td>

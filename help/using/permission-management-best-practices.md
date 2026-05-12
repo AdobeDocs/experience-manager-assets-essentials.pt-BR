@@ -2,9 +2,13 @@
 title: Como gerenciar com eficácia as permissões de pastas?
 description: Práticas recomendadas para o gerenciamento eficaz de permissões
 exl-id: 06b06f0b-3806-44ce-abc4-c1449a93dd29
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
+TQID: https://experienceleague.adobe.com/xPthezvxSRBlxky3VJWXaHHmC7YYSWj6RDJI7druTyc
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+topic_v2: id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: 446
 ht-degree: 100%
 
 ---
@@ -70,4 +74,4 @@ Para obter exemplos sobre como criar uma estrutura de pastas simples e eficiente
 
 * Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
-* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General&amp;lang=pt-BR#support)
+* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General#support)

@@ -1,11 +1,15 @@
 ---
 title: Renomear e renomear ativos em massa em  [!DNL Assets Essentials]
-description: Saiba como renomear ativos em massa usando a nova interface do usuário do Assets (Assets Essentials). Ele oferece a capacidade de renomear vários ativos de uma só vez.
+description: Saiba como renomear ativos em massa usando a nova interface do Assets (Assets Essentials). Ele oferece a capacidade de renomear vários ativos de uma só vez.
 role: User
 exl-id: 5d18950f-1863-46c0-83d7-079ae95a6320
-source-git-commit: 631156a70271b6f480264e2c604314f09a820fc9
+TQID: https://experienceleague.adobe.com/NEmoIDy8etw5vhpxRbf9RyVnT1TKfoOvK4tpPrGHP-Q
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: 458
 ht-degree: 17%
 
 ---
@@ -49,7 +53,7 @@ Veja a seguir alguns exemplos de como usar a IA para renomear ativos em massa co
 * Prefixe com 00, 01 e assim por diante e sufixo com a data de hoje.
 * Altere todos os arquivos para &#39;my-file&#39; e anexe um número incremental.
 * Remova o prefixo e o sufixo, apenas mantenha a parte do meio do nome.
-* Prefixe os arquivos com 001, 002, etc. e traduzir para inglês.
+* Prefixe os arquivos com 001, 002, etc. e traduza para o inglês.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440975)
 
@@ -67,5 +71,5 @@ Veja a seguir alguns exemplos de como usar a IA para renomear ativos em massa co
 
 * Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
-* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General&lang=pt-BR#support)
+* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General#support)
 

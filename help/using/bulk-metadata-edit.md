@@ -2,13 +2,17 @@
 title: Edição de metadados em massa no Assets Essentials
 description: Saiba como atualizar um conjunto predefinido de campos de metadados padrão para vários ativos disponíveis no Assets Essentials simultaneamente.
 exl-id: 17185160-6c51-4581-a716-77b365ef3dd9
-source-git-commit: 461773235cb2d27d334b5ceb23f959dc9a848716
+TQID: https://experienceleague.adobe.com/zfRAzwQWEhdCwSVuWKDz-ndudFtv-mIhmjzyNkg8sOQ
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '508'
-ht-degree: 0%
+source-wordcount: 649
+ht-degree: 28%
 
 ---
-
 
 <table>
     <tr>
@@ -26,28 +30,28 @@ ht-degree: 0%
         </td>
         <td>
             <img src="assets/new2.gif" width="20px" height="25px" alt="novo">
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Extensibilidade da interface</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Extensibilidade da IU</b></a>
         </td>
           <td>
             <img src="assets/new2.gif" width="20px" height="25px" alt="novo">
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-assets-essentials/help/custom-search-filters"><b>Filtros de Pesquisa Personalizados</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-assets-essentials/help/custom-search-filters"><b>Filtros de pesquisa personalizados</b></a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices"><b>Pesquisar Práticas Recomendadas</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices"><b>Práticas recomendadas de pesquisa</b></a>
         </td>
         <td>
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices"><b>Práticas recomendadas de metadados</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices"><b>Práticas recomendadas para metadados</b></a>
         </td>
         <td>
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview"><b>Content Hub</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview"><b>Centro de conteúdo</b></a>
         </td>
         <td>
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview"><b>Dynamic Media com recursos OpenAPI</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview"><b>Dynamic Media com recursos da OpenAPI</b></a>
         </td>
         <td>
-            <a href="https://developer.adobe.com/experience-cloud/experience-manager-apis/"><b>documentação para desenvolvedores do AEM Assets</b></a>
+            <a href="https://developer.adobe.com/experience-cloud/experience-manager-apis/"><b>Documentação do AEM Assets para desenvolvedores</b></a>
         </td>
     </tr>
 </table>
@@ -71,7 +75,6 @@ Execute essas etapas para editar os metadados de vários ativos em massa de uma 
    * **Palavras-chave:** Adicione termos específicos ou cadeias de texto que forneçam informações de alto nível sobre os ativos para aprimorar sua descoberta. Adicione uma palavra-chave e pressione Enter ou return para adicionar outra palavra-chave à lista.
    * **Marcas:** Clique em ![ícone de marcas](/help/using/assets/tags-icon.svg) para selecionar marcas dentre as opções disponíveis. As tags fornecem informações mais específicas sobre os ativos e melhoram sua descoberta. As marcas já aplicadas aos ativos selecionados são exibidas no painel **Propriedades**. Se você não conseguir encontrar as tags relevantes, crie-as e atribua aos ativos selecionados. Consulte [Gerenciar tags no Assets Essentials](/help/using/tagging-management.md) para obter detalhes sobre como criar e atribuir tags a ativos.
    * Clique em **Salvar** para aplicar as atualizações de metadados acima aos ativos selecionados. Depois de salvas, as Palavras-chave e as Tags são anexadas, enquanto os detalhes atualizados de Status, Data de expiração e Autor substituem os detalhes existentes.
-
      ![save-bulk-metadata-edit-properties](/help/using/assets/save-bulk-metadata-edit-properties2.png)
 
      >[!NOTE]

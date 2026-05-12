@@ -2,10 +2,14 @@
 title: Configurar o Assets Essentials para a Creative Cloud Pro com soluções de gerenciamento de trabalho
 description: Este tutorial apresenta uma jornada de administrador que permite a integração do aplicativo do Assets Essentials aos aplicativos de desktop da Creative Cloud e ao aplicativo do Adobe Workfront. Os aplicativos de desktop da Creative Cloud incluem o Adobe Photoshop, Adobe Illustrator, Adobe InDesign e Adobe XD.
 exl-id: a5e9e0c3-35ec-41de-9656-f4f0f88946c7
-source-git-commit: b1ae487b4b4e9a88e0d9c39889d3893d92a766c9
-workflow-type: ht
-source-wordcount: '867'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/nYLF2t3wzkhjKS-cdR1dhW-CZ8YwQcJS4FxS2FAYXzg
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
+workflow-type: tm+mt
+source-wordcount: 917
+ht-degree: 97%
 
 ---
 
@@ -51,7 +55,7 @@ As Jornadas de documentação foram projetadas com princípios de práticas reco
 
 * [Acesso ao Adobe Admin Console para soluções da Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html?lang=pt-BR)
 
-* [Acesso ao Adobe Admin Console para implantação da Creative Cloud para corporações](https://helpx.adobe.com/br/enterprise/admin-guide.html)
+* [Acesso ao Adobe Admin Console para Creative Cloud para implantação corporativa](https://helpx.adobe.com/br/enterprise/admin-guide.html)
 
 ## Administrar o Experience Manager Assets Essentials {#administer-assets-essentials}
 
@@ -107,7 +111,7 @@ Agora que você integrou os aplicativos da Creative Cloud ao Assets Essentials, 
 
 ![Preferência para alternar entre temas escuro e claro](assets/cce-workfront.png)
 
-O [[!DNL Adobe Workfront]](https://www.workfront.com/) é um aplicativo de gerenciamento de trabalho que ajuda você a gerenciar todo o ciclo de vida do trabalho em um único local. A integração nativa entre o [!DNL Adobe Workfront] e o [!DNL Assets Essentials] permite que as organizações melhorem a velocidade do conteúdo e o prazo para comercialização, conectando intrinsecamente o gerenciamento de trabalho e de ativos. No contexto do gerenciamento de trabalho, os usuários têm acesso aos documentos e imagens necessários na mesma solução.
+[[!DNL Adobe Workfront]](https://www.workfront.com/) é um aplicativo de gerenciamento de trabalho que ajuda você a gerenciar todo o ciclo de vida do trabalho em um único local. A integração nativa entre o [!DNL Adobe Workfront] e o [!DNL Assets Essentials] permite que as organizações melhorem a velocidade do conteúdo e o prazo para comercialização, conectando intrinsecamente o gerenciamento de trabalho e de ativos. No contexto do gerenciamento de trabalho, os usuários têm acesso aos documentos e imagens necessários na mesma solução.
 
 Este tutorial o orienta a administrar o Adobe Workfront e a integrá-lo ao Experience Manager Assets Essentials.
 

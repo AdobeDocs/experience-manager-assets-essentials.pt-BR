@@ -2,10 +2,14 @@
 title: Gerenciar relatórios no Assets Essentials
 description: Acesse os dados na seção de relatórios do Assets Essentials para avaliar o uso de produtos e recursos e obter insights sobre as principais métricas de sucesso.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
-source-git-commit: 810bb62cd5eb664e36a6ea267050dd025828e900
+TQID: https://experienceleague.adobe.com/fTzTJd0JhjMbexn1ffynNQM7wx-nX-8Os1Y-c79FKdo
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '1243'
-ht-degree: 96%
+source-wordcount: 1243
+ht-degree: 99%
 
 ---
 
@@ -124,8 +128,8 @@ O ambiente do AEM Assets Essentials oferece recursos abrangentes de geração de
 
 ## Exibir e baixar relatórios já existentes {#View-and-download-existing-report}
 
-Os relatórios já existentes são exibidos na guia **Relatórios executados**. Clique em **Relatórios** e selecione **Relatórios executados** para exibir todos os relatórios criados com o status **concluído**, indicando que eles estão prontos para o download. Para baixar o relatório em formato CSV ou excluí-lo, selecione a linha de relatório e selecione **Baixar CSV** ou **Excluir**.
-![exibir e baixar relatórios existentes](/help/using/assets/view-download-existing-report.png)
+Os relatórios já existentes são exibidos na guia **Relatórios executados**. Clique em **Relatórios** e selecione **Relatórios executados** para exibir todos os relatórios criados com o status **concluído**, indicando que eles estão prontos para o download. Para baixar o relatório em formato CSV ou excluí-lo, selecione a linha do relatório e escolha **Baixar CSV** ou **Excluir**.
+![exibir e baixar relatórios já existentes](/help/using/assets/view-download-existing-report.png)
 
 ## Agendar um relatório {#schedule-report}
 
@@ -163,7 +167,7 @@ Os relatórios agendados são exibidos na guia **Relatórios agendados** de mane
 
 ### Retomar cronograma {#resume-schedule}
 
-Para retomar o agendamento cancelado, selecione a linha do relatório e clique em **Retomar agendamento**. Quando retomadas, as próximas entradas de tempo de execução são exibidas novamente e o status mostra em andamento.
+Para retomar o agendamento cancelado, selecione a linha do relatório e clique em **Retomar agendamento**. Quando retomado, os próximos registros de tempo de execução são exibidos novamente e o status é exibido como em andamento.
 ![retomar agendamento](/help/using/assets/resume-schedule.png)
 
 >[!NOTE]
@@ -192,7 +196,7 @@ Clique na opção **[!UICONTROL Insights]**, disponível no painel de navegaçã
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
 * **Uso do armazenamento**: o uso de armazenamento (em bytes) no ambiente do Assets Essentials, representado por um gráfico de barras.
-  ![utilização do armazenamento](/help/using/assets/insights-storage-usage1.svg)
+  ![uso do armazenamento](/help/using/assets/insights-storage-usage1.svg)
   <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
 <!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->

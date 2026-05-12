@@ -4,10 +4,14 @@ description: Saiba como relacionar ativos digitais que compartilham alguns atrib
 role: User
 feature: Collaboration,Asset Management
 solution: Experience Manager, Experience Manager Assets
-source-git-commit: 0aaeb09d90d8155d62a7b057d04e82568091a0ab
+exl-id: db3c30e4-a0c2-4686-a291-36a959fc3d05
+TQID: https://experienceleague.adobe.com/BIGrPj6x-EjokkE23Kg4gYU-2QA1PAUikAA1tvMZv1k
+product_v2: id: d09181b5-a36a-43de-ba01-36641440bc43id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: '534'
-ht-degree: 9%
+source-wordcount: 566
+ht-degree: 10%
 
 ---
 
@@ -48,7 +52,7 @@ Usando esse recurso, você tem a flexibilidade de compartilhar um arquivo PDF ou
 
 Criar relacionamentos de origem/derivados entre ativos usando o recurso de ativos relacionados também é útil em fluxos de trabalho de tradução. Quando você executa um fluxo de trabalho de tradução em um ativo derivado, o [!DNL Experience Manager Assets] busca automaticamente qualquer ativo ao qual o arquivo de origem faça referência e o inclui para tradução. Dessa forma, o ativo referenciado pelo ativo de origem é traduzido junto com os ativos de origem e derivados. Se o arquivo de origem estiver relacionado a outro ativo, [!DNL Experience Manager Assets] buscará o ativo referenciado e o incluirá para tradução.
 
-Consulte [Traduzir ativos no AEM](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/admin/translate-assets).
+Consulte [Traduzir ativos no AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/admin/translate-assets).
 
 ## Próximas etapas {#next-steps}
 
@@ -61,5 +65,5 @@ Consulte [Traduzir ativos no AEM](https://experienceleague.adobe.com/pt-br/docs/
 >[!MORELIKETHIS]
 >
 >* [Exibir versões de um ativo](manage-organize.md#view-versions)
->* [Traduzir ativos no AEM](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)
+>* [Traduzir ativos no AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)
 >* [Formatos de Arquivo com Suporte na Exibição do Assets](supported-file-formats.md).
