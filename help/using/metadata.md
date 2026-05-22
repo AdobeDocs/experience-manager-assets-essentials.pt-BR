@@ -226,13 +226,13 @@ Para visualizar as tags raiz configuradas, acesse a página de detalhes do ativo
 
 ## Próximas etapas {#next-steps}
 
-* [Assista a um vídeo sobre como gerenciar formulários de metadados no Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html)
+* [Assista a um vídeo sobre como gerenciar formulários de metadados no Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=pt-BR)
 
 * Forneça feedback sobre o produto usando a opção de [!UICONTROL Feedback] disponível na interface do Assets Essentials
 
 * Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
-* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&lang=pt-BR#support)
+* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General&lang=pt-BR#support)
 
 <!-- 
 TBD: Cannot create a form using the second option. Documenting only the first option for now.

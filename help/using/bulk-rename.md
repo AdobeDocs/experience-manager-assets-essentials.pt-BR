@@ -68,7 +68,7 @@ A seguir, apresentamos alguns exemplos de como usar a IA para renomear ativos em
 
 ## Próximas etapas {#next-steps}
 
-* [Assista a um vídeo sobre como gerenciar formulários de metadados no Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html)
+* [Assista a um vídeo sobre como gerenciar formulários de metadados no Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=pt-BR)
 
 * Forneça feedback sobre o produto usando a opção de [!UICONTROL Feedback] disponível na interface do Assets Essentials
 
