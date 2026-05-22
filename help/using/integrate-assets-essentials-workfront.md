@@ -3,8 +3,8 @@ title: Integrar o Assets Essentials ao Adobe Workfront
 description: Integre o Assets Essentials ao aplicativo do Adobe Workfront para poder acessar o repositório do Assets Essentials no aplicativo do Workfront.
 exl-id: 47c2963d-57f0-463e-8d5b-5e5af9928f77
 source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: tm+mt
-source-wordcount: '528'
+workflow-type: ht
+source-wordcount: '635'
 ht-degree: 100%
 
 ---
@@ -53,7 +53,7 @@ Para adicionar usuários aos perfis de produto do Workfront:
 
 1. Para remover um usuário de um grupo, clique no grupo, selecione um usuário existente e selecione **[!UICONTROL Remover usuário]**.
 
-Para obter mais informações sobre como criar usuários e administradores de sistema no Workfront com o Adobe Admin Console, consulte [Gerenciar usuários no Adobe Admin Console](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FAdd_users%2FCreate_and_manage_users%2Fadmin-console.htm&amp;_LANG=enus).
+Para obter mais informações sobre como criar usuários e administradores de sistema no Workfront com o Adobe Admin Console, consulte [Gerenciar usuários no Adobe Admin Console](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FAdd_users%2FCreate_and_manage_users%2Fadmin-console.htm&_LANG=enus).
 
 ## Adicionar usuários aos perfis de produto do Assets Essentials {#add-workfront-users-assets-essentials-product-profiles}
 
@@ -68,14 +68,14 @@ Para obter mais informações sobre como atribuir usuários a perfis de produtos
 
 ## Configure a integração do Experience Manager Assets Essentials {#configure-assets-essentials-integration}
 
-Depois de adicionar usuários aos perfis de produto do Workfront e do Assets Essentials usando o Admin Console, você pode [configurar a integração do Experience Manager Assets Essentials com o Adobe Workfront](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm).
+Depois de adicionar usuários aos perfis de produto do Workfront e do Assets Essentials usando o Admin Console, você pode [configurar a integração do Experience Manager Assets Essentials com o Adobe Workfront](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm).
 
 Após configurar a integração, é possível:
 
-* [Vincular ativos e pastas do Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Flink-to-aem.htm&amp;_LANG=enus)
+* [Vincular ativos e pastas do Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Flink-to-aem.htm&_LANG=enus)
 
-* [Enviar um documento para o Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fsend-to-aem.htm&amp;_LANG=enus)
+* [Enviar um documento para o Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fsend-to-aem.htm&_LANG=enus)
 
-* [Criar uma prova de um ativo vinculado do Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fproof-linked-asset-aem.htm)
+* [Prova de um ativo vinculado para o Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fproof-linked-asset-aem.htm)
 
-* [Exibir ou baixar um ativo vinculado do Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fview-download-asset.htm)
+* [Exibir ou baixar um ativo vinculado do Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fview-download-asset.htm)
