@@ -4,18 +4,13 @@ description: Casos de uso de administração, como implantação e gerenciamento
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 TQID: https://experienceleague.adobe.com/q-Eq1tZANfkgtIpwSifDVfLakJvRhia0pO2lXEMCYYg
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 1364
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -79,7 +74,7 @@ Para adicionar perfis de produto a grupos de usuários:
 
    * Usuários do **[!DNL Assets Essentials]**: têm acesso à interface completa. Esses usuários podem fazer upload, organizar, marcar e encontrar ativos digitais.
 
-   * Os usuários consumidores do **[!DNL Assets Essentials]**&#x200B;podem executar operações de localização, visualização e download no Assets Essentials. Eles também podem localizar e selecionar ativos no Adobe Journey Optimizer, além de localizar e selecionar ativos para usar no Workfront.
+   * Os usuários consumidores do **[!DNL Assets Essentials]**podem executar operações de localização, visualização e download no Assets Essentials. Eles também podem localizar e selecionar ativos no Adobe Journey Optimizer, além de localizar e selecionar ativos para usar no Workfront.
 Para obter mais informações, consulte [Integrações com outras soluções](integration.md).
 
    ![Perfil de administrador do Admin Console](assets/admin-console-admin-profile.png)
@@ -140,7 +135,7 @@ O Assets Essentials permite que os administradores gerenciem os níveis de acess
 
 Para obter mais informações, consulte [Gerenciar permissões para pastas](manage-permissions.md).
 
-### Configurar Forms de metadados (opcional) {#metadata-forms}
+### Configurar formulários de metadados (opcional) {#metadata-forms}
 
 Por padrão, o Assets Essentials fornece vários campos de metadados padrão. As organizações têm necessidades adicionais de metadados e precisam de mais campos para adicionar metadados específicos de negócios. Os formulários de metadados permitem que as empresas adicionem campos de metadados personalizados à página [!UICONTROL Detalhes] de um ativo. Os metadados específicos de negócios melhoram a governança e a descoberta de ativos. É possível criar formulários do zero ou redefinir a finalidade de um formulário existente.
 
@@ -170,14 +165,14 @@ Diferente de pastas, uma coleção pode incluir ativos de locais diferentes. Voc
 
 * Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
-* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General&lang=pt-BR#support)
+* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&lang=pt-BR#support)
 
 
 
 >[!MORELIKETHIS]
 >
->* Ajuda com o [[!DNL Admin Console] &#x200B;](https://helpx.adobe.com/br/enterprise/using/admin-console.html)
->* Ajuda com o [[!DNL Cloud Manager] &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=pt-BR)
+>* Ajuda com o [[!DNL Admin Console] ](https://helpx.adobe.com/br/enterprise/using/admin-console.html)
+>* Ajuda com o [[!DNL Cloud Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=pt-BR)
 >* [Documentação do Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR)
 >* [Notas de versão](release-notes.md)
 >* [Introdução ao uso do [!DNL Assets Essentials]](get-started.md)

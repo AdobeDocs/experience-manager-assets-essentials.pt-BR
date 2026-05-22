@@ -1,31 +1,29 @@
 ---
 title: Editar vídeos
-description: Edite vídeos usando  [!DNL Adobe Express] opções viabilizadas pelo e salve vídeos atualizados como versões.
+description: Edite vídeos usando opções do  [!DNL Adobe Express]  e salve os vídeos atualizados como versões.
 role: User
 exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
 TQID: https://experienceleague.adobe.com/j9r915ua9GXUoTHdbSBHWxnHm-FIhCwvIuKOp91AFCg
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 841
-ht-degree: 27%
+ht-degree: 100%
 
 ---
 
-# Editar vídeos em [!DNL Assets Essentials] {#edit-videos}
+# Editar vídeos no [!DNL Assets Essentials] {#edit-videos}
 
-Criar variações de conteúdo de vídeo é fácil para usuários do Assets com as [!DNL Adobe Express] ações rápidas incorporadas para vídeo. As ações rápidas no [!DNL Assets Essentials] com a tecnologia [!DNL Adobe Express] fornecem opções de edição de vídeo intuitivas, como recortar vídeo, redimensionar vídeo, aparar vídeo e converter vídeo para o GIF.
+Criar variações de conteúdo de vídeo é fácil para usuários do Assets com as ações rápidas incorporadas do [!DNL Adobe Express] para vídeo. As ações rápidas do [!DNL Assets Essentials] com tecnologia do [!DNL Adobe Express] oferecem opções de edição de vídeo fáceis de usar, incluindo a opção de cortar, redimensionar, aparar e converter vídeos em GIF.
 
-Para editar um vídeo, vá para os detalhes do vídeo e clique em [!UICONTROL Editar Vídeo]. Como alternativa, selecione o ativo, clique em detalhes e clique no ícone ![tesoura](assets/do-not-localize/cut.svg), disponível no painel direito. Após editar um vídeo, você pode salvá-lo como uma nova versão ou como um novo ativo.
+Para editar um vídeo, acesse os detalhes do vídeo e clique em [!UICONTROL Editar vídeo]. Como alternativa, selecione o ativo, clique em detalhes e clique no ícone da ![tesoura](assets/do-not-localize/cut.svg), disponível no painel direito. Depois de editar um vídeo, você pode salvar o novo vídeo como uma nova versão ou como um novo ativo.
 
 Saiba mais sobre a [interface de visualização](/help/using/navigate-view.md#preview-assets).
 
 ## Pré-requisitos {#prerequisites}
 
-Direitos para acessar [!DNL Adobe Express] e pelo menos um ambiente no AEM Assets. O ambiente pode ser qualquer um dos repositórios dentro do [!DNL Assets as a Cloud Service] ou [!DNL Assets Essentials].
+Direitos de acesso a [!DNL Adobe Express] e a pelo menos um ambiente no AEM Assets. O ambiente pode ser qualquer um dos repositórios dentro do [!DNL Assets as a Cloud Service] ou [!DNL Assets Essentials].
 
 ## Editar vídeos usando o Adobe Express {#edit-video-using-express}
 
@@ -34,15 +32,15 @@ Direitos para acessar [!DNL Adobe Express] e pelo menos um ambiente no AEM Asset
 >title="Integração do Adobe Express para edição de vídeo"
 >abstract="O Experience Manager Assets agora inclui ferramentas de edição de vídeo fáceis e intuitivas com a tecnologia do Adobe Express para aumentar a reutilização de conteúdo e acelerar a velocidade do conteúdo. As opções de edição incluem aparar, cortar, redimensionar um vídeo e também converter um MP4 em um arquivo GIF."
 
-Transformar um vídeo em um tamanho e orientação perfeitos é fácil com [!DNL Adobe Express] ações rápidas inseridas.
+É fácil ajustar o tamanho e a orientação de um vídeo usando as ações rápidas [!DNL Adobe Express] integradas.
 
 ### Cortar vídeo {#crop-video-using-express}
 
-Você pode eliminar partes indesejadas do vídeo usando as ações rápidas [!DNL Adobe Express] inseridas. Para fazer isso, execute as etapas abaixo:
+Você pode eliminar partes indesejadas do vídeo usando as ações rápidas [!DNL Adobe Express] incorporadas. Para fazer isso, execute as etapas abaixo:
 
 1. Selecione um vídeo e clique em **[!UICONTROL Editar]**.
-2. Clique em **[!UICONTROL Cortar vídeo]** nas ações rápidas disponíveis no painel esquerdo.
-3. Arraste as alças nos cantos do vídeo para criar o recorte desejado ou escolha entre os tamanhos de tela existentes, conforme desejado.
+2. Clique em **[!UICONTROL Cortar vídeo]** entre as ações rápidas disponíveis no painel esquerdo.
+3. Arraste as alças nos cantos do vídeo para definir o corte desejado; ou escolha um dos tamanhos de tela disponíveis, conforme desejar.
 4. Você pode optar por ativar ou desativar o som do vídeo.
 5. Clique em **[!UICONTROL Aplicar]**.
    ![cortar vídeo com o Adobe Express](/help/using/assets/adobe-express-crop-video.png)
@@ -51,43 +49,43 @@ Você pode eliminar partes indesejadas do vídeo usando as ações rápidas [!DN
 
 ### Redimensionar vídeo {#resize-video-using-express}
 
-O conteúdo final do vídeo no DAM geralmente precisa ser redimensionado para distribuição em canais específicos. O [!DNL Assets Essentials] permite que você redimensione facilmente o vídeo para se ajustar às dimensões exigidas pelos canais sociais comuns, e você também pode redimensionar para resoluções personalizadas. Para redimensionar o vídeo usando o [!DNL Assets Essentials], execute as etapas abaixo:
+O conteúdo final do vídeo no DAM geralmente precisa ser redimensionado para distribuição em canais específicos. [!DNL Assets Essentials] permite redimensionar vídeos com facilidade para se adequarem às dimensões exigidas pelas principais redes sociais, além de oferecer a opção de redimensionamento para resoluções personalizadas. Para redimensionar o vídeo usando [!DNL Assets Essentials], execute as etapas abaixo:
 
 1. Selecione um vídeo e clique em **[!UICONTROL Editar]**.
-2. Clique em **[!UICONTROL Redimensionar Vídeo]** a partir das ações rápidas disponíveis no painel esquerdo.
-3. Selecione as dimensões apropriadas da plataforma de mídia social em **[!UICONTROL Redimensionar para a lista suspensa]**. Como alternativa, arraste as alças nos cantos do vídeo para criar o recorte desejado.
-4. Dimensione o vídeo, se necessário, usando o campo **[!UICONTROL Escala do vídeo]**.
+2. Clique em **[!UICONTROL Redimensionar vídeo]** entre as ações rápidas disponíveis no painel esquerdo.
+3. Selecione as dimensões adequadas da plataforma de rede social na lista suspensa **[!UICONTROL Redimensionar para]**. Como alternativa, arraste as alças nos cantos do vídeo para criar o corte desejado.
+4. Se necessário, redimensione o vídeo usando o campo **[!UICONTROL Dimensionar vídeo]**.
 5. Você pode optar por ativar ou desativar o som do vídeo.
 6. Clique em **[!UICONTROL Aplicar]** para aplicar as alterações.
-   ![Redimensionamento de vídeo com o Adobe Express](/help/using/assets/adobe-express-resize-video.png)
+   ![Redimensionamento de vídeos com o Adobe Express](/help/using/assets/adobe-express-resize-video.png)
 
 Seu vídeo redimensionado está disponível para download. É possível salvar o ativo editado como uma nova versão do mesmo ativo ou como um novo ativo.
 
-### Cortar vídeo {#trim-video-using-express}
+### Aparar vídeo {#trim-video-using-express}
 
-Se você precisar usar um clipe de um vídeo maior, é possível usar a função &quot;Cortar vídeo&quot; para selecionar e aparar uma seção do vídeo. Execute as etapas abaixo:
+Se você precisar usar um clipe de um vídeo maior, é possível usar a função &quot;Aparar vídeo&quot; para selecionar e aparar uma seção do vídeo. Execute as etapas a seguir:
 
 1. Selecione um vídeo e clique em **[!UICONTROL Editar]**.
-2. Clique em **[!UICONTROL Cortar vídeo]** nas ações rápidas disponíveis no painel esquerdo.
-3. Especifique as horas de início e término do vídeo para cortar uma parte específica. Como alternativa, arraste as alças nos cantos do vídeo para criar o corte desejado.
-4. Selecione as dimensões apropriadas na lista suspensa **[!UICONTROL Tamanho]**.
+2. Clique em **[!UICONTROL Aparar vídeo]** nas ações rápidas disponíveis no painel esquerdo.
+3. Especifique as horas de início e término do vídeo para aparar uma parte específica. Como alternativa, arraste as alças nos cantos do vídeo para fazer o corte desejado.
+4. Selecione as dimensões adequadas na lista suspensa **[!UICONTROL Tamanho]**.
 5. Você pode optar por ativar ou desativar o som do vídeo.
 6. Clique em **[!UICONTROL Aplicar]** para aplicar as alterações.
-   ![Redimensionamento de vídeo com o Adobe Express](/help/using/assets/adobe-express-trim-video.png)
+   ![Redimensionamento de vídeos com o Adobe Express](/help/using/assets/adobe-express-trim-video.png)
 
-O vídeo reduzido está disponível para download. É possível salvar o ativo editado como uma nova versão do mesmo ativo ou como um novo ativo.
+O vídeo aparado está disponível para download. É possível salvar o ativo editado como uma nova versão do mesmo ativo ou como um novo ativo.
 
 ### Converter vídeo em GIF {#convert-mp4-to-gif-using-express}
 
 Você pode converter rapidamente um vídeo MP4 em um formato GIF usando o Adobe Express. Execute as seguintes etapas:
 
 1. Selecione um vídeo e clique em **[!UICONTROL Editar]**.
-2. Clique em **[!UICONTROL Converter em GIF]** a partir das ações rápidas disponíveis no painel esquerdo.
+2. Clique em **[!UICONTROL Converter para GIF]** entre as ações rápidas disponíveis no painel esquerdo.
 3. Selecione o tamanho de arquivo apropriado com base na qualidade desejada. Além disso, escolha a orientação de paisagem, retrato ou quadrado.
-4. Arraste as alças nos cantos do vídeo para criar o recorte desejado.
+4. Arraste as alças nos cantos da vídeo para criar o corte desejado.
 5. Clique em **[!UICONTROL Aplicar]**.
 
-   ![Converter vídeo em GIF com Adobe Express](/help/using/assets/adobe-express-convert-video-to-gif.png)
+   ![Converta vídeos em GIF com o Adobe Express](/help/using/assets/adobe-express-convert-video-to-gif.png)
 
 O vídeo está disponível no formato GIF para download. É possível salvar o ativo editado como uma nova versão do mesmo ativo ou como um novo ativo.
 
@@ -101,7 +99,7 @@ O vídeo está disponível no formato GIF para download. É possível salvar o a
 
 * Os navegadores da Web compatíveis são Google Chrome, Firefox, Safari e Edge.
 
-* A funcionalidade não pode ser aberta em um modo incógnito de um navegador da Web.
+* A funcionalidade não pode ser acessada no modo de navegação anônima de um navegador da web.
 
 ### Próximas etapas {#next-steps}
 
@@ -114,4 +112,4 @@ O vídeo está disponível no formato GIF para download. É possível salvar o a
 >[!MORELIKETHIS]
 >
 >* [Editar imagens no Assets Essentials](/help/using/edit-images.md)
->* [Visualização de um ativo](/help/using/navigate-view.md#preview-assets)
+>* [Pré-visualização de um ativo](/help/using/navigate-view.md#preview-assets)

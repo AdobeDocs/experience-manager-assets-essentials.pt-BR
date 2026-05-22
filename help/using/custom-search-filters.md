@@ -4,21 +4,14 @@ description: Saiba como personalizar o formulário de filtros de pesquisa
 role: User, Leader, Developer
 exl-id: 8c579d5b-6bfc-44bb-a381-ca5716bd20cb
 TQID: https://experienceleague.adobe.com/h5wa-Umxw-KIYoicGOIEccNf4dBYe0a7zTkdtCi4-Ak
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-feature_v2:
-  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: f8667931-f646-4dd3-af2a-b9d0cb8098ad
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 1475
-ht-degree: 24%
+ht-degree: 100%
 
 ---
 
@@ -38,11 +31,11 @@ ht-degree: 24%
         </td>
         <td>
             <img src="assets/new3.gif" width="20px" height="25px" alt="novo">
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Extensibilidade da IU</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Extensibilidade da interface</b></a>
         </td>
           <td>
             <img src="assets/new3.gif" width="20px" height="25px" alt="novo">
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b>Habilitar o Dynamic Media Prime e o Ultimate</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b>Habilitar o Dynamic Media Prime e Ultimate</b></a>
         </td>
     </tr>
     <tr>
@@ -66,38 +59,38 @@ ht-degree: 24%
 
 # Personalizar filtros de pesquisa {#customize-search-filters}
 
-Os filtros de pesquisa permitem refinar os resultados da pesquisa com base em vários parâmetros, como data, tipo de arquivo, tags e relevância, melhorando a precisão das consultas de pesquisa. Ao aplicar filtros, você pode analisar os resultados mais relevantes com eficiência. Isso não apenas economiza tempo, mas também melhora a experiência geral de pesquisa, adaptando os resultados às preferências e necessidades específicas.
-Veja mais sobre a [pesquisa](search.md).
+Os filtros de pesquisa permitem refinar os resultados da pesquisa com base em vários parâmetros, como data, tipo de arquivo, tags e relevância, melhorando a precisão das consultas de pesquisa. Ao aplicar filtros, você pode analisar rapidamente os resultados mais relevantes com eficiência. Isso não apenas economiza tempo, mas também melhora a experiência geral de pesquisa, personalizando os resultados às preferências e necessidades específicas.
+Veja mais sobre [pesquisa](search.md).
 
-Personalizar filtros de pesquisa O AEM Assets só pode ser mapeado a entradas no Índice de propriedades pesquisáveis. Certifique-se de que todos os metadados personalizados estejam incluídos antes de configurar sua experiência de filtro personalizada. [!DNL Assets Essentials] ajuda a personalizar os filtros de pesquisa para simplificar o processo de pesquisa. Para personalizar os filtros de pesquisa personalizados do AEM Assets, execute as seguintes etapas:
+Personalize filtros de pesquisa. O AEM Assets só pode ser mapeado para entradas no Índice de propriedades pesquisáveis. Certifique-se de que todos os metadados personalizados estejam incluídos antes de configurar sua experiência de filtro personalizada. [!DNL Assets Essentials] ajuda a personalizar filtros de pesquisa para simplificar o processo de pesquisa. Para personalizar os filtros de pesquisa personalizados do AEM Assets, execute as seguintes etapas:
 
 1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Configurações gerais]**.
 1. Vá para a guia **[!UICONTROL Pesquisa]**. Clique em **[!UICONTROL Personalizar]** para configurar o formulário de pesquisa.
 
    ![configurações de filtro de pesquisa personalizado](assets/custom-search-filter.png)
 
-1. O formulário [!UICONTROL Configurar Filtros] é exibido. Certifique-se de estar no modo de Edição para poder fazer modificações no modelo. Você pode alternar para o [!UICONTROL Modo de visualização] para visualizar um formulário de pesquisa existente.
-1. Solte os elementos de filtro dos [filtros personalizados](#available-custom-filters) na tela. Você pode arrastar e soltar o componente para reordenar se necessário.
+1. O formulário [!UICONTROL Configurar filtros] é exibido. Certifique-se de estar no modo de Edição para poder fazer modificações no modelo. Você pode alternar para o [!UICONTROL Modo de visualização] para visualizar um formulário de pesquisa existente.
+1. Solte os elementos de filtro dos [filtros personalizados](#available-custom-filters) na tela. Você pode arrastar e soltar o componente para reordenar, se necessário.
 
    >[!VIDEO](https://video.tv.adobe.com/v/3443080)
 
-1. Clique em **[!UICONTROL Modo de visualização]** para rever as alterações.
+1. Clique em **[!UICONTROL Modo de visualização]** para revisar as alterações.
 1. Clique em **[!UICONTROL Confirmar]** para salvar.
 
 ## Filtros personalizados disponíveis {#available-custom-filters}
 
 O Assets Essentials fornece os seguintes filtros personalizados, que podem ser reconfigurados de acordo com o requisito:
 
-* [Filtrar elementos](#filter-elements)
+* [Elementos de filtro](#filter-elements)
 * [Filtros pré-configurados](#preconfigured-filters)
 
-### Filtrar elementos {#filter-elements}
+### Elementos de filtro {#filter-elements}
 
-O AEM Assets de filtros personalizados permite usar uma coleção de elementos de filtro na tela de filtros de pesquisa personalizados. Esses elementos são reconfiguráveis com base na usabilidade dos atributos de propriedade de pesquisa. No entanto, você pode personalizar as [propriedades de filtro](#filter-properties) de acordo com seus requisitos. Os seguintes elementos de filtro estão disponíveis em [!DNL Assets Essentials]:
+Filtros personalizados para os quais o AEM Assets permite usar uma coleção de elementos de filtro na tela de filtros de pesquisa personalizados. Esses elementos são reconfiguráveis com base na usabilidade dos atributos de propriedade de pesquisa. No entanto, você pode personalizar as [propriedades de filtro](#filter-properties) de acordo com seus requisitos. Os seguintes elementos de filtro estão disponíveis em [!DNL Assets Essentials]:
 
 <table>
     <tr>
-        <th>Filtrar elementos</th>
+        <th>Elementos de filtro</th>
         <th>Descrição</th>
         <th>Propriedades</th>
     </tr>
@@ -146,7 +139,7 @@ O AEM Assets de filtros personalizados permite usar uma coleção de elementos d
                 <li>Metadados
                 <li>Tipo de seleção
                 <li>Escalonador
-                <li>Valor do passo
+                <li>Valor do escalonador
                 <li>Descrição
             </ul>
         </td>
@@ -178,19 +171,19 @@ O AEM Assets de filtros personalizados permite usar uma coleção de elementos d
     </tr>
     <tr>
         <td>Navegador de caminho</td>
-        <td>Usado para navegar pelos arquivos ou pastas no repositório do Experience Manager.</td>
+        <td>Usado para navegar por arquivos ou pastas no repositório do Experience Manager.</td>
         <td>
             <ul>
                 <li>Rótulo
                 <li>Metadados
-                <li>Explorador de caminho
+                <li>Explorador de caminhos
                 <li>Descrição
             </ul>
         </td>
     </tr>
     <tr>
         <td>Tags</td>
-        <td>Usado para selecionar tags das opções disponíveis. As tags fornecem informações mais específicas sobre os ativos e melhoram sua descoberta. As marcas já aplicadas aos ativos selecionados são exibidas no painel <b>Propriedades</b>. Se você armazenar tags em uma propriedade de metadados personalizada e usar o caminho raiz para restringi-lo a uma hierarquia, poderá aproveitar a mesma configuração nos filtros de pesquisa. Se você não conseguir encontrar as tags relevantes, crie-as e atribua aos ativos selecionados. Consulte <a href = "/help/using/tagging-management.md"> Gerenciar tags no Assets Essentials </a> para obter detalhes sobre como criar e atribuir tags a ativos.</td>
+        <td>Usado para selecionar tags a partir das opções disponíveis. As tags fornecem informações mais específicas sobre os ativos e aumentam sua visibilidade. As tags já aplicadas aos ativos selecionados são exibidas no painel <b>Propriedades</b>. Caso armazene tags em uma propriedade de metadados personalizada e use o caminho raiz para restringi-la a uma hierarquia, é possível aproveitar a mesma configuração nos filtros de pesquisa. Se você não conseguir encontrar as tags relevantes, crie-as e atribua aos ativos selecionados. Consulte <a href = "/help/using/tagging-management.md"> Gerenciar tags no Assets Essentials </a> para obter detalhes sobre como criar e atribuir tags a ativos.</td>
         <td>
             <ul>
                 <li>Rótulo
@@ -202,7 +195,7 @@ O AEM Assets de filtros personalizados permite usar uma coleção de elementos d
     </tr>
     <tr>
         <td>Usuário</td>
-        <td>Usado para especificar o tipo de usuário entre administradores, usuários comuns e consumidores.</td>
+        <td>Usado para especificar o tipo de usuário entre usuários admins, comuns e consumidores.</td>
         <td>
             <ul>
                 <li>Rótulo
@@ -215,7 +208,7 @@ O AEM Assets de filtros personalizados permite usar uma coleção de elementos d
 
 ### Filtros pré-configurados {#preconfigured-filters}
 
-Os filtros pré-configurados são configurações predefinidas que permitem usá-los diretamente na tela. No entanto, você pode personalizar as [propriedades de filtro](#filter-properties) de acordo com seus requisitos. Os filtros a seguir estão pré-configurados em [!DNL Assets Essentials]:
+Os filtros pré-configurados são configurações predefinidas que permitem o seu uso diretamente na tela. No entanto, é possível personalizar as [propriedades de filtro](#filter-properties) de acordo com seus requisitos. Os filtros a seguir estão pré-configurados no [!DNL Assets Essentials]:
 
 <table>
     <tr>
@@ -225,7 +218,7 @@ Os filtros pré-configurados são configurações predefinidas que permitem usá
     </tr>
     <tr>
         <td>Tipo de arquivo</td>
-        <td>Filtre os resultados da pesquisa pelos tipos de arquivos compatíveis, ou seja, "Imagens", "Documentos" e "Vídeos".</td>
+        <td>Filtra os resultados da pesquisa pelos tipos de arquivos compatíveis, que são: "imagens", "documentos" e "vídeos".</td>
         <td>
             <ul>
                 <li>Rótulo
@@ -251,14 +244,14 @@ Os filtros pré-configurados são configurações predefinidas que permitem usá
     </tr>
     <tr>
         <td>Tamanho da imagem</td>
-        <td>Forneça uma ou mais das dimensões mínima e máxima para filtrar imagens. O tamanho é fornecido em valores de dimensão de pixel e não é o tamanho do arquivo das imagens.</td>
+        <td>Fornece uma ou mais das dimensões mínimas e máximas para filtrar imagens. O tamanho é fornecido em valores de dimensão de pixel e não é o tamanho do arquivo das imagens.</td>
         <td>
             <ul>
                 <li>Rótulo
                 <li>Metadados
                 <li>Tipo de seleção
                 <li>Escalonador
-                <li>Valor do passo
+                <li>Valor do escalonador
                 <li>Descrição
             </ul>
         </td>
@@ -272,7 +265,7 @@ Os filtros pré-configurados são configurações predefinidas que permitem usá
                 <li>Metadados
                 <li>Tipo de seleção
                 <li>Escalonador
-                <li>Valor do passo
+                <li>Valor do escalonador
                 <li>Descrição
             </ul>
         </td>
@@ -286,14 +279,14 @@ Os filtros pré-configurados são configurações predefinidas que permitem usá
                 <li>Metadados
                 <li>Tipo de seleção
                 <li>Escalonador
-                <li>Valor do passo
+                <li>Valor do escalonador
                 <li>Descrição
             </ul>
         </td>
     </tr>
     <tr>
         <td>Data de criação</td>
-        <td>Intervalo de datas de criação dos ativos.</td>
+        <td>Intervalo de datas em que os ativos foram criados.</td>
         <td>
             <ul>
                 <li>Rótulo
@@ -317,7 +310,7 @@ Os filtros pré-configurados são configurações predefinidas que permitem usá
     </tr>
     <tr>
         <td>Status do ativo</td>
-        <td>O Assets Essentials permite definir o status em ativos disponíveis no repositório. Defina um status de ativo para melhor administrar e gerenciar o consumo downstream de ativos digitais. Escolha entre <b>Aprovado, Rejeitado ou Sem Status</b>.</td>
+        <td>O Assets Essentials permite definir o status dos ativos disponíveis no repositório. Defina um status de ativo para melhor administrar e gerenciar o consumo downstream de ativos digitais. Escolha entre <b>Aprovado, Rejeitado ou Sem Status</b>.</td>
         <td>
             <ul>
                 <li>Rótulo
@@ -368,7 +361,7 @@ Os filtros pré-configurados são configurações predefinidas que permitem usá
     </tr>
     <tr>
         <td>Tags (taxonomia)</td>
-        <td>Trata-se de um sistema de organização e classificação de ativos digitais através da utilização de etiquetas, que cria essencialmente uma estrutura hierárquica de palavras-chave que permite aos utilizadores pesquisar e encontrar facilmente conteúdo relevante mediante a aplicação de etiquetas específicas a cada ativo; </td>
+        <td>Trata-se de um sistema de organização e classificação de ativos digitais por meio de tags, criando essencialmente uma estrutura hierárquica de palavras-chave que permite aos usuários pesquisar e encontrar facilmente conteúdos relevantes ao aplicar tags específicas a cada ativo, </td>
         <td>
             <ul>
                 <li>Rótulo
@@ -398,7 +391,7 @@ Cada elemento do filtro está associado a um conjunto de propriedades. Os filtro
     <tr>
         <td>Metadados</td>
         <td>Lista suspensa</td>
-        <td>A propriedade de metadados é usada para mapear metadados aprovados do repositório do Adobe Experience Manager Assets. Você pode escolher o valor dos metadados no menu suspenso que precisa ser mapeado com o elemento de filtro. </td>
+        <td>A propriedade de metadados é usada para mapear metadados aprovados do repositório do Adobe Experience Manager Assets. Você pode selecionar, no menu suspenso, o valor de metadados que precisa ser mapeado ao elemento de filtro. </td>
     </tr>
     <tr>
         <td>Tipo de seleção</td> 
@@ -407,19 +400,19 @@ Cada elemento do filtro está associado a um conjunto de propriedades. Os filtro
             <ul>
                 <li><b>A seleção única</b> permite escolher um item de cada vez, o que é ideal para escolhas distintas.
                 <li><b>Seleção múltipla</b> permite escolher vários itens simultaneamente, o que é útil para selecionar várias opções. 
-                <li><b>A seleção exata</b> permite escolher um único item preciso entre várias opções.
-                <li><b>A seleção de intervalo</b> permite escolher um conjunto contínuo de valores dentro de um intervalo definido, útil para selecionar um intervalo de datas ou valores numéricos.
+                <li><b>Seleção exata</b> permite escolher um único item específico entre várias opções.
+                <li><b>Seleção de intervalo</b> permite escolher um conjunto contínuo de valores dentro de um intervalo definido, o que é útil para selecionar um intervalo de datas ou valores numéricos.
             </ul>
         </td>   
     </tr>
     <tr>
         <td>Opções</td>
-        <td>Upload manual, caminho JSON ou CSV</td>
+        <td>Manual, Caminho JSON ou upload de CSV</td>
         <td>
             <ul>
                 <li>Escolha <b>Manual</b> se desejar adicionar opções manualmente. 
                 <li>Escolha <b>Caminho JSON</b> para adicionar opções do arquivo JSON. 
-                <li>Escolha <b>Carregar CSV</b> para importar um arquivo CSV contendo valores a serem adicionados nas opções.
+                <li>Escolha <b>Upload de CSV</b> para importar um arquivo CSV contendo valores a serem adicionados nas opções.
             </ul>
         </td>
     </tr>
@@ -437,18 +430,18 @@ Cada elemento do filtro está associado a um conjunto de propriedades. Os filtro
     </tr>
     <tr>
         <td>Suporte a delimitadores</td>
-        <td>Ativar ou desativar</td>
+        <td>Habilitar ou desabilitar</td>
         <td>Um delimitador é um símbolo usado para separar elementos distintos no texto. Por exemplo, vírgulas, espaços ou ponto e vírgula.</td>
     </tr>
     <tr>
         <td>Escalonador</td>
         <td>Valor</td>
-        <td>Ative o botão Escalonador no campo de número para incrementar ou diminuir o valor em cada clique. </td>
+        <td>Habilite o botão Escalonador no campo numérico para aumentar ou diminuir o valor a cada clique. </td>
     </tr>
     <tr>
-        <td>Valor do passo </td>
+        <td>Valor do escalonador </td>
         <td>Número</td>
-        <td>Indica o valor de incremento/decremento ao usar o botão do passo a passo. Aparece quando o depurador está ativado.</td>
+        <td>Indica o valor de aumento/redução ao usar o botão Escalonador. Aparece quando o escalonador está habilitado.</td>
     </tr>
     <tr>
         <td>Descrição</td>
@@ -464,12 +457,12 @@ Para excluir um filtro de pesquisa, siga estas etapas:
 
 1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Configurações gerais]**.
 1. Vá para a guia **[!UICONTROL Pesquisa]**. Clique em **[!UICONTROL Personalizar]** para configurar o formulário de pesquisa.
-1. O formulário [!UICONTROL Configurar Filtros] é exibido. Certifique-se de estar no modo de Edição para poder fazer modificações no modelo.
+1. O formulário [!UICONTROL Configurar Filtros] é exibido. Certifique-se de estar no Modo de edição para poder fazer modificações no modelo.
 1. Selecione o elemento de filtro que deseja excluir. Por exemplo, selecione **[!UICONTROL Altura da imagem]**.
-1. Clique em **[!UICONTROL Excluir categoria]** para excluir o elemento de filtro. O elemento **[!UICONTROL Altura da imagem]** foi removido da tela.
+1. Clique em **[!UICONTROL Excluir categoria]** para excluir o elemento de filtro. O elemento **[!UICONTROL Altura da imagem]** é removido da tela.
 1. Clique em **[!UICONTROL Confirmar]** para salvar o formulário.
 
-## Utilização de filtros de pesquisa personalizados{#using-custom-search-filters}
+## Usando filtros de pesquisa personalizados{#using-custom-search-filters}
 
 Após configurar os filtros de pesquisa, você pode usá-los para pesquisar ativos no repositório.
 

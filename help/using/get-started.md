@@ -4,20 +4,14 @@ description: Como acessar, experiência de logon, casos de uso com suporte e pro
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
 TQID: https://experienceleague.adobe.com/jZWd3neYHmifmT7YVTMymgAfMK88N-9220D4Ek-7rjY
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-feature_v2:
-  - id: ae478996-b206-4712-9b0c-dc78a2644453
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: da3860b0-d637-47df-bef0-273751180266
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: ae478996-b206-4712-9b0c-dc78a2644453
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: da3860b0-d637-47df-bef0-273751180266
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 445
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -60,21 +54,21 @@ As várias tarefas de gerenciamento de ativos digitais (DAM) que você pode real
 | Procurar e exibir ativos | <ul> <li>[Navegar pelo repositório](/help/using/navigate-view.md#view-assets-and-details) </li> <li> [Visualizar um ativo](/help/using/navigate-view.md#preview-assets) <li> [Exibir representações de um ativo](/help/using/add-delete.md#renditions) </li> <li>[Exibir versões de um ativo](/help/using/manage-organize.md#view-versions)</li></ul> |
 | Adicionar novos ativos | <ul> <li>[Fazer upload de novos ativos e pastas](/help/using/add-delete.md#add-assets)</li> <li>[Monitorar o progresso do upload e gerenciar uploads](/help/using/add-delete.md#upload-progress)</li> <li>[Resolver duplicações](/help/using/add-delete.md#resolve-upload-fails)</li> </ul> |
 | Atualizar ativos ou informações relacionadas | <ul> <li>[Editar imagens](/help/using/edit-images.md)</li> <li>[Criar versões](/help/using/manage-organize.md#create-versions) e [exibir versões](/help/using/manage-organize.md#view-versions)</li> <li>[Editar imagens](/help/using/edit-images.md)</li> </ul> |
-| Editar ativos | <ul> <li>[Edições no navegador usando o Adobe Photoshop Express](/help/using/edit-images.md)</li> <li>[Recortar para um perfil de redes social](/help/using/edit-images.md#crop-straighten-images)</li> <li>[Exibir e gerenciar versões](/help/using/manage-organize.md#view-versions)</li> <li>[Utilização [!DNL Adobe Asset Link]](/help/using/integration.md#integrations)</ul></ul> |
+| Editar ativos | <ul> <li>[Edições no navegador usando o Adobe Photoshop Express](/help/using/edit-images.md)</li> <li>[Recortar para um perfil de rede social](/help/using/edit-images.md#crop-straighten-images)</li> <li>[Exibir e gerenciar versões](/help/using/manage-organize.md#view-versions)</li> <li>[Utilização [!DNL Adobe Asset Link]](/help/using/integration.md#integrations)</ul></ul> |
 | Pesquisar ativos no repositório | <ul> <li>[Pesquisar em uma pasta específica](/help/using/search.md#refine-search-results)</li> <li>[Pesquisas salvas](/help/using/search.md#saved-search)</li> <li>[Pesquisar ativos visualizados recentemente](/help/using/search.md)</li> <li>[Pesquisa de texto completo](/help/using/search.md) |
-| Baixar ativos | <ul> <li> [Pré-visualizar ativo](/help/using/navigate-view.md#preview-assets) </li> <li> [Baixar ativos](/help/using/manage-organize.md#download) <li> [Baixar representações](/help/using/add-delete.md#renditions) </li></ul> |
+| Baixar ativos | <ul> <li> [Visualizar ativo](/help/using/navigate-view.md#preview-assets) </li> <li> [Baixar ativos](/help/using/manage-organize.md#download) <li> [Baixar representações](/help/using/add-delete.md#renditions) </li></ul> |
 | Operações de metadados | <ul> <li>[Visualizar metadados detalhados](/help/using/metadata.md) </li> <li> [Atualizar metadados](/help/using/metadata.md#update-metadata)</li> <li> [Criar novo formulário de metadados](/help/using/metadata.md#metadata-forms) </li> </ul> |
 | Integração com outras soluções | <ul> <li>[Usar o Seletor de ativos no  [!DNL Adobe Journey Optimizer]](/help/using/integration.md)</li> <li>[[!DNL Adobe Asset Link]  para  [!DNL Creative Cloud]](/help/using/integration.md)</li> <li>[Integração com o  [!DNL Adobe Workfront]](/help/using/integration.md)</li> </ul> |
 
 ## Próximas etapas {#next-steps}
 
-* [Assista a um vídeo de introdução ao Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html?lang=pt-BR)
+* [Assista a um vídeo para começar a usar o Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html?lang=pt-BR)
 
 * Forneça feedback sobre o produto usando a opção de [!UICONTROL Feedback] disponível na interface do Assets Essentials
 
 * Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
-* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General&lang=pt-BR#support)
+* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&lang=pt-BR#support)
 
 
 <!--

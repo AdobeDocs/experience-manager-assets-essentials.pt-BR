@@ -3,18 +3,13 @@ title: Gerenciar relatórios no Assets Essentials
 description: Acesse os dados na seção de relatórios do Assets Essentials para avaliar o uso de produtos e recursos e obter insights sobre as principais métricas de sucesso.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 TQID: https://experienceleague.adobe.com/fTzTJd0JhjMbexn1ffynNQM7wx-nX-8Os1Y-c79FKdo
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 1243
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -173,7 +168,7 @@ Os relatórios agendados são exibidos na guia **Relatórios agendados** de mane
 ### Retomar cronograma {#resume-schedule}
 
 Para retomar o agendamento cancelado, selecione a linha do relatório e clique em **Retomar agendamento**. Quando retomado, os próximos registros de tempo de execução são exibidos novamente e o status é exibido como em andamento.
-![retomar agendamento](/help/using/assets/resume-schedule.png)
+![Retomar agendamento](/help/using/assets/resume-schedule.png)
 
 >[!NOTE]
 >
@@ -201,12 +196,12 @@ Clique na opção **[!UICONTROL Insights]**, disponível no painel de navegaçã
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
 * **Uso do armazenamento**: o uso de armazenamento (em bytes) no ambiente do Assets Essentials, representado por um gráfico de barras.
-  ![uso do armazenamento](/help/using/assets/insights-storage-usage1.svg)
+  ![Utilização do armazenamento](/help/using/assets/insights-storage-usage1.svg)
   <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
 <!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
-* **Principais pesquisas**: visualize os principais termos pesquisados junto com o número de vezes que eles foram pesquisados em seu ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados em formato tabular.
+* **Principais pesquisas**: visualize os principais termos pesquisados e o número de vezes que eles foram pesquisados em seu ambiente do Assets Essentials nos últimos 30 dias ou 12 meses, representados em formato tabular.
   ![utilização do armazenamento](/help/using/assets/insights-top-search.svg)
 
   <!--

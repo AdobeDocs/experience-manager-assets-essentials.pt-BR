@@ -5,22 +5,13 @@ role: User,Leader,Admin,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 TQID: https://experienceleague.adobe.com/cW9-sni2SVQ0vjs4FXwXHxjMQOM8FvQIgJD2-8KDrlc
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
-  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-  - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: bbbea26f-9621-49eb-9ab8-e06fb3bbce8cid: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: f8667931-f646-4dd3-af2a-b9d0cb8098ad
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 2195
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -142,9 +133,9 @@ Veja abaixo uma visão geral de cada tipo de propriedade e como eles são armaze
 | Data | Adiciona um componente de data. |
 | Suspenso | Adiciona uma lista suspensa. |
 | Estado | Adicionar a propriedade de estado do repositório (mapeada para o repositório:state) |
-| Status do ativo | Adicionar a propriedade Status do Ativo padrão (mapeada para dam:assetStatus) |
-| Tags | Adicione uma marca de valores armazenados no Gerenciamento de Taxonomia (mapeado para xcm:tags). |
-| Palavras-chave | Adicionar palavras-chave de forma livre (mapeadas para dc:subject). |
+| Status do ativo | Adicionar a propriedade Status do ativo padrão (mapeada para dam:assetStatus) |
+| Tags | Adicionar uma tag a partir dos valores armazenados no Gerenciamento de taxonomia (mapeados para xcm:tags). |
+| Palavras-chave | Adicione palavras-chave de formato livre (mapeadas para dc:subject). |
 | Tags inteligentes | Adicione para aumentar os recursos de pesquisa inserindo tags de metadados automaticamente. |
 | Link | Adicione para habilitar URLs externos. Uma vez configurado no formulário de metadados, o componente de URL pode ser mapeado para uma propriedade de metadados específica na página “Editor de metadados”. Este [formulário de metadados pode ser atribuído a pastas](#assign-metadata-form-folder). |
 
@@ -226,13 +217,13 @@ Para visualizar as tags raiz configuradas, acesse a página de detalhes do ativo
 
 ## Próximas etapas {#next-steps}
 
-* [Assista a um vídeo sobre gerenciamento de formulários de metadados no Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=pt-BR)
+* [Assista a um vídeo sobre como gerenciar formulários de metadados no Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html)
 
 * Forneça feedback sobre o produto usando a opção de [!UICONTROL Feedback] disponível na interface do Assets Essentials
 
 * Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
-* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General&lang=pt-BR#support)
+* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&lang=pt-BR#support)
 
 <!-- 
 TBD: Cannot create a form using the second option. Documenting only the first option for now.

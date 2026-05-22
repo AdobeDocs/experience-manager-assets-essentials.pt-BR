@@ -4,18 +4,14 @@ description: O [!DNL Assets Essentials] integra-se com outras soluções da Adob
 role: User
 exl-id: bc43a59e-f295-44d2-a14d-854174f91e41
 TQID: https://experienceleague.adobe.com/TFjf7jmmlN5iuoWzFg32WqfNuLMIdf29d-SkrO6Ar58
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-feature_v2:
-  - id: ae478996-b206-4712-9b0c-dc78a2644453
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: ae478996-b206-4712-9b0c-dc78a2644453
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 491
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -29,9 +25,9 @@ A experiência do [!DNL Assets Essentials] incorporado pode se integrar com as s
 
   [Assista a um vídeo sobre a integração do Assets Essentials às bibliotecas da Adobe Creative Cloud](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html?lang=pt-BR)
 
-* **[!DNL Adobe Journey Optimizer]**: o [[!DNL Adobe Journey Optimizer]](https://business.adobe.com/br/products/journey-optimizer/adobe-journey-optimizer.html) simplifica o gerenciamento de jornadas para que os clientes forneçam campanhas omnicanais com insights e decisões inteligentes. Ao criar mensagens usando o [!DNL Journey Optimizer], você pode acessar o repositório do [!DNL Assets Essentials] diretamente de dentro da interface do [!DNL Journey Optimizer]. Os usuários obtêm acesso aos ativos usando a interface incorporada do [!DNL Assets Essentials]. Consulte o artigo de ajuda [Usar o  [!DNL Assets Essentials] &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html?lang=pt-BR) ou o [tutorial em vídeo para a criação de conteúdo de email](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=pt-BR).
+* **[!DNL Adobe Journey Optimizer]**: o [[!DNL Adobe Journey Optimizer]](https://business.adobe.com/br/products/journey-optimizer/adobe-journey-optimizer.html) simplifica o gerenciamento de jornadas para que os clientes forneçam campanhas omnicanais com insights e decisões inteligentes. Ao criar mensagens usando o [!DNL Journey Optimizer], você pode acessar o repositório do [!DNL Assets Essentials] diretamente de dentro da interface do [!DNL Journey Optimizer]. Os usuários obtêm acesso aos ativos usando a interface incorporada do [!DNL Assets Essentials]. Consulte o artigo de ajuda [Usar o  [!DNL Assets Essentials] ](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html?lang=pt-BR) ou o [tutorial em vídeo para a criação de conteúdo de email](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=pt-BR).
 
-* **[!DNL Adobe Workfront]**: o [[!DNL Adobe Workfront]](https://www.workfront.com/) é um aplicativo de gerenciamento de trabalho que ajuda você a gerenciar todo o ciclo de vida do trabalho em um único local. A integração nativa entre o [!DNL Adobe Workfront] e o [!DNL Assets Essentials] permite que as organizações melhorem a velocidade do conteúdo e o prazo para comercialização, conectando intrinsecamente o trabalho e o gerenciamento de ativos. No contexto do gerenciamento de trabalho, os usuários têm acesso aos documentos e imagens necessários na mesma solução. O [!DNL Assets Essentials] está disponível como um complemento que novos clientes do [!DNL Workfront] podem adquirir separadamente. Consulte [Configurar e usar a integração do [!DNL Workfront] e [!DNL Essentials] &#x200B;](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm).
+* **[!DNL Adobe Workfront]**: o [[!DNL Adobe Workfront]](https://www.workfront.com/) é um aplicativo de gerenciamento de trabalho que ajuda você a gerenciar todo o ciclo de vida do trabalho em um único local. A integração nativa entre o [!DNL Adobe Workfront] e o [!DNL Assets Essentials] permite que as organizações melhorem a velocidade do conteúdo e o prazo para comercialização, conectando intrinsecamente o trabalho e o gerenciamento de ativos. No contexto do gerenciamento de trabalho, os usuários têm acesso aos documentos e imagens necessários na mesma solução. O [!DNL Assets Essentials] está disponível como um complemento que novos clientes do [!DNL Workfront] podem adquirir separadamente. Consulte [Configurar e usar a integração do [!DNL Workfront] e [!DNL Essentials] ](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm).
 
   [Assista a um vídeo sobre configuração da integração do Adobe Workfront e do Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=pt-BR)
 
@@ -47,7 +43,7 @@ Integre o AEM Assets com criação baseada em documentos ao Edge Delivery Servic
 
 * Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
-* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General&lang=pt-BR#support)
+* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&lang=pt-BR#support)
 
 <!-- 
 TBD: Hiding this link till GA. Do not even include the beta mention as discussed with Greg. Beta is done with customers selected by the Accounts team. It is not an open Beta program. At GA, document this.

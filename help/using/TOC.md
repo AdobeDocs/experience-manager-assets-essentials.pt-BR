@@ -12,7 +12,7 @@ solution: Experience Manager
 source-git-commit: daef55564f4e5c05df2ac167de804261ca714f90
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 91%
 + [Notas de versão](release-notes.md)
 + [Segurança](security-overview.md)
 + [Meu espaço de trabalho](my-workspace.md)
-+ Introdução ao Assets Essentials para administradores {#get-started-admins}
++ Introdução ao Assets Essentials para admins {#get-started-admins}
    + [Administrar e adicionar usuários](deploy-administer.md)
    + Gerenciar acesso à pasta{#folder-access}
       + [Gerenciar permissões da pasta](manage-permissions.md)
