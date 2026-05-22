@@ -17,7 +17,7 @@ topic_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 1240
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -143,7 +143,7 @@ Para definir o status do ativo:
 1. Selecione o ativo e clique em **[!UICONTROL Detalhes]** na barra de ferramentas.
 
 1. Na guia **[!UICONTROL Básico]** selecione o status do ativo na lista suspensa de **[!UICONTROL Status]**. Os valores possíveis incluem Aprovado, Rejeitado e Sem status (padrão).
-Se você tiver o Dynamic Media com recursos do OpenAPI provisionados para o seu ambiente, o Experience Manager Assets gera um URL público assim que você marca o ativo como `Approved`.
+Se você tiver o Dynamic Media com recursos da OpenAPI provisionados para o seu ambiente, o Experience Manager Assets gera um URL público assim que você marca o ativo como `Approved`.
 
    >[!VIDEO](https://video.tv.adobe.com/v/342495)
 

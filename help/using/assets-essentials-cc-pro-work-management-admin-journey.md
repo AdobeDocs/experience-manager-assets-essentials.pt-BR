@@ -15,7 +15,7 @@ topic_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 917
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -61,7 +61,7 @@ As Jornadas de documentação foram projetadas com princípios de práticas reco
 
 * [Acesso ao Adobe Admin Console para soluções da Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html?lang=pt-BR)
 
-* [Acesso ao Adobe Admin Console para Creative Cloud para implantação corporativa](https://helpx.adobe.com/br/enterprise/admin-guide.html)
+* [Acesso ao Adobe Admin Console para implantação da Creative Cloud para corporações](https://helpx.adobe.com/br/enterprise/admin-guide.html)
 
 ## Administrar o Experience Manager Assets Essentials {#administer-assets-essentials}
 

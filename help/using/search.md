@@ -16,7 +16,7 @@ topic_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 2217
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 98%
         </td>
         <td>
             <img src="assets/new.gif" width="20px" height="25px" alt="novo">
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Extensibilidade da IU</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Extensibilidade da interface</b></a>
         </td>
           <td>
             <img src="assets/new.gif" width="20px" height="25px" alt="novo">
@@ -188,7 +188,7 @@ Para gerar novos ativos usando o [!DNL Adobe Firefly]:
 
    ![Integração do Firefly](assets/firefly-integration.png)
 
-   Os novos ativos foram gerados com sucesso. Além disso, você pode alterar a descrição da imagem digitando o novo prompt de texto na caixa de descrição. [Saiba como escrever um bom prompt de IA para gerar conteúdo extraordinário e relevante.](https://helpx.adobe.com/br/firefly/using/tips-and-tricks.html) Como alternativa, você pode [editar a imagem com vários outros recursos, como alterar o estilo, as dimensões da imagem e muito mais.](https://helpx.adobe.com/br/firefly/using/text-to-image.html)
+   Os novos ativos foram gerados com sucesso. Além disso, você pode alterar a descrição da imagem digitando o novo prompt de texto na caixa de descrição. [Saiba como escrever um prompt de IA satisfatório para gerar conteúdo extraordinário e relevante.](https://helpx.adobe.com/br/firefly/using/tips-and-tricks.html) Como alternativa, você pode [editar a imagem com vários outros recursos, como alterar o estilo, dimensões da imagem entre outros.](https://helpx.adobe.com/br/firefly/using/text-to-image.html)
 
    ![Integração do Firefly](assets/bugatti-type-57.png)
 

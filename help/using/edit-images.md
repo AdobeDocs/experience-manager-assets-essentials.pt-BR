@@ -13,7 +13,7 @@ topic_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 1258
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -93,7 +93,7 @@ A imagem cortada está disponível para download. É possível salvar o ativo ed
 
 Usuários com direito ao Express podem usar o editor incorporado na interface do Assets Essentials para editar o conteúdo e criar facilmente novos conteúdos com a IA generativa do Adobe Firefly. Isso melhora a reutilização do conteúdo e aumenta a sua velocidade. Você também pode usar elementos predefinidos para que seu ativo tenha uma aparência incrível ou para executar ações de edição rápidas na imagem com apenas alguns cliques.
 
-![express na interface do usuário do essentials](/help/using/assets/express-in-essentials-ui.jpg)
+![Express na interface Essentials](/help/using/assets/express-in-essentials-ui.jpg)
 Para editar imagens no editor incorporado do Adobe Express, siga as etapas abaixo:
 
 1. Acesse a interface do AEM Assets Essentials com o link [Interface do AEM Assets Essentials](https://experience.adobe.com/#/assets) e selecione o repositório correto.

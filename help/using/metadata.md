@@ -20,7 +20,7 @@ topic_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 2195
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -142,9 +142,9 @@ Veja abaixo uma visão geral de cada tipo de propriedade e como eles são armaze
 | Data | Adiciona um componente de data. |
 | Suspenso | Adiciona uma lista suspensa. |
 | Estado | Adicionar a propriedade de estado do repositório (mapeada para o repositório:state) |
-| Status do ativo | Adicionar a propriedade Status do Ativo padrão (mapeada para dam:assetStatus) |
-| Tags | Adicione uma marca de valores armazenados no Gerenciamento de Taxonomia (mapeado para xcm:tags). |
-| Palavras-chave | Adicionar palavras-chave de forma livre (mapeadas para dc:subject). |
+| Status do ativo | Adicionar a propriedade Status do ativo padrão (mapeada para dam:assetStatus) |
+| Tags | Adicionar uma tag a partir dos valores armazenados no Gerenciamento de taxonomia (mapeados para xcm:tags). |
+| Palavras-chave | Adicione palavras-chave de formato livre (mapeadas para dc:subject). |
 | Tags inteligentes | Adicione para aumentar os recursos de pesquisa inserindo tags de metadados automaticamente. |
 | Link | Adicione para habilitar URLs externos. Uma vez configurado no formulário de metadados, o componente de URL pode ser mapeado para uma propriedade de metadados específica na página “Editor de metadados”. Este [formulário de metadados pode ser atribuído a pastas](#assign-metadata-form-folder). |
 
@@ -226,7 +226,7 @@ Para visualizar as tags raiz configuradas, acesse a página de detalhes do ativo
 
 ## Próximas etapas {#next-steps}
 
-* [Assista a um vídeo sobre gerenciamento de formulários de metadados no Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=pt-BR)
+* [Assista a um vídeo sobre como gerenciar formulários de metadados no Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html?lang=pt-BR)
 
 * Forneça feedback sobre o produto usando a opção de [!UICONTROL Feedback] disponível na interface do Assets Essentials
 

@@ -18,7 +18,7 @@ topic_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 660
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ TBD: Update this banner to remove Beta label.
 ![Banner image for beta docs](assets/do-not-localize/banner-image-beta-docs.png)
 -->
 
-A Adobe oferece uma solução robusta de Gerenciamento de ativos digitais (DAM) para você aproveitar ao máximo seus ativos digitais. O Adobe Experience Manager Assets Essentials é uma solução leve de gerenciamento de ativos da Adobe para armazenar, gerenciar, detectar e usar ativos digitais.
+A Adobe oferece uma solução robusta de Gerenciamento de ativos digitais (DAM) para você aproveitar ao máximo seus ativos digitais. O Adobe Experience Manager Assets Essentials é a solução leve da Adobe para gerenciamento de ativos, destinada a armazenar, gerenciar, localizar e utilizar ativos digitais.
 
 ## O que é o Assets Essentials? {#assets-essemtials-overview}
 

@@ -14,7 +14,7 @@ topic_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 1243
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -173,7 +173,7 @@ Os relatórios agendados são exibidos na guia **Relatórios agendados** de mane
 ### Retomar cronograma {#resume-schedule}
 
 Para retomar o agendamento cancelado, selecione a linha do relatório e clique em **Retomar agendamento**. Quando retomado, os próximos registros de tempo de execução são exibidos novamente e o status é exibido como em andamento.
-![retomar agendamento](/help/using/assets/resume-schedule.png)
+![Retomar agendamento](/help/using/assets/resume-schedule.png)
 
 >[!NOTE]
 >
@@ -201,12 +201,12 @@ Clique na opção **[!UICONTROL Insights]**, disponível no painel de navegaçã
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
 * **Uso do armazenamento**: o uso de armazenamento (em bytes) no ambiente do Assets Essentials, representado por um gráfico de barras.
-  ![uso do armazenamento](/help/using/assets/insights-storage-usage1.svg)
+  ![Utilização do armazenamento](/help/using/assets/insights-storage-usage1.svg)
   <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
 <!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
-* **Principais pesquisas**: visualize os principais termos pesquisados junto com o número de vezes que eles foram pesquisados em seu ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados em formato tabular.
+* **Principais pesquisas**: visualize os principais termos pesquisados e o número de vezes que eles foram pesquisados em seu ambiente do Assets Essentials nos últimos 30 dias ou 12 meses, representados em formato tabular.
   ![utilização do armazenamento](/help/using/assets/insights-top-search.svg)
 
   <!--

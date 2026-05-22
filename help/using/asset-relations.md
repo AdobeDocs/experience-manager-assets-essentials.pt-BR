@@ -14,19 +14,19 @@ role_v2:
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
 source-wordcount: 566
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 # Relações do ativo {#related-assets}
 
-O [!DNL Adobe Experience Manager Assets] permite relacionar ativos manualmente com base nas necessidades da sua organização usando o recurso de ativos relacionados. Por exemplo, você pode relacionar um arquivo de licença a um ativo ou uma imagem/vídeo em um tópico semelhante. Você pode relacionar ativos que compartilham determinados atributos comuns. Você também pode usar o recurso para criar relacionamentos de origem/derivados entre ativos. Por exemplo, se você tiver um arquivo PDF gerado a partir de um arquivo INDD, poderá relacionar o arquivo PDF ao seu arquivo INDD de origem.
+O [!DNL Adobe Experience Manager Assets] permite relacionar manualmente os ativos de acordo com as necessidades da sua organização usando o recurso de ativos relacionados. Por exemplo, você pode relacionar um arquivo de licença a um ativo ou uma imagem/vídeo sobre um tema semelhante. Você pode relacionar ativos que compartilham determinados atributos comuns. Você também pode usar esse recurso para criar relações de origem/derivado entre ativos. Por exemplo, se você tiver um arquivo PDF gerado a partir de um arquivo INDD, poderá relacionar o arquivo PDF ao seu arquivo INDD de origem.
 
 Usando esse recurso, você tem a flexibilidade de compartilhar um arquivo PDF ou JPG de baixa resolução com fornecedores ou agências e disponibilizar o arquivo INDD de alta resolução somente mediante solicitação.
 
 >[!NOTE]
 >
->Somente os usuários com permissões de edição em ativos podem relacionar e não relacionar os ativos.
+>Somente os usuários com permissões de edição sobre os ativos podem associá-los ou desassociá-los.
 
 ## Etapas para relacionar ativos {#steps-to-relate-assets}
 
@@ -37,23 +37,23 @@ Usando esse recurso, você tem a flexibilidade de compartilhar um arquivo PDF ou
 1. Para relacionar outro ativo ao ativo selecionado, clique em **[!UICONTROL Relações do ativo]** ![relacionar ativos](assets/do-not-localize/link-relate.png).
 1. Siga uma das seguintes opções:
 
-   * Para relacionar o arquivo de origem do ativo, selecione **[!UICONTROL Adicionar Source]** na lista. Você pode associar somente um ativo como uma origem.
+   * Para relacionar o arquivo de origem do ativo, selecione **[!UICONTROL Adicionar origem]** na lista. Você pode associar somente um ativo como uma origem.
    * Para relacionar um arquivo derivado, selecione **[!UICONTROL Adicionar derivado]** na lista. Você pode associar vários ativos nesta categoria.
    * Para criar uma relação bidirecional entre os ativos, selecione **[!UICONTROL Adicionar outro]** na lista. Você pode associar vários ativos nesta categoria.
 
-1. Na tela **[!UICONTROL Selecionar Assets]**, navegue até o local do ativo que deseja relacionar e selecione-o. Você pode selecionar um único ativo por vez ou vários ativos mantendo a tecla Shift pressionada ao clicar, o que pode incluir qualquer um dos [formatos de arquivo compatíveis no Modo de Exibição do Assets](supported-file-formats.md).
+1. Na tela **[!UICONTROL Selecionar ativos]**, navegue até o local do ativo que deseja relacionar e selecione-o. Você pode selecionar um único ativo por vez ou vários ativos mantendo a tecla Shift pressionada ao clicar, o que pode incluir qualquer um dos [formatos de arquivo compatíveis na Visualização de ativos](supported-file-formats.md).
 
    ![adicionar ativo relacionado](assets/add-related-asset.png)
 
-1. Clique em **[!UICONTROL Selecionar]**. Dependendo da sua escolha de relação na etapa 3, o ativo relacionado é listado em uma categoria apropriada na seção **[!UICONTROL Relações do ativo]**. Por exemplo, se o ativo relacionado for o arquivo de origem do ativo atual, ele será listado em **[!UICONTROL Source]**.
+1. Clique em **[!UICONTROL Selecionar]**. Dependendo da relação escolhida na etapa 3, o ativo relacionado é listado em uma categoria apropriada na seção **[!UICONTROL Relações do ativo]**. Por exemplo, se o ativo relacionado for o arquivo de origem do ativo atual, ele será listado em **[!UICONTROL Origem]**.
 
-   ![Exemplo de relação do Assets](assets/asset-relations-example.png)
+   ![Exemplo de relação de ativos](assets/asset-relations-example.png)
 
-1. Clique em **[!UICONTROL Desrelacionar]** ![desrelacionar ativos](assets/do-not-localize/link-unrelate-icon.png) disponíveis para todos os ativos relacionados em cada seção ([!UICONTROL Source], [!UICONTROL Derivados] e [!UICONTROL Outros]) para desrelacionar um ativo.
+1. Clique em **[!UICONTROL Não relacionar]** ![não relacionar ativos](assets/do-not-localize/link-unrelate-icon.png) disponível para todos os ativos relacionados em cada seção ([!UICONTROL Origem], [!UICONTROL Derivados] e [!UICONTROL Outros]) para não relacionar um ativo.
 
 ## Traduzir ativos relacionados {#translating-related-assets}
 
-Criar relacionamentos de origem/derivados entre ativos usando o recurso de ativos relacionados também é útil em fluxos de trabalho de tradução. Quando você executa um fluxo de trabalho de tradução em um ativo derivado, o [!DNL Experience Manager Assets] busca automaticamente qualquer ativo ao qual o arquivo de origem faça referência e o inclui para tradução. Dessa forma, o ativo referenciado pelo ativo de origem é traduzido junto com os ativos de origem e derivados. Se o arquivo de origem estiver relacionado a outro ativo, [!DNL Experience Manager Assets] buscará o ativo referenciado e o incluirá para tradução.
+Criar relacionamentos de origem/derivados entre ativos usando o recurso de ativos relacionados também é útil em fluxos de trabalho de tradução. Quando você executa um fluxo de trabalho de tradução em um ativo derivado, o [!DNL Experience Manager Assets] busca automaticamente qualquer ativo ao qual o arquivo de origem faça referência e o inclui para tradução. Dessa forma, o ativo referenciado pelo ativo de origem é traduzido junto com os ativos de origem e derivados. Se o arquivo de origem estiver relacionado a outro ativo, [!DNL Experience Manager Assets] busca o ativo referenciado e o inclui para tradução.
 
 Consulte [Traduzir ativos no AEM](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/admin/translate-assets).
 
@@ -69,4 +69,4 @@ Consulte [Traduzir ativos no AEM](https://experienceleague.adobe.com/pt-br/docs/
 >
 >* [Exibir versões de um ativo](manage-organize.md#view-versions)
 >* [Traduzir ativos no AEM](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)
->* [Formatos de Arquivo com Suporte na Exibição do Assets](supported-file-formats.md).
+>* [Formatos de arquivo compatíveis na Visualização de ativos](supported-file-formats.md).
