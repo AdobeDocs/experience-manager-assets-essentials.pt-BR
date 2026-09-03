@@ -15,7 +15,7 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
 source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
 workflow-type: tm+mt
-source-wordcount: 2217
+source-wordcount: 2247
 ht-degree: 100%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 100%
         </td>
         <td>
             <img src="assets/new.gif" width="20px" height="25px" alt="novo">
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Extensibilidade da interface</b></a>
+            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Extensibilidade da IU</b></a>
         </td>
           <td>
             <img src="assets/new.gif" width="20px" height="25px" alt="novo">
@@ -78,9 +78,9 @@ Para pesquisar ativos,
 
   ![caixa de pesquisa](assets/search-box.png)
 
-   * Pesquise usando uma palavra-chave e, opcionalmente, altere a pasta. Pressione Return.
+  * Pesquise usando uma palavra-chave e, opcionalmente, altere a pasta. Pressione Return.
 
-   * Comece a trabalhar com um ativo visualizado recentemente procurando diretamente por ele. Clique na caixa de pesquisa e selecione um ativo visualizado recentemente a partir das sugestões.
+  * Comece a trabalhar com um ativo visualizado recentemente procurando diretamente por ele. Clique na caixa de pesquisa e selecione um ativo visualizado recentemente a partir das sugestões.
 
 ## Filtrar os resultados da pesquisa {#refine-search-results}
 
