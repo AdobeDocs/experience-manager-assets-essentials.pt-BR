@@ -4,63 +4,17 @@ description: Pesquisar e descobrir ativos no [!DNL Assets Essentials].
 role: User
 exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 TQID: https://experienceleague.adobe.com/V--WXU30ed6P-HWqE1rquXPupmJwImyYfARZ006RpDg
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-feature_v2:
-  - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+feature_v2: id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: a292d5bf73e5c366cbc3d5e9695fecdcc930d31b
 workflow-type: tm+mt
-source-wordcount: 2247
+source-wordcount: 1662
 ht-degree: 100%
 
 ---
 
-<table>
-    <tr>
-        <td>
-            <img src="assets/new.gif" width="20px" height="25px" alt="novo">
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b>Dynamic Media Prime e Ultimate</b></a>
-        </td>
-        <td>
-            <img src="assets/new.gif" width="20px" height="25px" alt="novo">
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b>AEM Assets Ultimate</b></a>
-        </td>
-        <td>
-            <img src="assets/new.gif" width="20px" height="25px" alt="novo">
-            <a href="http://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/integrate-aem-assets-edge-delivery-services"><b>Integração do AEM Assets com o Edge Delivery Services</b></a>
-        </td>
-        <td>
-            <img src="assets/new.gif" width="20px" height="25px" alt="novo">
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>Extensibilidade da IU</b></a>
-        </td>
-          <td>
-            <img src="assets/new.gif" width="20px" height="25px" alt="novo">
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-assets-essentials/help/custom-search-filters"><b>Filtros de pesquisa personalizados</b></a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices"><b>Práticas recomendadas de pesquisa</b></a>
-        </td>
-        <td>
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices"><b>Práticas recomendadas para metadados</b></a>
-        </td>
-        <td>
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview"><b>Centro de conteúdo</b></a>
-        </td>
-        <td>
-            <a href="https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview"><b>Dynamic Media com recursos da OpenAPI</b></a>
-        </td>
-        <td>
-            <a href="https://developer.adobe.com/experience-cloud/experience-manager-apis/"><b>Documentação do AEM Assets para desenvolvedores</b></a>
-        </td>
-    </tr>
-</table>
 
 # Pesquisar ativos no [!DNL Assets Essentials] {#search-assets}
 
@@ -301,92 +255,6 @@ Você pode visualizar o layout e a formatação da primeira página de pesquisa.
 
    ![Visualização da primeira página de pesquisa](assets/search-first-preview.gif)
 
-## Pesquisa contextual {#contextual-search}
-
-Também é possível pesquisar ativos disponíveis no repositório por meio de prompts de texto. O Experience Manager Assets transforma automaticamente esses prompts de texto em filtros de pesquisa e exibe os resultados da pesquisa. Você pode visualizar e modificar filtros automáticos usando o Painel de filtros para restringir ainda mais os resultados da pesquisa.
-
-### Acessar a pesquisa contextual {#access-contextual-search}
-
-Para acessar a pesquisa contextual no Experience Manager Assets:
-
-1. Clique em **[!UICONTROL Pesquisar]** no painel esquerdo.
-
-   ![Pesquisa contextual](/help/using/assets/access-contextual-search.png)
-
-1. Insira o prompt de texto na caixa de texto Pesquisar e clique em **[!UICONTROL Pesquisa contextual]**.
-
-   ![Prompt de texto da pesquisa contextual](/help/using/assets/wknd-contextual-search.png)
-
-   O [!DNL Experience Manager Assets] exibe os resultados da pesquisa.
-
-
-### Filtros compatíveis {#supported-filters}
-
-A pesquisa contextual é compatível com os seguintes filtros prontos para uso. Baseie os prompts de texto nesses filtros para obter resultados de pesquisa apropriados.
-
-* Altura da imagem
-
-* Largura da imagem
-
-* Tipo de arquivo: imagem, documento, vídeo ou pasta.
-
-* Tipo MIME: JPG, PNG, TIFF, GIF, MP4, PDF, PPTX, DOCX ou XLSX
-
-* Data de criação
-
-* Data de modificação
-
-* Data de expiração
-
-* Status do ativo: aprovado, rejeitado ou todos
-
-* Ativos expirados
-
-### Exemplos de prompts de texto {#text-prompts-examples}
-
-**Exemplo 1**
-
-**Prompt de texto**: imagens criadas neste mês.
-
-O [!DNL Experience Manager Assets] aplica os seguintes filtros automaticamente e exibe os resultados da pesquisa:
-
-![Exemplo 1 de pesquisa contextual](/help/using/assets/contextual-search-example1.png)
-
-**Exemplo 2**
-
-**Prompt de texto**: imagens com pelo menos 200px de altura e 100px de largura com praia e céu limpo.
-
-O [!DNL Experience Manager Assets] aplica os seguintes filtros automaticamente e exibe os resultados da pesquisa:
-
-![Exemplo 2 de pesquisa contextual](/help/using/assets/contextual-search-example2.png)
-
-**Exemplo 3**
-
-**Prompt de texto**: preciso de imagens de um céu azul com altura de 1500 e 2500 pixels, criadas no mês passado, que não tenham expirado nem sejam aprovadas.
-
-O [!DNL Experience Manager Assets] aplica os seguintes filtros automaticamente e exibe os resultados da pesquisa:
-
-![Exemplo 3 de pesquisa contextual](/help/using/assets/contextual-search-example3.png)
-
-O vídeo a seguir ilustra o processo completo, desde o acesso à interface da pesquisa contextual até a definição de prompts de texto e a visualização dos resultados da pesquisa.
-
->[!VIDEO](https://video.tv.adobe.com/v/3428407)
-
-### Desabilitar pesquisa contextual {#disable-contextual-search}
-
-Admins também têm a opção de desabilitar a pesquisa contextual para usuários da organização. Para desabilitá-la, siga estas etapas:
-
-1. Navegue até **[!UICONTROL Configurações]** > **[!UICONTROL Configurações gerais]**.
-
-1. Na seção [!UICONTROL Pesquisa contextual], desative o botão de alternância **[!UICONTROL Habilitar pesquisa contextual para a organização]** para desabilitar o recurso de pesquisa contextual para todos os usuários da organização.
-
-### Feedback da pesquisa contextual {#contextual-search-feedback}
-
-Se precisar fornecer feedback sobre o recurso de pesquisa contextual, clique no ![ícone Pesquisa contextual](assets/do-not-localize/Smock_Help_18_N.svg) e no ícone Feedback. Selecione o tipo de feedback, especifique o assunto e a descrição e clique em **[!UICONTROL Enviar]**.
-
-![Feedback da pesquisa contextual](/help/using/assets/contextual-search-feedback.png)
-
-
 ## Próximas etapas {#next-steps}
 
 * [Assista a um vídeo sobre pesquisa de ativos no Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/using.html?lang=pt-BR)
@@ -395,5 +263,5 @@ Se precisar fornecer feedback sobre o recurso de pesquisa contextual, clique no�
 
 * Forneça feedback sobre a documentação por meio das opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita.
 
-* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General&lang=pt-BR#support)
+* Entre em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&lang=pt-BR#support)
 
