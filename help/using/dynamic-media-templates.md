@@ -5,13 +5,11 @@ hide: true
 hidefromtoc: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
-source-git-commit: 4c176db86c9f3219f2cb63edda71435a2aa76850
+source-git-commit: 10c0e2375ba16dfeeeeca8f0b816ca366254dd67
 workflow-type: tm+mt
-source-wordcount: '3000'
+source-wordcount: '3017'
 ht-degree: 99%
-
 ---
-
 # Modelos do Dynamic Media{#dynamic-media-templates}
 
 | [Práticas recomendadas de pesquisa](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices) | [Práticas recomendadas para metadados](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices) | [Centro de conteúdo](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview) | [Documentação do AEM Assets para desenvolvedores](https://developer.adobe.com/experience-cloud/experience-manager-apis/) |
@@ -35,7 +33,7 @@ Alguns dos principais recursos são:
 
 Alguns dos principais benefícios dos modelos do Dynamic Media são:
 
-* **Otimizar 1:1 personalização:** personalize o conteúdo para sinais de clientes em tempo real.
+* **Otimizar Personalization 1:1:** Personalize o conteúdo para sinais de clientes em tempo real.
 * **Reduzir o esforço manual:** automatize e acelere a criação e o gerenciamento de conteúdo.
 * **Garantir experiências omnicanal consistentes:** mantenha a consistência da marca em todos os canais.
 * **Reutilizar conteúdo de forma eficaz:** evite conteúdo de uso único e dimensione com modelos dinâmicos e parametrizados.
@@ -76,7 +74,7 @@ Execute estas etapas para criar uma tela em branco:
 
 1. Clique em **[!UICONTROL Criar modelo]** para salvar o modelo em Ativos do Dynamic Media ou navegue até uma pasta e clique em **[!UICONTROL Criar modelo]** para salvar o modelo nessa pasta. A caixa de diálogo **[!UICONTROL Novo modelo]** é exibida.
    ![como criar modelos dinâmicos que podem ser personalizados em tempo real](/help/using/assets/new-template.png)
-Para [criar uma pasta](/help/using/add-delete.md) em **[!UICONTROL Ativos do Dynamic Media]**, crie uma pasta em **[!UICONTROL Ativos]**. A árvore de pastas em **[!UICONTROL Ativos]** é replicada em **[!UICONTROL Ativos do Dynamic Media]**.
+   Para [criar uma pasta](/help/using/add-delete.md) em **[!UICONTROL Ativos do Dynamic Media]**, crie uma pasta em **[!UICONTROL Ativos]**. A árvore de pastas em **[!UICONTROL Ativos]** é replicada em **[!UICONTROL Ativos do Dynamic Media]**.
 1. Especifique um nome de modelo, defina a largura e a altura da tela e clique em **[!UICONTROL Criar]**. Uma tela em branco é exibida com opções de menu em ambos os lados para serem usadas na criação do modelo. Passe o mouse sobre as opções de menu para ver a dica de ferramenta.
    ![modelo personalizável em tempo real](/help/using/assets/blank-canvas-page.png)
 
@@ -181,7 +179,7 @@ Para parametrizar uma camada:
 1. **Opcional:** renomeie o nome do parâmetro. Um nome de parâmetro tem o nome da camada seguido por um sufixo. Em uma camada selecionada, todas as propriedades parametrizadas compartilham o mesmo nome da camada com um sufixo variável. Renomeie o nome da camada seguindo a convenção de nomeação semântica para que, ao incluir o parâmetro no URL, o próprio nome do parâmetro tenha informações sobre o conteúdo da camada ou sua finalidade.
 1. Clique em **[!UICONTROL Salvar]**.
    ![Criação de conteúdo instantânea](/help/using/assets/parameterise-a-layer.png)
-Para alternar entre o painel Parâmetro de uma camada de imagem e de uma camada de texto, selecione a camada na tela e clique em **[!UICONTROL Parâmetros]**.
+   Para alternar entre o painel Parâmetro de uma camada de imagem e de uma camada de texto, selecione a camada na tela e clique em **[!UICONTROL Parâmetros]**.
 
 #### Opção do painel Parâmetros {#parameterisation-options-or-allowed-parameters}
 

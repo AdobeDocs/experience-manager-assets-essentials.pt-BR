@@ -5,19 +5,22 @@ exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 TQID: https://experienceleague.adobe.com/fTzTJd0JhjMbexn1ffynNQM7wx-nX-8Os1Y-c79FKdo
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
+    internal-label: Insights
+source-git-commit: 10c0e2375ba16dfeeeeca8f0b816ca366254dd67
 workflow-type: tm+mt
-source-wordcount: 1243
+source-wordcount: '1261'
 ht-degree: 100%
-
 ---
-
 # Gerenciar relatórios {#manage-reports}
 
 Os relatórios de ativos fornecem aos administradores visibilidade sobre as atividades do ambiente do Adobe Experience Manager Assets Essentials. Esses dados fornecem informações úteis sobre como os usuários interagem com o conteúdo e o produto. Todos os(as) usuários(as) podem acessar o painel Insights e aqueles que estiverem atribuídos(as) ao perfil de produto Administrador podem criar relatórios definidos pelo(a) usuário(a).
@@ -173,7 +176,7 @@ Os relatórios agendados são exibidos na guia **Relatórios agendados** de mane
 ### Retomar cronograma {#resume-schedule}
 
 Para retomar o agendamento cancelado, selecione a linha do relatório e clique em **Retomar agendamento**. Quando retomado, os próximos registros de tempo de execução são exibidos novamente e o status é exibido como em andamento.
-![Retomar agendamento](/help/using/assets/resume-schedule.png)
+![retomar agendamento](/help/using/assets/resume-schedule.png)
 
 >[!NOTE]
 >
@@ -206,7 +209,7 @@ Clique na opção **[!UICONTROL Insights]**, disponível no painel de navegaçã
 
 <!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
-* **Principais pesquisas**: visualize os principais termos pesquisados e o número de vezes que eles foram pesquisados em seu ambiente do Assets Essentials nos últimos 30 dias ou 12 meses, representados em formato tabular.
+* **Principais pesquisas**: visualize os principais termos pesquisados junto com o número de vezes que eles foram pesquisados em seu ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados em formato tabular.
   ![utilização do armazenamento](/help/using/assets/insights-top-search.svg)
 
   <!--
