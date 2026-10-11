@@ -2,13 +2,16 @@
 title: Administrar o Experience Manager Assets Essentials
 description: Configure o acesso ao aplicativo do Assets Essentials usando o Admin Console e gerencie as tarefas que podem ser executadas após fazer logon no aplicativo do Assets Essentials.
 exl-id: ffd65741-21b7-47cd-9779-63a7903879e6
-source-git-commit: 65200f73a954e4ebf4fbd6dc3a819acc6e0beda4
-workflow-type: ht
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: d09181b5-a36a-43de-ba01-36641440bc43
+    internal-label: Experience Manager Assets
+source-git-commit: b4d4525733ecb7beeec9babd93b479a89760e820
+workflow-type: tm+mt
 source-wordcount: '1417'
 ht-degree: 100%
-
 ---
-
 # Administrar o Experience Manager Assets Essentials {#administer-assets-essentials}
 
 ![Preferência para alternar entre temas escuro e claro](assets/cce-assets.png)
