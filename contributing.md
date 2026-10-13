@@ -55,4 +55,4 @@ Se você for funcionário da Adobe e tiver uma contribuição, solicitamos que u
 
 ## Sobre a plataforma de criação no GitHub da Adobe e o Markdown
 
-Consulte o [Guia do colaborador do Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) para obter mais detalhes sobre como usar a plataforma de criação do GitHub.
+Consulte o [Guia do colaborador do Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=pt-BR) para obter mais detalhes sobre como usar a plataforma de criação do GitHub.
