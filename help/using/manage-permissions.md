@@ -5,16 +5,17 @@ exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
 TQID: https://experienceleague.adobe.com/fWLQ3XI2WVIbouGb7QXznoGhEoB-pHiHw-8P-Fo4128
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-source-git-commit: f026b389ce582ece5d2ca8745d291b1ae50d657e
+    internal-label: Leader
+source-git-commit: 8c5846e522315e4494bfd41caedbcc83e44637fe
 workflow-type: tm+mt
-source-wordcount: 1700
+source-wordcount: '1700'
 ht-degree: 100%
-
 ---
-
 # Gerenciar permissões para pastas {#manage-permissions}
 
 >[!CONTEXTUALHELP]
@@ -54,7 +55,7 @@ Para adicionar administradores:
 
 Crie grupos de usuários e atribua permissões a esses grupos para gerenciar os níveis de acesso às pastas no repositório do Assets Essentials. Em seguida, você pode atribuir seus usuários aos grupos de usuários.
 
-![Adicionar usuários a grupos e perfis de produtos](assets/user-groups-product-profiles.svg)
+![Adicionar usuários a grupos e perfis de produtos](assets/user-group-product-profiles.png)
 
 Você pode adicionar usuários a grupos de usuários (1) e adicionar [usuários a Perfis de produto do Assets Essentials (2)](#add-admin-users). No entanto, não é possível adicionar grupos de usuários diretamente aos Perfis de produto do Assets Essentials (3).
 
@@ -87,8 +88,8 @@ Você pode atribuir as seguintes permissões aos grupos de usuários ou usuário
 
 | Nome da permissão | Descrição |
 |-----|------|
-| Pode visualizar | <ul><li>Acesso de leitura para visualizar e navegar pelas pastas </li><li>Visualizar ativos</li><li>Baixar ativos</li><li>Copiar ativos</li><li>Compartilhar links para ativos</li><ul> |
-| Pode editar | <ul><li>Todos os privilégios disponíveis para as permissões Pode visualizar </li><li>Criar pastas</li><li>Remover pastas</li><li>Renomear pastas</li><li>Criar ativos</li><li>Atualizar ativos</li><li>Remover ativos</li><li>Mover ativos</li><li>Renomear ativos</li><ul> |
+| Pode visualizar | <ul><li>Acesso de leitura para visualizar e navegar pelas pastas </li><li>Visualizar ativos</li><li>Baixar ativos</li><li>Copiar ativos</li><ul> |
+| Pode editar | <ul><li>Todos os privilégios disponíveis para as permissões Pode visualizar </li><li>Criar pastas</li><li>Remover pastas</li><li>Renomear pastas</li><li>Criar ativos</li><li>Atualizar ativos</li><li>Remover ativos</li><li>Mover ativos</li><li>Renomear ativos</li><li>Compartilhar links para ativos</li><ul> |
 | Proprietário | <ul><li>Todos os privilégios disponíveis para as permissões Pode editar</li><li>Gerenciar permissões em uma pasta e suas subpastas</li>Essa permissão possibilita que os administradores deleguem privilégios de administrador a outras pessoas para uma pasta e suas subpastas.<ul> |
 | Negar acesso | Remove as permissões Pode visualizar, Pode editar e Proprietário de uma pasta e suas subpastas. |
 
@@ -104,13 +105,13 @@ Por exemplo, se você atribuir as permissões `Can View` de uma pasta para um su
 
 Se precisar fornecer permissões de edição à pasta `Marketing` somente para o departamento de marketing de sua organização, e permissões de visualização para outras pessoas, atribua permissões `Can View` para o supergrupo `All Authenticated Users` e permissões `Can Edit` para o subgrupo `Marketing`.
 
-![Atribuir permissões](assets/permissions-management-groups.svg)
+![Atribuir permissões](assets/permissions-management-group.png)
 
 **Herança da permissões**
 
 O Assets Essentials usa a herança de permissões, que permite herdar as permissões definidas para a pasta pai na pasta filho. Por exemplo, se a pasta pai tiver permissões `Can View` para o grupo `All Authenticated Users` e a pasta filho tiver permissões `Can Edit` para o grupo de usuários `Marketing`, isso permite que todos os usuários autenticados tenham permissões de exibição para a pasta filho e que o grupo de usuários `Marketing` tenha permissões de edição para a pasta filho. O grupo de usuários `Marketing` tem permissões de edição para níveis posteriores de pastas na pasta filho (Marketing).
 
-![Atribuir permissões](assets/permissions-inheritance.svg)
+![Atribuir permissões](assets/permission-inheritance.png)
 
 >[!NOTE]
 >
@@ -206,9 +207,9 @@ A seguir estão os níveis de acesso para todos os grupos de usuários na hierar
 
 * /projetos: todos os usuários podem visualizar as pastas e suas subpastas com base na herança de permissões. O grupo de usuários da Equipe de gerentes de projeto tem:
 
-   * Editar permissões
+  * Editar permissões
 
-   * Permissões do proprietário: gerenciar permissões em uma pasta e suas subpastas.
+  * Permissões do proprietário: gerenciar permissões em uma pasta e suas subpastas.
 
 * /projetos/projeto-x: todos os usuários podem visualizar as pastas e suas subpastas. O grupo de usuários Equipe de gerentes de projeto tem permissões de edição e pode gerenciar permissões em uma pasta e suas subpastas (permissões de proprietário). O grupo de usuários Equipe do projeto X tem permissões de edição.
 

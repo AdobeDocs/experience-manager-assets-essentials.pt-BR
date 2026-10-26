@@ -17,7 +17,7 @@ topic_v2:
     internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 10c0e2375ba16dfeeeeca8f0b816ca366254dd67
+source-git-commit: 8c5846e522315e4494bfd41caedbcc83e44637fe
 workflow-type: tm+mt
 source-wordcount: '1365'
 ht-degree: 99%
@@ -29,7 +29,7 @@ O [!DNL Adobe Experience Manager Assets Essentials] é provisionado pela Adobe p
 
 O diagrama de fluxo de dados a seguir ilustra a sequência de tarefas que um administrador deve executar para configurar e gerenciar o Assets Essentials:
 
-![Implantar o Assets Essentials](assets/deploy-assets-essentials.svg)
+![Implantar o Assets Essentials](assets/deploy-assets-essentials.png)
 
 ## Acessar o Admin Console {#access-admin-console}
 
@@ -123,7 +123,7 @@ Crie uma estrutura de pastas que funcione bem com os objetivos de negócio da or
 
 Há vários tipos possíveis de estruturas de pastas que podem ser usados na sua organização. Veja a seguir alguns exemplos de estruturas de pastas típicas:
 
-![Estruturas de pastas típicas](assets/folder-structure.svg)
+![Estruturas de pastas típicas](assets/folder-structure-new.png)
 
 >[!NOTE]
 >
