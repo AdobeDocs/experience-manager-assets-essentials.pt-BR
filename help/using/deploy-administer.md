@@ -17,7 +17,7 @@ topic_v2:
     internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 10c0e2375ba16dfeeeeca8f0b816ca366254dd67
+source-git-commit: 8c5846e522315e4494bfd41caedbcc83e44637fe
 workflow-type: tm+mt
 source-wordcount: '1365'
 ht-degree: 99%
@@ -29,7 +29,7 @@ O [!DNL Adobe Experience Manager Assets Essentials] é provisionado pela Adobe p
 
 O diagrama de fluxo de dados a seguir ilustra a sequência de tarefas que um administrador deve executar para configurar e gerenciar o Assets Essentials:
 
-![Implantar o Assets Essentials](assets/deploy-assets-essentials.svg)
+![Implantar o Assets Essentials](assets/deploy-assets-essentials.png)
 
 ## Acessar o Admin Console {#access-admin-console}
 
@@ -82,7 +82,7 @@ Para adicionar perfis de produto a grupos de usuários:
 
    * Usuários do **[!DNL Assets Essentials]**: têm acesso à interface completa. Esses usuários podem fazer upload, organizar, marcar e encontrar ativos digitais.
 
-   * Os usuários consumidores do **[!DNL Assets Essentials]**&#x200B;podem executar operações de localização, visualização e download no Assets Essentials. Eles também podem localizar e selecionar ativos no Adobe Journey Optimizer, além de localizar e selecionar ativos para usar no Workfront.
+   * Os usuários consumidores do **[!DNL Assets Essentials]**podem executar operações de localização, visualização e download no Assets Essentials. Eles também podem localizar e selecionar ativos no Adobe Journey Optimizer, além de localizar e selecionar ativos para usar no Workfront.
      Para obter mais informações, consulte [Integrações com outras soluções](integration.md).
 
    ![Perfil de administrador do Admin Console](assets/admin-console-admin-profile.png)
@@ -123,7 +123,7 @@ Crie uma estrutura de pastas que funcione bem com os objetivos de negócio da or
 
 Há vários tipos possíveis de estruturas de pastas que podem ser usados na sua organização. Veja a seguir alguns exemplos de estruturas de pastas típicas:
 
-![Estruturas de pastas típicas](assets/folder-structure.svg)
+![Estruturas de pastas típicas](assets/folder-structure-new.png)
 
 >[!NOTE]
 >
@@ -167,20 +167,20 @@ Diferente de pastas, uma coleção pode incluir ativos de locais diferentes. Voc
 
 ## Próximas etapas {#next-steps}
 
-<!-- THIS URL IS A 404 ERROR; NO REDIRECT WAS PUT IN PLACE * [Watch a video to deploy Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=pt-BR) -->
+<!-- THIS URL IS A 404 ERROR; NO REDIRECT WAS PUT IN PLACE * [Watch a video to deploy Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=en) -->
 
 * Forneça feedback sobre o produto usando a opção de [!UICONTROL Feedback] disponível na interface do Assets Essentials
 
 * Forneça feedback sobre a documentação usando as opções [!UICONTROL Editar esta página] ![editar a página](assets/do-not-localize/edit-page.png) ou [!UICONTROL Registrar um problema] ![criar um problema do GitHub](assets/do-not-localize/github-issue.png) disponíveis na barra lateral direita
 
-* Entrar em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/pt-br?support-solution=General&lang=pt-BR#support)
+* Entrar em contato com o [Atendimento ao cliente](https://experienceleague.adobe.com/?support-solution=General&lang=pt-BR#support)
 
 
 
 >[!MORELIKETHIS]
 >
->* Ajuda com o [[!DNL Admin Console] &#x200B;](https://helpx.adobe.com/br/enterprise/using/admin-console.html)
->* Ajuda com o [[!DNL Cloud Manager] &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=pt-BR)
+>* Ajuda com o [[!DNL Admin Console] ](https://helpx.adobe.com/br/enterprise/using/admin-console.html)
+>* Ajuda com o [[!DNL Cloud Manager] ](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=pt-BR)
 >* [Documentação do Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=pt-BR)
 >* [Notas de versão](release-notes.md)
 >* [Introdução ao uso do [!DNL Assets Essentials]](get-started.md)

@@ -16,7 +16,7 @@ topic_v2:
     internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 10c0e2375ba16dfeeeeca8f0b816ca366254dd67
+source-git-commit: 8c5846e522315e4494bfd41caedbcc83e44637fe
 workflow-type: tm+mt
 source-wordcount: '1261'
 ht-degree: 100%
@@ -50,7 +50,7 @@ O ambiente do AEM Assets Essentials oferece recursos abrangentes de geração de
 **Para criar um relatório:**
 
 1. Navegue até **Relatórios** e clique em **Criar relatório** (na parte superior direita). A caixa de diálogo **criar relatório** exibe os seguintes campos:
-   ![criar-relatório](/help/using/assets/executed-reports1.svg)
+   ![criar-relatório](/help/using/assets/executed-reports1.png)
 
    **Na guia Configuração:**
 
@@ -152,7 +152,7 @@ Para agendar um relatório, siga as etapas abaixo:
    1. **Descrição**: adicione uma descrição opcional ao relatório.
    1. **Selecionar caminho de pasta:** selecione um caminho de pasta para gerar um relatório de ativos que serão enviados ou baixados dessa pasta específica no futuro.
    1. Botão de alternância **Agendar relatório:** ative-o para agendar o relatório para um momento posterior ou para que ocorra de forma recorrente.
-      ![agendar relatório](/help/using/assets/schedule-reports1.svg)
+      ![agendar relatório](/help/using/assets/schedule-reports1.png)
 
    1. **Escolha a frequência:** especifique o intervalo para gerar o relatório (por exemplo, diário, semanal, mensal, anual ou sem repetição) e defina a data e a hora para executar o relatório junto com a data final para recorrência. Para um relatório sem repetição, selecione o intervalo de datas do relatório de acordo com o tipo de atividade selecionado no ambiente do AEM. Por exemplo, se você precisar de um relatório de ativos baixados do dia 10 ao dia 29 (datas futuras) de um mês específico, selecione essas datas no campo **Selecionar intervalo de datas**.
 
@@ -196,21 +196,21 @@ O Assets Essentials permite que você visualize dados do seu ambiente Assets Ess
 Clique na opção **[!UICONTROL Insights]**, disponível no painel de navegação esquerdo, para exibir os seguintes gráficos gerados automaticamente:
 
 * **Downloads**: o número de ativos baixados do ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados por meio de um gráfico de linhas.
-  ![downloads](/help/using/assets/insights-downloads2341.svg)
+  ![downloads](/help/using/assets/insights-downloads2341.png)
 
 * **Uploads**: o número de ativos enviados para o ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados por meio de um gráfico de linhas.
-  ![uploads](/help/using/assets/insights-uplods2.svg)
+  ![uploads](/help/using/assets/insights-uplods2.png)
 
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
 * **Uso do armazenamento**: o uso de armazenamento (em bytes) no ambiente do Assets Essentials, representado por um gráfico de barras.
-  ![Utilização do armazenamento](/help/using/assets/insights-storage-usage1.svg)
+  ![Utilização do armazenamento](/help/using/assets/insights-storage-usage1.png)
   <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
 <!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
 * **Principais pesquisas**: visualize os principais termos pesquisados junto com o número de vezes que eles foram pesquisados em seu ambiente do Assets Essentials nos últimos 30 dias ou 12 meses representados em formato tabular.
-  ![utilização do armazenamento](/help/using/assets/insights-top-search.svg)
+  ![utilização do armazenamento](/help/using/assets/insights-top-search.png)
 
   <!--
    ![Insights](assets/insights1.png)
@@ -218,8 +218,8 @@ Clique na opção **[!UICONTROL Insights]**, disponível no painel de navegaçã
    -->
 
 * **Contagem de ativos por tamanho:** segmenta a contagem total de ativos no ambiente do Assets Essentials em diferentes intervalos de tamanho, destacando a contagem e a porcentagem de ativos em cada intervalo de tamanho, representados por um gráfico de rosquinha.
-  ![insights-assets-count-by-size](/help/using/assets/insights-assets-count-by-size.svg)
+  ![insights-assets-count-by-size](/help/using/assets/insights-assets-count-by-size.png)
 
 * **Contagem de ativos por tipo de ativo:** segmenta a contagem total de ativos no ambiente do Assets Essentials, destacando a contagem e a porcentagem de ativos com base em seus tipos de arquivo, representados por um gráfico de rosquinha.
-  ![insights-assets-count-by-size](/help/using/assets/insights-assest-count-by-asset-type1.svg)
+  ![insights-assets-count-by-size](/help/using/assets/insights-assest-count-by-asset-type1.png)
 

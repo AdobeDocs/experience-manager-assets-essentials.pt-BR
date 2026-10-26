@@ -7,7 +7,7 @@ product_v2:
     internal-label: Experience Manager
   - id: d09181b5-a36a-43de-ba01-36641440bc43
     internal-label: Experience Manager Assets
-source-git-commit: b4d4525733ecb7beeec9babd93b479a89760e820
+source-git-commit: f15fe91faf6a1f1341e4f4cda45bbe10bcd19544
 workflow-type: tm+mt
 source-wordcount: '1417'
 ht-degree: 100%
@@ -29,7 +29,7 @@ O [!DNL Adobe Experience Manager Assets Essentials] é provisionado pela Adobe p
 
 O diagrama de fluxo de dados a seguir ilustra a sequência de tarefas que um administrador deve executar para configurar e gerenciar o Assets Essentials:
 
-![Fluxo de administração do Assets Essentials](assets/permissions-management-cce-next.svg)
+![Fluxo de administração do Assets Essentials](assets/permission-management-cce-next.png)
 
 ## Acessar o Admin Console {#access-admin-console}
 
@@ -84,7 +84,7 @@ Crie grupos de usuários e atribua os usuários a eles. Esses grupos de usuário
 
 Você pode adicionar usuários a grupos de usuários (1) e adicionar [usuários a Perfis de produto do Assets Essentials (2)](#add-admin-users). No entanto, não é possível adicionar grupos de usuários diretamente aos Perfis de produto do Assets Essentials (3).
 
-![Adicionar usuários a grupos e perfis de produtos](assets/user-groups-product-profiles.svg)
+![Adicionar usuários a grupos e perfis de produtos](assets/user-group-product-profiles.png)
 
 Para obter informações sobre como gerenciar grupos de usuários, consulte `Create user groups` e `Edit user groups`, disponíveis em [Gerenciar grupos de usuários](https://helpx.adobe.com/br/enterprise/using/user-groups.html).
 
@@ -136,7 +136,7 @@ Considere os seguintes pontos quando começar a planejar a criação de uma estr
 
 Há vários tipos possíveis de estruturas de pastas que podem ser usados na sua organização. Veja a seguir alguns exemplos de estruturas de pastas típicas:
 
-![Estruturas de pastas típicas](assets/folder-structure.svg)
+![Estruturas de pastas típicas](assets/folder-structure-new.png)
 
 ### Gerenciar permissões para pastas {#manage-permissions-for-folders}
 
